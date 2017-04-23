@@ -1,0 +1,3 @@
+Repo för att generera maratontabeller till Hattrick för Allsvenskan - div II.
+
+Matcherna lagras i mappar vars namn motsvarar serien ("A", "Ia", "Ib", "Ic", "Id", "IIa", etc.) Spelschemat för säsong XX sparas i en fil med är mXX.txt. Det går också bra att ladda ner själva HTML-filen för spelschemat, i så fall ska den lagras i en fil med namn mXX.html.
