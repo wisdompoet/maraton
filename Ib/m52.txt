@@ -1,0 +1,84 @@
+Omgång  1
+2013-05-19 10:00 			
+	Söderbröder FC - FC Uberlirarna	2 - 5 	HT Re-Live
+	Sionisterna - Porlabackens IF	5 - 0 	HT Re-Live
+	FK Joker - Nordpolen FF	6 - 2 	HT Re-Live
+	Åhlströmska FF - Speedyking FK	2 - 4 	HT Re-Live
+Omgång  2
+2013-05-26 10:00 			
+	Porlabackens IF - Söderbröder FC	1 - 3 	HT Re-Live
+	FC Uberlirarna - FK Joker	3 - 0 	HT Re-Live
+	Speedyking FK - Sionisterna	0 - 0 	HT Re-Live
+	Nordpolen FF - Åhlströmska FF	4 - 3 	HT Re-Live
+Omgång  3
+2013-06-02 10:00 			
+	Söderbröder FC - Nordpolen FF	4 - 0 	HT Re-Live
+	Sionisterna - Åhlströmska FF	2 - 0 	HT Re-Live
+	Porlabackens IF - FC Uberlirarna	2 - 3 	HT Re-Live
+	FK Joker - Speedyking FK	2 - 1 	HT Re-Live
+Omgång  4
+2013-06-09 10:00 			
+	Speedyking FK - Söderbröder FC	1 - 5 	HT Re-Live
+	FC Uberlirarna - Sionisterna	1 - 4 	HT Re-Live
+	Åhlströmska FF - FK Joker	2 - 1 	HT Re-Live
+	Nordpolen FF - Porlabackens IF	2 - 1 	HT Re-Live
+Omgång  5
+2013-06-16 10:00 			
+	Porlabackens IF - Åhlströmska FF	1 - 3 	HT Re-Live
+	Sionisterna - Nordpolen FF	1 - 1 	HT Re-Live
+	FC Uberlirarna - Speedyking FK	2 - 2 	HT Re-Live
+	Söderbröder FC - FK Joker	3 - 1 	HT Re-Live
+Omgång  6
+2013-06-23 10:00 			
+	FK Joker - Sionisterna	2 - 0 	HT Re-Live
+	Åhlströmska FF - Söderbröder FC	1 - 4 	HT Re-Live
+	Nordpolen FF - FC Uberlirarna	5 - 2 	HT Re-Live
+	Speedyking FK - Porlabackens IF	4 - 0 	HT Re-Live
+Omgång  7
+2013-06-30 10:00 			
+	FC Uberlirarna - Åhlströmska FF	4 - 1 	HT Re-Live
+	Porlabackens IF - FK Joker	0 - 5 	HT Re-Live
+	Speedyking FK - Nordpolen FF	4 - 2 	HT Re-Live
+	Söderbröder FC - Sionisterna	1 - 2 	HT Re-Live
+Omgång  8
+2013-07-07 10:00 			
+	Nordpolen FF - Speedyking FK	2 - 2 	HT Re-Live
+	FK Joker - Porlabackens IF	1 - 0 	HT Re-Live
+	Åhlströmska FF - FC Uberlirarna	0 - 5 	HT Re-Live
+	Sionisterna - Söderbröder FC	1 - 0 	HT Re-Live
+Omgång  9
+2013-07-14 10:00 			
+	FC Uberlirarna - Nordpolen FF	5 - 1 	HT Re-Live
+	Porlabackens IF - Speedyking FK	1 - 2 	HT Re-Live
+	Söderbröder FC - Åhlströmska FF	7 - 1 	HT Re-Live
+	Sionisterna - FK Joker	3 - 0 	HT Re-Live
+Omgång  10
+2013-07-21 10:00 			
+	Speedyking FK - FC Uberlirarna	2 - 1 	HT Re-Live
+	FK Joker - Söderbröder FC	4 - 0 	HT Re-Live
+	Nordpolen FF - Sionisterna	2 - 4 	HT Re-Live
+	Åhlströmska FF - Porlabackens IF	0 - 3 	HT Re-Live
+Omgång  11
+2013-07-28 10:00 			
+	Porlabackens IF - Nordpolen FF	0 - 3 	HT Re-Live
+	FK Joker - Åhlströmska FF	0 - 0 	HT Re-Live
+	Sionisterna - FC Uberlirarna	2 - 0 	HT Re-Live
+	Söderbröder FC - Speedyking FK	4 - 0 	HT Re-Live
+Omgång  12
+2013-08-04 10:00 			
+	Speedyking FK - FK Joker	0 - 2 	HT Re-Live
+	Åhlströmska FF - Sionisterna	0 - 3 	HT Re-Live
+	FC Uberlirarna - Porlabackens IF	3 - 0 	HT Re-Live
+	Nordpolen FF - Söderbröder FC	3 - 1 	HT Re-Live
+Omgång  13
+2013-08-11 10:00 			
+	Sionisterna - Speedyking FK	1 - 1 	HT Re-Live
+	Åhlströmska FF - Nordpolen FF	1 - 3 	HT Re-Live
+	FK Joker - FC Uberlirarna	1 - 4 	HT Re-Live
+	Söderbröder FC - Porlabackens IF	3 - 1 	HT Re-Live
+Omgång  14
+2013-08-18 10:00 			
+	Nordpolen FF - FK Joker	3 - 0 	HT Re-Live
+	Speedyking FK - Åhlströmska FF	2 - 1 	HT Re-Live
+	Porlabackens IF - Sionisterna	2 - 3 	HT Re-Live
+	FC Uberlirarna - Söderbröder FC	4 - 2 	HT Re-Live

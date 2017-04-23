@@ -1,0 +1,84 @@
+Omgång  1
+2008-10-12 10:00 			
+	Falköpings BK - Zeta 	3 - 4 	HT Re-Live
+	Innat FC - Rubblarp Redemption 	5 - 4 	HT Re-Live
+	Inter Draggen - Falken Red Wings 	5 - 1 	HT Re-Live
+	Sävast AIF - Jefferson Bicycle United Football Cub 	5 - 0 	HT Re-Live
+Omgång  2
+2008-10-19 10:00 			
+	Jefferson Bicycle United Football Cub - Inter Draggen 	3 - 4 	HT Re-Live
+	Falken Red Wings - Falköpings BK 	3 - 5 	HT Re-Live
+	Zeta - Innat FC 	0 - 1 	HT Re-Live
+	Rubblarp Redemption - Sävast AIF 	1 - 2 	HT Re-Live
+Omgång  3
+2008-10-26 10:00 			
+	Sävast AIF - Zeta 	4 - 1 	HT Re-Live
+	Innat FC - Falköpings BK 	5 - 3 	HT Re-Live
+	Inter Draggen - Rubblarp Redemption 	5 - 1 	HT Re-Live
+	Falken Red Wings - Jefferson Bicycle United Football Cub 	0 - 4 	HT Re-Live
+Omgång  4
+2008-11-02 10:00 			
+	Falköpings BK - Jefferson Bicycle United Football Cub 	3 - 3 	HT Re-Live
+	Rubblarp Redemption - Falken Red Wings 	9 - 2 	HT Re-Live
+	Zeta - Inter Draggen 	1 - 1 	HT Re-Live
+	Innat FC - Sävast AIF 	1 - 4 	HT Re-Live
+Omgång  5
+2008-11-09 10:00 			
+	Sävast AIF - Falköpings BK 	6 - 1 	HT Re-Live
+	Inter Draggen - Innat FC 	3 - 1 	HT Re-Live
+	Falken Red Wings - Zeta 	0 - 5 	HT Re-Live
+	Jefferson Bicycle United Football Cub - Rubblarp Redemption 	4 - 1 	HT Re-Live
+Omgång  6
+2008-11-16 10:00 			
+	Falköpings BK - Rubblarp Redemption 	4 - 4 	HT Re-Live
+	Sävast AIF - Inter Draggen 	1 - 3 	HT Re-Live
+	Zeta - Jefferson Bicycle United Football Cub 	4 - 2 	HT Re-Live
+	Innat FC - Falken Red Wings 	8 - 0 	HT Re-Live
+Omgång  7
+2008-11-23 10:00 			
+	Inter Draggen - Falköpings BK 	5 - 4 	HT Re-Live
+	Falken Red Wings - Sävast AIF 	0 - 5 	HT Re-Live
+	Rubblarp Redemption - Zeta 	3 - 2 	HT Re-Live
+	Jefferson Bicycle United Football Cub - Innat FC 	1 - 2 	HT Re-Live
+Omgång  8
+2008-11-30 10:00 			
+	Sävast AIF - Falken Red Wings 	4 - 0 	HT Re-Live
+	Zeta - Rubblarp Redemption 	7 - 2 	HT Re-Live
+	Falköpings BK - Inter Draggen 	2 - 2 	HT Re-Live
+	Innat FC - Jefferson Bicycle United Football Cub 	4 - 2 	HT Re-Live
+Omgång  9
+2008-12-07 10:00 			
+	Falken Red Wings - Innat FC 	2 - 8 	HT Re-Live
+	Jefferson Bicycle United Football Cub - Zeta 	6 - 1 	HT Re-Live
+	Inter Draggen - Sävast AIF 	1 - 1 	HT Re-Live
+	Rubblarp Redemption - Falköpings BK 	4 - 2 	HT Re-Live
+Omgång  10
+2008-12-14 10:00 			
+	Rubblarp Redemption - Jefferson Bicycle United Football Cub 	5 - 1 	HT Re-Live
+	Zeta - Falken Red Wings 	7 - 1 	HT Re-Live
+	Innat FC - Inter Draggen 	3 - 1 	HT Re-Live
+	Falköpings BK - Sävast AIF 	5 - 2 	HT Re-Live
+Omgång  11
+2008-12-21 10:00 			
+	Sävast AIF - Innat FC 	0 - 4 	HT Re-Live
+	Falken Red Wings - Rubblarp Redemption 	0 - 7 	HT Re-Live
+	Jefferson Bicycle United Football Cub - Falköpings BK 	3 - 4 	HT Re-Live
+	Inter Draggen - Zeta 	2 - 1 	HT Re-Live
+Omgång  12
+2008-12-28 10:00 			
+	Zeta - Sävast AIF 	2 - 0 	HT Re-Live
+	Falköpings BK - Innat FC 	5 - 3 	HT Re-Live
+	Jefferson Bicycle United Football Cub - Falken Red Wings 	4 - 1 	HT Re-Live
+	Rubblarp Redemption - Inter Draggen 	2 - 5 	HT Re-Live
+Omgång  13
+2009-01-04 10:00 			
+	Inter Draggen - Jefferson Bicycle United Football Cub 	4 - 1 	HT Re-Live
+	Innat FC - Zeta 	5 - 2 	HT Re-Live
+	Sävast AIF - Rubblarp Redemption 	3 - 1 	HT Re-Live
+	Falköpings BK - Falken Red Wings 	3 - 2 	HT Re-Live
+Omgång  14
+2009-01-11 10:00 			
+	Rubblarp Redemption - Innat FC 	2 - 3 	HT Re-Live
+	Falken Red Wings - Inter Draggen 	0 - 5 	HT Re-Live
+	Jefferson Bicycle United Football Cub - Sävast AIF 	3 - 1 	HT Re-Live
+	Zeta - Falköpings BK 	7 - 0 	HT Re-Live

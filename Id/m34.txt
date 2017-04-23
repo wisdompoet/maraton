@@ -1,0 +1,84 @@
+Omgång  1
+2007-11-11 10:00 			
+	Cirkus Brazil Jack - Hjärnarp GIF	6 - 3 	HT Re-Live
+	Team Molgan - Zlatan_BK	2 - 6 	HT Re-Live
+	Real Messmör - Falken Red Wings	4 - 3 	HT Re-Live
+	AMTrix - Huskvarna	6 - 1 	HT Re-Live
+Omgång  2
+2007-11-18 10:00 			
+	Falken Red Wings - Cirkus Brazil Jack	5 - 0 	HT Re-Live
+	Hjärnarp GIF - AMTrix	2 - 4 	HT Re-Live
+	Zlatan_BK - Real Messmör	6 - 3 	HT Re-Live
+	Huskvarna - Team Molgan	1 - 3 	HT Re-Live
+Omgång  3
+2007-11-25 10:00 			
+	Cirkus Brazil Jack - Zlatan_BK	0 - 6 	HT Re-Live
+	AMTrix - Falken Red Wings	4 - 1 	HT Re-Live
+	Huskvarna - Hjärnarp GIF	4 - 0 	HT Re-Live
+	Real Messmör - Team Molgan	4 - 1 	HT Re-Live
+Omgång  4
+2007-12-02 10:00 			
+	Team Molgan - Hjärnarp GIF	3 - 1 	HT Re-Live
+	Falken Red Wings - Huskvarna	1 - 2 	HT Re-Live
+	Zlatan_BK - AMTrix	1 - 1 	HT Re-Live
+	Real Messmör - Cirkus Brazil Jack	6 - 0 	HT Re-Live
+Omgång  5
+2007-12-09 10:00 			
+	Cirkus Brazil Jack - Team Molgan	4 - 2 	HT Re-Live
+	AMTrix - Real Messmör	4 - 0 	HT Re-Live
+	Huskvarna - Zlatan_BK	1 - 4 	HT Re-Live
+	Hjärnarp GIF - Falken Red Wings	2 - 2 	HT Re-Live
+Omgång  6
+2007-12-16 10:00 			
+	Cirkus Brazil Jack - AMTrix	0 - 5 	HT Re-Live
+	Team Molgan - Falken Red Wings	3 - 2 	HT Re-Live
+	Real Messmör - Huskvarna	3 - 1 	HT Re-Live
+	Zlatan_BK - Hjärnarp GIF	5 - 1 	HT Re-Live
+Omgång  7
+2007-12-23 10:00 			
+	Falken Red Wings - Zlatan_BK	2 - 3 	HT Re-Live
+	Huskvarna - Cirkus Brazil Jack	6 - 0 	HT Re-Live
+	AMTrix - Team Molgan	1 - 1 	HT Re-Live
+	Hjärnarp GIF - Real Messmör	3 - 2 	HT Re-Live
+Omgång  8
+2007-12-30 10:00 			
+	Real Messmör - Hjärnarp GIF	1 - 4 	HT Re-Live
+	Zlatan_BK - Falken Red Wings	4 - 2 	HT Re-Live
+	Cirkus Brazil Jack - Huskvarna	2 - 1 	HT Re-Live
+	Team Molgan - AMTrix	0 - 1 	HT Re-Live
+Omgång  9
+2008-01-06 10:00 			
+	Huskvarna - Real Messmör	2 - 2 	HT Re-Live
+	Falken Red Wings - Team Molgan	5 - 1 	HT Re-Live
+	AMTrix - Cirkus Brazil Jack	4 - 0 	HT Re-Live
+	Hjärnarp GIF - Zlatan_BK	2 - 0 	HT Re-Live
+Omgång  10
+2008-01-13 10:00 			
+	Zlatan_BK - Huskvarna	4 - 2 	HT Re-Live
+	Real Messmör - AMTrix	0 - 1 	HT Re-Live
+	Team Molgan - Cirkus Brazil Jack	2 - 0 	HT Re-Live
+	Falken Red Wings - Hjärnarp GIF	1 - 5 	HT Re-Live
+Omgång  11
+2008-01-20 10:00 			
+	Cirkus Brazil Jack - Real Messmör	0 - 7 	HT Re-Live
+	Huskvarna - Falken Red Wings	3 - 3 	HT Re-Live
+	AMTrix - Zlatan_BK	2 - 0 	HT Re-Live
+	Hjärnarp GIF - Team Molgan	0 - 3 	HT Re-Live
+Omgång  12
+2008-01-27 10:00 			
+	Team Molgan - Real Messmör	2 - 2 	HT Re-Live
+	Falken Red Wings - AMTrix	1 - 3 	HT Re-Live
+	Zlatan_BK - Cirkus Brazil Jack	2 - 1 	HT Re-Live
+	Hjärnarp GIF - Huskvarna	2 - 0 	HT Re-Live
+Omgång  13
+2008-02-03 10:00 			
+	Real Messmör - Zlatan_BK	4 - 3 	HT Re-Live
+	AMTrix - Hjärnarp GIF	3 - 0 	HT Re-Live
+	Cirkus Brazil Jack - Falken Red Wings	1 - 3 	HT Re-Live
+	Team Molgan - Huskvarna	3 - 2 	HT Re-Live
+Omgång  14
+2008-02-10 10:00 			
+	Huskvarna - AMTrix	0 - 7 	HT Re-Live
+	Hjärnarp GIF - Cirkus Brazil Jack	0 - 0 	HT Re-Live
+	Zlatan_BK - Team Molgan	0 - 2 	HT Re-Live
+	Falken Red Wings - Real Messmör	5 - 2 	HT Re-Live

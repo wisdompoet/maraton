@@ -1,0 +1,84 @@
+Omgång  1
+2012-06-17 10:00 			
+	Söderbröder FC - Prinskorv FC	3 - 1 	HT Re-Live
+	Hägerstad IF - Bo-laget	2 - 2 	HT Re-Live
+	Massive Attack - Hjullan BK	2 - 1 	HT Re-Live
+	NyFF - BK Torpet	5 - 3 	HT Re-Live
+Omgång  2
+2012-06-24 10:00 			
+	Prinskorv FC - NyFF	3 - 3 	HT Re-Live
+	Bo-laget - Söderbröder FC	3 - 5 	HT Re-Live
+	BK Torpet - Massive Attack	1 - 2 	HT Re-Live
+	Hjullan BK - Hägerstad IF	4 - 1 	HT Re-Live
+Omgång  3
+2012-07-01 10:00 			
+	Söderbröder FC - Hägerstad IF	2 - 2 	HT Re-Live
+	Massive Attack - Bo-laget	3 - 2 	HT Re-Live
+	NyFF - Hjullan BK	4 - 6 	HT Re-Live
+	Prinskorv FC - BK Torpet	2 - 0 	HT Re-Live
+Omgång  4
+2012-07-08 10:00 			
+	Hägerstad IF - Massive Attack	1 - 4 	HT Re-Live
+	BK Torpet - Söderbröder FC	6 - 0 	HT Re-Live
+	Hjullan BK - Prinskorv FC	6 - 1 	HT Re-Live
+	Bo-laget - NyFF	2 - 3 	HT Re-Live
+Omgång  5
+2012-07-15 10:00 			
+	Söderbröder FC - Hjullan BK	2 - 1 	HT Re-Live
+	Prinskorv FC - Hägerstad IF	5 - 2 	HT Re-Live
+	BK Torpet - Bo-laget	3 - 3 	HT Re-Live
+	NyFF - Massive Attack	4 - 5 	HT Re-Live
+Omgång  6
+2012-07-22 10:00 			
+	Hägerstad IF - NyFF	5 - 2 	HT Re-Live
+	Massive Attack - Söderbröder FC	5 - 1 	HT Re-Live
+	Bo-laget - Prinskorv FC	7 - 0 	HT Re-Live
+	Hjullan BK - BK Torpet	3 - 1 	HT Re-Live
+Omgång  7
+2012-07-29 10:00 			
+	NyFF - Söderbröder FC	3 - 3 	HT Re-Live
+	BK Torpet - Hägerstad IF	5 - 0 	HT Re-Live
+	Bo-laget - Hjullan BK	4 - 1 	HT Re-Live
+	Prinskorv FC - Massive Attack	2 - 3 	HT Re-Live
+Omgång  8
+2012-08-05 10:00 			
+	Massive Attack - Prinskorv FC	4 - 2 	HT Re-Live
+	Hägerstad IF - BK Torpet	0 - 3 	HT Re-Live
+	Söderbröder FC - NyFF	2 - 1 	HT Re-Live
+	Hjullan BK - Bo-laget	2 - 2 	HT Re-Live
+Omgång  9
+2012-08-12 10:00 			
+	BK Torpet - Hjullan BK	2 - 0 	HT Re-Live
+	Prinskorv FC - Bo-laget	2 - 3 	HT Re-Live
+	NyFF - Hägerstad IF	0 - 0 	HT Re-Live
+	Söderbröder FC - Massive Attack	1 - 3 	HT Re-Live
+Omgång  10
+2012-08-19 10:00 			
+	Bo-laget - BK Torpet	1 - 1 	HT Re-Live
+	Hjullan BK - Söderbröder FC	3 - 3 	HT Re-Live
+	Massive Attack - NyFF	3 - 0 	HT Re-Live
+	Hägerstad IF - Prinskorv FC	3 - 1 	HT Re-Live
+Omgång  11
+2012-08-26 10:00 			
+	Massive Attack - Hägerstad IF	6 - 1 	HT Re-Live
+	Söderbröder FC - BK Torpet	3 - 1 	HT Re-Live
+	NyFF - Bo-laget	3 - 0 	HT Re-Live
+	Prinskorv FC - Hjullan BK	1 - 0 	HT Re-Live
+Omgång  12
+2012-09-02 10:00 			
+	BK Torpet - Prinskorv FC	5 - 2 	HT Re-Live
+	Hägerstad IF - Söderbröder FC	3 - 0 	HT Re-Live
+	Bo-laget - Massive Attack	2 - 1 	HT Re-Live
+	Hjullan BK - NyFF	3 - 1 	HT Re-Live
+Omgång  13
+2012-09-09 10:00 			
+	Massive Attack - BK Torpet	3 - 1 	HT Re-Live
+	NyFF - Prinskorv FC	0 - 2 	HT Re-Live
+	Hägerstad IF - Hjullan BK	0 - 3 	HT Re-Live
+	Söderbröder FC - Bo-laget	4 - 1 	HT Re-Live
+Omgång  14
+2012-09-16 10:00 			
+	Hjullan BK - Massive Attack	2 - 3 	HT Re-Live
+	Bo-laget - Hägerstad IF	1 - 3 	HT Re-Live
+	Prinskorv FC - Söderbröder FC	0 - 4 	HT Re-Live
+	BK Torpet - NyFF	2 - 0 	HT Re-Live

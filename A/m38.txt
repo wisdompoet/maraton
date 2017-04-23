@@ -1,0 +1,84 @@
+Omgång  1
+2009-02-01 10:00 			
+	Crazy Apes - Rubblarp Redemption 	5 - 2 	HT Re-Live
+	Innat FC - Inter Draggen 	3 - 4 	HT Re-Live
+	Norsgatan Kickers - Coffin Nibblers 	5 - 2 	HT Re-Live
+	Sävast AIF - Zeta 	1 - 1 	HT Re-Live
+Omgång  2
+2009-02-08 10:00 			
+	Coffin Nibblers - Sävast AIF 	6 - 3 	HT Re-Live
+	Rubblarp Redemption - Innat FC 	2 - 2 	HT Re-Live
+	Inter Draggen - Norsgatan Kickers 	5 - 4 	HT Re-Live
+	Zeta - Crazy Apes 	6 - 1 	HT Re-Live
+Omgång  3
+2009-02-15 10:00 			
+	Sävast AIF - Inter Draggen 	3 - 5 	HT Re-Live
+	Rubblarp Redemption - Zeta 	3 - 4 	HT Re-Live
+	Crazy Apes - Coffin Nibblers 	5 - 0 	HT Re-Live
+	Norsgatan Kickers - Innat FC 	0 - 2 	HT Re-Live
+Omgång  4
+2009-02-22 10:00 			
+	Inter Draggen - Crazy Apes 	2 - 1 	HT Re-Live
+	Coffin Nibblers - Rubblarp Redemption 	5 - 0 	HT Re-Live
+	Innat FC - Zeta 	0 - 4 	HT Re-Live
+	Norsgatan Kickers - Sävast AIF 	5 - 0 	HT Re-Live
+Omgång  5
+2009-03-01 10:00 			
+	Sävast AIF - Innat FC 	4 - 5 	HT Re-Live
+	Crazy Apes - Norsgatan Kickers 	4 - 1 	HT Re-Live
+	Rubblarp Redemption - Inter Draggen 	1 - 4 	HT Re-Live
+	Zeta - Coffin Nibblers 	6 - 0 	HT Re-Live
+Omgång  6
+2009-03-08 10:00 			
+	Innat FC - Coffin Nibblers 	2 - 3 	HT Re-Live
+	Inter Draggen - Zeta 	3 - 3 	HT Re-Live
+	Sävast AIF - Crazy Apes 	3 - 3 	HT Re-Live
+	Norsgatan Kickers - Rubblarp Redemption 	5 - 0 	HT Re-Live
+Omgång  7
+2009-03-15 10:00 			
+	Crazy Apes - Innat FC 	4 - 1 	HT Re-Live
+	Coffin Nibblers - Inter Draggen 	6 - 0 	HT Re-Live
+	Rubblarp Redemption - Sävast AIF 	9 - 0 	HT Re-Live
+	Zeta - Norsgatan Kickers 	3 - 1 	HT Re-Live
+Omgång  8
+2009-03-22 10:00 			
+	Norsgatan Kickers - Zeta 	1 - 5 	HT Re-Live
+	Inter Draggen - Coffin Nibblers 	0 - 8 	HT Re-Live
+	Sävast AIF - Rubblarp Redemption 	0 - 8 	HT Re-Live
+	Innat FC - Crazy Apes 	1 - 1 	HT Re-Live
+Omgång  9
+2009-03-29 10:00 			
+	Rubblarp Redemption - Norsgatan Kickers 	4 - 4 	HT Re-Live
+	Zeta - Inter Draggen 	6 - 0 	HT Re-Live
+	Coffin Nibblers - Innat FC 	1 - 2 	HT Re-Live
+	Crazy Apes - Sävast AIF 	6 - 0 	HT Re-Live
+Omgång  10
+2009-04-05 10:00 			
+	Inter Draggen - Rubblarp Redemption 	0 - 7 	HT Re-Live
+	Coffin Nibblers - Zeta 	3 - 3 	HT Re-Live
+	Innat FC - Sävast AIF 	9 - 0 	HT Re-Live
+	Norsgatan Kickers - Crazy Apes 	4 - 2 	HT Re-Live
+Omgång  11
+2009-04-12 10:00 			
+	Crazy Apes - Inter Draggen 	9 - 0 	HT Re-Live
+	Rubblarp Redemption - Coffin Nibblers 	5 - 3 	HT Re-Live
+	Zeta - Innat FC 	3 - 0 	HT Re-Live
+	Sävast AIF - Norsgatan Kickers 	0 - 8 	HT Re-Live
+Omgång  12
+2009-04-19 10:00 			
+	Innat FC - Norsgatan Kickers 	3 - 0 	HT Re-Live
+	Zeta - Rubblarp Redemption 	5 - 2 	HT Re-Live
+	Inter Draggen - Sävast AIF 	3 - 1 	HT Re-Live
+	Coffin Nibblers - Crazy Apes 	3 - 0 	HT Re-Live
+Omgång  13
+2009-04-26 10:00 			
+	Crazy Apes - Zeta 	5 - 2 	HT Re-Live
+	Norsgatan Kickers - Inter Draggen 	7 - 0 	HT Re-Live
+	Sävast AIF - Coffin Nibblers 	0 - 8 	HT Re-Live
+	Innat FC - Rubblarp Redemption 	6 - 1 	HT Re-Live
+Omgång  14
+2009-05-03 10:00 			
+	Rubblarp Redemption - Crazy Apes 	2 - 7 	HT Re-Live
+	Zeta - Sävast AIF 	8 - 0 	HT Re-Live
+	Inter Draggen - Innat FC 	0 - 8 	HT Re-Live
+	Coffin Nibblers - Norsgatan Kickers 	3 - 2 	HT Re-Live

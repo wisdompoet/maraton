@@ -1,0 +1,84 @@
+Omgång  1
+2005-05-29 10:00 			
+	Flykälens BK - Forest Rovers	2 - 2 	HT Re-Live
+	PG GoalGetters - Pecka´s Boys	1 - 0 	HT Re-Live
+	Gladiators - Mjällbyn	7 - 2 	HT Re-Live
+	team_ekos - Olsfors FC	2 - 0 	HT Re-Live
+Omgång  2
+2005-06-05 10:00 			
+	Mjällbyn - Flykälens BK	2 - 2 	HT Re-Live
+	Olsfors FC - PG GoalGetters	2 - 0 	HT Re-Live
+	Forest Rovers - team_ekos	1 - 1 	HT Re-Live
+	Pecka´s Boys - Gladiators	3 - 0 	HT Re-Live
+Omgång  3
+2005-06-12 10:00 			
+	PG GoalGetters - Forest Rovers	2 - 4 	HT Re-Live
+	Gladiators - Olsfors FC	2 - 1 	HT Re-Live
+	Mjällbyn - Pecka´s Boys	3 - 2 	HT Re-Live
+	team_ekos - Flykälens BK	1 - 1 	HT Re-Live
+Omgång  4
+2005-06-19 10:00 			
+	Flykälens BK - Pecka´s Boys	3 - 0 	HT Re-Live
+	Olsfors FC - Mjällbyn	3 - 3 	HT Re-Live
+	Forest Rovers - Gladiators	4 - 1 	HT Re-Live
+	team_ekos - PG GoalGetters	5 - 1 	HT Re-Live
+Omgång  5
+2005-06-26 10:00 			
+	PG GoalGetters - Flykälens BK	2 - 0 	HT Re-Live
+	Gladiators - team_ekos	2 - 3 	HT Re-Live
+	Mjällbyn - Forest Rovers	3 - 1 	HT Re-Live
+	Pecka´s Boys - Olsfors FC	1 - 1 	HT Re-Live
+Omgång  6
+2005-07-03 10:00 			
+	Flykälens BK - Olsfors FC	4 - 0 	HT Re-Live
+	PG GoalGetters - Gladiators	8 - 1 	HT Re-Live
+	Forest Rovers - Pecka´s Boys	3 - 0 	HT Re-Live
+	team_ekos - Mjällbyn	5 - 1 	HT Re-Live
+Omgång  7
+2005-07-10 10:00 			
+	Gladiators - Flykälens BK	1 - 2 	HT Re-Live
+	Mjällbyn - PG GoalGetters	5 - 0 	HT Re-Live
+	Olsfors FC - Forest Rovers	0 - 0 	HT Re-Live
+	Pecka´s Boys - team_ekos	0 - 4 	HT Re-Live
+Omgång  8
+2005-07-17 10:00 			
+	team_ekos - Pecka´s Boys	3 - 0 	HT Re-Live
+	Forest Rovers - Olsfors FC	3 - 3 	HT Re-Live
+	PG GoalGetters - Mjällbyn	6 - 3 	HT Re-Live
+	Flykälens BK - Gladiators	7 - 1 	HT Re-Live
+Omgång  9
+2005-07-24 10:00 			
+	Mjällbyn - team_ekos	3 - 0 	HT Re-Live
+	Pecka´s Boys - Forest Rovers	3 - 4 	HT Re-Live
+	Gladiators - PG GoalGetters	1 - 3 	HT Re-Live
+	Olsfors FC - Flykälens BK	4 - 3 	HT Re-Live
+Omgång  10
+2005-07-31 10:00 			
+	Olsfors FC - Pecka´s Boys	7 - 1 	HT Re-Live
+	Forest Rovers - Mjällbyn	3 - 4 	HT Re-Live
+	team_ekos - Gladiators	4 - 0 	HT Re-Live
+	Flykälens BK - PG GoalGetters	2 - 1 	HT Re-Live
+Omgång  11
+2005-08-07 10:00 			
+	PG GoalGetters - team_ekos	0 - 6 	HT Re-Live
+	Gladiators - Forest Rovers	1 - 2 	HT Re-Live
+	Mjällbyn - Olsfors FC	3 - 2 	HT Re-Live
+	Pecka´s Boys - Flykälens BK	1 - 3 	HT Re-Live
+Omgång  12
+2005-08-14 10:00 			
+	Flykälens BK - team_ekos	1 - 3 	HT Re-Live
+	Pecka´s Boys - Mjällbyn	1 - 2 	HT Re-Live
+	Olsfors FC - Gladiators	5 - 3 	HT Re-Live
+	Forest Rovers - PG GoalGetters	3 - 1 	HT Re-Live
+Omgång  13
+2005-08-21 10:00 			
+	Gladiators - Pecka´s Boys	1 - 1 	HT Re-Live
+	team_ekos - Forest Rovers	3 - 0 	HT Re-Live
+	PG GoalGetters - Olsfors FC	3 - 1 	HT Re-Live
+	Flykälens BK - Mjällbyn	1 - 4 	HT Re-Live
+Omgång  14
+2005-08-28 10:00 			
+	Olsfors FC - team_ekos	3 - 4 	HT Re-Live
+	Mjällbyn - Gladiators	5 - 3 	HT Re-Live
+	Pecka´s Boys - PG GoalGetters	1 - 0 	HT Re-Live
+	Forest Rovers - Flykälens BK	5 - 2 	HT Re-Live

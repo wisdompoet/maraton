@@ -1,0 +1,84 @@
+Omgång  1
+2012-10-07 10:00 			
+	FC Volrat - Homers hjältar	4 - 0 	HT Re-Live
+	Anderstorp F.C. - Los Pebbos	1 - 1 	HT Re-Live
+	BK Torpet - Hjullan BK	3 - 2 	HT Re-Live
+	LAKERS - Söderbröder FC	0 - 9 	HT Re-Live
+Omgång  2
+2012-10-14 10:00 			
+	Hjullan BK - LAKERS	7 - 0 	HT Re-Live
+	Los Pebbos - BK Torpet	4 - 2 	HT Re-Live
+	Homers hjältar - Anderstorp F.C.	4 - 4 	HT Re-Live
+	Söderbröder FC - FC Volrat	2 - 1 	HT Re-Live
+Omgång  3
+2012-10-21 10:00 			
+	BK Torpet - Anderstorp F.C.	3 - 1 	HT Re-Live
+	LAKERS - Homers hjältar	0 - 7 	HT Re-Live
+	FC Volrat - Los Pebbos	1 - 1 	HT Re-Live
+	Hjullan BK - Söderbröder FC	3 - 0 	HT Re-Live
+Omgång  4
+2012-10-28 10:00 			
+	Los Pebbos - LAKERS	3 - 0 	HT Re-Live
+	Söderbröder FC - BK Torpet	3 - 1 	HT Re-Live
+	Homers hjältar - Hjullan BK	3 - 4 	HT Re-Live
+	Anderstorp F.C. - FC Volrat	2 - 3 	HT Re-Live
+Omgång  5
+2012-11-04 10:00 			
+	Hjullan BK - Anderstorp F.C.	0 - 3 	HT Re-Live
+	LAKERS - FC Volrat	0 - 3 	HT Re-Live
+	BK Torpet - Homers hjältar	4 - 2 	HT Re-Live
+	Söderbröder FC - Los Pebbos	2 - 1 	HT Re-Live
+Omgång  6
+2012-11-11 10:00 			
+	Anderstorp F.C. - LAKERS	7 - 0 	HT Re-Live
+	FC Volrat - BK Torpet	2 - 0 	HT Re-Live
+	Los Pebbos - Hjullan BK	3 - 0 	HT Re-Live
+	Homers hjältar - Söderbröder FC	2 - 6 	HT Re-Live
+Omgång  7
+2012-11-18 10:00 			
+	Hjullan BK - FC Volrat	2 - 0 	HT Re-Live
+	LAKERS - BK Torpet	0 - 5 	HT Re-Live
+	Söderbröder FC - Anderstorp F.C.	1 - 1 	HT Re-Live
+	Los Pebbos - Homers hjältar	4 - 3 	HT Re-Live
+Omgång  8
+2012-11-25 10:00 			
+	Homers hjältar - Los Pebbos	1 - 3 	HT Re-Live
+	FC Volrat - Hjullan BK	3 - 0 	HT Re-Live
+	Anderstorp F.C. - Söderbröder FC	1 - 3 	HT Re-Live
+	BK Torpet - LAKERS	10 - 0 	HT Re-Live
+Omgång  9
+2012-12-02 10:00 			
+	LAKERS - Anderstorp F.C.	1 - 4 	HT Re-Live
+	Hjullan BK - Los Pebbos	5 - 2 	HT Re-Live
+	BK Torpet - FC Volrat	0 - 3 	HT Re-Live
+	Söderbröder FC - Homers hjältar	3 - 0 	HT Re-Live
+Omgång  10
+2012-12-09 10:00 			
+	Los Pebbos - Söderbröder FC	2 - 2 	HT Re-Live
+	Anderstorp F.C. - Hjullan BK	4 - 2 	HT Re-Live
+	Homers hjältar - BK Torpet	2 - 3 	HT Re-Live
+	FC Volrat - LAKERS	7 - 0 	HT Re-Live
+Omgång  11
+2012-12-16 10:00 			
+	Hjullan BK - Homers hjältar	4 - 1 	HT Re-Live
+	FC Volrat - Anderstorp F.C.	1 - 1 	HT Re-Live
+	BK Torpet - Söderbröder FC	4 - 2 	HT Re-Live
+	LAKERS - Los Pebbos	0 - 8 	HT Re-Live
+Omgång  12
+2012-12-23 10:00 			
+	Los Pebbos - FC Volrat	2 - 0 	HT Re-Live
+	Söderbröder FC - Hjullan BK	3 - 2 	HT Re-Live
+	Homers hjältar - LAKERS	8 - 0 	HT Re-Live
+	Anderstorp F.C. - BK Torpet	2 - 2 	HT Re-Live
+Omgång  13
+2012-12-30 10:00 			
+	BK Torpet - Los Pebbos	4 - 0 	HT Re-Live
+	FC Volrat - Söderbröder FC	2 - 1 	HT Re-Live
+	LAKERS - Hjullan BK	0 - 8 	HT Re-Live
+	Anderstorp F.C. - Homers hjältar	5 - 1 	HT Re-Live
+Omgång  14
+2013-01-06 10:00 			
+	Homers hjältar - FC Volrat	3 - 1 	HT Re-Live
+	Los Pebbos - Anderstorp F.C.	4 - 0 	HT Re-Live
+	Hjullan BK - BK Torpet	1 - 3 	HT Re-Live
+	Söderbröder FC - LAKERS	7 - 0 	HT Re-Live

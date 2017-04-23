@@ -1,0 +1,84 @@
+Omgång  1
+2001-06-03 10:00 			
+	EM Tigers - FK Sandstormen	0 - 1 	HT Re-Live
+	Djäknemåla AIF - Svin-Arne BK	1 - 1 	HT Re-Live
+	Boca Seniors - FC Oldcastle	5 - 1 	HT Re-Live
+	Briegels Bestar - Alpha Lipoic AC	4 - 0 	HT Re-Live
+Omgång  2
+2001-06-10 10:00 			
+	FC Oldcastle - EM Tigers	2 - 3 	HT Re-Live
+	Alpha Lipoic AC - Djäknemåla AIF	1 - 0 	HT Re-Live
+	FK Sandstormen - Briegels Bestar	0 - 0 	HT Re-Live
+	Svin-Arne BK - Boca Seniors	4 - 0 	HT Re-Live
+Omgång  3
+2001-06-17 10:00 			
+	Djäknemåla AIF - FK Sandstormen	1 - 0 	HT Re-Live
+	Boca Seniors - Alpha Lipoic AC	3 - 0 	HT Re-Live
+	FC Oldcastle - Svin-Arne BK	1 - 5 	HT Re-Live
+	Briegels Bestar - EM Tigers	0 - 2 	HT Re-Live
+Omgång  4
+2001-06-24 10:00 			
+	EM Tigers - Svin-Arne BK	3 - 0 	HT Re-Live
+	Alpha Lipoic AC - FC Oldcastle	2 - 0 	HT Re-Live
+	FK Sandstormen - Boca Seniors	2 - 0 	HT Re-Live
+	Briegels Bestar - Djäknemåla AIF	2 - 1 	HT Re-Live
+Omgång  5
+2001-07-01 10:00 			
+	Djäknemåla AIF - EM Tigers	0 - 2 	HT Re-Live
+	Boca Seniors - Briegels Bestar	2 - 0 	HT Re-Live
+	FC Oldcastle - FK Sandstormen	0 - 2 	HT Re-Live
+	Svin-Arne BK - Alpha Lipoic AC	4 - 0 	HT Re-Live
+Omgång  6
+2001-07-08 10:00 			
+	EM Tigers - Alpha Lipoic AC	3 - 0 	HT Re-Live
+	Djäknemåla AIF - Boca Seniors	2 - 0 	HT Re-Live
+	FK Sandstormen - Svin-Arne BK	3 - 3 	HT Re-Live
+	Briegels Bestar - FC Oldcastle	3 - 0 	HT Re-Live
+Omgång  7
+2001-07-15 10:00 			
+	Boca Seniors - EM Tigers	2 - 2 	HT Re-Live
+	FC Oldcastle - Djäknemåla AIF	0 - 2 	HT Re-Live
+	Alpha Lipoic AC - FK Sandstormen	2 - 1 	HT Re-Live
+	Svin-Arne BK - Briegels Bestar	4 - 0 	HT Re-Live
+Omgång  8
+2001-07-22 10:00 			
+	Briegels Bestar - Svin-Arne BK	0 - 2 	HT Re-Live
+	FK Sandstormen - Alpha Lipoic AC	1 - 0 	HT Re-Live
+	Djäknemåla AIF - FC Oldcastle	2 - 0 	HT Re-Live
+	EM Tigers - Boca Seniors	4 - 0 	HT Re-Live
+Omgång  9
+2001-07-29 10:00 			
+	FC Oldcastle - Briegels Bestar	0 - 2 	HT Re-Live
+	Svin-Arne BK - FK Sandstormen	0 - 2 	HT Re-Live
+	Boca Seniors - Djäknemåla AIF	2 - 1 	HT Re-Live
+	Alpha Lipoic AC - EM Tigers	1 - 3 	HT Re-Live
+Omgång  10
+2001-08-05 10:00 			
+	Alpha Lipoic AC - Svin-Arne BK	0 - 3 	HT Re-Live
+	FK Sandstormen - FC Oldcastle	5 - 1 	HT Re-Live
+	Briegels Bestar - Boca Seniors	1 - 1 	HT Re-Live
+	EM Tigers - Djäknemåla AIF	3 - 0 	HT Re-Live
+Omgång  11
+2001-08-12 10:00 			
+	Djäknemåla AIF - Briegels Bestar	0 - 0 	HT Re-Live
+	Boca Seniors - FK Sandstormen	0 - 2 	HT Re-Live
+	FC Oldcastle - Alpha Lipoic AC	3 - 2 	HT Re-Live
+	Svin-Arne BK - EM Tigers	0 - 1 	HT Re-Live
+Omgång  12
+2001-08-19 10:00 			
+	EM Tigers - Briegels Bestar	2 - 0 	HT Re-Live
+	Svin-Arne BK - FC Oldcastle	3 - 1 	HT Re-Live
+	Alpha Lipoic AC - Boca Seniors	2 - 5 	HT Re-Live
+	FK Sandstormen - Djäknemåla AIF	0 - 0 	HT Re-Live
+Omgång  13
+2001-08-26 10:00 			
+	Boca Seniors - Svin-Arne BK	0 - 2 	HT Re-Live
+	Briegels Bestar - FK Sandstormen	0 - 2 	HT Re-Live
+	Djäknemåla AIF - Alpha Lipoic AC	4 - 1 	HT Re-Live
+	EM Tigers - FC Oldcastle	2 - 0 	HT Re-Live
+Omgång  14
+2001-09-02 10:00 			
+	Alpha Lipoic AC - Briegels Bestar	1 - 1 	HT Re-Live
+	FC Oldcastle - Boca Seniors	4 - 0 	HT Re-Live
+	Svin-Arne BK - Djäknemåla AIF	2 - 1 	HT Re-Live
+	FK Sandstormen - EM Tigers	2 - 1 	HT Re-Live

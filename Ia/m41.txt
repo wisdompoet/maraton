@@ -1,0 +1,84 @@
+Omgång  1
+2010-01-03 10:00 			
+	Jediriddarna - Romário11	5 - 0 	HT Re-Live
+	Solid FK - Morebeer FC	1 - 1 	HT Re-Live
+	The Stocks - LD United	2 - 1 	HT Re-Live
+	Rednaxela - Frölunda killers	2 - 2 	HT Re-Live
+Omgång  2
+2010-01-10 10:00 			
+	Romário11 - Rednaxela	1 - 0 	HT Re-Live
+	LD United - Solid FK	4 - 1 	HT Re-Live
+	Morebeer FC - Jediriddarna	3 - 1 	HT Re-Live
+	Frölunda killers - The Stocks	0 - 2 	HT Re-Live
+Omgång  3
+2010-01-17 10:00 			
+	Romário11 - Morebeer FC	1 - 3 	HT Re-Live
+	Jediriddarna - LD United	3 - 2 	HT Re-Live
+	The Stocks - Rednaxela	1 - 2 	HT Re-Live
+	Solid FK - Frölunda killers	2 - 2 	HT Re-Live
+Omgång  4
+2010-01-24 10:00 			
+	The Stocks - Solid FK	2 - 0 	HT Re-Live
+	LD United - Romário11	3 - 5 	HT Re-Live
+	Frölunda killers - Jediriddarna	5 - 0 	HT Re-Live
+	Rednaxela - Morebeer FC	4 - 1 	HT Re-Live
+Omgång  5
+2010-01-31 10:00 			
+	Jediriddarna - The Stocks	0 - 3 	HT Re-Live
+	Solid FK - Rednaxela	2 - 1 	HT Re-Live
+	Romário11 - Frölunda killers	2 - 2 	HT Re-Live
+	Morebeer FC - LD United	2 - 3 	HT Re-Live
+Omgång  6
+2010-02-07 10:00 			
+	The Stocks - Romário11	4 - 2 	HT Re-Live
+	Solid FK - Jediriddarna	1 - 0 	HT Re-Live
+	Frölunda killers - Morebeer FC	3 - 1 	HT Re-Live
+	Rednaxela - LD United	4 - 4 	HT Re-Live
+Omgång  7
+2010-02-14 10:00 			
+	Morebeer FC - The Stocks	1 - 3 	HT Re-Live
+	LD United - Frölunda killers	6 - 2 	HT Re-Live
+	Romário11 - Solid FK	0 - 0 	HT Re-Live
+	Jediriddarna - Rednaxela	2 - 1 	HT Re-Live
+Omgång  8
+2010-02-21 10:00 			
+	Rednaxela - Jediriddarna	2 - 1 	HT Re-Live
+	Solid FK - Romário11	2 - 2 	HT Re-Live
+	Frölunda killers - LD United	2 - 3 	HT Re-Live
+	The Stocks - Morebeer FC	0 - 0 	HT Re-Live
+Omgång  9
+2010-02-28 10:00 			
+	Morebeer FC - Frölunda killers	1 - 1 	HT Re-Live
+	LD United - Rednaxela	3 - 0 	HT Re-Live
+	Jediriddarna - Solid FK	4 - 2 	HT Re-Live
+	Romário11 - The Stocks	2 - 4 	HT Re-Live
+Omgång  10
+2010-03-07 10:00 			
+	Rednaxela - Solid FK	0 - 2 	HT Re-Live
+	The Stocks - Jediriddarna	2 - 0 	HT Re-Live
+	Frölunda killers - Romário11	7 - 2 	HT Re-Live
+	LD United - Morebeer FC	4 - 1 	HT Re-Live
+Omgång  11
+2010-03-14 10:00 			
+	Morebeer FC - Rednaxela	4 - 4 	HT Re-Live
+	Romário11 - LD United	1 - 2 	HT Re-Live
+	Jediriddarna - Frölunda killers	3 - 1 	HT Re-Live
+	Solid FK - The Stocks	0 - 1 	HT Re-Live
+Omgång  12
+2010-03-21 10:00 			
+	Frölunda killers - Solid FK	2 - 1 	HT Re-Live
+	LD United - Jediriddarna	5 - 2 	HT Re-Live
+	Rednaxela - The Stocks	0 - 3 	HT Re-Live
+	Morebeer FC - Romário11	5 - 2 	HT Re-Live
+Omgång  13
+2010-03-28 10:00 			
+	Rednaxela - Romário11	1 - 0 	HT Re-Live
+	Solid FK - LD United	0 - 5 	HT Re-Live
+	The Stocks - Frölunda killers	4 - 0 	HT Re-Live
+	Jediriddarna - Morebeer FC	2 - 3 	HT Re-Live
+Omgång  14
+2010-04-04 10:00 			
+	Frölunda killers - Rednaxela	6 - 1 	HT Re-Live
+	Morebeer FC - Solid FK	2 - 4 	HT Re-Live
+	Romário11 - Jediriddarna	3 - 1 	HT Re-Live
+	LD United - The Stocks	1 - 3 	HT Re-Live

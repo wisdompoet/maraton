@@ -1,0 +1,84 @@
+Omgång  1
+2014-04-20 10:00 			
+	Ditry deeds - Lee Lakers	1 - 2 	HT Re-Live
+	Spelad glädje - The Stars	4 - 2 	HT Re-Live
+	Mörphy FC - Ursvikingarnas BK	3 - 3 	HT Re-Live
+	BK Nippon - Råtorp Rangers	0 - 3 	HT Re-Live
+Omgång  2
+2014-04-27 10:00 			
+	The Stars - Ditry deeds	3 - 0 	HT Re-Live
+	Ursvikingarnas BK - Spelad glädje	3 - 1 	HT Re-Live
+	Råtorp Rangers - Mörphy FC	1 - 0 	HT Re-Live
+	Lee Lakers - BK Nippon	3 - 4 	HT Re-Live
+Omgång  3
+2014-05-04 10:00 			
+	Spelad glädje - Mörphy FC	3 - 0 	HT Re-Live
+	Ditry deeds - Råtorp Rangers	3 - 3 	HT Re-Live
+	The Stars - Lee Lakers	1 - 3 	HT Re-Live
+	BK Nippon - Ursvikingarnas BK	1 - 1 	HT Re-Live
+Omgång  4
+2014-05-11 10:00 			
+	Mörphy FC - BK Nippon	0 - 2 	HT Re-Live
+	Lee Lakers - Spelad glädje	3 - 0 	HT Re-Live
+	Ursvikingarnas BK - Ditry deeds	3 - 0 	HT Re-Live
+	Råtorp Rangers - The Stars	4 - 1 	HT Re-Live
+Omgång  5
+2014-05-18 10:00 			
+	Spelad glädje - Råtorp Rangers	2 - 2 	HT Re-Live
+	The Stars - Mörphy FC	1 - 4 	HT Re-Live
+	Lee Lakers - Ursvikingarnas BK	4 - 2 	HT Re-Live
+	Ditry deeds - BK Nippon	0 - 6 	HT Re-Live
+Omgång  6
+2014-05-25 10:00 			
+	Mörphy FC - Ditry deeds	2 - 2 	HT Re-Live
+	BK Nippon - Spelad glädje	2 - 3 	HT Re-Live
+	Ursvikingarnas BK - The Stars	0 - 2 	HT Re-Live
+	Råtorp Rangers - Lee Lakers	2 - 4 	HT Re-Live
+Omgång  7
+2014-06-01 10:00 			
+	Ditry deeds - Spelad glädje	2 - 2 	HT Re-Live
+	Lee Lakers - Mörphy FC	2 - 0 	HT Re-Live
+	The Stars - BK Nippon	1 - 1 	HT Re-Live
+	Ursvikingarnas BK - Råtorp Rangers	0 - 1 	HT Re-Live
+Omgång  8
+2014-06-08 10:00 			
+	Spelad glädje - Ditry deeds	9 - 0 	HT Re-Live
+	Råtorp Rangers - Ursvikingarnas BK	2 - 1 	HT Re-Live
+	Mörphy FC - Lee Lakers	1 - 2 	HT Re-Live
+	BK Nippon - The Stars	2 - 3 	HT Re-Live
+Omgång  9
+2014-06-15 10:00 			
+	Spelad glädje - BK Nippon	5 - 0 	HT Re-Live
+	Ditry deeds - Mörphy FC	0 - 6 	HT Re-Live
+	The Stars - Ursvikingarnas BK	1 - 1 	HT Re-Live
+	Lee Lakers - Råtorp Rangers	4 - 0 	HT Re-Live
+Omgång  10
+2014-06-22 10:00 			
+	Mörphy FC - The Stars	1 - 2 	HT Re-Live
+	BK Nippon - Ditry deeds	8 - 0 	HT Re-Live
+	Råtorp Rangers - Spelad glädje	4 - 3 	HT Re-Live
+	Ursvikingarnas BK - Lee Lakers	3 - 3 	HT Re-Live
+Omgång  11
+2014-06-29 10:00 			
+	The Stars - Råtorp Rangers	3 - 2 	HT Re-Live
+	Spelad glädje - Lee Lakers	4 - 2 	HT Re-Live
+	BK Nippon - Mörphy FC	0 - 3 	HT Re-Live
+	Ditry deeds - Ursvikingarnas BK	0 - 11 	HT Re-Live
+Omgång  12
+2014-07-06 10:00 			
+	Ursvikingarnas BK - BK Nippon	2 - 1 	HT Re-Live
+	Lee Lakers - The Stars	1 - 1 	HT Re-Live
+	Råtorp Rangers - Ditry deeds	9 - 0 	HT Re-Live
+	Mörphy FC - Spelad glädje	1 - 3 	HT Re-Live
+Omgång  13
+2014-07-13 10:00 			
+	Spelad glädje - Ursvikingarnas BK	2 - 3 	HT Re-Live
+	Ditry deeds - The Stars	0 - 9 	HT Re-Live
+	BK Nippon - Lee Lakers	3 - 1 	HT Re-Live
+	Mörphy FC - Råtorp Rangers	3 - 3 	HT Re-Live
+Omgång  14
+2014-07-20 10:00 			
+	Ursvikingarnas BK - Mörphy FC	6 - 3 	HT Re-Live
+	Råtorp Rangers - BK Nippon	3 - 0 	HT Re-Live
+	Lee Lakers - Ditry deeds	10 - 0 	HT Re-Live
+	The Stars - Spelad glädje	5 - 1 	HT Re-Live

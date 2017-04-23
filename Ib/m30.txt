@@ -1,0 +1,84 @@
+Omgång  1
+2006-08-20 10:00 			
+	Inter Sthlm - Spurs FC	0 - 7 	HT Re-Live
+	Babylon Boys - IFK Mörlanda	0 - 0 	HT Re-Live
+	Arvidsjaur BK - Porsnäs IF	5 - 0 	HT Re-Live
+	Bender ICNxDBD - Håbol IF	2 - 2 	HT Re-Live
+Omgång  2
+2006-08-27 10:00 			
+	IFK Mörlanda - Bender ICNxDBD	3 - 4 	HT Re-Live
+	Håbol IF - Inter Sthlm	10 - 0 	HT Re-Live
+	Spurs FC - Arvidsjaur BK	2 - 4 	HT Re-Live
+	Porsnäs IF - Babylon Boys	1 - 4 	HT Re-Live
+Omgång  3
+2006-09-03 10:00 			
+	Babylon Boys - Spurs FC	2 - 1 	HT Re-Live
+	Bender ICNxDBD - Porsnäs IF	5 - 0 	HT Re-Live
+	Håbol IF - IFK Mörlanda	2 - 1 	HT Re-Live
+	Arvidsjaur BK - Inter Sthlm	9 - 0 	HT Re-Live
+Omgång  4
+2006-09-10 10:00 			
+	Inter Sthlm - IFK Mörlanda	0 - 9 	HT Re-Live
+	Porsnäs IF - Håbol IF	0 - 4 	HT Re-Live
+	Spurs FC - Bender ICNxDBD	1 - 2 	HT Re-Live
+	Arvidsjaur BK - Babylon Boys	3 - 4 	HT Re-Live
+Omgång  5
+2006-09-17 10:00 			
+	Babylon Boys - Inter Sthlm	9 - 0 	HT Re-Live
+	Bender ICNxDBD - Arvidsjaur BK	2 - 0 	HT Re-Live
+	Håbol IF - Spurs FC	2 - 0 	HT Re-Live
+	IFK Mörlanda - Porsnäs IF	3 - 2 	HT Re-Live
+Omgång  6
+2006-09-24 10:00 			
+	Inter Sthlm - Porsnäs IF	0 - 8 	HT Re-Live
+	Babylon Boys - Bender ICNxDBD	3 - 2 	HT Re-Live
+	Arvidsjaur BK - Håbol IF	2 - 1 	HT Re-Live
+	Spurs FC - IFK Mörlanda	3 - 2 	HT Re-Live
+Omgång  7
+2006-10-01 10:00 			
+	Bender ICNxDBD - Inter Sthlm	9 - 0 	HT Re-Live
+	Håbol IF - Babylon Boys	4 - 0 	HT Re-Live
+	Porsnäs IF - Spurs FC	3 - 3 	HT Re-Live
+	IFK Mörlanda - Arvidsjaur BK	3 - 0 	HT Re-Live
+Omgång  8
+2006-10-08 10:00 			
+	Inter Sthlm - Bender ICNxDBD	0 - 10 	HT Re-Live
+	Spurs FC - Porsnäs IF	1 - 1 	HT Re-Live
+	Babylon Boys - Håbol IF	2 - 2 	HT Re-Live
+	Arvidsjaur BK - IFK Mörlanda	2 - 1 	HT Re-Live
+Omgång  9
+2006-10-15 10:00 			
+	Bender ICNxDBD - Babylon Boys	3 - 1 	HT Re-Live
+	Håbol IF - Arvidsjaur BK	0 - 0 	HT Re-Live
+	IFK Mörlanda - Spurs FC	2 - 0 	HT Re-Live
+	Porsnäs IF - Inter Sthlm	11 - 0 	HT Re-Live
+Omgång  10
+2006-10-22 10:00 			
+	Spurs FC - Håbol IF	3 - 4 	HT Re-Live
+	Arvidsjaur BK - Bender ICNxDBD	4 - 3 	HT Re-Live
+	Porsnäs IF - IFK Mörlanda	3 - 2 	HT Re-Live
+	Inter Sthlm - Babylon Boys	0 - 11 	HT Re-Live
+Omgång  11
+2006-10-29 10:00 			
+	Babylon Boys - Arvidsjaur BK	4 - 2 	HT Re-Live
+	Bender ICNxDBD - Spurs FC	2 - 1 	HT Re-Live
+	Håbol IF - Porsnäs IF	2 - 3 	HT Re-Live
+	IFK Mörlanda - Inter Sthlm	9 - 0 	HT Re-Live
+Omgång  12
+2006-11-05 10:00 			
+	Inter Sthlm - Arvidsjaur BK	0 - 9 	HT Re-Live
+	IFK Mörlanda - Håbol IF	5 - 2 	HT Re-Live
+	Spurs FC - Babylon Boys	0 - 4 	HT Re-Live
+	Porsnäs IF - Bender ICNxDBD	1 - 5 	HT Re-Live
+Omgång  13
+2006-11-12 10:00 			
+	Babylon Boys - Porsnäs IF	4 - 0 	HT Re-Live
+	Inter Sthlm - Håbol IF	0 - 8 	HT Re-Live
+	Bender ICNxDBD - IFK Mörlanda	3 - 4 	HT Re-Live
+	Arvidsjaur BK - Spurs FC	4 - 2 	HT Re-Live
+Omgång  14
+2006-11-19 10:00 			
+	Porsnäs IF - Arvidsjaur BK	0 - 1 	HT Re-Live
+	Håbol IF - Bender ICNxDBD	6 - 1 	HT Re-Live
+	IFK Mörlanda - Babylon Boys	2 - 7 	HT Re-Live
+	Spurs FC - Inter Sthlm	8 - 0 	HT Re-Live

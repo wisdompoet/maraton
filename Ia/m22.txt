@@ -1,0 +1,84 @@
+Omgång  1
+2004-03-07 10:00 			
+	Dynamo Patricia - Nätets FF	0 - 3 	HT Re-Live
+	Starwars - Hallåellers	3 - 0 	HT Re-Live
+	Jäderfors SK - Krilles Kometer	0 - 1 	HT Re-Live
+	Headless Chickens FC - Bäcken IF	2 - 1 	HT Re-Live
+Omgång  2
+2004-03-14 10:00 			
+	Krilles Kometer - Dynamo Patricia	1 - 2 	HT Re-Live
+	Bäcken IF - Starwars	4 - 0 	HT Re-Live
+	Nätets FF - Headless Chickens FC	3 - 0 	HT Re-Live
+	Hallåellers - Jäderfors SK	2 - 4 	HT Re-Live
+Omgång  3
+2004-03-21 10:00 			
+	Starwars - Nätets FF	2 - 0 	HT Re-Live
+	Jäderfors SK - Bäcken IF	2 - 3 	HT Re-Live
+	Krilles Kometer - Hallåellers	0 - 1 	HT Re-Live
+	Headless Chickens FC - Dynamo Patricia	3 - 1 	HT Re-Live
+Omgång  4
+2004-03-28 10:00 			
+	Dynamo Patricia - Hallåellers	3 - 1 	HT Re-Live
+	Bäcken IF - Krilles Kometer	2 - 0 	HT Re-Live
+	Nätets FF - Jäderfors SK	4 - 0 	HT Re-Live
+	Headless Chickens FC - Starwars	6 - 1 	HT Re-Live
+Omgång  5
+2004-04-04 10:00 			
+	Starwars - Dynamo Patricia	0 - 1 	HT Re-Live
+	Jäderfors SK - Headless Chickens FC	4 - 2 	HT Re-Live
+	Krilles Kometer - Nätets FF	1 - 3 	HT Re-Live
+	Hallåellers - Bäcken IF	3 - 0 	HT Re-Live
+Omgång  6
+2004-04-11 10:00 			
+	Dynamo Patricia - Bäcken IF	1 - 0 	HT Re-Live
+	Starwars - Jäderfors SK	8 - 0 	HT Re-Live
+	Nätets FF - Hallåellers	2 - 4 	HT Re-Live
+	Headless Chickens FC - Krilles Kometer	2 - 1 	HT Re-Live
+Omgång  7
+2004-04-18 10:00 			
+	Jäderfors SK - Dynamo Patricia	2 - 2 	HT Re-Live
+	Krilles Kometer - Starwars	3 - 3 	HT Re-Live
+	Bäcken IF - Nätets FF	1 - 5 	HT Re-Live
+	Hallåellers - Headless Chickens FC	1 - 2 	HT Re-Live
+Omgång  8
+2004-04-25 10:00 			
+	Headless Chickens FC - Hallåellers	1 - 0 	HT Re-Live
+	Nätets FF - Bäcken IF	3 - 0 	HT Re-Live
+	Starwars - Krilles Kometer	4 - 2 	HT Re-Live
+	Dynamo Patricia - Jäderfors SK	4 - 3 	HT Re-Live
+Omgång  9
+2004-05-02 10:00 			
+	Krilles Kometer - Headless Chickens FC	2 - 0 	HT Re-Live
+	Hallåellers - Nätets FF	1 - 1 	HT Re-Live
+	Jäderfors SK - Starwars	2 - 3 	HT Re-Live
+	Bäcken IF - Dynamo Patricia	3 - 0 	HT Re-Live
+Omgång  10
+2004-05-09 10:00 			
+	Bäcken IF - Hallåellers	2 - 0 	HT Re-Live
+	Nätets FF - Krilles Kometer	1 - 1 	HT Re-Live
+	Headless Chickens FC - Jäderfors SK	3 - 1 	HT Re-Live
+	Dynamo Patricia - Starwars	4 - 0 	HT Re-Live
+Omgång  11
+2004-05-16 10:00 			
+	Starwars - Headless Chickens FC	1 - 2 	HT Re-Live
+	Jäderfors SK - Nätets FF	2 - 2 	HT Re-Live
+	Krilles Kometer - Bäcken IF	2 - 0 	HT Re-Live
+	Hallåellers - Dynamo Patricia	0 - 1 	HT Re-Live
+Omgång  12
+2004-05-23 10:00 			
+	Dynamo Patricia - Headless Chickens FC	2 - 1 	HT Re-Live
+	Hallåellers - Krilles Kometer	2 - 3 	HT Re-Live
+	Bäcken IF - Jäderfors SK	2 - 2 	HT Re-Live
+	Nätets FF - Starwars	4 - 3 	HT Re-Live
+Omgång  13
+2004-05-30 10:00 			
+	Jäderfors SK - Hallåellers	2 - 0 	HT Re-Live
+	Headless Chickens FC - Nätets FF	0 - 6 	HT Re-Live
+	Starwars - Bäcken IF	2 - 0 	HT Re-Live
+	Dynamo Patricia - Krilles Kometer	0 - 0 	HT Re-Live
+Omgång  14
+2004-06-06 10:00 			
+	Bäcken IF - Headless Chickens FC	1 - 1 	HT Re-Live
+	Krilles Kometer - Jäderfors SK	0 - 1 	HT Re-Live
+	Hallåellers - Starwars	0 - 4 	HT Re-Live
+	Nätets FF - Dynamo Patricia	2 - 6 	HT Re-Live

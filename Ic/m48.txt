@@ -1,0 +1,84 @@
+Omgång  1
+2012-02-26 10:00 			
+	IFK Grisfotboll - IFK Magpies	4 - 0 	HT Re-Live
+	Ränneskit IF - 413 United	4 - 1 	HT Re-Live
+	Mighty BK - FC Donsen	3 - 2 	HT Re-Live
+	Djurgården 71s Götecastleuleå HF - Hagfors FC	3 - 1 	HT Re-Live
+Omgång  2
+2012-03-04 10:00 			
+	Hagfors FC - Mighty BK	1 - 5 	HT Re-Live
+	FC Donsen - IFK Grisfotboll	2 - 3 	HT Re-Live
+	IFK Magpies - Ränneskit IF	4 - 1 	HT Re-Live
+	413 United - Djurgården 71s Götecastleuleå HF	1 - 4 	HT Re-Live
+Omgång  3
+2012-03-11 10:00 			
+	Mighty BK - IFK Magpies	3 - 1 	HT Re-Live
+	Djurgården 71s Götecastleuleå HF - FC Donsen	3 - 0 	HT Re-Live
+	Ränneskit IF - IFK Grisfotboll	3 - 1 	HT Re-Live
+	413 United - Hagfors FC	4 - 0 	HT Re-Live
+Omgång  4
+2012-03-18 10:00 			
+	IFK Grisfotboll - Mighty BK	3 - 2 	HT Re-Live
+	Hagfors FC - Ränneskit IF	4 - 3 	HT Re-Live
+	IFK Magpies - Djurgården 71s Götecastleuleå HF	2 - 1 	HT Re-Live
+	FC Donsen - 413 United	2 - 1 	HT Re-Live
+Omgång  5
+2012-03-25 10:00 			
+	Ränneskit IF - FC Donsen	1 - 0 	HT Re-Live
+	Hagfors FC - IFK Magpies	3 - 3 	HT Re-Live
+	Djurgården 71s Götecastleuleå HF - Mighty BK	7 - 1 	HT Re-Live
+	413 United - IFK Grisfotboll	7 - 2 	HT Re-Live
+Omgång  6
+2012-04-01 10:00 			
+	FC Donsen - Hagfors FC	2 - 1 	HT Re-Live
+	IFK Grisfotboll - Djurgården 71s Götecastleuleå HF	3 - 1 	HT Re-Live
+	Mighty BK - Ränneskit IF	2 - 1 	HT Re-Live
+	IFK Magpies - 413 United	4 - 2 	HT Re-Live
+Omgång  7
+2012-04-08 10:00 			
+	Hagfors FC - IFK Grisfotboll	1 - 3 	HT Re-Live
+	Djurgården 71s Götecastleuleå HF - Ränneskit IF	4 - 0 	HT Re-Live
+	413 United - Mighty BK	1 - 3 	HT Re-Live
+	IFK Magpies - FC Donsen	2 - 2 	HT Re-Live
+Omgång  8
+2012-04-15 10:00 			
+	Ränneskit IF - Djurgården 71s Götecastleuleå HF	2 - 2 	HT Re-Live
+	Mighty BK - 413 United	1 - 2 	HT Re-Live
+	FC Donsen - IFK Magpies	2 - 1 	HT Re-Live
+	IFK Grisfotboll - Hagfors FC	4 - 1 	HT Re-Live
+Omgång  9
+2012-04-22 10:00 			
+	Hagfors FC - FC Donsen	0 - 2 	HT Re-Live
+	413 United - IFK Magpies	4 - 0 	HT Re-Live
+	Ränneskit IF - Mighty BK	6 - 1 	HT Re-Live
+	Djurgården 71s Götecastleuleå HF - IFK Grisfotboll	2 - 1 	HT Re-Live
+Omgång  10
+2012-04-29 10:00 			
+	IFK Magpies - Hagfors FC	2 - 1 	HT Re-Live
+	IFK Grisfotboll - 413 United	3 - 0 	HT Re-Live
+	Mighty BK - Djurgården 71s Götecastleuleå HF	3 - 1 	HT Re-Live
+	FC Donsen - Ränneskit IF	1 - 2 	HT Re-Live
+Omgång  11
+2012-05-06 10:00 			
+	413 United - FC Donsen	1 - 0 	HT Re-Live
+	Ränneskit IF - Hagfors FC	3 - 1 	HT Re-Live
+	Mighty BK - IFK Grisfotboll	3 - 0 	HT Re-Live
+	Djurgården 71s Götecastleuleå HF - IFK Magpies	4 - 2 	HT Re-Live
+Omgång  12
+2012-05-13 10:00 			
+	IFK Magpies - Mighty BK	2 - 0 	HT Re-Live
+	IFK Grisfotboll - Ränneskit IF	5 - 0 	HT Re-Live
+	FC Donsen - Djurgården 71s Götecastleuleå HF	2 - 2 	HT Re-Live
+	Hagfors FC - 413 United	1 - 2 	HT Re-Live
+Omgång  13
+2012-05-20 10:00 			
+	IFK Grisfotboll - FC Donsen	2 - 2 	HT Re-Live
+	Ränneskit IF - IFK Magpies	3 - 4 	HT Re-Live
+	Mighty BK - Hagfors FC	7 - 2 	HT Re-Live
+	Djurgården 71s Götecastleuleå HF - 413 United	6 - 3 	HT Re-Live
+Omgång  14
+2012-05-27 10:00 			
+	FC Donsen - Mighty BK	1 - 2 	HT Re-Live
+	413 United - Ränneskit IF	6 - 1 	HT Re-Live
+	IFK Magpies - IFK Grisfotboll	3 - 3 	HT Re-Live
+	Hagfors FC - Djurgården 71s Götecastleuleå HF	1 - 2 	HT Re-Live

@@ -1,0 +1,84 @@
+Omgång  1
+2007-07-22 10:00 			
+	Huskvarna - Zlatan_BK	1 - 4 	HT Re-Live
+	Cirkus Brazil Jack - AMTrix	2 - 0 	HT Re-Live
+	IFK Ninweborg - Kaiser FC	0 - 2 	HT Re-Live
+	IFK Göteberg - Hjärnarp GIF	0 - 1 	HT Re-Live
+Omgång  2
+2007-07-29 10:00 			
+	Zlatan_BK - Cirkus Brazil Jack	5 - 0 	HT Re-Live
+	Kaiser FC - IFK Göteberg	4 - 2 	HT Re-Live
+	AMTrix - IFK Ninweborg	2 - 5 	HT Re-Live
+	Hjärnarp GIF - Huskvarna	3 - 0 	HT Re-Live
+Omgång  3
+2007-08-05 10:00 			
+	IFK Göteberg - AMTrix	1 - 1 	HT Re-Live
+	Huskvarna - Kaiser FC	1 - 1 	HT Re-Live
+	Zlatan_BK - Hjärnarp GIF	6 - 1 	HT Re-Live
+	IFK Ninweborg - Cirkus Brazil Jack	6 - 2 	HT Re-Live
+Omgång  4
+2007-08-12 10:00 			
+	Cirkus Brazil Jack - Hjärnarp GIF	6 - 1 	HT Re-Live
+	Kaiser FC - Zlatan_BK	1 - 2 	HT Re-Live
+	AMTrix - Huskvarna	1 - 2 	HT Re-Live
+	IFK Ninweborg - IFK Göteberg	4 - 1 	HT Re-Live
+Omgång  5
+2007-08-19 10:00 			
+	IFK Göteberg - Cirkus Brazil Jack	2 - 1 	HT Re-Live
+	Huskvarna - IFK Ninweborg	0 - 6 	HT Re-Live
+	Zlatan_BK - AMTrix	2 - 1 	HT Re-Live
+	Hjärnarp GIF - Kaiser FC	4 - 0 	HT Re-Live
+Omgång  6
+2007-08-26 10:00 			
+	Cirkus Brazil Jack - Kaiser FC	2 - 0 	HT Re-Live
+	IFK Ninweborg - Zlatan_BK	4 - 3 	HT Re-Live
+	IFK Göteberg - Huskvarna	3 - 0 	HT Re-Live
+	AMTrix - Hjärnarp GIF	3 - 0 	HT Re-Live
+Omgång  7
+2007-09-02 10:00 			
+	Huskvarna - Cirkus Brazil Jack	1 - 2 	HT Re-Live
+	Zlatan_BK - IFK Göteberg	6 - 4 	HT Re-Live
+	Kaiser FC - AMTrix	1 - 1 	HT Re-Live
+	Hjärnarp GIF - IFK Ninweborg	2 - 4 	HT Re-Live
+Omgång  8
+2007-09-09 10:00 			
+	IFK Ninweborg - Hjärnarp GIF	4 - 0 	HT Re-Live
+	IFK Göteberg - Zlatan_BK	1 - 2 	HT Re-Live
+	Cirkus Brazil Jack - Huskvarna	1 - 1 	HT Re-Live
+	AMTrix - Kaiser FC	4 - 1 	HT Re-Live
+Omgång  9
+2007-09-16 10:00 			
+	Zlatan_BK - IFK Ninweborg	4 - 0 	HT Re-Live
+	Hjärnarp GIF - AMTrix	3 - 1 	HT Re-Live
+	Kaiser FC - Cirkus Brazil Jack	2 - 3 	HT Re-Live
+	Huskvarna - IFK Göteberg	2 - 1 	HT Re-Live
+Omgång  10
+2007-09-23 10:00 			
+	AMTrix - Zlatan_BK	1 - 4 	HT Re-Live
+	Kaiser FC - Hjärnarp GIF	0 - 3 	HT Re-Live
+	IFK Ninweborg - Huskvarna	4 - 1 	HT Re-Live
+	Cirkus Brazil Jack - IFK Göteberg	5 - 1 	HT Re-Live
+Omgång  11
+2007-09-30 10:00 			
+	IFK Göteberg - IFK Ninweborg	2 - 3 	HT Re-Live
+	Hjärnarp GIF - Cirkus Brazil Jack	2 - 1 	HT Re-Live
+	Zlatan_BK - Kaiser FC	3 - 0 	HT Re-Live
+	Huskvarna - AMTrix	2 - 4 	HT Re-Live
+Omgång  12
+2007-10-07 10:00 			
+	Cirkus Brazil Jack - IFK Ninweborg	0 - 4 	HT Re-Live
+	Hjärnarp GIF - Zlatan_BK	2 - 2 	HT Re-Live
+	Kaiser FC - Huskvarna	6 - 0 	HT Re-Live
+	AMTrix - IFK Göteberg	5 - 1 	HT Re-Live
+Omgång  13
+2007-10-14 10:00 			
+	Cirkus Brazil Jack - Zlatan_BK	2 - 2 	HT Re-Live
+	IFK Ninweborg - AMTrix	3 - 0 	HT Re-Live
+	Huskvarna - Hjärnarp GIF	5 - 1 	HT Re-Live
+	IFK Göteberg - Kaiser FC	3 - 1 	HT Re-Live
+Omgång  14
+2007-10-21 10:00 			
+	Hjärnarp GIF - IFK Göteberg	3 - 3 	HT Re-Live
+	Kaiser FC - IFK Ninweborg	0 - 3 	HT Re-Live
+	AMTrix - Cirkus Brazil Jack	3 - 1 	HT Re-Live
+	Zlatan_BK - Huskvarna	3 - 5 	HT Re-Live

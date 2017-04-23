@@ -1,0 +1,84 @@
+Omgång  1
+2002-08-25 10:00 			
+	Starwars - Salomon Islands	4 - 1 	HT Re-Live
+	FK Sandstormen - Åshöjdens BK	5 - 0 	HT Re-Live
+	Headless Chickens FC - Talangen Stars	4 - 2 	HT Re-Live
+	Hallåellers - Dynga Kryss	1 - 1 	HT Re-Live
+Omgång  2
+2002-09-01 10:00 			
+	Talangen Stars - Starwars	3 - 1 	HT Re-Live
+	Dynga Kryss - FK Sandstormen	1 - 4 	HT Re-Live
+	Salomon Islands - Hallåellers	5 - 0 	HT Re-Live
+	Åshöjdens BK - Headless Chickens FC	5 - 0 	HT Re-Live
+Omgång  3
+2002-09-08 10:00 			
+	FK Sandstormen - Salomon Islands	4 - 4 	HT Re-Live
+	Headless Chickens FC - Dynga Kryss	4 - 1 	HT Re-Live
+	Talangen Stars - Åshöjdens BK	2 - 0 	HT Re-Live
+	Hallåellers - Starwars	1 - 2 	HT Re-Live
+Omgång  4
+2002-09-15 10:00 			
+	Starwars - Åshöjdens BK	4 - 0 	HT Re-Live
+	Dynga Kryss - Talangen Stars	0 - 2 	HT Re-Live
+	Salomon Islands - Headless Chickens FC	4 - 2 	HT Re-Live
+	Hallåellers - FK Sandstormen	5 - 0 	HT Re-Live
+Omgång  5
+2002-09-22 10:00 			
+	FK Sandstormen - Starwars	2 - 2 	HT Re-Live
+	Headless Chickens FC - Hallåellers	1 - 1 	HT Re-Live
+	Talangen Stars - Salomon Islands	5 - 1 	HT Re-Live
+	Åshöjdens BK - Dynga Kryss	3 - 1 	HT Re-Live
+Omgång  6
+2002-09-29 10:00 			
+	Starwars - Dynga Kryss	4 - 0 	HT Re-Live
+	FK Sandstormen - Headless Chickens FC	1 - 1 	HT Re-Live
+	Salomon Islands - Åshöjdens BK	5 - 0 	HT Re-Live
+	Hallåellers - Talangen Stars	3 - 1 	HT Re-Live
+Omgång  7
+2002-10-06 10:00 			
+	Headless Chickens FC - Starwars	1 - 5 	HT Re-Live
+	Talangen Stars - FK Sandstormen	3 - 1 	HT Re-Live
+	Dynga Kryss - Salomon Islands	1 - 2 	HT Re-Live
+	Åshöjdens BK - Hallåellers	3 - 0 	HT Re-Live
+Omgång  8
+2002-10-13 10:00 			
+	Hallåellers - Åshöjdens BK	2 - 2 	HT Re-Live
+	Salomon Islands - Dynga Kryss	3 - 0 	HT Re-Live
+	FK Sandstormen - Talangen Stars	1 - 5 	HT Re-Live
+	Starwars - Headless Chickens FC	3 - 1 	HT Re-Live
+Omgång  9
+2002-10-20 10:00 			
+	Talangen Stars - Hallåellers	2 - 2 	HT Re-Live
+	Åshöjdens BK - Salomon Islands	2 - 2 	HT Re-Live
+	Headless Chickens FC - FK Sandstormen	6 - 1 	HT Re-Live
+	Dynga Kryss - Starwars	0 - 4 	HT Re-Live
+Omgång  10
+2002-10-27 10:00 			
+	Dynga Kryss - Åshöjdens BK	0 - 2 	HT Re-Live
+	Salomon Islands - Talangen Stars	4 - 1 	HT Re-Live
+	Hallåellers - Headless Chickens FC	6 - 1 	HT Re-Live
+	Starwars - FK Sandstormen	4 - 0 	HT Re-Live
+Omgång  11
+2002-11-03 10:00 			
+	FK Sandstormen - Hallåellers	1 - 3 	HT Re-Live
+	Headless Chickens FC - Salomon Islands	1 - 3 	HT Re-Live
+	Talangen Stars - Dynga Kryss	4 - 1 	HT Re-Live
+	Åshöjdens BK - Starwars	0 - 1 	HT Re-Live
+Omgång  12
+2002-11-10 10:00 			
+	Starwars - Hallåellers	3 - 0 	HT Re-Live
+	Åshöjdens BK - Talangen Stars	1 - 0 	HT Re-Live
+	Dynga Kryss - Headless Chickens FC	2 - 6 	HT Re-Live
+	Salomon Islands - FK Sandstormen	3 - 2 	HT Re-Live
+Omgång  13
+2002-11-17 10:00 			
+	Headless Chickens FC - Åshöjdens BK	2 - 0 	HT Re-Live
+	Hallåellers - Salomon Islands	5 - 3 	HT Re-Live
+	FK Sandstormen - Dynga Kryss	1 - 5 	HT Re-Live
+	Starwars - Talangen Stars	1 - 3 	HT Re-Live
+Omgång  14
+2002-11-24 10:00 			
+	Dynga Kryss - Hallåellers	0 - 4 	HT Re-Live
+	Talangen Stars - Headless Chickens FC	6 - 2 	HT Re-Live
+	Åshöjdens BK - FK Sandstormen	1 - 2 	HT Re-Live
+	Salomon Islands - Starwars	3 - 1 	HT Re-Live

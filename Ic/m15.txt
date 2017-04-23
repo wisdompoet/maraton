@@ -1,0 +1,84 @@
+Omgång  1
+2002-01-13 10:00 			
+	Ljungans FF - SvinArne IF	0 - 3 	HT Re-Live
+	Dynamo Patricia - BK Marx	6 - 1 	HT Re-Live
+	Baloo BK - Swemporri	0 - 1 	HT Re-Live
+	Stream Team - Arvidsjaur BK	3 - 1 	HT Re-Live
+Omgång  2
+2002-01-20 10:00 			
+	Swemporri - Ljungans FF	2 - 0 	HT Re-Live
+	Arvidsjaur BK - Dynamo Patricia	2 - 0 	HT Re-Live
+	SvinArne IF - Stream Team	0 - 4 	HT Re-Live
+	BK Marx - Baloo BK	3 - 0 	HT Re-Live
+Omgång  3
+2002-01-27 10:00 			
+	Dynamo Patricia - SvinArne IF	4 - 0 	HT Re-Live
+	Baloo BK - Arvidsjaur BK	1 - 1 	HT Re-Live
+	Swemporri - BK Marx	3 - 1 	HT Re-Live
+	Stream Team - Ljungans FF	2 - 0 	HT Re-Live
+Omgång  4
+2002-02-03 10:00 			
+	Ljungans FF - BK Marx	1 - 1 	HT Re-Live
+	Arvidsjaur BK - Swemporri	0 - 2 	HT Re-Live
+	SvinArne IF - Baloo BK	2 - 3 	HT Re-Live
+	Stream Team - Dynamo Patricia	2 - 3 	HT Re-Live
+Omgång  5
+2002-02-10 10:00 			
+	Dynamo Patricia - Ljungans FF	3 - 0 	HT Re-Live
+	Baloo BK - Stream Team	1 - 2 	HT Re-Live
+	Swemporri - SvinArne IF	6 - 0 	HT Re-Live
+	BK Marx - Arvidsjaur BK	6 - 0 	HT Re-Live
+Omgång  6
+2002-02-17 10:00 			
+	Ljungans FF - Arvidsjaur BK	1 - 2 	HT Re-Live
+	Dynamo Patricia - Baloo BK	3 - 1 	HT Re-Live
+	SvinArne IF - BK Marx	1 - 0 	HT Re-Live
+	Stream Team - Swemporri	0 - 0 	HT Re-Live
+Omgång  7
+2002-02-24 10:00 			
+	Baloo BK - Ljungans FF	0 - 6 	HT Re-Live
+	Swemporri - Dynamo Patricia	3 - 0 	HT Re-Live
+	Arvidsjaur BK - SvinArne IF	3 - 1 	HT Re-Live
+	BK Marx - Stream Team	3 - 0 	HT Re-Live
+Omgång  8
+2002-03-03 10:00 			
+	Stream Team - BK Marx	1 - 5 	HT Re-Live
+	SvinArne IF - Arvidsjaur BK	0 - 1 	HT Re-Live
+	Dynamo Patricia - Swemporri	2 - 4 	HT Re-Live
+	Ljungans FF - Baloo BK	3 - 0 	HT Re-Live
+Omgång  9
+2002-03-10 10:00 			
+	Swemporri - Stream Team	2 - 1 	HT Re-Live
+	BK Marx - SvinArne IF	5 - 2 	HT Re-Live
+	Baloo BK - Dynamo Patricia	2 - 3 	HT Re-Live
+	Arvidsjaur BK - Ljungans FF	0 - 0 	HT Re-Live
+Omgång  10
+2002-03-17 10:00 			
+	Arvidsjaur BK - BK Marx	3 - 0 	HT Re-Live
+	SvinArne IF - Swemporri	0 - 2 	HT Re-Live
+	Stream Team - Baloo BK	4 - 0 	HT Re-Live
+	Ljungans FF - Dynamo Patricia	4 - 3 	HT Re-Live
+Omgång  11
+2002-03-24 10:00 			
+	Dynamo Patricia - Stream Team	7 - 1 	HT Re-Live
+	Baloo BK - SvinArne IF	2 - 1 	HT Re-Live
+	Swemporri - Arvidsjaur BK	3 - 2 	HT Re-Live
+	BK Marx - Ljungans FF	3 - 3 	HT Re-Live
+Omgång  12
+2002-03-31 10:00 			
+	Ljungans FF - Stream Team	0 - 1 	HT Re-Live
+	BK Marx - Swemporri	5 - 0 	HT Re-Live
+	Arvidsjaur BK - Baloo BK	2 - 0 	HT Re-Live
+	SvinArne IF - Dynamo Patricia	4 - 0 	HT Re-Live
+Omgång  13
+2002-04-07 10:00 			
+	Baloo BK - BK Marx	1 - 5 	HT Re-Live
+	Stream Team - SvinArne IF	2 - 1 	HT Re-Live
+	Dynamo Patricia - Arvidsjaur BK	0 - 0 	HT Re-Live
+	Ljungans FF - Swemporri	2 - 0 	HT Re-Live
+Omgång  14
+2002-04-14 10:00 			
+	Arvidsjaur BK - Stream Team	10 - 0 	HT Re-Live
+	Swemporri - Baloo BK	0 - 8 	HT Re-Live
+	BK Marx - Dynamo Patricia	3 - 2 	HT Re-Live
+	SvinArne IF - Ljungans FF	1 - 1 	HT Re-Live

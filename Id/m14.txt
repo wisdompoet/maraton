@@ -1,0 +1,84 @@
+Omgång  1
+2001-09-23 10:00 			
+	Åshöjdens BK - Sublime BK	0 - 2 	HT Re-Live
+	IFK FF - Brunkongarnas FF	2 - 1 	HT Re-Live
+	Grabbarna Med Hår På Bröstet - Team Ångest	2 - 1 	HT Re-Live
+	Hebbes vänner - F.C Keeps	0 - 0 	HT Re-Live
+Omgång  2
+2001-09-30 10:00 			
+	Team Ångest - Åshöjdens BK	1 - 2 	HT Re-Live
+	F.C Keeps - IFK FF	0 - 0 	HT Re-Live
+	Sublime BK - Hebbes vänner	4 - 0 	HT Re-Live
+	Brunkongarnas FF - Grabbarna Med Hår På Bröstet	5 - 0 	HT Re-Live
+Omgång  3
+2001-10-07 10:00 			
+	IFK FF - Sublime BK	0 - 3 	HT Re-Live
+	Grabbarna Med Hår På Bröstet - F.C Keeps	0 - 1 	HT Re-Live
+	Team Ångest - Brunkongarnas FF	2 - 0 	HT Re-Live
+	Hebbes vänner - Åshöjdens BK	3 - 5 	HT Re-Live
+Omgång  4
+2001-10-14 10:00 			
+	Åshöjdens BK - Brunkongarnas FF	5 - 0 	HT Re-Live
+	F.C Keeps - Team Ångest	0 - 0 	HT Re-Live
+	Sublime BK - Grabbarna Med Hår På Bröstet	0 - 0 	HT Re-Live
+	Hebbes vänner - IFK FF	1 - 4 	HT Re-Live
+Omgång  5
+2001-10-21 10:00 			
+	IFK FF - Åshöjdens BK	0 - 4 	HT Re-Live
+	Grabbarna Med Hår På Bröstet - Hebbes vänner	3 - 3 	HT Re-Live
+	Team Ångest - Sublime BK	3 - 0 	HT Re-Live
+	Brunkongarnas FF - F.C Keeps	0 - 2 	HT Re-Live
+Omgång  6
+2001-10-28 10:00 			
+	Åshöjdens BK - F.C Keeps	3 - 0 	HT Re-Live
+	IFK FF - Grabbarna Med Hår På Bröstet	5 - 1 	HT Re-Live
+	Sublime BK - Brunkongarnas FF	2 - 1 	HT Re-Live
+	Hebbes vänner - Team Ångest	3 - 1 	HT Re-Live
+Omgång  7
+2001-11-04 10:00 			
+	Grabbarna Med Hår På Bröstet - Åshöjdens BK	1 - 5 	HT Re-Live
+	Team Ångest - IFK FF	1 - 0 	HT Re-Live
+	F.C Keeps - Sublime BK	3 - 0 	HT Re-Live
+	Brunkongarnas FF - Hebbes vänner	5 - 2 	HT Re-Live
+Omgång  8
+2001-11-11 10:00 			
+	Hebbes vänner - Brunkongarnas FF	1 - 4 	HT Re-Live
+	Sublime BK - F.C Keeps	0 - 1 	HT Re-Live
+	IFK FF - Team Ångest	0 - 2 	HT Re-Live
+	Åshöjdens BK - Grabbarna Med Hår På Bröstet	4 - 0 	HT Re-Live
+Omgång  9
+2001-11-18 10:00 			
+	Team Ångest - Hebbes vänner	2 - 0 	HT Re-Live
+	Brunkongarnas FF - Sublime BK	3 - 0 	HT Re-Live
+	Grabbarna Med Hår På Bröstet - IFK FF	2 - 3 	HT Re-Live
+	F.C Keeps - Åshöjdens BK	0 - 1 	HT Re-Live
+Omgång  10
+2001-11-25 10:00 			
+	F.C Keeps - Brunkongarnas FF	1 - 0 	HT Re-Live
+	Sublime BK - Team Ångest	4 - 1 	HT Re-Live
+	Hebbes vänner - Grabbarna Med Hår På Bröstet	3 - 3 	HT Re-Live
+	Åshöjdens BK - IFK FF	5 - 0 	HT Re-Live
+Omgång  11
+2001-12-02 10:00 			
+	IFK FF - Hebbes vänner	2 - 1 	HT Re-Live
+	Grabbarna Med Hår På Bröstet - Sublime BK	2 - 0 	HT Re-Live
+	Team Ångest - F.C Keeps	1 - 0 	HT Re-Live
+	Brunkongarnas FF - Åshöjdens BK	1 - 4 	HT Re-Live
+Omgång  12
+2001-12-09 10:00 			
+	Åshöjdens BK - Hebbes vänner	4 - 1 	HT Re-Live
+	Brunkongarnas FF - Team Ångest	1 - 0 	HT Re-Live
+	F.C Keeps - Grabbarna Med Hår På Bröstet	0 - 2 	HT Re-Live
+	Sublime BK - IFK FF	1 - 1 	HT Re-Live
+Omgång  13
+2001-12-16 10:00 			
+	Grabbarna Med Hår På Bröstet - Brunkongarnas FF	1 - 1 	HT Re-Live
+	Hebbes vänner - Sublime BK	1 - 2 	HT Re-Live
+	IFK FF - F.C Keeps	3 - 1 	HT Re-Live
+	Åshöjdens BK - Team Ångest	5 - 0 	HT Re-Live
+Omgång  14
+2001-12-23 10:00 			
+	F.C Keeps - Hebbes vänner	2 - 1 	HT Re-Live
+	Team Ångest - Grabbarna Med Hår På Bröstet	4 - 0 	HT Re-Live
+	Brunkongarnas FF - IFK FF	4 - 1 	HT Re-Live
+	Sublime BK - Åshöjdens BK	0 - 2 	HT Re-Live

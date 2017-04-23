@@ -1,0 +1,84 @@
+Omgång  1
+2003-07-27 10:00 			
+	IFK FF - Knutpunkten Kickers	2 - 3 	HT Re-Live
+	Prince Park Rangers - Tuna Tigers	2 - 1 	HT Re-Live
+	Boca Seniors - FK Sturm	2 - 1 	HT Re-Live
+	Vagabundos FC - Stream Team	1 - 1 	HT Re-Live
+Omgång  2
+2003-08-03 10:00 			
+	FK Sturm - IFK FF	3 - 2 	HT Re-Live
+	Stream Team - Prince Park Rangers	2 - 1 	HT Re-Live
+	Knutpunkten Kickers - Vagabundos FC	3 - 3 	HT Re-Live
+	Tuna Tigers - Boca Seniors	1 - 1 	HT Re-Live
+Omgång  3
+2003-08-10 10:00 			
+	Prince Park Rangers - Knutpunkten Kickers	3 - 0 	HT Re-Live
+	Boca Seniors - Stream Team	3 - 1 	HT Re-Live
+	FK Sturm - Tuna Tigers	4 - 0 	HT Re-Live
+	Vagabundos FC - IFK FF	1 - 1 	HT Re-Live
+Omgång  4
+2003-08-17 10:00 			
+	IFK FF - Tuna Tigers	1 - 0 	HT Re-Live
+	Stream Team - FK Sturm	4 - 1 	HT Re-Live
+	Knutpunkten Kickers - Boca Seniors	2 - 3 	HT Re-Live
+	Vagabundos FC - Prince Park Rangers	1 - 5 	HT Re-Live
+Omgång  5
+2003-08-24 10:00 			
+	Prince Park Rangers - IFK FF	2 - 1 	HT Re-Live
+	Boca Seniors - Vagabundos FC	3 - 0 	HT Re-Live
+	FK Sturm - Knutpunkten Kickers	5 - 0 	HT Re-Live
+	Tuna Tigers - Stream Team	1 - 2 	HT Re-Live
+Omgång  6
+2003-08-31 10:00 			
+	IFK FF - Stream Team	3 - 0 	HT Re-Live
+	Prince Park Rangers - Boca Seniors	0 - 1 	HT Re-Live
+	Knutpunkten Kickers - Tuna Tigers	4 - 1 	HT Re-Live
+	Vagabundos FC - FK Sturm	1 - 0 	HT Re-Live
+Omgång  7
+2003-09-07 10:00 			
+	Boca Seniors - IFK FF	0 - 4 	HT Re-Live
+	FK Sturm - Prince Park Rangers	0 - 1 	HT Re-Live
+	Stream Team - Knutpunkten Kickers	3 - 0 	HT Re-Live
+	Tuna Tigers - Vagabundos FC	1 - 5 	HT Re-Live
+Omgång  8
+2003-09-14 10:00 			
+	Vagabundos FC - Tuna Tigers	4 - 0 	HT Re-Live
+	Knutpunkten Kickers - Stream Team	2 - 1 	HT Re-Live
+	Prince Park Rangers - FK Sturm	5 - 1 	HT Re-Live
+	IFK FF - Boca Seniors	2 - 0 	HT Re-Live
+Omgång  9
+2003-09-21 10:00 			
+	FK Sturm - Vagabundos FC	1 - 0 	HT Re-Live
+	Tuna Tigers - Knutpunkten Kickers	1 - 0 	HT Re-Live
+	Boca Seniors - Prince Park Rangers	2 - 4 	HT Re-Live
+	Stream Team - IFK FF	2 - 1 	HT Re-Live
+Omgång  10
+2003-09-28 10:00 			
+	Stream Team - Tuna Tigers	4 - 1 	HT Re-Live
+	Knutpunkten Kickers - FK Sturm	3 - 1 	HT Re-Live
+	Vagabundos FC - Boca Seniors	3 - 0 	HT Re-Live
+	IFK FF - Prince Park Rangers	2 - 2 	HT Re-Live
+Omgång  11
+2003-10-05 10:00 			
+	Prince Park Rangers - Vagabundos FC	1 - 0 	HT Re-Live
+	Boca Seniors - Knutpunkten Kickers	0 - 0 	HT Re-Live
+	FK Sturm - Stream Team	1 - 0 	HT Re-Live
+	Tuna Tigers - IFK FF	8 - 0 	HT Re-Live
+Omgång  12
+2003-10-12 10:00 			
+	IFK FF - Vagabundos FC	2 - 1 	HT Re-Live
+	Tuna Tigers - FK Sturm	3 - 0 	HT Re-Live
+	Stream Team - Boca Seniors	1 - 0 	HT Re-Live
+	Knutpunkten Kickers - Prince Park Rangers	4 - 0 	HT Re-Live
+Omgång  13
+2003-10-19 10:00 			
+	Boca Seniors - Tuna Tigers	1 - 0 	HT Re-Live
+	Vagabundos FC - Knutpunkten Kickers	2 - 1 	HT Re-Live
+	Prince Park Rangers - Stream Team	1 - 0 	HT Re-Live
+	IFK FF - FK Sturm	2 - 3 	HT Re-Live
+Omgång  14
+2003-10-26 10:00 			
+	Stream Team - Vagabundos FC	3 - 1 	HT Re-Live
+	FK Sturm - Boca Seniors	1 - 2 	HT Re-Live
+	Tuna Tigers - Prince Park Rangers	2 - 0 	HT Re-Live
+	Knutpunkten Kickers - IFK FF	6 - 0 	HT Re-Live

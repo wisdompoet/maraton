@@ -1,0 +1,84 @@
+Omgång  1
+2008-10-12 10:00 			
+	IFK Ninweborg - Coffin Nibblers	0 - 5 	HT Re-Live
+	Black Rhinos United - Red Dreamteam	1 - 3 	HT Re-Live
+	Zlatan_BK - Rednaxela	2 - 1 	HT Re-Live
+	FC Montesvano - Angels of Gothenburg	4 - 0 	HT Re-Live
+Omgång  2
+2008-10-19 10:00 			
+	Red Dreamteam - IFK Ninweborg	4 - 4 	HT Re-Live
+	Rednaxela - FC Montesvano	3 - 0 	HT Re-Live
+	Coffin Nibblers - Zlatan_BK	3 - 3 	HT Re-Live
+	Angels of Gothenburg - Black Rhinos United	4 - 2 	HT Re-Live
+Omgång  3
+2008-10-26 10:00 			
+	FC Montesvano - Coffin Nibblers	1 - 5 	HT Re-Live
+	Red Dreamteam - Angels of Gothenburg	2 - 2 	HT Re-Live
+	Black Rhinos United - Rednaxela	3 - 3 	HT Re-Live
+	Zlatan_BK - IFK Ninweborg	4 - 4 	HT Re-Live
+Omgång  4
+2008-11-02 10:00 			
+	IFK Ninweborg - Angels of Gothenburg	9 - 0 	HT Re-Live
+	Rednaxela - Red Dreamteam	7 - 1 	HT Re-Live
+	Coffin Nibblers - Black Rhinos United	5 - 1 	HT Re-Live
+	Zlatan_BK - FC Montesvano	3 - 0 	HT Re-Live
+Omgång  5
+2008-11-09 10:00 			
+	FC Montesvano - IFK Ninweborg	2 - 2 	HT Re-Live
+	Black Rhinos United - Zlatan_BK	3 - 5 	HT Re-Live
+	Red Dreamteam - Coffin Nibblers	2 - 6 	HT Re-Live
+	Angels of Gothenburg - Rednaxela	3 - 3 	HT Re-Live
+Omgång  6
+2008-11-16 10:00 			
+	IFK Ninweborg - Rednaxela	4 - 5 	HT Re-Live
+	FC Montesvano - Black Rhinos United	3 - 0 	HT Re-Live
+	Coffin Nibblers - Angels of Gothenburg	5 - 2 	HT Re-Live
+	Zlatan_BK - Red Dreamteam	5 - 1 	HT Re-Live
+Omgång  7
+2008-11-23 10:00 			
+	Black Rhinos United - IFK Ninweborg	1 - 5 	HT Re-Live
+	Red Dreamteam - FC Montesvano	4 - 1 	HT Re-Live
+	Rednaxela - Coffin Nibblers	3 - 3 	HT Re-Live
+	Angels of Gothenburg - Zlatan_BK	1 - 2 	HT Re-Live
+Omgång  8
+2008-11-30 10:00 			
+	Zlatan_BK - Angels of Gothenburg	6 - 3 	HT Re-Live
+	IFK Ninweborg - Black Rhinos United	6 - 1 	HT Re-Live
+	FC Montesvano - Red Dreamteam	2 - 4 	HT Re-Live
+	Coffin Nibblers - Rednaxela	3 - 1 	HT Re-Live
+Omgång  9
+2008-12-07 10:00 			
+	Red Dreamteam - Zlatan_BK	2 - 3 	HT Re-Live
+	Angels of Gothenburg - Coffin Nibblers	2 - 5 	HT Re-Live
+	Black Rhinos United - FC Montesvano	2 - 2 	HT Re-Live
+	Rednaxela - IFK Ninweborg	1 - 2 	HT Re-Live
+Omgång  10
+2008-12-14 10:00 			
+	Rednaxela - Angels of Gothenburg	5 - 0 	HT Re-Live
+	Zlatan_BK - Black Rhinos United	0 - 0 	HT Re-Live
+	Coffin Nibblers - Red Dreamteam	4 - 0 	HT Re-Live
+	IFK Ninweborg - FC Montesvano	2 - 2 	HT Re-Live
+Omgång  11
+2008-12-21 10:00 			
+	Red Dreamteam - Rednaxela	1 - 2 	HT Re-Live
+	Angels of Gothenburg - IFK Ninweborg	4 - 1 	HT Re-Live
+	FC Montesvano - Zlatan_BK	0 - 0 	HT Re-Live
+	Black Rhinos United - Coffin Nibblers	2 - 3 	HT Re-Live
+Omgång  12
+2008-12-28 10:00 			
+	IFK Ninweborg - Zlatan_BK	3 - 0 	HT Re-Live
+	Angels of Gothenburg - Red Dreamteam	2 - 1 	HT Re-Live
+	Rednaxela - Black Rhinos United	2 - 2 	HT Re-Live
+	Coffin Nibblers - FC Montesvano	2 - 2 	HT Re-Live
+Omgång  13
+2009-01-04 10:00 			
+	Black Rhinos United - Angels of Gothenburg	0 - 1 	HT Re-Live
+	Zlatan_BK - Coffin Nibblers	0 - 1 	HT Re-Live
+	FC Montesvano - Rednaxela	2 - 1 	HT Re-Live
+	IFK Ninweborg - Red Dreamteam	5 - 1 	HT Re-Live
+Omgång  14
+2009-01-11 10:00 			
+	Rednaxela - Zlatan_BK	9 - 0 	HT Re-Live
+	Red Dreamteam - Black Rhinos United	1 - 0 	HT Re-Live
+	Coffin Nibblers - IFK Ninweborg	3 - 0 	HT Re-Live
+	Angels of Gothenburg - FC Montesvano	2 - 0 	HT Re-Live

@@ -1,0 +1,84 @@
+Omgång  1
+2015-03-22 10:00 (1/58) 			
+	Skansholms SK - Norsgatan Kickers 	4 - 2 	HT Re-Live
+	Dicanio - Rotorp 	1 - 2 	HT Re-Live
+	Sthlm-Fanatix - Skene IF 	4 - 1 	HT Re-Live
+	Helags FF - Ljungby IF 	4 - 0 	HT Re-Live
+Omgång  2
+2015-03-29 10:00 (2/58) 			
+	Norsgatan Kickers - Helags FF 	4 - 0 	HT Re-Live
+	Skene IF  - Dicanio 	2 - 1 	HT Re-Live
+	Rotorp - Skansholms SK 	1 - 2 	HT Re-Live
+	Ljungby IF - Sthlm-Fanatix 	2 - 0 	HT Re-Live
+Omgång  3
+2015-04-05 10:00 (3/58) 			
+	Skansholms SK - Ljungby IF 	5 - 3 	HT Re-Live
+	Rotorp - Norsgatan Kickers 	1 - 2 	HT Re-Live
+	Helags FF - Skene IF 	1 - 2 	HT Re-Live
+	Dicanio - Sthlm-Fanatix 	0 - 3 	HT Re-Live
+Omgång  4
+2015-04-12 10:00 (4/58) 			
+	Norsgatan Kickers - Dicanio 	3 - 2 	HT Re-Live
+	Skene IF  - Skansholms SK 	5 - 0 	HT Re-Live
+	Sthlm-Fanatix - Helags FF 	2 - 3 	HT Re-Live
+	Ljungby IF - Rotorp 	3 - 1 	HT Re-Live
+Omgång  5
+2015-04-19 10:00 (5/58) 			
+	Rotorp - Sthlm-Fanatix 	4 - 1 	HT Re-Live
+	Skansholms SK - Helags FF 	0 - 1 	HT Re-Live
+	Dicanio - Ljungby IF 	3 - 1 	HT Re-Live
+	Norsgatan Kickers - Skene IF 	4 - 1 	HT Re-Live
+Omgång  6
+2015-04-26 10:00 (6/58) 			
+	Sthlm-Fanatix - Skansholms SK 	2 - 2 	HT Re-Live
+	Helags FF - Dicanio 	2 - 1 	HT Re-Live
+	Skene IF  - Rotorp 	4 - 1 	HT Re-Live
+	Ljungby IF - Norsgatan Kickers 	3 - 3 	HT Re-Live
+Omgång  7
+2015-05-03 10:00 (7/58) 			
+	Norsgatan Kickers - Sthlm-Fanatix 	2 - 2 	HT Re-Live
+	Rotorp - Helags FF 	2 - 4 	HT Re-Live
+	Skansholms SK - Dicanio 	5 - 3 	HT Re-Live
+	Skene IF  - Ljungby IF 	3 - 0 	HT Re-Live
+Omgång  8
+2015-05-10 10:00 (8/58) 			
+	Ljungby IF - Skene IF 	1 - 4 	HT Re-Live
+	Helags FF - Rotorp 	3 - 1 	HT Re-Live
+	Sthlm-Fanatix - Norsgatan Kickers 	4 - 5 	HT Re-Live
+	Dicanio - Skansholms SK 	2 - 0 	HT Re-Live
+Omgång  9
+2015-05-17 10:00 (9/58) 			
+	Rotorp - Skene IF 	0 - 6 	HT Re-Live
+	Norsgatan Kickers - Ljungby IF 	5 - 2 	HT Re-Live
+	Skansholms SK - Sthlm-Fanatix 	5 - 1 	HT Re-Live
+	Dicanio - Helags FF 	4 - 2 	HT Re-Live
+Omgång  10
+2015-05-24 10:00 (10/58) 			
+	Skene IF  - Norsgatan Kickers 	3 - 0 	HT Re-Live
+	Ljungby IF - Dicanio 	3 - 5 	HT Re-Live
+	Helags FF - Skansholms SK 	5 - 1 	HT Re-Live
+	Sthlm-Fanatix - Rotorp 	1 - 3 	HT Re-Live
+Omgång  11
+2015-05-31 10:00 (11/58) 			
+	Skansholms SK - Skene IF 	2 - 1 	HT Re-Live
+	Dicanio - Norsgatan Kickers 	3 - 1 	HT Re-Live
+	Rotorp - Ljungby IF 	2 - 0 	HT Re-Live
+	Helags FF - Sthlm-Fanatix 	1 - 4 	HT Re-Live
+Omgång  12
+2015-06-07 10:00 (12/58) 			
+	Skene IF  - Helags FF 	2 - 1 	HT Re-Live
+	Norsgatan Kickers - Rotorp 	4 - 0 	HT Re-Live
+	Ljungby IF - Skansholms SK 	1 - 1 	HT Re-Live
+	Sthlm-Fanatix - Dicanio 	0 - 2 	HT Re-Live
+Omgång  13
+2015-06-14 10:00 (13/58) 			
+	Sthlm-Fanatix - Ljungby IF 	5 - 0 	HT Re-Live
+	Dicanio - Skene IF 	4 - 0 	HT Re-Live
+	Helags FF - Norsgatan Kickers 	3 - 3 	HT Re-Live
+	Skansholms SK - Rotorp 	5 - 0 	HT Re-Live
+Omgång  14
+2015-06-21 10:00 (14/58) 			
+	Ljungby IF - Helags FF 	1 - 1 	HT Re-Live
+	Skene IF  - Sthlm-Fanatix 	3 - 2 	HT Re-Live
+	Rotorp - Dicanio 	2 - 1 	HT Re-Live
+	Norsgatan Kickers - Skansholms SK 	3 - 2 	HT Re-Live

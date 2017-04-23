@@ -1,0 +1,84 @@
+Omgång  1
+2007-07-22 10:00 			
+	Olsgårdens IF - Oriole United	3 - 5 	HT Re-Live
+	Råssbyn United - Falköpings BK	2 - 2 	HT Re-Live
+	AYREON FC - Swedish Wikings!	6 - 3 	HT Re-Live
+	BK Spoven - Bäverhult BK	3 - 4 	HT Re-Live
+Omgång  2
+2007-07-29 10:00 			
+	Bäverhult BK - Olsgårdens IF	5 - 1 	HT Re-Live
+	Swedish Wikings! - Råssbyn United	1 - 4 	HT Re-Live
+	Falköpings BK - BK Spoven	3 - 2 	HT Re-Live
+	Oriole United - AYREON FC	7 - 4 	HT Re-Live
+Omgång  3
+2007-08-05 10:00 			
+	Råssbyn United - Oriole United	4 - 2 	HT Re-Live
+	Bäverhult BK - Falköpings BK	3 - 1 	HT Re-Live
+	AYREON FC - Olsgårdens IF	5 - 2 	HT Re-Live
+	BK Spoven - Swedish Wikings!	7 - 2 	HT Re-Live
+Omgång  4
+2007-08-12 10:00 			
+	Olsgårdens IF - Falköpings BK	3 - 1 	HT Re-Live
+	Swedish Wikings! - Bäverhult BK	2 - 4 	HT Re-Live
+	Oriole United - BK Spoven	4 - 5 	HT Re-Live
+	AYREON FC - Råssbyn United	7 - 3 	HT Re-Live
+Omgång  5
+2007-08-19 10:00 			
+	Råssbyn United - Olsgårdens IF	2 - 2 	HT Re-Live
+	Falköpings BK - Swedish Wikings!	4 - 0 	HT Re-Live
+	BK Spoven - AYREON FC	4 - 5 	HT Re-Live
+	Bäverhult BK - Oriole United	8 - 0 	HT Re-Live
+Omgång  6
+2007-08-26 10:00 			
+	Olsgårdens IF - Swedish Wikings!	8 - 1 	HT Re-Live
+	Råssbyn United - BK Spoven	3 - 1 	HT Re-Live
+	Oriole United - Falköpings BK	0 - 8 	HT Re-Live
+	AYREON FC - Bäverhult BK	4 - 7 	HT Re-Live
+Omgång  7
+2007-09-02 10:00 			
+	Swedish Wikings! - Oriole United	8 - 0 	HT Re-Live
+	Falköpings BK - AYREON FC	5 - 0 	HT Re-Live
+	Bäverhult BK - Råssbyn United	2 - 3 	HT Re-Live
+	BK Spoven - Olsgårdens IF	6 - 1 	HT Re-Live
+Omgång  8
+2007-09-09 10:00 			
+	Olsgårdens IF - BK Spoven	6 - 1 	HT Re-Live
+	AYREON FC - Falköpings BK	1 - 7 	HT Re-Live
+	Oriole United - Swedish Wikings!	0 - 5 	HT Re-Live
+	Råssbyn United - Bäverhult BK	5 - 2 	HT Re-Live
+Omgång  9
+2007-09-16 10:00 			
+	Bäverhult BK - AYREON FC	8 - 2 	HT Re-Live
+	BK Spoven - Råssbyn United	4 - 2 	HT Re-Live
+	Swedish Wikings! - Olsgårdens IF	3 - 5 	HT Re-Live
+	Falköpings BK - Oriole United	10 - 0 	HT Re-Live
+Omgång  10
+2007-09-23 10:00 			
+	Oriole United - Bäverhult BK	0 - 9 	HT Re-Live
+	Swedish Wikings! - Falköpings BK	3 - 2 	HT Re-Live
+	AYREON FC - BK Spoven	6 - 3 	HT Re-Live
+	Olsgårdens IF - Råssbyn United	1 - 0 	HT Re-Live
+Omgång  11
+2007-09-30 10:00 			
+	BK Spoven - Oriole United	6 - 0 	HT Re-Live
+	Falköpings BK - Olsgårdens IF	10 - 0 	HT Re-Live
+	Råssbyn United - AYREON FC	7 - 0 	HT Re-Live
+	Bäverhult BK - Swedish Wikings!	5 - 4 	HT Re-Live
+Omgång  12
+2007-10-07 10:00 			
+	Falköpings BK - Bäverhult BK	7 - 0 	HT Re-Live
+	Swedish Wikings! - BK Spoven	4 - 6 	HT Re-Live
+	Oriole United - Råssbyn United	0 - 8 	HT Re-Live
+	Olsgårdens IF - AYREON FC	0 - 9 	HT Re-Live
+Omgång  13
+2007-10-14 10:00 			
+	BK Spoven - Falköpings BK	2 - 2 	HT Re-Live
+	Olsgårdens IF - Bäverhult BK	1 - 8 	HT Re-Live
+	Råssbyn United - Swedish Wikings!	8 - 0 	HT Re-Live
+	AYREON FC - Oriole United	9 - 0 	HT Re-Live
+Omgång  14
+2007-10-21 10:00 			
+	Falköpings BK - Råssbyn United	7 - 0 	HT Re-Live
+	Bäverhult BK - BK Spoven	6 - 4 	HT Re-Live
+	Oriole United - Olsgårdens IF	0 - 7 	HT Re-Live
+	Swedish Wikings! - AYREON FC	0 - 10 	HT Re-Live

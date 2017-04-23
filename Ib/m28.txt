@@ -1,0 +1,84 @@
+Omgång  1
+2006-01-08 10:00 			
+	Lokomotiv Lund - New Psycho Cowboys	2 - 2 	HT Re-Live
+	Matte Ducks - Murklan FC	2 - 1 	HT Re-Live
+	Storhagen United - IFK Mörlanda	0 - 2 	HT Re-Live
+	Förort Allstars - Håbol IF	0 - 1 	HT Re-Live
+Omgång  2
+2006-01-15 10:00 			
+	IFK Mörlanda - Lokomotiv Lund	6 - 0 	HT Re-Live
+	Håbol IF - Matte Ducks	0 - 1 	HT Re-Live
+	New Psycho Cowboys - Förort Allstars	1 - 4 	HT Re-Live
+	Murklan FC - Storhagen United	2 - 3 	HT Re-Live
+Omgång  3
+2006-01-22 10:00 			
+	Matte Ducks - New Psycho Cowboys	3 - 2 	HT Re-Live
+	Storhagen United - Håbol IF	1 - 1 	HT Re-Live
+	IFK Mörlanda - Murklan FC	2 - 0 	HT Re-Live
+	Förort Allstars - Lokomotiv Lund	3 - 4 	HT Re-Live
+Omgång  4
+2006-01-29 10:00 			
+	Lokomotiv Lund - Murklan FC	4 - 2 	HT Re-Live
+	Håbol IF - IFK Mörlanda	4 - 0 	HT Re-Live
+	New Psycho Cowboys - Storhagen United	3 - 2 	HT Re-Live
+	Förort Allstars - Matte Ducks	3 - 3 	HT Re-Live
+Omgång  5
+2006-02-05 10:00 			
+	Matte Ducks - Lokomotiv Lund	6 - 2 	HT Re-Live
+	Storhagen United - Förort Allstars	3 - 1 	HT Re-Live
+	IFK Mörlanda - New Psycho Cowboys	4 - 4 	HT Re-Live
+	Murklan FC - Håbol IF	1 - 3 	HT Re-Live
+Omgång  6
+2006-02-12 10:00 			
+	Lokomotiv Lund - Håbol IF	6 - 0 	HT Re-Live
+	Matte Ducks - Storhagen United	6 - 3 	HT Re-Live
+	New Psycho Cowboys - Murklan FC	4 - 1 	HT Re-Live
+	Förort Allstars - IFK Mörlanda	5 - 0 	HT Re-Live
+Omgång  7
+2006-02-19 10:00 			
+	Storhagen United - Lokomotiv Lund	0 - 7 	HT Re-Live
+	IFK Mörlanda - Matte Ducks	4 - 0 	HT Re-Live
+	Håbol IF - New Psycho Cowboys	6 - 1 	HT Re-Live
+	Murklan FC - Förort Allstars	1 - 2 	HT Re-Live
+Omgång  8
+2006-02-26 10:00 			
+	Förort Allstars - Murklan FC	0 - 2 	HT Re-Live
+	New Psycho Cowboys - Håbol IF	3 - 2 	HT Re-Live
+	Matte Ducks - IFK Mörlanda	1 - 3 	HT Re-Live
+	Lokomotiv Lund - Storhagen United	6 - 0 	HT Re-Live
+Omgång  9
+2006-03-05 10:00 			
+	IFK Mörlanda - Förort Allstars	1 - 1 	HT Re-Live
+	Murklan FC - New Psycho Cowboys	2 - 4 	HT Re-Live
+	Storhagen United - Matte Ducks	0 - 4 	HT Re-Live
+	Håbol IF - Lokomotiv Lund	2 - 4 	HT Re-Live
+Omgång  10
+2006-03-12 10:00 			
+	Håbol IF - Murklan FC	1 - 2 	HT Re-Live
+	New Psycho Cowboys - IFK Mörlanda	5 - 3 	HT Re-Live
+	Förort Allstars - Storhagen United	3 - 0 	HT Re-Live
+	Lokomotiv Lund - Matte Ducks	5 - 0 	HT Re-Live
+Omgång  11
+2006-03-19 10:00 			
+	Matte Ducks - Förort Allstars	1 - 2 	HT Re-Live
+	Storhagen United - New Psycho Cowboys	0 - 7 	HT Re-Live
+	IFK Mörlanda - Håbol IF	1 - 0 	HT Re-Live
+	Murklan FC - Lokomotiv Lund	1 - 5 	HT Re-Live
+Omgång  12
+2006-03-26 10:00 			
+	Lokomotiv Lund - Förort Allstars	6 - 1 	HT Re-Live
+	Murklan FC - IFK Mörlanda	0 - 2 	HT Re-Live
+	Håbol IF - Storhagen United	6 - 0 	HT Re-Live
+	New Psycho Cowboys - Matte Ducks	3 - 2 	HT Re-Live
+Omgång  13
+2006-04-02 10:00 			
+	Storhagen United - Murklan FC	0 - 7 	HT Re-Live
+	Förort Allstars - New Psycho Cowboys	1 - 3 	HT Re-Live
+	Matte Ducks - Håbol IF	5 - 0 	HT Re-Live
+	Lokomotiv Lund - IFK Mörlanda	5 - 6 	HT Re-Live
+Omgång  14
+2006-04-09 10:00 			
+	Håbol IF - Förort Allstars	0 - 2 	HT Re-Live
+	IFK Mörlanda - Storhagen United	9 - 0 	HT Re-Live
+	Murklan FC - Matte Ducks	3 - 2 	HT Re-Live
+	New Psycho Cowboys - Lokomotiv Lund	4 - 4 	HT Re-Live

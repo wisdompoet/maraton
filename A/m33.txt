@@ -1,0 +1,84 @@
+Omgång  1
+2007-07-22 10:00 			
+	BK Örnen - Team Molgan 	3 - 1 	HT Re-Live
+	Schenströmska BK - Incentus FC 	3 - 0 	HT Re-Live
+	Zeta - Skansholms SK 	4 - 3 	HT Re-Live
+	LA Hookers - Neonic FC 	3 - 0 	HT Re-Live
+Omgång  2
+2007-07-29 10:00 			
+	Incentus FC - Zeta 	3 - 2 	HT Re-Live
+	Team Molgan - LA Hookers 	1 - 2 	HT Re-Live
+	Skansholms SK - BK Örnen 	3 - 5 	HT Re-Live
+	Neonic FC - Schenströmska BK 	2 - 1 	HT Re-Live
+Omgång  3
+2007-08-05 10:00 			
+	BK Örnen - Incentus FC 	3 - 0 	HT Re-Live
+	Zeta - Neonic FC 	3 - 2 	HT Re-Live
+	Team Molgan - Skansholms SK 	1 - 2 	HT Re-Live
+	Schenströmska BK - LA Hookers 	2 - 1 	HT Re-Live
+Omgång  4
+2007-08-12 10:00 			
+	LA Hookers - Skansholms SK 	5 - 1 	HT Re-Live
+	Incentus FC - Team Molgan 	2 - 1 	HT Re-Live
+	Schenströmska BK - Zeta 	1 - 2 	HT Re-Live
+	Neonic FC - BK Örnen 	2 - 1 	HT Re-Live
+Omgång  5
+2007-08-19 10:00 			
+	BK Örnen - Schenströmska BK 	4 - 1 	HT Re-Live
+	Team Molgan - Neonic FC 	2 - 0 	HT Re-Live
+	Skansholms SK - Incentus FC 	1 - 3 	HT Re-Live
+	Zeta - LA Hookers 	1 - 6 	HT Re-Live
+Omgång  6
+2007-08-26 10:00 			
+	LA Hookers - Incentus FC 	0 - 2 	HT Re-Live
+	Schenströmska BK - Team Molgan 	3 - 1 	HT Re-Live
+	Neonic FC - Skansholms SK 	5 - 2 	HT Re-Live
+	Zeta - BK Örnen 	3 - 3 	HT Re-Live
+Omgång  7
+2007-09-02 10:00 			
+	Incentus FC - Neonic FC 	2 - 2 	HT Re-Live
+	Team Molgan - Zeta 	4 - 1 	HT Re-Live
+	Skansholms SK - Schenströmska BK 	3 - 2 	HT Re-Live
+	BK Örnen - LA Hookers 	3 - 1 	HT Re-Live
+Omgång  8
+2007-09-09 10:00 			
+	LA Hookers - BK Örnen 	5 - 1 	HT Re-Live
+	Zeta - Team Molgan 	2 - 1 	HT Re-Live
+	Schenströmska BK - Skansholms SK 	3 - 2 	HT Re-Live
+	Neonic FC - Incentus FC 	4 - 4 	HT Re-Live
+Omgång  9
+2007-09-16 10:00 			
+	Team Molgan - Schenströmska BK 	1 - 2 	HT Re-Live
+	Skansholms SK - Neonic FC 	3 - 0 	HT Re-Live
+	Incentus FC - LA Hookers 	1 - 2 	HT Re-Live
+	BK Örnen - Zeta 	4 - 1 	HT Re-Live
+Omgång  10
+2007-09-23 10:00 			
+	LA Hookers - Zeta 	2 - 2 	HT Re-Live
+	Neonic FC - Team Molgan 	2 - 1 	HT Re-Live
+	Schenströmska BK - BK Örnen 	3 - 2 	HT Re-Live
+	Incentus FC - Skansholms SK 	4 - 2 	HT Re-Live
+Omgång  11
+2007-09-30 10:00 			
+	Skansholms SK - LA Hookers 	1 - 0 	HT Re-Live
+	BK Örnen - Neonic FC 	2 - 0 	HT Re-Live
+	Team Molgan - Incentus FC 	3 - 4 	HT Re-Live
+	Zeta - Schenströmska BK 	3 - 1 	HT Re-Live
+Omgång  12
+2007-10-07 10:00 			
+	Skansholms SK - Team Molgan 	4 - 1 	HT Re-Live
+	Incentus FC - BK Örnen 	4 - 0 	HT Re-Live
+	LA Hookers - Schenströmska BK 	1 - 0 	HT Re-Live
+	Neonic FC - Zeta 	0 - 2 	HT Re-Live
+Omgång  13
+2007-10-14 10:00 			
+	Schenströmska BK - Neonic FC 	3 - 2 	HT Re-Live
+	LA Hookers - Team Molgan 	4 - 0 	HT Re-Live
+	BK Örnen - Skansholms SK 	1 - 2 	HT Re-Live
+	Zeta - Incentus FC 	3 - 0 	HT Re-Live
+Omgång  14
+2007-10-21 10:00 			
+	Incentus FC - Schenströmska BK 	5 - 1 	HT Re-Live
+	Team Molgan - BK Örnen 	3 - 1 	HT Re-Live
+	Neonic FC - LA Hookers 	0 - 4 	HT Re-Live
+	Skansholms SK - Zeta 	0 - 3 	HT Re-Live

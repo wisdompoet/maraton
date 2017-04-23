@@ -1,0 +1,84 @@
+Omgång  1
+2011-07-17 10:00 			
+	Los Pebbos - Hagfors FC	0 - 8 	HT Re-Live
+	Sundsvall Meanmachines - FC Corvus Corax	5 - 0 	HT Re-Live
+	Beelzebubbens Busar - FC Mackan	1 - 1 	HT Re-Live
+	Anderstorp F.C. - Ränneskit IF	2 - 0 	HT Re-Live
+Omgång  2
+2011-07-24 10:00 			
+	FC Corvus Corax - Anderstorp F.C.	4 - 3 	HT Re-Live
+	Hagfors FC - Beelzebubbens Busar	4 - 3 	HT Re-Live
+	FC Mackan - Sundsvall Meanmachines	5 - 1 	HT Re-Live
+	Ränneskit IF - Los Pebbos	9 - 0 	HT Re-Live
+Omgång  3
+2011-07-31 10:00 			
+	Los Pebbos - FC Mackan	1 - 5 	HT Re-Live
+	Beelzebubbens Busar - FC Corvus Corax	7 - 3 	HT Re-Live
+	Anderstorp F.C. - Sundsvall Meanmachines	4 - 2 	HT Re-Live
+	Ränneskit IF - Hagfors FC	2 - 2 	HT Re-Live
+Omgång  4
+2011-08-07 10:00 			
+	Hagfors FC - Anderstorp F.C.	3 - 3 	HT Re-Live
+	Sundsvall Meanmachines - Beelzebubbens Busar	5 - 0 	HT Re-Live
+	FC Mackan - Ränneskit IF	4 - 2 	HT Re-Live
+	FC Corvus Corax - Los Pebbos	5 - 0 	HT Re-Live
+Omgång  5
+2011-08-14 10:00 			
+	Ränneskit IF - Sundsvall Meanmachines	4 - 0 	HT Re-Live
+	Los Pebbos - Beelzebubbens Busar	2 - 4 	HT Re-Live
+	Anderstorp F.C. - FC Mackan	3 - 2 	HT Re-Live
+	Hagfors FC - FC Corvus Corax	3 - 0 	HT Re-Live
+Omgång  6
+2011-08-21 10:00 			
+	Sundsvall Meanmachines - Los Pebbos	2 - 0 	HT Re-Live
+	Beelzebubbens Busar - Anderstorp F.C.	3 - 1 	HT Re-Live
+	FC Corvus Corax - Ränneskit IF	0 - 3 	HT Re-Live
+	FC Mackan - Hagfors FC	5 - 0 	HT Re-Live
+Omgång  7
+2011-08-28 10:00 			
+	Hagfors FC - Sundsvall Meanmachines	3 - 3 	HT Re-Live
+	Ränneskit IF - Beelzebubbens Busar	2 - 1 	HT Re-Live
+	FC Corvus Corax - FC Mackan	0 - 5 	HT Re-Live
+	Los Pebbos - Anderstorp F.C.	0 - 3 	HT Re-Live
+Omgång  8
+2011-09-04 10:00 			
+	FC Mackan - FC Corvus Corax	5 - 1 	HT Re-Live
+	Sundsvall Meanmachines - Hagfors FC	2 - 3 	HT Re-Live
+	Beelzebubbens Busar - Ränneskit IF	2 - 1 	HT Re-Live
+	Anderstorp F.C. - Los Pebbos	4 - 1 	HT Re-Live
+Omgång  9
+2011-09-11 10:00 			
+	Hagfors FC - FC Mackan	1 - 2 	HT Re-Live
+	Ränneskit IF - FC Corvus Corax	0 - 2 	HT Re-Live
+	Anderstorp F.C. - Beelzebubbens Busar	2 - 1 	HT Re-Live
+	Los Pebbos - Sundsvall Meanmachines	2 - 2 	HT Re-Live
+Omgång  10
+2011-09-18 10:00 			
+	Sundsvall Meanmachines - Ränneskit IF	5 - 2 	HT Re-Live
+	Beelzebubbens Busar - Los Pebbos	2 - 1 	HT Re-Live
+	FC Mackan - Anderstorp F.C.	3 - 0 	HT Re-Live
+	FC Corvus Corax - Hagfors FC	4 - 1 	HT Re-Live
+Omgång  11
+2011-09-25 10:00 			
+	Anderstorp F.C. - Hagfors FC	2 - 0 	HT Re-Live
+	Los Pebbos - FC Corvus Corax	3 - 2 	HT Re-Live
+	Ränneskit IF - FC Mackan	1 - 3 	HT Re-Live
+	Beelzebubbens Busar - Sundsvall Meanmachines	0 - 1 	HT Re-Live
+Omgång  12
+2011-10-02 10:00 			
+	FC Mackan - Los Pebbos	2 - 1 	HT Re-Live
+	FC Corvus Corax - Beelzebubbens Busar	4 - 1 	HT Re-Live
+	Hagfors FC - Ränneskit IF	3 - 2 	HT Re-Live
+	Sundsvall Meanmachines - Anderstorp F.C.	3 - 4 	HT Re-Live
+Omgång  13
+2011-10-09 10:00 			
+	Beelzebubbens Busar - Hagfors FC	1 - 2 	HT Re-Live
+	Anderstorp F.C. - FC Corvus Corax	4 - 1 	HT Re-Live
+	Sundsvall Meanmachines - FC Mackan	0 - 3 	HT Re-Live
+	Los Pebbos - Ränneskit IF	4 - 2 	HT Re-Live
+Omgång  14
+2011-10-16 10:00 			
+	FC Corvus Corax - Sundsvall Meanmachines	3 - 0 	HT Re-Live
+	Ränneskit IF - Anderstorp F.C.	3 - 0 	HT Re-Live
+	Hagfors FC - Los Pebbos	3 - 2 	HT Re-Live
+	FC Mackan - Beelzebubbens Busar	1 - 0 	HT Re-Live

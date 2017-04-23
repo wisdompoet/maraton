@@ -1,0 +1,84 @@
+Omgång  1
+2007-11-11 10:00 			
+	Man United $$ - bollklubben	3 - 2 	HT Re-Live
+	Glenn IF - Black Ivory	2 - 6 	HT Re-Live
+	Los butcheros - Sävast AIF	3 - 4 	HT Re-Live
+	Neonic FC - Inter Draggen	0 - 2 	HT Re-Live
+Omgång  2
+2007-11-18 10:00 			
+	Sävast AIF - Glenn IF	6 - 1 	HT Re-Live
+	Black Ivory - Man United $$	0 - 3 	HT Re-Live
+	Inter Draggen - Los butcheros	5 - 2 	HT Re-Live
+	bollklubben - Neonic FC	2 - 2 	HT Re-Live
+Omgång  3
+2007-11-25 10:00 			
+	Glenn IF - Inter Draggen	1 - 5 	HT Re-Live
+	Man United $$ - Sävast AIF	3 - 3 	HT Re-Live
+	Los butcheros - Neonic FC	6 - 3 	HT Re-Live
+	bollklubben - Black Ivory	2 - 1 	HT Re-Live
+Omgång  4
+2007-12-02 10:00 			
+	Neonic FC - Black Ivory	0 - 4 	HT Re-Live
+	Sävast AIF - bollklubben	6 - 1 	HT Re-Live
+	Inter Draggen - Man United $$	0 - 5 	HT Re-Live
+	Los butcheros - Glenn IF	5 - 1 	HT Re-Live
+Omgång  5
+2007-12-09 10:00 			
+	Man United $$ - Los butcheros	0 - 4 	HT Re-Live
+	Glenn IF - Neonic FC	6 - 1 	HT Re-Live
+	Black Ivory - Sävast AIF	2 - 2 	HT Re-Live
+	bollklubben - Inter Draggen	0 - 0 	HT Re-Live
+Omgång  6
+2007-12-16 10:00 			
+	Neonic FC - Sävast AIF	0 - 1 	HT Re-Live
+	Inter Draggen - Black Ivory	3 - 1 	HT Re-Live
+	Los butcheros - bollklubben	0 - 2 	HT Re-Live
+	Glenn IF - Man United $$	1 - 1 	HT Re-Live
+Omgång  7
+2007-12-23 10:00 			
+	Man United $$ - Neonic FC	3 - 0 	HT Re-Live
+	bollklubben - Glenn IF	3 - 1 	HT Re-Live
+	Sävast AIF - Inter Draggen	5 - 0 	HT Re-Live
+	Black Ivory - Los butcheros	0 - 3 	HT Re-Live
+Omgång  8
+2007-12-30 10:00 			
+	Los butcheros - Black Ivory	2 - 3 	HT Re-Live
+	Inter Draggen - Sävast AIF	1 - 0 	HT Re-Live
+	Glenn IF - bollklubben	2 - 2 	HT Re-Live
+	Neonic FC - Man United $$	0 - 3 	HT Re-Live
+Omgång  9
+2008-01-06 10:00 			
+	Man United $$ - Glenn IF	5 - 2 	HT Re-Live
+	Black Ivory - Inter Draggen	0 - 1 	HT Re-Live
+	bollklubben - Los butcheros	3 - 0 	HT Re-Live
+	Sävast AIF - Neonic FC	6 - 0 	HT Re-Live
+Omgång  10
+2008-01-13 10:00 			
+	Sävast AIF - Black Ivory	3 - 0 	HT Re-Live
+	Inter Draggen - bollklubben	3 - 0 	HT Re-Live
+	Los butcheros - Man United $$	0 - 10 	HT Re-Live
+	Neonic FC - Glenn IF	1 - 4 	HT Re-Live
+Omgång  11
+2008-01-20 10:00 			
+	Glenn IF - Los butcheros	7 - 1 	HT Re-Live
+	Man United $$ - Inter Draggen	2 - 4 	HT Re-Live
+	bollklubben - Sävast AIF	1 - 0 	HT Re-Live
+	Black Ivory - Neonic FC	3 - 0 	HT Re-Live
+Omgång  12
+2008-01-27 10:00 			
+	Sävast AIF - Man United $$	1 - 0 	HT Re-Live
+	Black Ivory - bollklubben	2 - 0 	HT Re-Live
+	Neonic FC - Los butcheros	0 - 0 	HT Re-Live
+	Inter Draggen - Glenn IF	5 - 0 	HT Re-Live
+Omgång  13
+2008-02-03 10:00 			
+	Man United $$ - Black Ivory	4 - 0 	HT Re-Live
+	Los butcheros - Inter Draggen	3 - 2 	HT Re-Live
+	Glenn IF - Sävast AIF	1 - 3 	HT Re-Live
+	Neonic FC - bollklubben	0 - 0 	HT Re-Live
+Omgång  14
+2008-02-10 10:00 			
+	Sävast AIF - Los butcheros	4 - 1 	HT Re-Live
+	bollklubben - Man United $$	4 - 1 	HT Re-Live
+	Black Ivory - Glenn IF	5 - 0 	HT Re-Live
+	Inter Draggen - Neonic FC	3 - 0 	HT Re-Live

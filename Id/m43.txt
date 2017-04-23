@@ -1,0 +1,84 @@
+Omgång  1
+2010-08-15 10:00 			
+	Gerilla - FC Mackan	5 - 3 	HT Re-Live
+	Dynamo Kebab - Konspiratörerna	3 - 4 	HT Re-Live
+	Prinskorv FC - AC Söder	2 - 0 	HT Re-Live
+	Innat FC - Crazy Apes	0 - 10 	HT Re-Live
+Omgång  2
+2010-08-22 10:00 			
+	Konspiratörerna - Gerilla	3 - 2 	HT Re-Live
+	AC Söder - Dynamo Kebab	3 - 3 	HT Re-Live
+	FC Mackan - Innat FC	5 - 0 	HT Re-Live
+	Crazy Apes - Prinskorv FC	4 - 1 	HT Re-Live
+Omgång  3
+2010-08-29 10:00 			
+	Gerilla - Dynamo Kebab	4 - 2 	HT Re-Live
+	Prinskorv FC - Konspiratörerna	5 - 4 	HT Re-Live
+	FC Mackan - Crazy Apes	2 - 4 	HT Re-Live
+	Innat FC - AC Söder	1 - 4 	HT Re-Live
+Omgång  4
+2010-09-05 10:00 			
+	AC Söder - FC Mackan	4 - 1 	HT Re-Live
+	Konspiratörerna - Innat FC	5 - 0 	HT Re-Live
+	Dynamo Kebab - Prinskorv FC	3 - 2 	HT Re-Live
+	Crazy Apes - Gerilla	2 - 1 	HT Re-Live
+Omgång  5
+2010-09-12 10:00 			
+	Crazy Apes - Konspiratörerna	3 - 0 	HT Re-Live
+	Gerilla - AC Söder	5 - 4 	HT Re-Live
+	Innat FC - Prinskorv FC	0 - 6 	HT Re-Live
+	FC Mackan - Dynamo Kebab	1 - 4 	HT Re-Live
+Omgång  6
+2010-09-19 10:00 			
+	AC Söder - Crazy Apes	5 - 6 	HT Re-Live
+	Konspiratörerna - FC Mackan	3 - 1 	HT Re-Live
+	Dynamo Kebab - Innat FC	6 - 0 	HT Re-Live
+	Prinskorv FC - Gerilla	2 - 6 	HT Re-Live
+Omgång  7
+2010-09-26 10:00 			
+	Konspiratörerna - AC Söder	4 - 2 	HT Re-Live
+	Innat FC - Gerilla	0 - 6 	HT Re-Live
+	Crazy Apes - Dynamo Kebab	3 - 4 	HT Re-Live
+	FC Mackan - Prinskorv FC	4 - 2 	HT Re-Live
+Omgång  8
+2010-10-03 10:00 			
+	Gerilla - Innat FC	5 - 0 	HT Re-Live
+	AC Söder - Konspiratörerna	5 - 1 	HT Re-Live
+	Dynamo Kebab - Crazy Apes	3 - 4 	HT Re-Live
+	Prinskorv FC - FC Mackan	3 - 2 	HT Re-Live
+Omgång  9
+2010-10-10 10:00 			
+	FC Mackan - Konspiratörerna	0 - 1 	HT Re-Live
+	Gerilla - Prinskorv FC	6 - 0 	HT Re-Live
+	Innat FC - Dynamo Kebab	0 - 5 	HT Re-Live
+	Crazy Apes - AC Söder	5 - 1 	HT Re-Live
+Omgång  10
+2010-10-17 10:00 			
+	Prinskorv FC - Innat FC	6 - 0 	HT Re-Live
+	AC Söder - Gerilla	1 - 5 	HT Re-Live
+	Dynamo Kebab - FC Mackan	3 - 0 	HT Re-Live
+	Konspiratörerna - Crazy Apes	0 - 3 	HT Re-Live
+Omgång  11
+2010-10-24 10:00 			
+	Innat FC - Konspiratörerna	0 - 5 	HT Re-Live
+	Gerilla - Crazy Apes	3 - 2 	HT Re-Live
+	Prinskorv FC - Dynamo Kebab	2 - 2 	HT Re-Live
+	FC Mackan - AC Söder	0 - 1 	HT Re-Live
+Omgång  12
+2010-10-31 10:00 			
+	Crazy Apes - FC Mackan	1 - 2 	HT Re-Live
+	Dynamo Kebab - Gerilla	2 - 2 	HT Re-Live
+	Konspiratörerna - Prinskorv FC	3 - 1 	HT Re-Live
+	AC Söder - Innat FC	7 - 0 	HT Re-Live
+Omgång  13
+2010-11-07 10:00 			
+	Prinskorv FC - Crazy Apes	1 - 4 	HT Re-Live
+	Gerilla - Konspiratörerna	7 - 0 	HT Re-Live
+	Dynamo Kebab - AC Söder	3 - 2 	HT Re-Live
+	Innat FC - FC Mackan	0 - 1 	HT Re-Live
+Omgång  14
+2010-11-14 10:00 			
+	Crazy Apes - Innat FC	4 - 0 	HT Re-Live
+	FC Mackan - Gerilla	0 - 5 	HT Re-Live
+	Konspiratörerna - Dynamo Kebab	6 - 2 	HT Re-Live
+	AC Söder - Prinskorv FC	5 - 0 	HT Re-Live

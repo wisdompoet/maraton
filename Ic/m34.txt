@@ -1,0 +1,84 @@
+Omgång  1
+2007-11-11 10:00 			
+	Bad Losers - Ambient Underground	0 - 2 	HT Re-Live
+	Bäverhult BK - Falköpings BK	5 - 2 	HT Re-Live
+	Råssbyn United - AYREON FC	1 - 4 	HT Re-Live
+	BK Spoven - Porto Laguna SC	4 - 3 	HT Re-Live
+Omgång  2
+2007-11-18 10:00 			
+	Falköpings BK - Bad Losers	4 - 0 	HT Re-Live
+	AYREON FC - BK Spoven	5 - 2 	HT Re-Live
+	Ambient Underground - Råssbyn United	4 - 2 	HT Re-Live
+	Porto Laguna SC - Bäverhult BK	5 - 1 	HT Re-Live
+Omgång  3
+2007-11-25 10:00 			
+	Bad Losers - Bäverhult BK	3 - 3 	HT Re-Live
+	Råssbyn United - Falköpings BK	3 - 3 	HT Re-Live
+	BK Spoven - Ambient Underground	1 - 1 	HT Re-Live
+	Porto Laguna SC - AYREON FC	4 - 5 	HT Re-Live
+Omgång  4
+2007-12-02 10:00 			
+	Falköpings BK - BK Spoven	1 - 1 	HT Re-Live
+	Bäverhult BK - AYREON FC	6 - 1 	HT Re-Live
+	Ambient Underground - Porto Laguna SC	2 - 3 	HT Re-Live
+	Bad Losers - Råssbyn United	2 - 0 	HT Re-Live
+Omgång  5
+2007-12-09 10:00 			
+	Råssbyn United - Bäverhult BK	2 - 3 	HT Re-Live
+	BK Spoven - Bad Losers	0 - 1 	HT Re-Live
+	AYREON FC - Ambient Underground	3 - 2 	HT Re-Live
+	Porto Laguna SC - Falköpings BK	2 - 4 	HT Re-Live
+Omgång  6
+2007-12-16 10:00 			
+	Bäverhult BK - Ambient Underground	1 - 2 	HT Re-Live
+	Råssbyn United - BK Spoven	0 - 3 	HT Re-Live
+	Falköpings BK - AYREON FC	6 - 1 	HT Re-Live
+	Bad Losers - Porto Laguna SC	2 - 3 	HT Re-Live
+Omgång  7
+2007-12-23 10:00 			
+	BK Spoven - Bäverhult BK	1 - 1 	HT Re-Live
+	Ambient Underground - Falköpings BK	2 - 1 	HT Re-Live
+	AYREON FC - Bad Losers	2 - 2 	HT Re-Live
+	Porto Laguna SC - Råssbyn United	9 - 1 	HT Re-Live
+Omgång  8
+2007-12-30 10:00 			
+	Bad Losers - AYREON FC	4 - 0 	HT Re-Live
+	Falköpings BK - Ambient Underground	5 - 4 	HT Re-Live
+	Råssbyn United - Porto Laguna SC	4 - 7 	HT Re-Live
+	Bäverhult BK - BK Spoven	1 - 3 	HT Re-Live
+Omgång  9
+2008-01-06 10:00 			
+	AYREON FC - Falköpings BK	1 - 5 	HT Re-Live
+	Ambient Underground - Bäverhult BK	3 - 1 	HT Re-Live
+	BK Spoven - Råssbyn United	5 - 0 	HT Re-Live
+	Porto Laguna SC - Bad Losers	2 - 1 	HT Re-Live
+Omgång  10
+2008-01-13 10:00 			
+	Falköpings BK - Porto Laguna SC	4 - 1 	HT Re-Live
+	Bad Losers - BK Spoven	0 - 3 	HT Re-Live
+	Bäverhult BK - Råssbyn United	7 - 0 	HT Re-Live
+	Ambient Underground - AYREON FC	9 - 0 	HT Re-Live
+Omgång  11
+2008-01-20 10:00 			
+	Råssbyn United - Bad Losers	1 - 2 	HT Re-Live
+	BK Spoven - Falköpings BK	2 - 2 	HT Re-Live
+	AYREON FC - Bäverhult BK	2 - 5 	HT Re-Live
+	Porto Laguna SC - Ambient Underground	1 - 2 	HT Re-Live
+Omgång  12
+2008-01-27 10:00 			
+	Bäverhult BK - Bad Losers	2 - 0 	HT Re-Live
+	Ambient Underground - BK Spoven	2 - 2 	HT Re-Live
+	AYREON FC - Porto Laguna SC	8 - 0 	HT Re-Live
+	Falköpings BK - Råssbyn United	8 - 0 	HT Re-Live
+Omgång  13
+2008-02-03 10:00 			
+	BK Spoven - AYREON FC	3 - 2 	HT Re-Live
+	Bäverhult BK - Porto Laguna SC	7 - 1 	HT Re-Live
+	Råssbyn United - Ambient Underground	1 - 6 	HT Re-Live
+	Bad Losers - Falköpings BK	0 - 4 	HT Re-Live
+Omgång  14
+2008-02-10 10:00 			
+	Ambient Underground - Bad Losers	2 - 0 	HT Re-Live
+	Porto Laguna SC - BK Spoven	2 - 4 	HT Re-Live
+	AYREON FC - Råssbyn United	10 - 0 	HT Re-Live
+	Falköpings BK - Bäverhult BK	3 - 2 	HT Re-Live

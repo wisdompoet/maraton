@@ -1,0 +1,84 @@
+Omgång  1
+2010-08-15 10:00 			
+	Jediriddarna - Frölunda killers	4 - 1 	HT Re-Live
+	Tidelaget - Gersnäs United	3 - 2 	HT Re-Live
+	Bagarns FF - Angels of Gothenburg	1 - 3 	HT Re-Live
+	Zeta - Bo-laget	0 - 5 	HT Re-Live
+Omgång  2
+2010-08-22 10:00 			
+	Frölunda killers - Zeta	7 - 1 	HT Re-Live
+	Angels of Gothenburg - Jediriddarna	6 - 0 	HT Re-Live
+	Bo-laget - Tidelaget	0 - 2 	HT Re-Live
+	Gersnäs United - Bagarns FF	2 - 1 	HT Re-Live
+Omgång  3
+2010-08-29 10:00 			
+	Frölunda killers - Bo-laget	3 - 4 	HT Re-Live
+	Jediriddarna - Bagarns FF	0 - 0 	HT Re-Live
+	Zeta - Gersnäs United	0 - 8 	HT Re-Live
+	Tidelaget - Angels of Gothenburg	4 - 3 	HT Re-Live
+Omgång  4
+2010-09-05 10:00 			
+	Gersnäs United - Frölunda killers	3 - 5 	HT Re-Live
+	Bagarns FF - Tidelaget	2 - 2 	HT Re-Live
+	Bo-laget - Jediriddarna	2 - 0 	HT Re-Live
+	Angels of Gothenburg - Zeta	6 - 0 	HT Re-Live
+Omgång  5
+2010-09-12 10:00 			
+	Bo-laget - Angels of Gothenburg	2 - 2 	HT Re-Live
+	Jediriddarna - Gersnäs United	3 - 2 	HT Re-Live
+	Frölunda killers - Bagarns FF	2 - 3 	HT Re-Live
+	Zeta - Tidelaget	0 - 9 	HT Re-Live
+Omgång  6
+2010-09-19 10:00 			
+	Bagarns FF - Zeta	8 - 0 	HT Re-Live
+	Gersnäs United - Bo-laget	3 - 2 	HT Re-Live
+	Angels of Gothenburg - Frölunda killers	1 - 2 	HT Re-Live
+	Tidelaget - Jediriddarna	3 - 1 	HT Re-Live
+Omgång  7
+2010-09-26 10:00 			
+	Angels of Gothenburg - Gersnäs United	2 - 1 	HT Re-Live
+	Bo-laget - Bagarns FF	6 - 0 	HT Re-Live
+	Frölunda killers - Tidelaget	1 - 2 	HT Re-Live
+	Zeta - Jediriddarna	1 - 8 	HT Re-Live
+Omgång  8
+2010-10-03 10:00 			
+	Jediriddarna - Zeta	5 - 1 	HT Re-Live
+	Bagarns FF - Bo-laget	0 - 2 	HT Re-Live
+	Tidelaget - Frölunda killers	3 - 4 	HT Re-Live
+	Gersnäs United - Angels of Gothenburg	1 - 5 	HT Re-Live
+Omgång  9
+2010-10-10 10:00 			
+	Jediriddarna - Tidelaget	5 - 2 	HT Re-Live
+	Frölunda killers - Angels of Gothenburg	2 - 1 	HT Re-Live
+	Zeta - Bagarns FF	0 - 12 	HT Re-Live
+	Bo-laget - Gersnäs United	3 - 2 	HT Re-Live
+Omgång  10
+2010-10-17 10:00 			
+	Tidelaget - Zeta	11 - 0 	HT Re-Live
+	Gersnäs United - Jediriddarna	1 - 6 	HT Re-Live
+	Bagarns FF - Frölunda killers	2 - 2 	HT Re-Live
+	Angels of Gothenburg - Bo-laget	4 - 0 	HT Re-Live
+Omgång  11
+2010-10-24 10:00 			
+	Zeta - Angels of Gothenburg	0 - 6 	HT Re-Live
+	Jediriddarna - Bo-laget	3 - 0 	HT Re-Live
+	Tidelaget - Bagarns FF	3 - 2 	HT Re-Live
+	Frölunda killers - Gersnäs United	5 - 2 	HT Re-Live
+Omgång  12
+2010-10-31 10:00 			
+	Bagarns FF - Jediriddarna	0 - 2 	HT Re-Live
+	Gersnäs United - Zeta	9 - 0 	HT Re-Live
+	Bo-laget - Frölunda killers	4 - 1 	HT Re-Live
+	Angels of Gothenburg - Tidelaget	1 - 4 	HT Re-Live
+Omgång  13
+2010-11-07 10:00 			
+	Tidelaget - Bo-laget	2 - 0 	HT Re-Live
+	Zeta - Frölunda killers	1 - 10 	HT Re-Live
+	Jediriddarna - Angels of Gothenburg	3 - 0 	HT Re-Live
+	Bagarns FF - Gersnäs United	2 - 1 	HT Re-Live
+Omgång  14
+2010-11-14 10:00 			
+	Bo-laget - Zeta	7 - 1 	HT Re-Live
+	Frölunda killers - Jediriddarna	2 - 0 	HT Re-Live
+	Gersnäs United - Tidelaget	0 - 3 	HT Re-Live
+	Angels of Gothenburg - Bagarns FF	1 - 0 	HT Re-Live

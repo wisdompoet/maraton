@@ -1,0 +1,84 @@
+Omgång  1
+2008-10-12 10:00 			
+	Kantarellerna - BK Örnen	3 - 2 	HT Re-Live
+	Real Messmör - Crazy Apes	1 - 1 	HT Re-Live
+	Team Molgan - Skansholms SK	4 - 0 	HT Re-Live
+	Korsudden - Jediriddarna	1 - 3 	HT Re-Live
+Omgång  2
+2008-10-19 10:00 			
+	BK Örnen - Korsudden	5 - 1 	HT Re-Live
+	Jediriddarna - Real Messmör	5 - 1 	HT Re-Live
+	Skansholms SK - Kantarellerna	4 - 4 	HT Re-Live
+	Crazy Apes - Team Molgan	4 - 3 	HT Re-Live
+Omgång  3
+2008-10-26 10:00 			
+	Real Messmör - BK Örnen	1 - 5 	HT Re-Live
+	Team Molgan - Jediriddarna	1 - 3 	HT Re-Live
+	Skansholms SK - Crazy Apes	2 - 2 	HT Re-Live
+	Korsudden - Kantarellerna	6 - 3 	HT Re-Live
+Omgång  4
+2008-11-02 10:00 			
+	Kantarellerna - Crazy Apes	2 - 2 	HT Re-Live
+	Jediriddarna - Skansholms SK	7 - 1 	HT Re-Live
+	BK Örnen - Team Molgan	5 - 1 	HT Re-Live
+	Korsudden - Real Messmör	2 - 3 	HT Re-Live
+Omgång  5
+2008-11-09 10:00 			
+	Real Messmör - Kantarellerna	3 - 0 	HT Re-Live
+	Team Molgan - Korsudden	0 - 3 	HT Re-Live
+	Skansholms SK - BK Örnen	3 - 3 	HT Re-Live
+	Crazy Apes - Jediriddarna	6 - 0 	HT Re-Live
+Omgång  6
+2008-11-16 10:00 			
+	Kantarellerna - Jediriddarna	2 - 0 	HT Re-Live
+	Real Messmör - Team Molgan	2 - 4 	HT Re-Live
+	Korsudden - Skansholms SK	3 - 1 	HT Re-Live
+	BK Örnen - Crazy Apes	3 - 1 	HT Re-Live
+Omgång  7
+2008-11-23 10:00 			
+	Team Molgan - Kantarellerna	3 - 2 	HT Re-Live
+	Skansholms SK - Real Messmör	3 - 0 	HT Re-Live
+	Jediriddarna - BK Örnen	3 - 1 	HT Re-Live
+	Crazy Apes - Korsudden	4 - 3 	HT Re-Live
+Omgång  8
+2008-11-30 10:00 			
+	Korsudden - Crazy Apes	2 - 0 	HT Re-Live
+	BK Örnen - Jediriddarna	2 - 0 	HT Re-Live
+	Kantarellerna - Team Molgan	3 - 1 	HT Re-Live
+	Real Messmör - Skansholms SK	2 - 2 	HT Re-Live
+Omgång  9
+2008-12-07 10:00 			
+	Crazy Apes - BK Örnen	6 - 2 	HT Re-Live
+	Skansholms SK - Korsudden	5 - 5 	HT Re-Live
+	Team Molgan - Real Messmör	3 - 1 	HT Re-Live
+	Jediriddarna - Kantarellerna	2 - 0 	HT Re-Live
+Omgång  10
+2008-12-14 10:00 			
+	Jediriddarna - Crazy Apes	1 - 5 	HT Re-Live
+	Kantarellerna - Real Messmör	3 - 0 	HT Re-Live
+	Korsudden - Team Molgan	5 - 2 	HT Re-Live
+	BK Örnen - Skansholms SK	4 - 2 	HT Re-Live
+Omgång  11
+2008-12-21 10:00 			
+	Real Messmör - Korsudden	1 - 2 	HT Re-Live
+	Team Molgan - BK Örnen	6 - 2 	HT Re-Live
+	Skansholms SK - Jediriddarna	0 - 4 	HT Re-Live
+	Crazy Apes - Kantarellerna	5 - 1 	HT Re-Live
+Omgång  12
+2008-12-28 10:00 			
+	Kantarellerna - Korsudden	3 - 2 	HT Re-Live
+	Jediriddarna - Team Molgan	4 - 2 	HT Re-Live
+	BK Örnen - Real Messmör	5 - 3 	HT Re-Live
+	Crazy Apes - Skansholms SK	4 - 1 	HT Re-Live
+Omgång  13
+2009-01-04 10:00 			
+	Team Molgan - Crazy Apes	0 - 5 	HT Re-Live
+	Real Messmör - Jediriddarna	4 - 3 	HT Re-Live
+	Kantarellerna - Skansholms SK	2 - 2 	HT Re-Live
+	Korsudden - BK Örnen	7 - 0 	HT Re-Live
+Omgång  14
+2009-01-11 10:00 			
+	Skansholms SK - Team Molgan	0 - 2 	HT Re-Live
+	Crazy Apes - Real Messmör	5 - 1 	HT Re-Live
+	BK Örnen - Kantarellerna	5 - 2 	HT Re-Live
+	Jediriddarna - Korsudden	8 - 1 	HT Re-Live

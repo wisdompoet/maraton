@@ -1,0 +1,84 @@
+Omgång  1
+2002-01-13 10:00 			
+	FK Sandstormen - Svin-Arne BK	0 - 1 	HT Re-Live
+	Kingdom Raiders - Djäknemåla AIF	2 - 0 	HT Re-Live
+	Briegels Bestar - Talangen Stars	2 - 0 	HT Re-Live
+	Starwars - Headless Chickens FC	3 - 3 	HT Re-Live
+Omgång  2
+2002-01-20 10:00 			
+	Talangen Stars - FK Sandstormen	2 - 2 	HT Re-Live
+	Headless Chickens FC - Kingdom Raiders	0 - 4 	HT Re-Live
+	Svin-Arne BK - Starwars	4 - 0 	HT Re-Live
+	Djäknemåla AIF - Briegels Bestar	2 - 1 	HT Re-Live
+Omgång  3
+2002-01-27 10:00 			
+	Kingdom Raiders - Svin-Arne BK	0 - 4 	HT Re-Live
+	Briegels Bestar - Headless Chickens FC	1 - 3 	HT Re-Live
+	Talangen Stars - Djäknemåla AIF	0 - 0 	HT Re-Live
+	Starwars - FK Sandstormen	3 - 2 	HT Re-Live
+Omgång  4
+2002-02-03 10:00 			
+	FK Sandstormen - Djäknemåla AIF	3 - 0 	HT Re-Live
+	Headless Chickens FC - Talangen Stars	1 - 5 	HT Re-Live
+	Svin-Arne BK - Briegels Bestar	2 - 0 	HT Re-Live
+	Starwars - Kingdom Raiders	3 - 0 	HT Re-Live
+Omgång  5
+2002-02-10 10:00 			
+	Kingdom Raiders - FK Sandstormen	1 - 4 	HT Re-Live
+	Briegels Bestar - Starwars	0 - 3 	HT Re-Live
+	Talangen Stars - Svin-Arne BK	6 - 3 	HT Re-Live
+	Djäknemåla AIF - Headless Chickens FC	4 - 0 	HT Re-Live
+Omgång  6
+2002-02-17 10:00 			
+	FK Sandstormen - Headless Chickens FC	6 - 0 	HT Re-Live
+	Kingdom Raiders - Briegels Bestar	0 - 0 	HT Re-Live
+	Svin-Arne BK - Djäknemåla AIF	4 - 1 	HT Re-Live
+	Starwars - Talangen Stars	3 - 1 	HT Re-Live
+Omgång  7
+2002-02-24 10:00 			
+	Briegels Bestar - FK Sandstormen	4 - 0 	HT Re-Live
+	Talangen Stars - Kingdom Raiders	4 - 0 	HT Re-Live
+	Headless Chickens FC - Svin-Arne BK	0 - 7 	HT Re-Live
+	Djäknemåla AIF - Starwars	0 - 7 	HT Re-Live
+Omgång  8
+2002-03-03 10:00 			
+	Starwars - Djäknemåla AIF	7 - 0 	HT Re-Live
+	Svin-Arne BK - Headless Chickens FC	5 - 0 	HT Re-Live
+	Kingdom Raiders - Talangen Stars	2 - 3 	HT Re-Live
+	FK Sandstormen - Briegels Bestar	4 - 2 	HT Re-Live
+Omgång  9
+2002-03-10 10:00 			
+	Talangen Stars - Starwars	2 - 2 	HT Re-Live
+	Djäknemåla AIF - Svin-Arne BK	0 - 6 	HT Re-Live
+	Briegels Bestar - Kingdom Raiders	2 - 0 	HT Re-Live
+	Headless Chickens FC - FK Sandstormen	3 - 0 	HT Re-Live
+Omgång  10
+2002-03-17 10:00 			
+	Headless Chickens FC - Djäknemåla AIF	8 - 0 	HT Re-Live
+	Svin-Arne BK - Talangen Stars	3 - 1 	HT Re-Live
+	Starwars - Briegels Bestar	3 - 0 	HT Re-Live
+	FK Sandstormen - Kingdom Raiders	3 - 0 	HT Re-Live
+Omgång  11
+2002-03-24 10:00 			
+	Kingdom Raiders - Starwars	2 - 3 	HT Re-Live
+	Briegels Bestar - Svin-Arne BK	6 - 2 	HT Re-Live
+	Talangen Stars - Headless Chickens FC	2 - 3 	HT Re-Live
+	Djäknemåla AIF - FK Sandstormen	0 - 5 	HT Re-Live
+Omgång  12
+2002-03-31 10:00 			
+	FK Sandstormen - Starwars	4 - 1 	HT Re-Live
+	Djäknemåla AIF - Talangen Stars	0 - 5 	HT Re-Live
+	Headless Chickens FC - Briegels Bestar	4 - 0 	HT Re-Live
+	Svin-Arne BK - Kingdom Raiders	0 - 3 	HT Re-Live
+Omgång  13
+2002-04-07 10:00 			
+	Briegels Bestar - Djäknemåla AIF	3 - 0 	HT Re-Live
+	Starwars - Svin-Arne BK	4 - 0 	HT Re-Live
+	Kingdom Raiders - Headless Chickens FC	3 - 3 	HT Re-Live
+	FK Sandstormen - Talangen Stars	2 - 5 	HT Re-Live
+Omgång  14
+2002-04-14 10:00 			
+	Headless Chickens FC - Starwars	0 - 5 	HT Re-Live
+	Talangen Stars - Briegels Bestar	5 - 1 	HT Re-Live
+	Djäknemåla AIF - Kingdom Raiders	0 - 3 	HT Re-Live
+	Svin-Arne BK - FK Sandstormen	4 - 5 	HT Re-Live

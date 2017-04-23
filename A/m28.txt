@@ -1,0 +1,84 @@
+ Omgång  1
+2006-01-08 10:00 			
+	Inter Sthlm - team_ekos 	10 - 1 	HT Re-Live
+	EM Tigers - Cirkus Brazil Jack 	3 - 0 	HT Re-Live
+	Åshöjdens BK - Skansholms SK 	0 - 5 	HT Re-Live
+	fumpen - Jihad nu 	3 - 1 	HT Re-Live
+Omgång  2
+2006-01-15 10:00 			
+	Skansholms SK - Inter Sthlm 	3 - 3 	HT Re-Live
+	Jihad nu - EM Tigers 	2 - 0 	HT Re-Live
+	team_ekos - fumpen 	0 - 9 	HT Re-Live
+	Cirkus Brazil Jack - Åshöjdens BK 	0 - 0 	HT Re-Live
+Omgång  3
+2006-01-22 10:00 			
+	EM Tigers - team_ekos 	10 - 0 	HT Re-Live
+	Åshöjdens BK - Jihad nu 	1 - 3 	HT Re-Live
+	Skansholms SK - Cirkus Brazil Jack 	2 - 1 	HT Re-Live
+	fumpen - Inter Sthlm 	3 - 0 	HT Re-Live
+Omgång  4
+2006-01-29 10:00 			
+	Inter Sthlm - Cirkus Brazil Jack 	3 - 0 	HT Re-Live
+	Jihad nu - Skansholms SK 	5 - 1 	HT Re-Live
+	team_ekos - Åshöjdens BK 	0 - 10 	HT Re-Live
+	fumpen - EM Tigers 	0 - 4 	HT Re-Live
+Omgång  5
+2006-02-05 10:00 			
+	EM Tigers - Inter Sthlm 	2 - 4 	HT Re-Live
+	Åshöjdens BK - fumpen 	3 - 0 	HT Re-Live
+	Skansholms SK - team_ekos 	3 - 1 	HT Re-Live
+	Cirkus Brazil Jack - Jihad nu 	6 - 3 	HT Re-Live
+Omgång  6
+2006-02-12 10:00 			
+	Inter Sthlm - Jihad nu 	4 - 0 	HT Re-Live
+	EM Tigers - Åshöjdens BK 	2 - 2 	HT Re-Live
+	team_ekos - Cirkus Brazil Jack 	0 - 6 	HT Re-Live
+	fumpen - Skansholms SK 	1 - 4 	HT Re-Live
+Omgång  7
+2006-02-19 10:00 			
+	Åshöjdens BK - Inter Sthlm 	3 - 2 	HT Re-Live
+	Skansholms SK - EM Tigers 	8 - 0 	HT Re-Live
+	Handens Fina Grabbar - team_ekos 	10 - 0 	HT Re-Live
+	Cirkus Brazil Jack - fumpen 	1 - 2 	HT Re-Live
+Omgång  8
+2006-02-26 10:00 			
+	fumpen - Cirkus Brazil Jack 	2 - 2 	HT Re-Live
+	team_ekos - Handens Fina Grabbar 	0 - 11 	HT Re-Live
+	EM Tigers - Skansholms SK 	3 - 3 	HT Re-Live
+	Inter Sthlm - Åshöjdens BK 	5 - 0 	HT Re-Live
+Omgång  9
+2006-03-05 10:00 			
+	Skansholms SK - fumpen 	4 - 1 	HT Re-Live
+	Cirkus Brazil Jack - team_ekos 	5 - 0 	HT Re-Live
+	Åshöjdens BK - EM Tigers 	0 - 2 	HT Re-Live
+	Handens Fina Grabbar - Inter Sthlm 	3 - 2 	HT Re-Live
+Omgång  10
+2006-03-12 10:00 			
+	Handens Fina Grabbar - Cirkus Brazil Jack 	3 - 1 	HT Re-Live
+	team_ekos - Skansholms SK 	0 - 5 	HT Re-Live
+	fumpen - Åshöjdens BK 	1 - 1 	HT Re-Live
+	Inter Sthlm - EM Tigers 	5 - 0 	HT Re-Live
+Omgång  11
+2006-03-19 10:00 			
+	EM Tigers - fumpen 	1 - 1 	HT Re-Live
+	Åshöjdens BK - team_ekos 	7 - 0 	HT Re-Live
+	Skansholms SK - Handens Fina Grabbar 	3 - 1 	HT Re-Live
+	Cirkus Brazil Jack - Inter Sthlm 	0 - 2 	HT Re-Live
+Omgång  12
+2006-03-26 10:00 			
+	Inter Sthlm - fumpen 	5 - 0 	HT Re-Live
+	Cirkus Brazil Jack - Skansholms SK 	1 - 2 	HT Re-Live
+	Handens Fina Grabbar - Åshöjdens BK 	3 - 0 	HT Re-Live
+	team_ekos - EM Tigers 	0 - 10 	HT Re-Live
+Omgång  13
+2006-04-02 10:00 			
+	Åshöjdens BK - Cirkus Brazil Jack 	2 - 4 	HT Re-Live
+	fumpen - team_ekos 	9 - 0 	HT Re-Live
+	EM Tigers - Handens Fina Grabbar 	1 - 1 	HT Re-Live
+	Inter Sthlm - Skansholms SK 	5 - 1 	HT Re-Live
+Omgång  14
+2006-04-09 10:00 			
+	Handens Fina Grabbar - fumpen 	0 - 1 	HT Re-Live
+	Skansholms SK - Åshöjdens BK 	8 - 1 	HT Re-Live
+	Cirkus Brazil Jack - EM Tigers 	4 - 1 	HT Re-Live
+	team_ekos - Inter Sthlm 	0 - 5 	HT Re-Live

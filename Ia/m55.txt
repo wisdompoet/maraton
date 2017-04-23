@@ -1,0 +1,84 @@
+Omgång  1
+2014-04-20 10:00 			
+	Schenströmska BK - BK Torpet	2 - 2 	HT Re-Live
+	Max FF - Leinad United	3 - 2 	HT Re-Live
+	Flying Pigs FC - BK Stolpträff	3 - 0 	HT Re-Live
+	Lilltroll FC - Arvika IF	4 - 1 	HT Re-Live
+Omgång  2
+2014-04-27 10:00 			
+	BK Stolpträff - Lilltroll FC	2 - 2 	HT Re-Live
+	Arvika IF - Schenströmska BK	4 - 1 	HT Re-Live
+	BK Torpet - Max FF	6 - 3 	HT Re-Live
+	Leinad United - Flying Pigs FC	2 - 2 	HT Re-Live
+Omgång  3
+2014-05-04 10:00 			
+	Schenströmska BK - Leinad United	3 - 1 	HT Re-Live
+	Arvika IF - BK Torpet	3 - 0 	HT Re-Live
+	Max FF - BK Stolpträff	3 - 3 	HT Re-Live
+	Lilltroll FC - Flying Pigs FC	4 - 0 	HT Re-Live
+Omgång  4
+2014-05-11 10:00 			
+	BK Stolpträff - Schenströmska BK	4 - 3 	HT Re-Live
+	BK Torpet - Lilltroll FC	1 - 5 	HT Re-Live
+	Flying Pigs FC - Max FF	5 - 4 	HT Re-Live
+	Leinad United - Arvika IF	3 - 0 	HT Re-Live
+Omgång  5
+2014-05-18 10:00 			
+	Schenströmska BK - Max FF	2 - 0 	HT Re-Live
+	Arvika IF - Flying Pigs FC	2 - 2 	HT Re-Live
+	Lilltroll FC - Leinad United	4 - 0 	HT Re-Live
+	BK Torpet - BK Stolpträff	1 - 3 	HT Re-Live
+Omgång  6
+2014-05-25 10:00 			
+	Flying Pigs FC - Schenströmska BK	3 - 0 	HT Re-Live
+	Max FF - Lilltroll FC	4 - 1 	HT Re-Live
+	BK Stolpträff - Arvika IF	3 - 1 	HT Re-Live
+	Leinad United - BK Torpet	3 - 4 	HT Re-Live
+Omgång  7
+2014-06-01 10:00 			
+	Schenströmska BK - Lilltroll FC	5 - 3 	HT Re-Live
+	BK Torpet - Flying Pigs FC	2 - 3 	HT Re-Live
+	BK Stolpträff - Leinad United	5 - 1 	HT Re-Live
+	Arvika IF - Max FF	3 - 1 	HT Re-Live
+Omgång  8
+2014-06-08 10:00 			
+	Leinad United - BK Stolpträff	2 - 1 	HT Re-Live
+	Max FF - Arvika IF	2 - 1 	HT Re-Live
+	Lilltroll FC - Schenströmska BK	5 - 0 	HT Re-Live
+	Flying Pigs FC - BK Torpet	0 - 1 	HT Re-Live
+Omgång  9
+2014-06-15 10:00 			
+	Lilltroll FC - Max FF	4 - 1 	HT Re-Live
+	Arvika IF - BK Stolpträff	2 - 2 	HT Re-Live
+	BK Torpet - Leinad United	3 - 2 	HT Re-Live
+	Schenströmska BK - Flying Pigs FC	0 - 8 	HT Re-Live
+Omgång  10
+2014-06-22 10:00 			
+	Leinad United - Lilltroll FC	2 - 0 	HT Re-Live
+	Flying Pigs FC - Arvika IF	3 - 2 	HT Re-Live
+	Max FF - Schenströmska BK	9 - 0 	HT Re-Live
+	BK Stolpträff - BK Torpet	0 - 4 	HT Re-Live
+Omgång  11
+2014-06-29 10:00 			
+	Arvika IF - Leinad United	3 - 1 	HT Re-Live
+	Max FF - Flying Pigs FC	2 - 3 	HT Re-Live
+	Schenströmska BK - BK Stolpträff	1 - 10 	HT Re-Live
+	Lilltroll FC - BK Torpet	2 - 2 	HT Re-Live
+Omgång  12
+2014-07-06 10:00 			
+	BK Torpet - Arvika IF	2 - 2 	HT Re-Live
+	Leinad United - Schenströmska BK	9 - 0 	HT Re-Live
+	Flying Pigs FC - Lilltroll FC	3 - 1 	HT Re-Live
+	BK Stolpträff - Max FF	1 - 4 	HT Re-Live
+Omgång  13
+2014-07-13 10:00 			
+	Lilltroll FC - BK Stolpträff	6 - 1 	HT Re-Live
+	Flying Pigs FC - Leinad United	5 - 1 	HT Re-Live
+	Max FF - BK Torpet	1 - 3 	HT Re-Live
+	Schenströmska BK - Arvika IF	0 - 11 	HT Re-Live
+Omgång  14
+2014-07-20 10:00 			
+	Leinad United - Max FF	1 - 0 	HT Re-Live
+	BK Stolpträff - Flying Pigs FC	1 - 4 	HT Re-Live
+	BK Torpet - Schenströmska BK	9 - 0 	HT Re-Live
+	Arvika IF - Lilltroll FC	4 - 0 	HT Re-Live

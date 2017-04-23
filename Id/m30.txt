@@ -1,0 +1,84 @@
+Omgång  1
+2006-08-20 10:00 			
+	Gäddträsket - Mjällbyn	3 - 1 	HT Re-Live
+	Djurgårdens IF - Hjärnarp GIF	2 - 1 	HT Re-Live
+	Sluga BK - Naughty Trolls	6 - 1 	HT Re-Live
+	Landskrona BOIS - AS Rotary	1 - 7 	HT Re-Live
+Omgång  2
+2006-08-27 10:00 			
+	Hjärnarp GIF - Sluga BK	3 - 0 	HT Re-Live
+	Naughty Trolls - Gäddträsket	3 - 2 	HT Re-Live
+	AS Rotary - Djurgårdens IF	2 - 5 	HT Re-Live
+	Mjällbyn - Landskrona BOIS	9 - 0 	HT Re-Live
+Omgång  3
+2006-09-03 10:00 			
+	Landskrona BOIS - Gäddträsket	2 - 1 	HT Re-Live
+	Naughty Trolls - Hjärnarp GIF	5 - 2 	HT Re-Live
+	Djurgårdens IF - Mjällbyn	8 - 2 	HT Re-Live
+	Sluga BK - AS Rotary	1 - 1 	HT Re-Live
+Omgång  4
+2006-09-10 10:00 			
+	Gäddträsket - Hjärnarp GIF	2 - 3 	HT Re-Live
+	Mjällbyn - Sluga BK	5 - 2 	HT Re-Live
+	Landskrona BOIS - Djurgårdens IF	5 - 4 	HT Re-Live
+	AS Rotary - Naughty Trolls	1 - 3 	HT Re-Live
+Omgång  5
+2006-09-17 10:00 			
+	Naughty Trolls - Mjällbyn	8 - 2 	HT Re-Live
+	Djurgårdens IF - Gäddträsket	1 - 2 	HT Re-Live
+	Sluga BK - Landskrona BOIS	2 - 2 	HT Re-Live
+	Hjärnarp GIF - AS Rotary	2 - 1 	HT Re-Live
+Omgång  6
+2006-09-24 10:00 			
+	Djurgårdens IF - Sluga BK	3 - 3 	HT Re-Live
+	Mjällbyn - Hjärnarp GIF	3 - 1 	HT Re-Live
+	Landskrona BOIS - Naughty Trolls	3 - 3 	HT Re-Live
+	Gäddträsket - AS Rotary	2 - 2 	HT Re-Live
+Omgång  7
+2006-10-01 10:00 			
+	Sluga BK - Gäddträsket	1 - 5 	HT Re-Live
+	AS Rotary - Mjällbyn	7 - 0 	HT Re-Live
+	Hjärnarp GIF - Landskrona BOIS	0 - 4 	HT Re-Live
+	Naughty Trolls - Djurgårdens IF	4 - 2 	HT Re-Live
+Omgång  8
+2006-10-08 10:00 			
+	Djurgårdens IF - Naughty Trolls	4 - 4 	HT Re-Live
+	Landskrona BOIS - Hjärnarp GIF	4 - 1 	HT Re-Live
+	Mjällbyn - AS Rotary	1 - 4 	HT Re-Live
+	Gäddträsket - Sluga BK	2 - 1 	HT Re-Live
+Omgång  9
+2006-10-15 10:00 			
+	Hjärnarp GIF - Mjällbyn	4 - 7 	HT Re-Live
+	Naughty Trolls - Landskrona BOIS	2 - 4 	HT Re-Live
+	Sluga BK - Djurgårdens IF	3 - 0 	HT Re-Live
+	AS Rotary - Gäddträsket	2 - 0 	HT Re-Live
+Omgång  10
+2006-10-22 10:00 			
+	Mjällbyn - Naughty Trolls	2 - 7 	HT Re-Live
+	Gäddträsket - Djurgårdens IF	2 - 0 	HT Re-Live
+	AS Rotary - Hjärnarp GIF	4 - 1 	HT Re-Live
+	Landskrona BOIS - Sluga BK	1 - 2 	HT Re-Live
+Omgång  11
+2006-10-29 10:00 			
+	Djurgårdens IF - Landskrona BOIS	2 - 2 	HT Re-Live
+	Sluga BK - Mjällbyn	5 - 1 	HT Re-Live
+	Naughty Trolls - AS Rotary	3 - 2 	HT Re-Live
+	Hjärnarp GIF - Gäddträsket	3 - 0 	HT Re-Live
+Omgång  12
+2006-11-05 10:00 			
+	Gäddträsket - Landskrona BOIS	5 - 1 	HT Re-Live
+	Hjärnarp GIF - Naughty Trolls	8 - 0 	HT Re-Live
+	AS Rotary - Sluga BK	1 - 2 	HT Re-Live
+	Mjällbyn - Djurgårdens IF	8 - 1 	HT Re-Live
+Omgång  13
+2006-11-12 10:00 			
+	Sluga BK - Hjärnarp GIF	2 - 2 	HT Re-Live
+	Landskrona BOIS - Mjällbyn	2 - 5 	HT Re-Live
+	Djurgårdens IF - AS Rotary	0 - 2 	HT Re-Live
+	Gäddträsket - Naughty Trolls	4 - 2 	HT Re-Live
+Omgång  14
+2006-11-19 10:00 			
+	AS Rotary - Landskrona BOIS	0 - 3 	HT Re-Live
+	Naughty Trolls - Sluga BK	2 - 3 	HT Re-Live
+	Hjärnarp GIF - Djurgårdens IF	4 - 2 	HT Re-Live
+	Mjällbyn - Gäddträsket	1 - 2 	HT Re-Live

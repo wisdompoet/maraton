@@ -1,0 +1,84 @@
+Omgång  1
+2006-04-30 10:00 			
+	Skansholms SK - Inter Sthlm 	5 - 0 	HT Re-Live
+	EM Tigers - Lokomotiv Lund 	4 - 4 	HT Re-Live
+	~DrPepper FC - IK Frisco 	0 - 7 	HT Re-Live
+	Handens Fina Grabbar - fumpen 	0 - 8 	HT Re-Live
+Omgång  2
+2006-05-07 10:00 			
+	IK Frisco - Handens Fina Grabbar 	9 - 0 	HT Re-Live
+	Lokomotiv Lund - Skansholms SK 	4 - 3 	HT Re-Live
+	fumpen - EM Tigers 	3 - 2 	HT Re-Live
+	Inter Sthlm - ~DrPepper FC 	0 - 5 	HT Re-Live
+Omgång  3
+2006-05-14 10:00 			
+	Handens Fina Grabbar - Inter Sthlm 	5 - 0 	HT Re-Live
+	Lokomotiv Lund - fumpen 	5 - 2 	HT Re-Live
+	~DrPepper FC - Skansholms SK 	0 - 9 	HT Re-Live
+	EM Tigers - IK Frisco 	2 - 3 	HT Re-Live
+Omgång  4
+2006-05-21 10:00 			
+	Skansholms SK - fumpen 	0 - 3 	HT Re-Live
+	IK Frisco - Lokomotiv Lund 	5 - 2 	HT Re-Live
+	Inter Sthlm - EM Tigers 	0 - 5 	HT Re-Live
+	~DrPepper FC - Handens Fina Grabbar 	9 - 0 	HT Re-Live
+Omgång  5
+2006-05-28 10:00 			
+	Handens Fina Grabbar - Skansholms SK 	0 - 8 	HT Re-Live
+	Lokomotiv Lund - Inter Sthlm 	5 - 0 	HT Re-Live
+	EM Tigers - ~DrPepper FC 	8 - 0 	HT Re-Live
+	fumpen - IK Frisco 	3 - 1 	HT Re-Live
+Omgång  6
+2006-06-04 10:00 			
+	Skansholms SK - IK Frisco 	2 - 1 	HT Re-Live
+	Inter Sthlm - fumpen 	0 - 5 	HT Re-Live
+	~DrPepper FC - Lokomotiv Lund 	0 - 11 	HT Re-Live
+	Handens Fina Grabbar - EM Tigers 	0 - 11 	HT Re-Live
+Omgång  7
+2006-06-11 10:00 			
+	EM Tigers - Skansholms SK 	1 - 6 	HT Re-Live
+	fumpen - ~DrPepper FC 	9 - 0 	HT Re-Live
+	IK Frisco - Inter Sthlm 	5 - 0 	HT Re-Live
+	Lokomotiv Lund - Handens Fina Grabbar 	10 - 0 	HT Re-Live
+Omgång  8
+2006-06-18 10:00 			
+	Handens Fina Grabbar - Lokomotiv Lund 	0 - 9 	HT Re-Live
+	Skansholms SK - EM Tigers 	5 - 0 	HT Re-Live
+	~DrPepper FC - fumpen 	0 - 7 	HT Re-Live
+	Inter Sthlm - IK Frisco 	0 - 5 	HT Re-Live
+Omgång  9
+2006-06-25 10:00 			
+	Lokomotiv Lund - ~DrPepper FC 	8 - 1 	HT Re-Live
+	EM Tigers - Handens Fina Grabbar 	10 - 0 	HT Re-Live
+	IK Frisco - Skansholms SK 	1 - 2 	HT Re-Live
+	fumpen - Inter Sthlm 	5 - 0 	HT Re-Live
+Omgång  10
+2006-07-02 10:00 			
+	Inter Sthlm - Lokomotiv Lund 	0 - 5 	HT Re-Live
+	~DrPepper FC - EM Tigers 	0 - 10 	HT Re-Live
+	Skansholms SK - Handens Fina Grabbar 	9 - 0 	HT Re-Live
+	IK Frisco - fumpen 	0 - 4 	HT Re-Live
+Omgång  11
+2006-07-09 10:00 			
+	Handens Fina Grabbar - ~DrPepper FC 	1 - 2 	HT Re-Live
+	EM Tigers - Inter Sthlm 	5 - 0 	HT Re-Live
+	Lokomotiv Lund - IK Frisco 	5 - 1 	HT Re-Live
+	fumpen - Skansholms SK 	2 - 2 	HT Re-Live
+Omgång  12
+2006-07-16 10:00 			
+	Skansholms SK - ~DrPepper FC 	10 - 0 	HT Re-Live
+	fumpen - Lokomotiv Lund 	2 - 0 	HT Re-Live
+	Inter Sthlm - Handens Fina Grabbar 	0 - 5 	HT Re-Live
+	IK Frisco - EM Tigers 	2 - 4 	HT Re-Live
+Omgång  13
+2006-07-23 10:00 			
+	Skansholms SK - Lokomotiv Lund 	3 - 1 	HT Re-Live
+	Handens Fina Grabbar - IK Frisco 	1 - 9 	HT Re-Live
+	EM Tigers - fumpen 	1 - 2 	HT Re-Live
+	~DrPepper FC - Inter Sthlm 	5 - 0 	HT Re-Live
+Omgång  14
+2006-07-30 10:00 			
+	fumpen - Handens Fina Grabbar 	9 - 0 	HT Re-Live
+	Inter Sthlm - Skansholms SK 	0 - 5 	HT Re-Live
+	IK Frisco - ~DrPepper FC 	7 - 0 	HT Re-Live
+	Lokomotiv Lund - EM Tigers 	5 - 3 	HT Re-Live

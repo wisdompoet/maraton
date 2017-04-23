@@ -1,0 +1,84 @@
+Omgång  1
+2011-11-06 10:00 			
+	FC Mackan - Wick IT 	1 - 4 	
+	Cirkus Brazil Jack - Djurgården 71s Götecastleuleå HF 	3 - 0 	
+	Real Karlskrona - Babylon Boys 	4 - 2 	
+	Inter Draggen - BusbyBabes 	2 - 3 	
+Omgång  2
+2011-11-13 10:00 			
+	Babylon Boys - Cirkus Brazil Jack 	7 - 0 	
+	Djurgården 71s Götecastleuleå HF - FC Mackan 	5 - 1 	
+	BusbyBabes - Real Karlskrona 	1 - 4 	
+	Wick IT - Inter Draggen 	2 - 3 	
+Omgång  3
+2011-11-20 10:00 			
+	Cirkus Brazil Jack - Wick IT 	4 - 2 	
+	Babylon Boys - Djurgården 71s Götecastleuleå HF 	4 - 1 	
+	Real Karlskrona - Inter Draggen 	1 - 1 	
+	FC Mackan - BusbyBabes 	2 - 2 	
+Omgång  4
+2011-11-27 10:00 			
+	BusbyBabes - Cirkus Brazil Jack 	2 - 2 	
+	Djurgården 71s Götecastleuleå HF - Real Karlskrona 	0 - 4 	
+	Inter Draggen - FC Mackan 	1 - 1 	
+	Wick IT - Babylon Boys 	3 - 1 	
+Omgång  5
+2011-12-04 10:00 			
+	Cirkus Brazil Jack - FC Mackan 	3 - 1 	
+	Babylon Boys - Inter Draggen 	4 - 2 	
+	Real Karlskrona - Wick IT 	3 - 1 	
+	Djurgården 71s Götecastleuleå HF - BusbyBabes 	1 - 2 	
+Omgång  6
+2011-12-11 10:00 			
+	Inter Draggen - Cirkus Brazil Jack 	2 - 4 	
+	BusbyBabes - Babylon Boys 	3 - 1 	
+	FC Mackan - Real Karlskrona 	1 - 3 	
+	Wick IT - Djurgården 71s Götecastleuleå HF 	4 - 0 	
+Omgång  7
+2011-12-18 10:00 			
+	Djurgården 71s Götecastleuleå HF - Inter Draggen 	2 - 1 	
+	Cirkus Brazil Jack - Real Karlskrona 	3 - 4 	
+	BusbyBabes - Wick IT 	2 - 1 	
+	Babylon Boys - FC Mackan 	3 - 4 	
+Omgång  8
+2011-12-25 10:00 			
+	Wick IT - BusbyBabes 	2 - 2 	
+	Inter Draggen - Djurgården 71s Götecastleuleå HF 	1 - 2 	
+	FC Mackan - Babylon Boys 	4 - 4 	
+	Real Karlskrona - Cirkus Brazil Jack 	5 - 0 	
+Omgång  9
+2012-01-01 10:00 			
+	Djurgården 71s Götecastleuleå HF - Wick IT 	4 - 2 	
+	Real Karlskrona - FC Mackan 	4 - 1 	
+	Babylon Boys - BusbyBabes 	2 - 3 	
+	Cirkus Brazil Jack - Inter Draggen 	0 - 2 	
+Omgång  10
+2012-01-08 10:00 			
+	BusbyBabes - Djurgården 71s Götecastleuleå HF 	2 - 1 	
+	Wick IT - Real Karlskrona 	1 - 1 	
+	Inter Draggen - Babylon Boys 	1 - 0 	
+	FC Mackan - Cirkus Brazil Jack 	6 - 2 	
+Omgång  11
+2012-01-15 10:00 			
+	Real Karlskrona - Djurgården 71s Götecastleuleå HF 	3 - 1 	
+	Cirkus Brazil Jack - BusbyBabes 	4 - 4 	
+	Babylon Boys - Wick IT 	4 - 1 	
+	FC Mackan - Inter Draggen 	0 - 7 	
+Omgång  12
+2012-01-22 10:00 			
+	BusbyBabes - FC Mackan 	2 - 2 	
+	Djurgården 71s Götecastleuleå HF - Babylon Boys 	2 - 4 	
+	Inter Draggen - Real Karlskrona 	4 - 2 	
+	Wick IT - Cirkus Brazil Jack 	1 - 0 	
+Omgång  13
+2012-01-29 10:00 			
+	FC Mackan - Djurgården 71s Götecastleuleå HF 	2 - 0 	
+	Cirkus Brazil Jack - Babylon Boys 	3 - 1 	
+	Inter Draggen - Wick IT 	3 - 1 	
+	Real Karlskrona - BusbyBabes 	5 - 0 	
+Omgång  14
+2012-02-05 10:00 			
+	Babylon Boys - Real Karlskrona 	2 - 3 	
+	BusbyBabes - Inter Draggen 	2 - 2 	
+	Wick IT - FC Mackan 	1 - 0 	
+	Djurgården 71s Götecastleuleå HF - Cirkus Brazil Jack 	2 - 1 	

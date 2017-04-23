@@ -1,0 +1,84 @@
+Omgång  1
+2011-03-27 10:00 			
+	Gerilla - Los Pebbos 	3 - 1 	
+	Real Karlskrona - BusbyBabes 	3 - 1 	
+	Djurgården 71s Götecastleuleå HF - Cirkus Brazil Jack 	2 - 1 	
+	Bakerkings - Prinskorv FC 	1 - 2 	
+Omgång  2
+2011-04-03 10:00 			
+	BusbyBabes - Djurgården 71s Götecastleuleå HF 	5 - 0 	
+	Cirkus Brazil Jack - Bakerkings 	2 - 0 	
+	Prinskorv FC - Gerilla 	4 - 2 	
+	Los Pebbos - Real Karlskrona 	2 - 1 	
+Omgång  3
+2011-04-10 10:00 			
+	Djurgården 71s Götecastleuleå HF - Prinskorv FC 	0 - 1 	
+	Real Karlskrona - Gerilla 	2 - 2 	
+	BusbyBabes - Cirkus Brazil Jack 	4 - 2 	
+	Bakerkings - Los Pebbos 	3 - 0 	
+Omgång  4
+2011-04-17 10:00 			
+	Los Pebbos - Djurgården 71s Götecastleuleå HF 	3 - 2 	
+	Cirkus Brazil Jack - Real Karlskrona 	2 - 4 	
+	Gerilla - Bakerkings 	3 - 1 	
+	Prinskorv FC - BusbyBabes 	2 - 2 	
+Omgång  5
+2011-04-24 10:00 			
+	Djurgården 71s Götecastleuleå HF - Bakerkings 	2 - 0 	
+	Real Karlskrona - Prinskorv FC 	3 - 1 	
+	BusbyBabes - Gerilla 	2 - 4 	
+	Cirkus Brazil Jack - Los Pebbos 	3 - 1 	
+Omgång  6
+2011-05-01 10:00 			
+	Prinskorv FC - Cirkus Brazil Jack 	0 - 1 	
+	Gerilla - Djurgården 71s Götecastleuleå HF 	2 - 1 	
+	Bakerkings - Real Karlskrona 	3 - 2 	
+	Los Pebbos - BusbyBabes 	3 - 2 	
+Omgång  7
+2011-05-08 10:00 			
+	Djurgården 71s Götecastleuleå HF - Real Karlskrona 	3 - 1 	
+	Cirkus Brazil Jack - Gerilla 	6 - 2 	
+	BusbyBabes - Bakerkings 	2 - 1 	
+	Los Pebbos - Prinskorv FC 	2 - 0 	
+Omgång  8
+2011-05-15 10:00 			
+	Prinskorv FC - Los Pebbos 	3 - 0 	
+	Gerilla - Cirkus Brazil Jack 	0 - 2 	
+	Bakerkings - BusbyBabes 	4 - 5 	
+	Real Karlskrona - Djurgården 71s Götecastleuleå HF 	3 - 1 	
+Omgång  9
+2011-05-22 10:00 			
+	BusbyBabes - Los Pebbos 	4 - 1 	
+	Cirkus Brazil Jack - Prinskorv FC 	4 - 0 	
+	Real Karlskrona - Bakerkings 	4 - 0 	
+	Djurgården 71s Götecastleuleå HF - Gerilla 	2 - 0 	
+Omgång  10
+2011-05-29 10:00 			
+	Los Pebbos - Cirkus Brazil Jack 	0 - 2 	
+	Prinskorv FC - Real Karlskrona 	2 - 3 	
+	Gerilla - BusbyBabes 	2 - 2 	
+	Bakerkings - Djurgården 71s Götecastleuleå HF 	1 - 1 	
+Omgång  11
+2011-06-05 10:00 			
+	Bakerkings - Gerilla 	3 - 2 	
+	BusbyBabes - Prinskorv FC 	7 - 0 	
+	Djurgården 71s Götecastleuleå HF - Los Pebbos 	2 - 2 	
+	Real Karlskrona - Cirkus Brazil Jack 	3 - 2 	
+Omgång  12
+2011-06-12 10:00 			
+	Prinskorv FC - Djurgården 71s Götecastleuleå HF 	2 - 2 	
+	Los Pebbos - Bakerkings 	4 - 0 	
+	Gerilla - Real Karlskrona 	2 - 2 	
+	Cirkus Brazil Jack - BusbyBabes 	4 - 0 	
+Omgång  13
+2011-06-19 10:00 			
+	Gerilla - Prinskorv FC 	3 - 1 	
+	Real Karlskrona - Los Pebbos 	2 - 1 	
+	Djurgården 71s Götecastleuleå HF - BusbyBabes 	3 - 1 	
+	Bakerkings - Cirkus Brazil Jack 	2 - 6 	
+Omgång  14
+2011-06-26 10:00 			
+	Los Pebbos - Gerilla 	2 - 2 	
+	BusbyBabes - Real Karlskrona 	4 - 3 	
+	Cirkus Brazil Jack - Djurgården 71s Götecastleuleå HF 	4 - 2 	
+	Prinskorv FC - Bakerkings 	3 - 1 

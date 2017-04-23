@@ -1,0 +1,84 @@
+Omgång  1
+2003-11-16 10:00 			
+	IFK Livergården - Mjällbyn 	5 - 1 	HT Re-Live
+	Gäddträsket - EM Tigers 	2 - 1 	HT Re-Live
+	Arvidsjaur BK - Dynamo Patricia 	2 - 0 	HT Re-Live
+	Rosenborg BK - Inter Sthlm 	1 - 0 	HT Re-Live
+Omgång  2
+2003-11-23 10:00 			
+	Dynamo Patricia - IFK Livergården 	2 - 4 	HT Re-Live
+	Inter Sthlm - Gäddträsket 	1 - 1 	HT Re-Live
+	Mjällbyn - Rosenborg BK 	5 - 2 	HT Re-Live
+	EM Tigers - Arvidsjaur BK 	5 - 0 	HT Re-Live
+Omgång  3
+2003-11-30 10:00 			
+	Gäddträsket - Mjällbyn 	4 - 0 	HT Re-Live
+	Arvidsjaur BK - Inter Sthlm 	3 - 0 	HT Re-Live
+	Dynamo Patricia - EM Tigers 	1 - 0 	HT Re-Live
+	Rosenborg BK - IFK Livergården 	0 - 6 	HT Re-Live
+Omgång  4
+2003-12-07 10:00 			
+	IFK Livergården - EM Tigers 	1 - 0 	HT Re-Live
+	Inter Sthlm - Dynamo Patricia 	2 - 2 	HT Re-Live
+	Mjällbyn - Arvidsjaur BK 	0 - 5 	HT Re-Live
+	Rosenborg BK - Gäddträsket 	0 - 4 	HT Re-Live
+Omgång  5
+2003-12-14 10:00 			
+	Gäddträsket - IFK Livergården 	3 - 2 	HT Re-Live
+	Arvidsjaur BK - Rosenborg BK 	5 - 0 	HT Re-Live
+	Dynamo Patricia - Mjällbyn 	3 - 2 	HT Re-Live
+	EM Tigers - Inter Sthlm 	2 - 0 	HT Re-Live
+Omgång  6
+2003-12-21 10:00 			
+	IFK Livergården - Inter Sthlm 	2 - 4 	HT Re-Live
+	Gäddträsket - Arvidsjaur BK 	3 - 1 	HT Re-Live
+	Mjällbyn - EM Tigers 	3 - 0 	HT Re-Live
+	Rosenborg BK - Dynamo Patricia 	0 - 3 	HT Re-Live
+Omgång  7
+2003-12-28 10:00 			
+	Arvidsjaur BK - IFK Livergården 	2 - 1 	HT Re-Live
+	Dynamo Patricia - Gäddträsket 	1 - 2 	HT Re-Live
+	Inter Sthlm - Mjällbyn 	5 - 0 	HT Re-Live
+	EM Tigers - Rosenborg BK 	2 - 0 	HT Re-Live
+Omgång  8
+2004-01-04 10:00 			
+	Rosenborg BK - EM Tigers 	0 - 6 	HT Re-Live
+	Mjällbyn - Inter Sthlm 	1 - 4 	HT Re-Live
+	Gäddträsket - Dynamo Patricia 	1 - 0 	HT Re-Live
+	IFK Livergården - Arvidsjaur BK 	1 - 2 	HT Re-Live
+Omgång  9
+2004-01-11 10:00 			
+	Dynamo Patricia - Rosenborg BK 	5 - 1 	HT Re-Live
+	EM Tigers - Mjällbyn 	2 - 2 	HT Re-Live
+	Arvidsjaur BK - Gäddträsket 	2 - 3 	HT Re-Live
+	Inter Sthlm - IFK Livergården 	4 - 2 	HT Re-Live
+Omgång  10
+2004-01-18 10:00 			
+	Inter Sthlm - EM Tigers 	1 - 2 	HT Re-Live
+	Mjällbyn - Dynamo Patricia 	3 - 3 	HT Re-Live
+	Rosenborg BK - Arvidsjaur BK 	0 - 2 	HT Re-Live
+	IFK Livergården - Gäddträsket 	2 - 3 	HT Re-Live
+Omgång  11
+2004-01-25 10:00 			
+	Gäddträsket - Rosenborg BK 	2 - 2 	HT Re-Live
+	Arvidsjaur BK - Mjällbyn 	3 - 4 	HT Re-Live
+	Dynamo Patricia - Inter Sthlm 	1 - 4 	HT Re-Live
+	EM Tigers - IFK Livergården 	0 - 0 	HT Re-Live
+Omgång  12
+2004-02-01 10:00 			
+	IFK Livergården - Rosenborg BK 	6 - 0 	HT Re-Live
+	EM Tigers - Dynamo Patricia 	3 - 1 	HT Re-Live
+	Inter Sthlm - Arvidsjaur BK 	3 - 2 	HT Re-Live
+	Mjällbyn - Gäddträsket 	1 - 2 	HT Re-Live
+Omgång  13
+2004-02-08 10:00 			
+	Arvidsjaur BK - EM Tigers 	0 - 2 	HT Re-Live
+	Rosenborg BK - Mjällbyn 	1 - 4 	HT Re-Live
+	Gäddträsket - Inter Sthlm 	3 - 3 	HT Re-Live
+	IFK Livergården - Dynamo Patricia 	6 - 1 	HT Re-Live
+Omgång  14
+2004-02-15 10:00 			
+	Inter Sthlm - Rosenborg BK 	5 - 1 	HT Re-Live
+	Dynamo Patricia - Arvidsjaur BK 	0 - 0 	HT Re-Live
+	EM Tigers - Gäddträsket 	4 - 0 	HT Re-Live
+	Mjällbyn - IFK Livergården 	4 - 2 	HT Re-Live

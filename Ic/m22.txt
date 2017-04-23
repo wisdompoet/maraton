@@ -1,0 +1,84 @@
+Omgång  1
+2004-03-07 10:00 			
+	Rosenborg BK - Sublime BK	3 - 2 	HT Re-Live
+	Akalla FC - BK Marx	1 - 1 	HT Re-Live
+	Falkenbergs FF - Team ABC	3 - 0 	HT Re-Live
+	F.C Keeps - Alpha Lipoic AC	4 - 0 	HT Re-Live
+Omgång  2
+2004-03-14 10:00 			
+	Team ABC - Rosenborg BK	2 - 3 	HT Re-Live
+	Alpha Lipoic AC - Akalla FC	1 - 2 	HT Re-Live
+	Sublime BK - F.C Keeps	2 - 4 	HT Re-Live
+	BK Marx - Falkenbergs FF	5 - 2 	HT Re-Live
+Omgång  3
+2004-03-21 10:00 			
+	Akalla FC - Sublime BK	1 - 4 	HT Re-Live
+	Falkenbergs FF - Alpha Lipoic AC	6 - 2 	HT Re-Live
+	Team ABC - BK Marx	0 - 5 	HT Re-Live
+	F.C Keeps - Rosenborg BK	2 - 4 	HT Re-Live
+Omgång  4
+2004-03-28 10:00 			
+	Rosenborg BK - BK Marx	1 - 1 	HT Re-Live
+	Alpha Lipoic AC - Team ABC	3 - 1 	HT Re-Live
+	Sublime BK - Falkenbergs FF	2 - 2 	HT Re-Live
+	F.C Keeps - Akalla FC	4 - 1 	HT Re-Live
+Omgång  5
+2004-04-04 10:00 			
+	Akalla FC - Rosenborg BK	0 - 4 	HT Re-Live
+	Falkenbergs FF - F.C Keeps	5 - 1 	HT Re-Live
+	Team ABC - Sublime BK	3 - 5 	HT Re-Live
+	BK Marx - Alpha Lipoic AC	2 - 1 	HT Re-Live
+Omgång  6
+2004-04-11 10:00 			
+	Rosenborg BK - Alpha Lipoic AC	3 - 4 	HT Re-Live
+	Akalla FC - Falkenbergs FF	5 - 3 	HT Re-Live
+	Sublime BK - BK Marx	3 - 2 	HT Re-Live
+	F.C Keeps - Team ABC	4 - 1 	HT Re-Live
+Omgång  7
+2004-04-18 10:00 			
+	Falkenbergs FF - Rosenborg BK	4 - 3 	HT Re-Live
+	Team ABC - Akalla FC	2 - 2 	HT Re-Live
+	Alpha Lipoic AC - Sublime BK	2 - 4 	HT Re-Live
+	BK Marx - F.C Keeps	2 - 2 	HT Re-Live
+Omgång  8
+2004-04-25 10:00 			
+	F.C Keeps - BK Marx	3 - 2 	HT Re-Live
+	Sublime BK - Alpha Lipoic AC	5 - 0 	HT Re-Live
+	Akalla FC - Team ABC	3 - 2 	HT Re-Live
+	Rosenborg BK - Falkenbergs FF	5 - 0 	HT Re-Live
+Omgång  9
+2004-05-02 10:00 			
+	Team ABC - F.C Keeps	2 - 5 	HT Re-Live
+	BK Marx - Sublime BK	3 - 0 	HT Re-Live
+	Falkenbergs FF - Akalla FC	3 - 5 	HT Re-Live
+	Alpha Lipoic AC - Rosenborg BK	2 - 5 	HT Re-Live
+Omgång  10
+2004-05-09 10:00 			
+	Alpha Lipoic AC - BK Marx	1 - 5 	HT Re-Live
+	Sublime BK - Team ABC	2 - 1 	HT Re-Live
+	F.C Keeps - Falkenbergs FF	2 - 0 	HT Re-Live
+	Rosenborg BK - Akalla FC	2 - 1 	HT Re-Live
+Omgång  11
+2004-05-16 10:00 			
+	Akalla FC - F.C Keeps	0 - 4 	HT Re-Live
+	Falkenbergs FF - Sublime BK	2 - 1 	HT Re-Live
+	Team ABC - Alpha Lipoic AC	2 - 4 	HT Re-Live
+	BK Marx - Rosenborg BK	3 - 2 	HT Re-Live
+Omgång  12
+2004-05-23 10:00 			
+	Rosenborg BK - F.C Keeps	3 - 3 	HT Re-Live
+	BK Marx - Team ABC	4 - 1 	HT Re-Live
+	Alpha Lipoic AC - Falkenbergs FF	6 - 3 	HT Re-Live
+	Sublime BK - Akalla FC	5 - 1 	HT Re-Live
+Omgång  13
+2004-05-30 10:00 			
+	Falkenbergs FF - BK Marx	3 - 2 	HT Re-Live
+	F.C Keeps - Sublime BK	2 - 2 	HT Re-Live
+	Akalla FC - Alpha Lipoic AC	4 - 2 	HT Re-Live
+	Rosenborg BK - Team ABC	4 - 0 	HT Re-Live
+Omgång  14
+2004-06-06 10:00 			
+	Alpha Lipoic AC - F.C Keeps	6 - 2 	HT Re-Live
+	Team ABC - Falkenbergs FF	4 - 2 	HT Re-Live
+	BK Marx - Akalla FC	3 - 0 	HT Re-Live
+	Sublime BK - Rosenborg BK	4 - 0 	HT Re-Live

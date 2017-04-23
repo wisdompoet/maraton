@@ -1,0 +1,84 @@
+Omgång  1
+2009-02-01 10:00 			
+	BK Örnen - Korsudden	3 - 2 	HT Re-Live
+	Falköpings BK - Jediriddarna	4 - 1 	HT Re-Live
+	Grålle GIF - Hestra2000	1 - 1 	HT Re-Live
+	Ultras Stockholm FC - Alle allstars	5 - 0 	HT Re-Live
+Omgång  2
+2009-02-08 10:00 			
+	Alle allstars - Falköpings BK	0 - 6 	HT Re-Live
+	Hestra2000 - BK Örnen	4 - 3 	HT Re-Live
+	Jediriddarna - Grålle GIF	0 - 0 	HT Re-Live
+	Korsudden - Ultras Stockholm FC	2 - 2 	HT Re-Live
+Omgång  3
+2009-02-15 10:00 			
+	BK Örnen - Jediriddarna	0 - 2 	HT Re-Live
+	Alle allstars - Korsudden	0 - 9 	HT Re-Live
+	Grålle GIF - Falköpings BK	4 - 2 	HT Re-Live
+	Ultras Stockholm FC - Hestra2000	5 - 1 	HT Re-Live
+Omgång  4
+2009-02-22 10:00 			
+	Falköpings BK - Korsudden	4 - 4 	HT Re-Live
+	Hestra2000 - Alle allstars	7 - 0 	HT Re-Live
+	Jediriddarna - Ultras Stockholm FC	1 - 3 	HT Re-Live
+	Grålle GIF - BK Örnen	3 - 0 	HT Re-Live
+Omgång  5
+2009-03-01 10:00 			
+	Ultras Stockholm FC - Grålle GIF	5 - 1 	HT Re-Live
+	BK Örnen - Falköpings BK	5 - 5 	HT Re-Live
+	Alle allstars - Jediriddarna	1 - 7 	HT Re-Live
+	Korsudden - Hestra2000	3 - 0 	HT Re-Live
+Omgång  6
+2009-03-08 10:00 			
+	Falköpings BK - Hestra2000	5 - 2 	HT Re-Live
+	Jediriddarna - Korsudden	3 - 3 	HT Re-Live
+	BK Örnen - Ultras Stockholm FC	3 - 2 	HT Re-Live
+	Grålle GIF - Alle allstars	7 - 0 	HT Re-Live
+Omgång  7
+2009-03-15 10:00 			
+	Ultras Stockholm FC - Falköpings BK	2 - 2 	HT Re-Live
+	Alle allstars - BK Örnen	0 - 9 	HT Re-Live
+	Hestra2000 - Jediriddarna	1 - 1 	HT Re-Live
+	Korsudden - Grålle GIF	4 - 2 	HT Re-Live
+Omgång  8
+2009-03-22 10:00 			
+	Grålle GIF - Korsudden	4 - 2 	HT Re-Live
+	Jediriddarna - Hestra2000	1 - 2 	HT Re-Live
+	BK Örnen - Alle allstars	9 - 0 	HT Re-Live
+	Falköpings BK - Ultras Stockholm FC	5 - 3 	HT Re-Live
+Omgång  9
+2009-03-29 10:00 			
+	Alle allstars - Grålle GIF	0 - 8 	HT Re-Live
+	Hestra2000 - Falköpings BK	2 - 4 	HT Re-Live
+	Korsudden - Jediriddarna	0 - 1 	HT Re-Live
+	Ultras Stockholm FC - BK Örnen	4 - 3 	HT Re-Live
+Omgång  10
+2009-04-05 10:00 			
+	Hestra2000 - Korsudden	3 - 1 	HT Re-Live
+	Jediriddarna - Alle allstars	9 - 0 	HT Re-Live
+	Grålle GIF - Ultras Stockholm FC	4 - 1 	HT Re-Live
+	Falköpings BK - BK Örnen	5 - 0 	HT Re-Live
+Omgång  11
+2009-04-12 10:00 			
+	Ultras Stockholm FC - Jediriddarna	5 - 3 	HT Re-Live
+	Alle allstars - Hestra2000	0 - 7 	HT Re-Live
+	Korsudden - Falköpings BK	1 - 3 	HT Re-Live
+	BK Örnen - Grålle GIF	7 - 2 	HT Re-Live
+Omgång  12
+2009-04-19 10:00 			
+	Korsudden - Alle allstars	11 - 0 	HT Re-Live
+	Falköpings BK - Grålle GIF	4 - 2 	HT Re-Live
+	Hestra2000 - Ultras Stockholm FC	4 - 2 	HT Re-Live
+	Jediriddarna - BK Örnen	3 - 2 	HT Re-Live
+Omgång  13
+2009-04-26 10:00 			
+	Ultras Stockholm FC - Korsudden	3 - 3 	HT Re-Live
+	Falköpings BK - Alle allstars	5 - 0 	HT Re-Live
+	BK Örnen - Hestra2000	7 - 0 	HT Re-Live
+	Grålle GIF - Jediriddarna	2 - 1 	HT Re-Live
+Omgång  14
+2009-05-03 10:00 			
+	Hestra2000 - Grålle GIF	3 - 2 	HT Re-Live
+	Korsudden - BK Örnen	5 - 1 	HT Re-Live
+	Jediriddarna - Falköpings BK	1 - 4 	HT Re-Live
+	Alle allstars - Ultras Stockholm FC	0 - 9 	HT Re-Live

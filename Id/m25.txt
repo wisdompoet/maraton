@@ -1,0 +1,84 @@
+Omgång  1
+2005-02-06 10:00 			
+	Headless Chickens FC - Forest Rovers	1 - 4 	HT Re-Live
+	Mjällbyn - Flykälens BK	0 - 3 	HT Re-Live
+	Trollibollen BK - Gladiators	5 - 2 	HT Re-Live
+	PG GoalGetters - Pecka´s Boys	3 - 2 	HT Re-Live
+Omgång  2
+2005-02-13 10:00 			
+	Gladiators - Headless Chickens FC	3 - 2 	HT Re-Live
+	Pecka´s Boys - Mjällbyn	3 - 1 	HT Re-Live
+	Forest Rovers - PG GoalGetters	2 - 0 	HT Re-Live
+	Flykälens BK - Trollibollen BK	5 - 1 	HT Re-Live
+Omgång  3
+2005-02-20 10:00 			
+	Mjällbyn - Forest Rovers	2 - 3 	HT Re-Live
+	Trollibollen BK - Pecka´s Boys	2 - 0 	HT Re-Live
+	Gladiators - Flykälens BK	4 - 2 	HT Re-Live
+	PG GoalGetters - Headless Chickens FC	1 - 2 	HT Re-Live
+Omgång  4
+2005-02-27 10:00 			
+	Headless Chickens FC - Flykälens BK	1 - 3 	HT Re-Live
+	Pecka´s Boys - Gladiators	4 - 0 	HT Re-Live
+	Forest Rovers - Trollibollen BK	1 - 1 	HT Re-Live
+	PG GoalGetters - Mjällbyn	2 - 1 	HT Re-Live
+Omgång  5
+2005-03-06 10:00 			
+	Mjällbyn - Headless Chickens FC	3 - 2 	HT Re-Live
+	Trollibollen BK - PG GoalGetters	1 - 2 	HT Re-Live
+	Gladiators - Forest Rovers	2 - 1 	HT Re-Live
+	Flykälens BK - Pecka´s Boys	5 - 0 	HT Re-Live
+Omgång  6
+2005-03-13 10:00 			
+	Headless Chickens FC - Pecka´s Boys	1 - 1 	HT Re-Live
+	Mjällbyn - Trollibollen BK	2 - 3 	HT Re-Live
+	Forest Rovers - Flykälens BK	6 - 2 	HT Re-Live
+	PG GoalGetters - Gladiators	4 - 2 	HT Re-Live
+Omgång  7
+2005-03-20 10:00 			
+	Trollibollen BK - Headless Chickens FC	2 - 0 	HT Re-Live
+	Gladiators - Mjällbyn	5 - 1 	HT Re-Live
+	Pecka´s Boys - Forest Rovers	2 - 2 	HT Re-Live
+	Flykälens BK - PG GoalGetters	3 - 1 	HT Re-Live
+Omgång  8
+2005-03-27 10:00 			
+	PG GoalGetters - Flykälens BK	1 - 1 	HT Re-Live
+	Forest Rovers - Pecka´s Boys	4 - 3 	HT Re-Live
+	Mjällbyn - Gladiators	4 - 1 	HT Re-Live
+	Headless Chickens FC - Trollibollen BK	1 - 1 	HT Re-Live
+Omgång  9
+2005-04-03 10:00 			
+	Gladiators - PG GoalGetters	3 - 1 	HT Re-Live
+	Flykälens BK - Forest Rovers	2 - 1 	HT Re-Live
+	Trollibollen BK - Mjällbyn	1 - 2 	HT Re-Live
+	Pecka´s Boys - Headless Chickens FC	4 - 1 	HT Re-Live
+Omgång  10
+2005-04-10 10:00 			
+	Pecka´s Boys - Flykälens BK	2 - 1 	HT Re-Live
+	Forest Rovers - Gladiators	4 - 1 	HT Re-Live
+	PG GoalGetters - Trollibollen BK	2 - 1 	HT Re-Live
+	Headless Chickens FC - Mjällbyn	3 - 4 	HT Re-Live
+Omgång  11
+2005-04-17 10:00 			
+	Mjällbyn - PG GoalGetters	4 - 1 	HT Re-Live
+	Trollibollen BK - Forest Rovers	1 - 4 	HT Re-Live
+	Gladiators - Pecka´s Boys	1 - 1 	HT Re-Live
+	Flykälens BK - Headless Chickens FC	5 - 3 	HT Re-Live
+Omgång  12
+2005-04-24 10:00 			
+	Headless Chickens FC - PG GoalGetters	2 - 3 	HT Re-Live
+	Flykälens BK - Gladiators	5 - 0 	HT Re-Live
+	Pecka´s Boys - Trollibollen BK	2 - 1 	HT Re-Live
+	Forest Rovers - Mjällbyn	7 - 1 	HT Re-Live
+Omgång  13
+2005-05-01 10:00 			
+	Trollibollen BK - Flykälens BK	1 - 3 	HT Re-Live
+	PG GoalGetters - Forest Rovers	4 - 2 	HT Re-Live
+	Mjällbyn - Pecka´s Boys	5 - 3 	HT Re-Live
+	Headless Chickens FC - Gladiators	3 - 2 	HT Re-Live
+Omgång  14
+2005-05-08 10:00 			
+	Pecka´s Boys - PG GoalGetters	1 - 1 	HT Re-Live
+	Gladiators - Trollibollen BK	2 - 1 	HT Re-Live
+	Flykälens BK - Mjällbyn	4 - 2 	HT Re-Live
+	Forest Rovers - Headless Chickens FC	2 - 3 	HT Re-Live

@@ -1,0 +1,84 @@
+Omgång  1
+2006-08-20 10:00 			
+	~DrPepper FC - LA Hookers	0 - 8 	HT Re-Live
+	Angels of Gothenburg - Morgoths horder	6 - 2 	HT Re-Live
+	BK Lambohov - Ljungby IF	2 - 1 	HT Re-Live
+	Nosaby IF - Kransens BK	1 - 3 	HT Re-Live
+Omgång  2
+2006-08-27 10:00 			
+	Kransens BK - BK Lambohov	1 - 4 	HT Re-Live
+	Morgoths horder - ~DrPepper FC	9 - 0 	HT Re-Live
+	LA Hookers - Nosaby IF	3 - 1 	HT Re-Live
+	Ljungby IF - Angels of Gothenburg	1 - 3 	HT Re-Live
+Omgång  3
+2006-09-03 10:00 			
+	BK Lambohov - LA Hookers	2 - 5 	HT Re-Live
+	Angels of Gothenburg - Kransens BK	3 - 2 	HT Re-Live
+	Nosaby IF - ~DrPepper FC	7 - 0 	HT Re-Live
+	Morgoths horder - Ljungby IF	1 - 1 	HT Re-Live
+Omgång  4
+2006-09-10 10:00 			
+	~DrPepper FC - Ljungby IF	0 - 11 	HT Re-Live
+	LA Hookers - Angels of Gothenburg	7 - 2 	HT Re-Live
+	Nosaby IF - BK Lambohov	1 - 2 	HT Re-Live
+	Kransens BK - Morgoths horder	2 - 0 	HT Re-Live
+Omgång  5
+2006-09-17 10:00 			
+	BK Lambohov - ~DrPepper FC	9 - 0 	HT Re-Live
+	Angels of Gothenburg - Nosaby IF	3 - 1 	HT Re-Live
+	Morgoths horder - LA Hookers	0 - 2 	HT Re-Live
+	Ljungby IF - Kransens BK	0 - 2 	HT Re-Live
+Omgång  6
+2006-09-24 10:00 			
+	~DrPepper FC - Kransens BK	0 - 9 	HT Re-Live
+	BK Lambohov - Angels of Gothenburg	3 - 7 	HT Re-Live
+	LA Hookers - Ljungby IF	3 - 0 	HT Re-Live
+	Nosaby IF - Morgoths horder	0 - 4 	HT Re-Live
+Omgång  7
+2006-10-01 10:00 			
+	Angels of Gothenburg - ~DrPepper FC	11 - 0 	HT Re-Live
+	Morgoths horder - BK Lambohov	5 - 1 	HT Re-Live
+	Kransens BK - LA Hookers	0 - 3 	HT Re-Live
+	Ljungby IF - Nosaby IF	2 - 1 	HT Re-Live
+Omgång  8
+2006-10-08 10:00 			
+	Nosaby IF - Ljungby IF	0 - 2 	HT Re-Live
+	BK Lambohov - Morgoths horder	0 - 4 	HT Re-Live
+	~DrPepper FC - Angels of Gothenburg	0 - 11 	HT Re-Live
+	LA Hookers - Kransens BK	5 - 0 	HT Re-Live
+Omgång  9
+2006-10-15 10:00 			
+	Kransens BK - ~DrPepper FC	2 - 0 	HT Re-Live
+	Morgoths horder - Nosaby IF	4 - 1 	HT Re-Live
+	Angels of Gothenburg - BK Lambohov	4 - 0 	HT Re-Live
+	Ljungby IF - LA Hookers	1 - 3 	HT Re-Live
+Omgång  10
+2006-10-22 10:00 			
+	Nosaby IF - Angels of Gothenburg	2 - 3 	HT Re-Live
+	Kransens BK - Ljungby IF	0 - 2 	HT Re-Live
+	LA Hookers - Morgoths horder	4 - 2 	HT Re-Live
+	~DrPepper FC - BK Lambohov	0 - 4 	HT Re-Live
+Omgång  11
+2006-10-29 10:00 			
+	BK Lambohov - Nosaby IF	2 - 1 	HT Re-Live
+	Angels of Gothenburg - LA Hookers	2 - 3 	HT Re-Live
+	Ljungby IF - ~DrPepper FC	9 - 1 	HT Re-Live
+	Morgoths horder - Kransens BK	4 - 4 	HT Re-Live
+Omgång  12
+2006-11-05 10:00 			
+	LA Hookers - BK Lambohov	8 - 0 	HT Re-Live
+	Kransens BK - Angels of Gothenburg	9 - 2 	HT Re-Live
+	Ljungby IF - Morgoths horder	3 - 3 	HT Re-Live
+	~DrPepper FC - Nosaby IF	0 - 9 	HT Re-Live
+Omgång  13
+2006-11-12 10:00 			
+	BK Lambohov - Kransens BK	1 - 4 	HT Re-Live
+	Angels of Gothenburg - Ljungby IF	4 - 2 	HT Re-Live
+	Nosaby IF - LA Hookers	2 - 5 	HT Re-Live
+	~DrPepper FC - Morgoths horder	0 - 9 	HT Re-Live
+Omgång  14
+2006-11-19 10:00 			
+	Kransens BK - Nosaby IF	2 - 2 	HT Re-Live
+	Ljungby IF - BK Lambohov	2 - 2 	HT Re-Live
+	Morgoths horder - Angels of Gothenburg	6 - 1 	HT Re-Live
+	LA Hookers - ~DrPepper FC	11 - 0 	HT Re-Live

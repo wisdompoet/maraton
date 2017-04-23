@@ -1,0 +1,84 @@
+Omgång  1
+2010-01-03 10:00 			
+	Bakerkings - Underdog Warriors FC	6 - 0 	HT Re-Live
+	Sundsvall Meanmachines - Ekens FF	3 - 0 	HT Re-Live
+	Team FS - Goodwon FC	3 - 0 	HT Re-Live
+	FC Kabel 80 - FC Corvus Corax	2 - 3 	HT Re-Live
+Omgång  2
+2010-01-10 10:00 			
+	FC Corvus Corax - Sundsvall Meanmachines	1 - 2 	HT Re-Live
+	Underdog Warriors FC - FC Kabel 80	0 - 6 	HT Re-Live
+	Ekens FF - Team FS	2 - 2 	HT Re-Live
+	Goodwon FC - Bakerkings	2 - 1 	HT Re-Live
+Omgång  3
+2010-01-17 10:00 			
+	Team FS - Sundsvall Meanmachines	4 - 2 	HT Re-Live
+	FC Corvus Corax - Underdog Warriors FC	7 - 0 	HT Re-Live
+	FC Kabel 80 - Goodwon FC	2 - 5 	HT Re-Live
+	Bakerkings - Ekens FF	4 - 1 	HT Re-Live
+Omgång  4
+2010-01-24 10:00 			
+	Team FS - Bakerkings	1 - 2 	HT Re-Live
+	Ekens FF - FC Kabel 80	4 - 3 	HT Re-Live
+	Sundsvall Meanmachines - Underdog Warriors FC	9 - 0 	HT Re-Live
+	Goodwon FC - FC Corvus Corax	3 - 1 	HT Re-Live
+Omgång  5
+2010-01-31 10:00 			
+	FC Corvus Corax - Ekens FF	1 - 1 	HT Re-Live
+	Underdog Warriors FC - Goodwon FC	0 - 5 	HT Re-Live
+	FC Kabel 80 - Team FS	1 - 4 	HT Re-Live
+	Bakerkings - Sundsvall Meanmachines	3 - 2 	HT Re-Live
+Omgång  6
+2010-02-07 10:00 			
+	Team FS - FC Corvus Corax	2 - 1 	HT Re-Live
+	Ekens FF - Underdog Warriors FC	9 - 0 	HT Re-Live
+	Bakerkings - FC Kabel 80	5 - 0 	HT Re-Live
+	Sundsvall Meanmachines - Goodwon FC	4 - 0 	HT Re-Live
+Omgång  7
+2010-02-14 10:00 			
+	Underdog Warriors FC - Team FS	0 - 3 	HT Re-Live
+	FC Corvus Corax - Bakerkings	1 - 0 	HT Re-Live
+	Goodwon FC - Ekens FF	3 - 1 	HT Re-Live
+	FC Kabel 80 - Sundsvall Meanmachines	2 - 3 	HT Re-Live
+Omgång  8
+2010-02-21 10:00 			
+	Ekens FF - Goodwon FC	3 - 4 	HT Re-Live
+	Sundsvall Meanmachines - FC Kabel 80	4 - 2 	HT Re-Live
+	Team FS - Underdog Warriors FC	1 - 0 	HT Re-Live
+	Bakerkings - FC Corvus Corax	0 - 3 	HT Re-Live
+Omgång  9
+2010-02-28 10:00 			
+	Underdog Warriors FC - Ekens FF	0 - 7 	HT Re-Live
+	Goodwon FC - Sundsvall Meanmachines	6 - 2 	HT Re-Live
+	FC Corvus Corax - Team FS	4 - 0 	HT Re-Live
+	FC Kabel 80 - Bakerkings	1 - 2 	HT Re-Live
+Omgång  10
+2010-03-07 10:00 			
+	Ekens FF - FC Corvus Corax	2 - 2 	HT Re-Live
+	Team FS - FC Kabel 80	2 - 4 	HT Re-Live
+	Sundsvall Meanmachines - Bakerkings	1 - 1 	HT Re-Live
+	Goodwon FC - Underdog Warriors FC	9 - 0 	HT Re-Live
+Omgång  11
+2010-03-14 10:00 			
+	Bakerkings - Team FS	9 - 0 	HT Re-Live
+	FC Kabel 80 - Ekens FF	2 - 2 	HT Re-Live
+	FC Corvus Corax - Goodwon FC	1 - 1 	HT Re-Live
+	Underdog Warriors FC - Sundsvall Meanmachines	0 - 7 	HT Re-Live
+Omgång  12
+2010-03-21 10:00 			
+	Sundsvall Meanmachines - Team FS	8 - 0 	HT Re-Live
+	Underdog Warriors FC - FC Corvus Corax	0 - 5 	HT Re-Live
+	Goodwon FC - FC Kabel 80	3 - 1 	HT Re-Live
+	Ekens FF - Bakerkings	1 - 2 	HT Re-Live
+Omgång  13
+2010-03-28 10:00 			
+	FC Kabel 80 - Underdog Warriors FC	4 - 0 	HT Re-Live
+	Team FS - Ekens FF	0 - 5 	HT Re-Live
+	Bakerkings - Goodwon FC	3 - 0 	HT Re-Live
+	Sundsvall Meanmachines - FC Corvus Corax	2 - 0 	HT Re-Live
+Omgång  14
+2010-04-04 10:00 			
+	Goodwon FC - Team FS	7 - 0 	HT Re-Live
+	FC Corvus Corax - FC Kabel 80	5 - 0 	HT Re-Live
+	Underdog Warriors FC - Bakerkings	0 - 9 	HT Re-Live
+	Ekens FF - Sundsvall Meanmachines	0 - 2 	HT Re-Live

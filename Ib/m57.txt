@@ -1,0 +1,84 @@
+Omgång  1
+2014-11-30 10:00 			
+	Emperors SK - Ljungby IF 	2 - 3 	HT Re-Live
+	Parkgatans Gubbar - Terra Nova FC 	9 - 0 	HT Re-Live
+	Gamla Tyresö FC - Söra Lions 	1 - 2 	HT Re-Live
+	Elvis FF - Verkovare FF 	2 - 3 	HT Re-Live
+Omgång  2
+2014-12-07 10:00 			
+	Terra Nova FC - Emperors SK 	0 - 9 	HT Re-Live
+	Söra Lions - Parkgatans Gubbar 	2 - 4 	HT Re-Live
+	Ljungby IF - Elvis FF 	1 - 2 	HT Re-Live
+	Verkovare FF - Gamla Tyresö FC 	1 - 3 	HT Re-Live
+Omgång  3
+2014-12-14 10:00 			
+	Elvis FF - Söra Lions 	6 - 0 	HT Re-Live
+	Emperors SK - Verkovare FF 	4 - 0 	HT Re-Live
+	Terra Nova FC - Ljungby IF 	0 - 11 	HT Re-Live
+	Parkgatans Gubbar - Gamla Tyresö FC 	1 - 3 	HT Re-Live
+Omgång  4
+2014-12-21 10:00 			
+	Söra Lions - Emperors SK 	0 - 4 	HT Re-Live
+	Ljungby IF - Parkgatans Gubbar 	5 - 0 	HT Re-Live
+	Verkovare FF - Terra Nova FC 	7 - 0 	HT Re-Live
+	Gamla Tyresö FC - Elvis FF 	2 - 2 	HT Re-Live
+Omgång  5
+2014-12-28 10:00 			
+	Emperors SK - Elvis FF 	8 - 0 	HT Re-Live
+	Terra Nova FC - Gamla Tyresö FC 	0 - 12 	HT Re-Live
+	Parkgatans Gubbar - Verkovare FF 	4 - 1 	HT Re-Live
+	Ljungby IF - Söra Lions 	5 - 3 	HT Re-Live
+Omgång  6
+2015-01-04 10:00 			
+	Gamla Tyresö FC - Emperors SK 	1 - 1 	HT Re-Live
+	Elvis FF - Parkgatans Gubbar 	2 - 0 	HT Re-Live
+	Verkovare FF - Ljungby IF 	1 - 2 	HT Re-Live
+	Söra Lions - Terra Nova FC 	7 - 0 	HT Re-Live
+Omgång  7
+2015-01-11 10:00 			
+	Ljungby IF - Gamla Tyresö FC 	3 - 1 	HT Re-Live
+	Emperors SK - Parkgatans Gubbar 	3 - 0 	HT Re-Live
+	Terra Nova FC - Elvis FF 	0 - 10 	HT Re-Live
+	Söra Lions - Verkovare FF 	1 - 1 	HT Re-Live
+Omgång  8
+2015-01-18 10:00 			
+	Elvis FF - Terra Nova FC 	9 - 0 	HT Re-Live
+	Verkovare FF - Söra Lions 	2 - 1 	HT Re-Live
+	Gamla Tyresö FC - Ljungby IF 	2 - 2 	HT Re-Live
+	Parkgatans Gubbar - Emperors SK 	4 - 1 	HT Re-Live
+Omgång  9
+2015-01-25 10:00 			
+	Ljungby IF - Verkovare FF 	4 - 0 	HT Re-Live
+	Parkgatans Gubbar - Elvis FF 	3 - 3 	HT Re-Live
+	Emperors SK - Gamla Tyresö FC 	8 - 1 	HT Re-Live
+	Terra Nova FC - Söra Lions 	0 - 8 	HT Re-Live
+Omgång  10
+2015-02-01 10:00 			
+	Söra Lions - Ljungby IF 	0 - 2 	HT Re-Live
+	Gamla Tyresö FC - Terra Nova FC 	8 - 0 	HT Re-Live
+	Elvis FF - Emperors SK 	1 - 2 	HT Re-Live
+	Verkovare FF - Parkgatans Gubbar 	3 - 2 	HT Re-Live
+Omgång  11
+2015-02-08 10:00 			
+	Terra Nova FC - Verkovare FF 	0 - 11 	HT Re-Live
+	Elvis FF - Gamla Tyresö FC 	2 - 2 	HT Re-Live
+	Parkgatans Gubbar - Ljungby IF 	4 - 2 	HT Re-Live
+	Emperors SK - Söra Lions 	2 - 3 	HT Re-Live
+Omgång  12
+2015-02-15 10:00 			
+	Söra Lions - Elvis FF 	2 - 4 	HT Re-Live
+	Ljungby IF - Terra Nova FC 	7 - 0 	HT Re-Live
+	Verkovare FF - Emperors SK 	1 - 2 	HT Re-Live
+	Gamla Tyresö FC - Parkgatans Gubbar 	6 - 1 	HT Re-Live
+Omgång  13
+2015-02-22 10:00 			
+	Gamla Tyresö FC - Verkovare FF 	0 - 1 	HT Re-Live
+	Elvis FF - Ljungby IF 	2 - 4 	HT Re-Live
+	Parkgatans Gubbar - Söra Lions 	6 - 1 	HT Re-Live
+	Emperors SK - Terra Nova FC 	6 - 0 	HT Re-Live
+Omgång  14
+2015-03-01 10:00 			
+	Verkovare FF - Elvis FF 	2 - 1 	HT Re-Live
+	Terra Nova FC - Parkgatans Gubbar 	0 - 8 	HT Re-Live
+	Söra Lions - Gamla Tyresö FC 	0 - 1 	HT Re-Live
+	Ljungby IF - Emperors SK 	5 - 0 	HT Re-Live

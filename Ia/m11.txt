@@ -1,0 +1,84 @@
+Omgång  1
+2000-10-22 10:00 			
+	FC Oldcastle - Forest Rovers	2 - 3 	HT Re-Live
+	FK Sandstormen - BK Smittan	3 - 1 	HT Re-Live
+	AC Ecconaton - Boca Seniors	2 - 1 	HT Re-Live
+	Team X - Svin-Arne BK	2 - 2 	HT Re-Live
+Omgång  2
+2000-10-29 10:00 			
+	Boca Seniors - FC Oldcastle	2 - 1 	HT Re-Live
+	Svin-Arne BK - FK Sandstormen	3 - 1 	HT Re-Live
+	Forest Rovers - Team X	1 - 3 	HT Re-Live
+	BK Smittan - AC Ecconaton	0 - 0 	HT Re-Live
+Omgång  3
+2000-11-05 10:00 			
+	FK Sandstormen - Forest Rovers	2 - 1 	HT Re-Live
+	AC Ecconaton - Svin-Arne BK	1 - 0 	HT Re-Live
+	Boca Seniors - BK Smittan	1 - 1 	HT Re-Live
+	Team X - FC Oldcastle	3 - 0 	HT Re-Live
+Omgång  4
+2000-11-12 10:00 			
+	FC Oldcastle - BK Smittan	3 - 1 	HT Re-Live
+	Svin-Arne BK - Boca Seniors	2 - 1 	HT Re-Live
+	Forest Rovers - AC Ecconaton	4 - 0 	HT Re-Live
+	Team X - FK Sandstormen	3 - 0 	HT Re-Live
+Omgång  5
+2000-11-19 10:00 			
+	FK Sandstormen - FC Oldcastle	0 - 0 	HT Re-Live
+	AC Ecconaton - Team X	2 - 2 	HT Re-Live
+	Boca Seniors - Forest Rovers	2 - 0 	HT Re-Live
+	BK Smittan - Svin-Arne BK	2 - 0 	HT Re-Live
+Omgång  6
+2000-11-26 10:00 			
+	FC Oldcastle - Svin-Arne BK	1 - 3 	HT Re-Live
+	FK Sandstormen - AC Ecconaton	1 - 0 	HT Re-Live
+	Forest Rovers - BK Smittan	3 - 0 	HT Re-Live
+	Team X - Boca Seniors	2 - 2 	HT Re-Live
+Omgång  7
+2000-12-03 10:00 			
+	AC Ecconaton - FC Oldcastle	3 - 0 	HT Re-Live
+	Boca Seniors - FK Sandstormen	2 - 0 	HT Re-Live
+	Svin-Arne BK - Forest Rovers	3 - 2 	HT Re-Live
+	BK Smittan - Team X	4 - 4 	HT Re-Live
+Omgång  8
+2000-12-10 10:00 			
+	Team X - BK Smittan	0 - 1 	HT Re-Live
+	Forest Rovers - Svin-Arne BK	6 - 0 	HT Re-Live
+	FK Sandstormen - Boca Seniors	3 - 0 	HT Re-Live
+	FC Oldcastle - AC Ecconaton	1 - 0 	HT Re-Live
+Omgång  9
+2000-12-17 10:00 			
+	Boca Seniors - Team X	0 - 3 	HT Re-Live
+	BK Smittan - Forest Rovers	1 - 2 	HT Re-Live
+	AC Ecconaton - FK Sandstormen	4 - 0 	HT Re-Live
+	Svin-Arne BK - FC Oldcastle	2 - 1 	HT Re-Live
+Omgång  10
+2000-12-24 10:00 			
+	Svin-Arne BK - BK Smittan	3 - 1 	HT Re-Live
+	Forest Rovers - Boca Seniors	2 - 1 	HT Re-Live
+	Team X - AC Ecconaton	3 - 0 	HT Re-Live
+	FC Oldcastle - FK Sandstormen	1 - 0 	HT Re-Live
+Omgång  11
+2000-12-31 10:00 			
+	FK Sandstormen - Team X	3 - 0 	HT Re-Live
+	AC Ecconaton - Forest Rovers	0 - 2 	HT Re-Live
+	Boca Seniors - Svin-Arne BK	2 - 2 	HT Re-Live
+	BK Smittan - FC Oldcastle	0 - 0 	HT Re-Live
+Omgång  12
+2001-01-07 10:00 			
+	FC Oldcastle - Team X	0 - 2 	HT Re-Live
+	BK Smittan - Boca Seniors	1 - 1 	HT Re-Live
+	Svin-Arne BK - AC Ecconaton	2 - 2 	HT Re-Live
+	Forest Rovers - FK Sandstormen	3 - 0 	HT Re-Live
+Omgång  13
+2001-01-14 10:00 			
+	AC Ecconaton - BK Smittan	0 - 0 	HT Re-Live
+	Team X - Forest Rovers	4 - 0 	HT Re-Live
+	FK Sandstormen - Svin-Arne BK	1 - 1 	HT Re-Live
+	FC Oldcastle - Boca Seniors	2 - 1 	HT Re-Live
+Omgång  14
+2001-01-21 10:00 			
+	Svin-Arne BK - Team X	5 - 0 	HT Re-Live
+	Boca Seniors - AC Ecconaton	5 - 0 	HT Re-Live
+	BK Smittan - FK Sandstormen	3 - 0 	HT Re-Live
+	Forest Rovers - FC Oldcastle	0 - 1 	HT Re-Live

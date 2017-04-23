@@ -1,0 +1,84 @@
+Omgång  1
+2001-02-11 10:00 			
+	Team X - Svin-Arne BK	3 - 2 	HT Re-Live
+	Forest Rovers - FC Oldcastle	2 - 1 	HT Re-Live
+	FK Sandstormen - Boca Seniors	2 - 0 	HT Re-Live
+	Djäknemåla AIF - Serifferna	0 - 0 	HT Re-Live
+Omgång  2
+2001-02-18 10:00 			
+	Boca Seniors - Team X	3 - 2 	HT Re-Live
+	Serifferna - Forest Rovers	2 - 1 	HT Re-Live
+	Svin-Arne BK - Djäknemåla AIF	1 - 1 	HT Re-Live
+	FC Oldcastle - FK Sandstormen	0 - 2 	HT Re-Live
+Omgång  3
+2001-02-25 10:00 			
+	Forest Rovers - Svin-Arne BK	1 - 0 	HT Re-Live
+	FK Sandstormen - Serifferna	3 - 0 	HT Re-Live
+	Boca Seniors - FC Oldcastle	5 - 0 	HT Re-Live
+	Djäknemåla AIF - Team X	3 - 1 	HT Re-Live
+Omgång  4
+2001-03-04 10:00 			
+	Team X - FC Oldcastle	1 - 0 	HT Re-Live
+	Serifferna - Boca Seniors	1 - 0 	HT Re-Live
+	Svin-Arne BK - FK Sandstormen	4 - 0 	HT Re-Live
+	Djäknemåla AIF - Forest Rovers	1 - 2 	HT Re-Live
+Omgång  5
+2001-03-11 10:00 			
+	Forest Rovers - Team X	3 - 0 	HT Re-Live
+	FK Sandstormen - Djäknemåla AIF	0 - 0 	HT Re-Live
+	Boca Seniors - Svin-Arne BK	2 - 3 	HT Re-Live
+	FC Oldcastle - Serifferna	0 - 3 	HT Re-Live
+Omgång  6
+2001-03-18 10:00 			
+	Team X - Serifferna	0 - 2 	HT Re-Live
+	Forest Rovers - FK Sandstormen	1 - 3 	HT Re-Live
+	Svin-Arne BK - FC Oldcastle	2 - 0 	HT Re-Live
+	Djäknemåla AIF - Boca Seniors	0 - 0 	HT Re-Live
+Omgång  7
+2001-03-25 10:00 			
+	FK Sandstormen - Team X	1 - 1 	HT Re-Live
+	Boca Seniors - Forest Rovers	2 - 2 	HT Re-Live
+	Serifferna - Svin-Arne BK	1 - 1 	HT Re-Live
+	FC Oldcastle - Djäknemåla AIF	0 - 0 	HT Re-Live
+Omgång  8
+2001-04-01 10:00 			
+	Djäknemåla AIF - FC Oldcastle	0 - 0 	HT Re-Live
+	Svin-Arne BK - Serifferna	0 - 2 	HT Re-Live
+	Forest Rovers - Boca Seniors	3 - 2 	HT Re-Live
+	Team X - FK Sandstormen	0 - 5 	HT Re-Live
+Omgång  9
+2001-04-08 10:00 			
+	Boca Seniors - Djäknemåla AIF	2 - 0 	HT Re-Live
+	FC Oldcastle - Svin-Arne BK	2 - 3 	HT Re-Live
+	FK Sandstormen - Forest Rovers	3 - 1 	HT Re-Live
+	Serifferna - Team X	5 - 0 	HT Re-Live
+Omgång  10
+2001-04-15 10:00 			
+	Serifferna - FC Oldcastle	5 - 0 	HT Re-Live
+	Svin-Arne BK - Boca Seniors	3 - 2 	HT Re-Live
+	Djäknemåla AIF - FK Sandstormen	2 - 0 	HT Re-Live
+	Team X - Forest Rovers	0 - 5 	HT Re-Live
+Omgång  11
+2001-04-22 10:00 			
+	Forest Rovers - Djäknemåla AIF	3 - 2 	HT Re-Live
+	FK Sandstormen - Svin-Arne BK	4 - 1 	HT Re-Live
+	Boca Seniors - Serifferna	0 - 2 	HT Re-Live
+	FC Oldcastle - Team X	5 - 0 	HT Re-Live
+Omgång  12
+2001-04-29 10:00 			
+	Team X - Djäknemåla AIF	0 - 5 	HT Re-Live
+	FC Oldcastle - Boca Seniors	2 - 6 	HT Re-Live
+	Serifferna - FK Sandstormen	0 - 5 	HT Re-Live
+	Svin-Arne BK - Forest Rovers	0 - 5 	HT Re-Live
+Omgång  13
+2001-05-06 10:00 			
+	FK Sandstormen - FC Oldcastle	3 - 0 	HT Re-Live
+	Djäknemåla AIF - Svin-Arne BK	1 - 0 	HT Re-Live
+	Forest Rovers - Serifferna	5 - 0 	HT Re-Live
+	Team X - Boca Seniors	0 - 5 	HT Re-Live
+Omgång  14
+2001-05-13 10:00 			
+	Serifferna - Djäknemåla AIF	0 - 5 	HT Re-Live
+	Boca Seniors - FK Sandstormen	2 - 2 	HT Re-Live
+	FC Oldcastle - Forest Rovers	1 - 7 	HT Re-Live
+	Svin-Arne BK - Team X	5 - 0 	HT Re-Live

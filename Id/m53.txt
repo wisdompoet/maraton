@@ -1,0 +1,84 @@
+Omgång  1
+2013-09-08 10:00 			
+	Wheelsbridge Wanderers - Bensparkers	1 - 2 	HT Re-Live
+	Massive Attack - Rotorp	3 - 4 	HT Re-Live
+	FC Mackan - Cobra Fighters	4 - 1 	HT Re-Live
+	Korporationen - Happy Team	4 - 2 	HT Re-Live
+Omgång  2
+2013-09-15 10:00 			
+	Happy Team - Wheelsbridge Wanderers	2 - 0 	HT Re-Live
+	Rotorp - Korporationen	5 - 0 	HT Re-Live
+	Bensparkers - FC Mackan	1 - 3 	HT Re-Live
+	Cobra Fighters - Massive Attack	4 - 3 	HT Re-Live
+Omgång  3
+2013-09-22 10:00 			
+	Massive Attack - Happy Team	8 - 1 	HT Re-Live
+	FC Mackan - Wheelsbridge Wanderers	2 - 2 	HT Re-Live
+	Cobra Fighters - Rotorp	0 - 2 	HT Re-Live
+	Korporationen - Bensparkers	1 - 0 	HT Re-Live
+Omgång  4
+2013-09-29 10:00 			
+	Happy Team - Cobra Fighters	4 - 1 	HT Re-Live
+	Rotorp - FC Mackan	3 - 2 	HT Re-Live
+	Wheelsbridge Wanderers - Korporationen	3 - 2 	HT Re-Live
+	Bensparkers - Massive Attack	3 - 1 	HT Re-Live
+Omgång  5
+2013-10-06 10:00 			
+	Massive Attack - Korporationen	7 - 0 	HT Re-Live
+	Rotorp - Bensparkers	3 - 1 	HT Re-Live
+	Cobra Fighters - Wheelsbridge Wanderers	1 - 3 	HT Re-Live
+	FC Mackan - Happy Team	4 - 1 	HT Re-Live
+Omgång  6
+2013-10-13 10:00 			
+	Korporationen - FC Mackan	1 - 3 	HT Re-Live
+	Bensparkers - Cobra Fighters	3 - 0 	HT Re-Live
+	Happy Team - Rotorp	0 - 4 	HT Re-Live
+	Wheelsbridge Wanderers - Massive Attack	1 - 4 	HT Re-Live
+Omgång  7
+2013-10-20 10:00 			
+	Massive Attack - FC Mackan	1 - 1 	HT Re-Live
+	Rotorp - Wheelsbridge Wanderers	2 - 1 	HT Re-Live
+	Cobra Fighters - Korporationen	3 - 2 	HT Re-Live
+	Bensparkers - Happy Team	5 - 1 	HT Re-Live
+Omgång  8
+2013-10-27 10:00 			
+	Happy Team - Bensparkers	2 - 3 	HT Re-Live
+	Korporationen - Cobra Fighters	4 - 0 	HT Re-Live
+	Wheelsbridge Wanderers - Rotorp	2 - 1 	HT Re-Live
+	FC Mackan - Massive Attack	2 - 2 	HT Re-Live
+Omgång  9
+2013-11-03 10:00 			
+	FC Mackan - Korporationen	7 - 1 	HT Re-Live
+	Cobra Fighters - Bensparkers	2 - 2 	HT Re-Live
+	Massive Attack - Wheelsbridge Wanderers	6 - 2 	HT Re-Live
+	Rotorp - Happy Team	3 - 0 	HT Re-Live
+Omgång  10
+2013-11-10 10:00 			
+	Korporationen - Massive Attack	2 - 3 	HT Re-Live
+	Wheelsbridge Wanderers - Cobra Fighters	0 - 2 	HT Re-Live
+	Bensparkers - Rotorp	2 - 2 	HT Re-Live
+	Happy Team - FC Mackan	2 - 2 	HT Re-Live
+Omgång  11
+2013-11-17 10:00 			
+	Korporationen - Wheelsbridge Wanderers	3 - 0 	HT Re-Live
+	Cobra Fighters - Happy Team	0 - 3 	HT Re-Live
+	FC Mackan - Rotorp	3 - 3 	HT Re-Live
+	Massive Attack - Bensparkers	1 - 1 	HT Re-Live
+Omgång  12
+2013-11-24 10:00 			
+	Rotorp - Cobra Fighters	0 - 0 	HT Re-Live
+	Wheelsbridge Wanderers - FC Mackan	2 - 0 	HT Re-Live
+	Happy Team - Massive Attack	4 - 2 	HT Re-Live
+	Bensparkers - Korporationen	4 - 1 	HT Re-Live
+Omgång  13
+2013-12-01 10:00 			
+	Wheelsbridge Wanderers - Happy Team	1 - 1 	HT Re-Live
+	Korporationen - Rotorp	3 - 1 	HT Re-Live
+	FC Mackan - Bensparkers	6 - 0 	HT Re-Live
+	Massive Attack - Cobra Fighters	0 - 0 	HT Re-Live
+Omgång  14
+2013-12-08 10:00 			
+	Happy Team - Korporationen	0 - 3 	HT Re-Live
+	Rotorp - Massive Attack	1 - 3 	HT Re-Live
+	Cobra Fighters - FC Mackan	0 - 2 	HT Re-Live
+	Bensparkers - Wheelsbridge Wanderers	3 - 2 	HT Re-Live

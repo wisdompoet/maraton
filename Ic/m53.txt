@@ -1,0 +1,84 @@
+Omgång  1
+2013-09-08 10:00 			
+	Dicanio - Ponnyvalparna	1 - 3 	HT Re-Live
+	Lambo Town BFC - Wick IT	3 - 2 	HT Re-Live
+	Spader Dam - Djurgården 71s Götecastleuleå HF	0 - 0 	HT Re-Live
+	Artrítico - Lee Lakers	1 - 3 	HT Re-Live
+Omgång  2
+2013-09-15 10:00 			
+	Ponnyvalparna - Artrítico	6 - 1 	HT Re-Live
+	Lee Lakers - Spader Dam	3 - 0 	HT Re-Live
+	Wick IT - Dicanio	0 - 3 	HT Re-Live
+	Djurgården 71s Götecastleuleå HF - Lambo Town BFC	1 - 4 	HT Re-Live
+Omgång  3
+2013-09-22 10:00 			
+	Dicanio - Lee Lakers	1 - 2 	HT Re-Live
+	Wick IT - Ponnyvalparna	3 - 1 	HT Re-Live
+	Artrítico - Djurgården 71s Götecastleuleå HF	0 - 6 	HT Re-Live
+	Lambo Town BFC - Spader Dam	1 - 1 	HT Re-Live
+Omgång  4
+2013-09-29 10:00 			
+	Ponnyvalparna - Lambo Town BFC	3 - 0 	HT Re-Live
+	Spader Dam - Artrítico	5 - 0 	HT Re-Live
+	Lee Lakers - Wick IT	1 - 1 	HT Re-Live
+	Djurgården 71s Götecastleuleå HF - Dicanio	0 - 1 	HT Re-Live
+Omgång  5
+2013-10-06 10:00 			
+	Wick IT - Spader Dam	3 - 3 	HT Re-Live
+	Dicanio - Artrítico	4 - 1 	HT Re-Live
+	Ponnyvalparna - Djurgården 71s Götecastleuleå HF	2 - 2 	HT Re-Live
+	Lambo Town BFC - Lee Lakers	2 - 1 	HT Re-Live
+Omgång  6
+2013-10-13 10:00 			
+	Spader Dam - Dicanio	2 - 4 	HT Re-Live
+	Artrítico - Lambo Town BFC	3 - 1 	HT Re-Live
+	Djurgården 71s Götecastleuleå HF - Wick IT	2 - 1 	HT Re-Live
+	Lee Lakers - Ponnyvalparna	0 - 2 	HT Re-Live
+Omgång  7
+2013-10-20 10:00 			
+	Dicanio - Lambo Town BFC	1 - 0 	HT Re-Live
+	Wick IT - Artrítico	2 - 2 	HT Re-Live
+	Djurgården 71s Götecastleuleå HF - Lee Lakers	5 - 2 	HT Re-Live
+	Ponnyvalparna - Spader Dam	4 - 2 	HT Re-Live
+Omgång  8
+2013-10-27 10:00 			
+	Lee Lakers - Djurgården 71s Götecastleuleå HF	3 - 1 	HT Re-Live
+	Lambo Town BFC - Dicanio	1 - 2 	HT Re-Live
+	Spader Dam - Ponnyvalparna	2 - 3 	HT Re-Live
+	Artrítico - Wick IT	2 - 4 	HT Re-Live
+Omgång  9
+2013-11-03 10:00 			
+	Wick IT - Djurgården 71s Götecastleuleå HF	1 - 3 	HT Re-Live
+	Lambo Town BFC - Artrítico	3 - 2 	HT Re-Live
+	Dicanio - Spader Dam	2 - 0 	HT Re-Live
+	Ponnyvalparna - Lee Lakers	5 - 1 	HT Re-Live
+Omgång  10
+2013-11-10 10:00 			
+	Spader Dam - Wick IT	4 - 0 	HT Re-Live
+	Djurgården 71s Götecastleuleå HF - Ponnyvalparna	2 - 0 	HT Re-Live
+	Lee Lakers - Lambo Town BFC	2 - 1 	HT Re-Live
+	Artrítico - Dicanio	0 - 4 	HT Re-Live
+Omgång  11
+2013-11-17 10:00 			
+	Lambo Town BFC - Ponnyvalparna	0 - 4 	HT Re-Live
+	Artrítico - Spader Dam	0 - 3 	HT Re-Live
+	Dicanio - Djurgården 71s Götecastleuleå HF	2 - 0 	HT Re-Live
+	Wick IT - Lee Lakers	0 - 2 	HT Re-Live
+Omgång  12
+2013-11-24 10:00 			
+	Djurgården 71s Götecastleuleå HF - Artrítico	4 - 2 	HT Re-Live
+	Ponnyvalparna - Wick IT	4 - 1 	HT Re-Live
+	Spader Dam - Lambo Town BFC	8 - 2 	HT Re-Live
+	Lee Lakers - Dicanio	2 - 1 	HT Re-Live
+Omgång  13
+2013-12-01 10:00 			
+	Spader Dam - Lee Lakers	0 - 9 	HT Re-Live
+	Artrítico - Ponnyvalparna	1 - 4 	HT Re-Live
+	Dicanio - Wick IT	2 - 1 	HT Re-Live
+	Lambo Town BFC - Djurgården 71s Götecastleuleå HF	3 - 2 	HT Re-Live
+Omgång  14
+2013-12-08 10:00 			
+	Ponnyvalparna - Dicanio	5 - 0 	HT Re-Live
+	Lee Lakers - Artrítico	5 - 0 	HT Re-Live
+	Djurgården 71s Götecastleuleå HF - Spader Dam	9 - 0 	HT Re-Live
+	Wick IT - Lambo Town BFC	0 - 1 	HT Re-Live

@@ -1,0 +1,84 @@
+Omgång  1
+2013-12-29 10:00 			
+	Lee Lakers - Djurgården 71s Götecastleuleå HF	2 - 2 	HT Re-Live
+	Lambo Town BFC - Spelad glädje	2 - 1 	HT Re-Live
+	Ponnyvalparna - Dicanio	2 - 4 	HT Re-Live
+	inget av lagen - The Stars	3 - 2 	HT Re-Live
+Omgång  2
+2014-01-05 10:00 			
+	The Stars - Lambo Town BFC	5 - 1 	HT Re-Live
+	Spelad glädje - Lee Lakers	0 - 0 	HT Re-Live
+	Djurgården 71s Götecastleuleå HF - Ponnyvalparna	2 - 2 	HT Re-Live
+	Dicanio - inget av lagen	6 - 0 	HT Re-Live
+Omgång  3
+2014-01-12 10:00 			
+	Djurgården 71s Götecastleuleå HF - Dicanio	1 - 6 	HT Re-Live
+	Ponnyvalparna - The Stars	0 - 8 	HT Re-Live
+	Lee Lakers - Lambo Town BFC	2 - 1 	HT Re-Live
+	inget av lagen - Spelad glädje	2 - 5 	HT Re-Live
+Omgång  4
+2014-01-19 10:00 			
+	Spelad glädje - Ponnyvalparna	9 - 0 	HT Re-Live
+	The Stars - Djurgården 71s Götecastleuleå HF	4 - 2 	HT Re-Live
+	Dicanio - Lee Lakers	1 - 1 	HT Re-Live
+	Lambo Town BFC - inget av lagen	4 - 2 	HT Re-Live
+Omgång  5
+2014-01-26 10:00 			
+	Djurgården 71s Götecastleuleå HF - Lambo Town BFC	3 - 2 	HT Re-Live
+	Lee Lakers - The Stars	4 - 0 	HT Re-Live
+	Ponnyvalparna - inget av lagen	0 - 8 	HT Re-Live
+	Dicanio - Spelad glädje	3 - 1 	HT Re-Live
+Omgång  6
+2014-02-02 10:00 			
+	inget av lagen - Lee Lakers	3 - 2 	HT Re-Live
+	Lambo Town BFC - Ponnyvalparna	5 - 0 	HT Re-Live
+	Spelad glädje - Djurgården 71s Götecastleuleå HF	2 - 1 	HT Re-Live
+	The Stars - Dicanio	6 - 2 	HT Re-Live
+Omgång  7
+2014-02-09 10:00 			
+	Ponnyvalparna - Lee Lakers	0 - 9 	HT Re-Live
+	Dicanio - Lambo Town BFC	3 - 1 	HT Re-Live
+	Spelad glädje - The Stars	5 - 3 	HT Re-Live
+	Djurgården 71s Götecastleuleå HF - inget av lagen	2 - 3 	HT Re-Live
+Omgång  8
+2014-02-16 10:00 			
+	inget av lagen - Djurgården 71s Götecastleuleå HF	3 - 2 	HT Re-Live
+	Lee Lakers - Ponnyvalparna	6 - 0 	HT Re-Live
+	The Stars - Spelad glädje	4 - 3 	HT Re-Live
+	Lambo Town BFC - Dicanio	2 - 3 	HT Re-Live
+Omgång  9
+2014-02-23 10:00 			
+	Dicanio - The Stars	7 - 0 	HT Re-Live
+	Djurgården 71s Götecastleuleå HF - Spelad glädje	4 - 4 	HT Re-Live
+	Lee Lakers - inget av lagen	6 - 0 	HT Re-Live
+	Ponnyvalparna - Lambo Town BFC	0 - 7 	HT Re-Live
+Omgång  10
+2014-03-02 10:00 			
+	Lambo Town BFC - Djurgården 71s Götecastleuleå HF	2 - 2 	HT Re-Live
+	The Stars - Lee Lakers	0 - 1 	HT Re-Live
+	Spelad glädje - Dicanio	2 - 3 	HT Re-Live
+	inget av lagen - Ponnyvalparna	5 - 0 	HT Re-Live
+Omgång  11
+2014-03-09 10:00 			
+	Djurgården 71s Götecastleuleå HF - The Stars	2 - 3 	HT Re-Live
+	inget av lagen - Lambo Town BFC	5 - 0 	HT Re-Live
+	Lee Lakers - Dicanio	4 - 1 	HT Re-Live
+	Ponnyvalparna - Spelad glädje	1 - 10 	HT Re-Live
+Omgång  12
+2014-03-16 10:00 			
+	Spelad glädje - inget av lagen	5 - 0 	HT Re-Live
+	Dicanio - Djurgården 71s Götecastleuleå HF	2 - 2 	HT Re-Live
+	The Stars - Ponnyvalparna	5 - 0 	HT Re-Live
+	Lambo Town BFC - Lee Lakers	3 - 4 	HT Re-Live
+Omgång  13
+2014-03-23 10:00 			
+	Lambo Town BFC - The Stars	2 - 2 	HT Re-Live
+	Lee Lakers - Spelad glädje	0 - 0 	HT Re-Live
+	Ponnyvalparna - Djurgården 71s Götecastleuleå HF	0 - 9 	HT Re-Live
+	inget av lagen - Dicanio	0 - 4 	HT Re-Live
+Omgång  14
+2014-03-30 10:00 			
+	Dicanio - Ponnyvalparna	9 - 0 	HT Re-Live
+	Spelad glädje - Lambo Town BFC	5 - 2 	HT Re-Live
+	Djurgården 71s Götecastleuleå HF - Lee Lakers	3 - 5 	HT Re-Live
+	The Stars - inget av lagen	2 - 2 	HT Re-Live

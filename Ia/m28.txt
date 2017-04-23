@@ -1,0 +1,84 @@
+Omgång  1
+2006-01-08 10:00 			
+	LA Hookers - Alpha Lipoic AC	10 - 0 	HT Re-Live
+	DrPepper FC - Morgoths horder	3 - 3 	HT Re-Live
+	Stream Team - Boca Seniors	1 - 1 	HT Re-Live
+	Ljungby IF - Neonic FC	1 - 3 	HT Re-Live
+Omgång  2
+2006-01-15 10:00 			
+	Boca Seniors - LA Hookers	4 - 2 	HT Re-Live
+	Neonic FC - DrPepper FC	3 - 4 	HT Re-Live
+	Alpha Lipoic AC - Ljungby IF	0 - 9 	HT Re-Live
+	Morgoths horder - Stream Team	2 - 2 	HT Re-Live
+Omgång  3
+2006-01-22 10:00 			
+	DrPepper FC - Alpha Lipoic AC	9 - 0 	HT Re-Live
+	Stream Team - Neonic FC	2 - 4 	HT Re-Live
+	Boca Seniors - Morgoths horder	4 - 2 	HT Re-Live
+	Ljungby IF - LA Hookers	2 - 1 	HT Re-Live
+Omgång  4
+2006-01-29 10:00 			
+	LA Hookers - Morgoths horder	5 - 0 	HT Re-Live
+	Neonic FC - Boca Seniors	2 - 0 	HT Re-Live
+	Alpha Lipoic AC - Stream Team	0 - 8 	HT Re-Live
+	Ljungby IF - DrPepper FC	0 - 1 	HT Re-Live
+Omgång  5
+2006-02-05 10:00 			
+	DrPepper FC - LA Hookers	2 - 1 	HT Re-Live
+	Stream Team - Ljungby IF	0 - 2 	HT Re-Live
+	Boca Seniors - Alpha Lipoic AC	4 - 0 	HT Re-Live
+	Morgoths horder - Neonic FC	0 - 4 	HT Re-Live
+Omgång  6
+2006-02-12 10:00 			
+	LA Hookers - Neonic FC	1 - 1 	HT Re-Live
+	DrPepper FC - Stream Team	5 - 0 	HT Re-Live
+	Alpha Lipoic AC - Morgoths horder	0 - 10 	HT Re-Live
+	Ljungby IF - Boca Seniors	2 - 0 	HT Re-Live
+Omgång  7
+2006-02-19 10:00 			
+	Stream Team - LA Hookers	0 - 5 	HT Re-Live
+	Boca Seniors - DrPepper FC	2 - 2 	HT Re-Live
+	Neonic FC - Alpha Lipoic AC	8 - 0 	HT Re-Live
+	Morgoths horder - Ljungby IF	3 - 2 	HT Re-Live
+Omgång  8
+2006-02-26 10:00 			
+	Ljungby IF - Morgoths horder	3 - 3 	HT Re-Live
+	Alpha Lipoic AC - Neonic FC	0 - 9 	HT Re-Live
+	DrPepper FC - Boca Seniors	3 - 1 	HT Re-Live
+	LA Hookers - Stream Team	5 - 2 	HT Re-Live
+Omgång  9
+2006-03-05 10:00 			
+	Boca Seniors - Ljungby IF	2 - 0 	HT Re-Live
+	Morgoths horder - Alpha Lipoic AC	8 - 0 	HT Re-Live
+	Stream Team - DrPepper FC	1 - 2 	HT Re-Live
+	Neonic FC - LA Hookers	3 - 5 	HT Re-Live
+Omgång  10
+2006-03-12 10:00 			
+	Neonic FC - Morgoths horder	4 - 6 	HT Re-Live
+	Alpha Lipoic AC - Boca Seniors	0 - 9 	HT Re-Live
+	Ljungby IF - Stream Team	0 - 0 	HT Re-Live
+	LA Hookers - DrPepper FC	1 - 4 	HT Re-Live
+Omgång  11
+2006-03-19 10:00 			
+	DrPepper FC - Ljungby IF	2 - 4 	HT Re-Live
+	Stream Team - Alpha Lipoic AC	8 - 0 	HT Re-Live
+	Boca Seniors - Neonic FC	1 - 4 	HT Re-Live
+	Morgoths horder - LA Hookers	2 - 1 	HT Re-Live
+Omgång  12
+2006-03-26 10:00 			
+	LA Hookers - Ljungby IF	0 - 3 	HT Re-Live
+	Morgoths horder - Boca Seniors	3 - 0 	HT Re-Live
+	Neonic FC - Stream Team	5 - 1 	HT Re-Live
+	Alpha Lipoic AC - DrPepper FC	0 - 7 	HT Re-Live
+Omgång  13
+2006-04-02 10:00 			
+	Stream Team - Morgoths horder	0 - 2 	HT Re-Live
+	Ljungby IF - Alpha Lipoic AC	11 - 0 	HT Re-Live
+	DrPepper FC - Neonic FC	4 - 1 	HT Re-Live
+	LA Hookers - Boca Seniors	2 - 2 	HT Re-Live
+Omgång  14
+2006-04-09 10:00 			
+	Neonic FC - Ljungby IF	0 - 1 	HT Re-Live
+	Boca Seniors - Stream Team	4 - 3 	HT Re-Live
+	Morgoths horder - DrPepper FC	1 - 4 	HT Re-Live
+	Alpha Lipoic AC - LA Hookers	0 - 9 	HT Re-Live

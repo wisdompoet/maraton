@@ -1,0 +1,84 @@
+Omgång  1
+2004-06-27 10:00 			
+	Inter Sthlm - EM Tigers 	2 - 0 	HT Re-Live
+	Gäddträsket - Sunne IK 	3 - 2 	HT Re-Live
+	Åshöjdens BK - Forest Rovers 	3 - 0 	HT Re-Live
+	DrPepper FC - IFK Livergården 	2 - 0 	HT Re-Live
+Omgång  2
+2004-07-04 10:00 			
+	Forest Rovers - Inter Sthlm 	0 - 3 	HT Re-Live
+	IFK Livergården - Gäddträsket 	2 - 1 	HT Re-Live
+	EM Tigers - DrPepper FC 	2 - 2 	HT Re-Live
+	Sunne IK - Åshöjdens BK 	2 - 1 	HT Re-Live
+Omgång  3
+2004-07-11 10:00 			
+	Gäddträsket - EM Tigers 	2 - 0 	HT Re-Live
+	Åshöjdens BK - IFK Livergården 	4 - 0 	HT Re-Live
+	Forest Rovers - Sunne IK 	5 - 2 	HT Re-Live
+	DrPepper FC - Inter Sthlm 	1 - 2 	HT Re-Live
+Omgång  4
+2004-07-18 10:00 			
+	Inter Sthlm - Sunne IK 	3 - 1 	HT Re-Live
+	IFK Livergården - Forest Rovers 	4 - 1 	HT Re-Live
+	EM Tigers - Åshöjdens BK 	3 - 0 	HT Re-Live
+	DrPepper FC - Gäddträsket 	2 - 4 	HT Re-Live
+Omgång  5
+2004-07-25 10:00 			
+	Gäddträsket - Inter Sthlm 	1 - 4 	HT Re-Live
+	Åshöjdens BK - DrPepper FC 	5 - 2 	HT Re-Live
+	Forest Rovers - EM Tigers 	1 - 1 	HT Re-Live
+	Sunne IK - IFK Livergården 	2 - 4 	HT Re-Live
+Omgång  6
+2004-08-01 10:00 			
+	Inter Sthlm - IFK Livergården 	3 - 0 	HT Re-Live
+	Gäddträsket - Åshöjdens BK 	3 - 0 	HT Re-Live
+	EM Tigers - Sunne IK 	1 - 2 	HT Re-Live
+	DrPepper FC - Forest Rovers 	4 - 1 	HT Re-Live
+Omgång  7
+2004-08-08 10:00 			
+	Åshöjdens BK - Inter Sthlm 	5 - 2 	HT Re-Live
+	Forest Rovers - Gäddträsket 	1 - 0 	HT Re-Live
+	IFK Livergården - EM Tigers 	1 - 2 	HT Re-Live
+	Sunne IK - DrPepper FC 	2 - 2 	HT Re-Live
+Omgång  8
+2004-08-15 10:00 			
+	DrPepper FC - Sunne IK 	6 - 0 	HT Re-Live
+	EM Tigers - IFK Livergården 	1 - 3 	HT Re-Live
+	Gäddträsket - Forest Rovers 	3 - 0 	HT Re-Live
+	Inter Sthlm - Åshöjdens BK 	5 - 0 	HT Re-Live
+Omgång  9
+2004-08-22 10:00 			
+	Forest Rovers - DrPepper FC 	3 - 3 	HT Re-Live
+	Sunne IK - EM Tigers 	1 - 6 	HT Re-Live
+	Åshöjdens BK - Gäddträsket 	1 - 1 	HT Re-Live
+	IFK Livergården - Inter Sthlm 	0 - 4 	HT Re-Live
+Omgång  10
+2004-08-29 10:00 			
+	IFK Livergården - Sunne IK 	3 - 2 	HT Re-Live
+	EM Tigers - Forest Rovers 	2 - 1 	HT Re-Live
+	DrPepper FC - Åshöjdens BK 	4 - 0 	HT Re-Live
+	Inter Sthlm - Gäddträsket 	3 - 0 	HT Re-Live
+Omgång  11
+2004-09-05 10:00 			
+	Gäddträsket - DrPepper FC 	5 - 1 	HT Re-Live
+	Åshöjdens BK - EM Tigers 	1 - 1 	HT Re-Live
+	Forest Rovers - IFK Livergården 	3 - 2 	HT Re-Live
+	Sunne IK - Inter Sthlm 	3 - 2 	HT Re-Live
+Omgång  12
+2004-09-12 10:00 			
+	Inter Sthlm - DrPepper FC 	6 - 2 	HT Re-Live
+	Sunne IK - Forest Rovers 	4 - 3 	HT Re-Live
+	IFK Livergården - Åshöjdens BK 	1 - 3 	HT Re-Live
+	EM Tigers - Gäddträsket 	2 - 1 	HT Re-Live
+Omgång  13
+2004-09-19 10:00 			
+	Åshöjdens BK - Sunne IK 	5 - 0 	HT Re-Live
+	DrPepper FC - EM Tigers 	8 - 2 	HT Re-Live
+	Gäddträsket - IFK Livergården 	6 - 0 	HT Re-Live
+	Inter Sthlm - Forest Rovers 	4 - 0 	HT Re-Live
+Omgång  14
+2004-09-26 10:00 			
+	IFK Livergården - DrPepper FC 	2 - 2 	HT Re-Live
+	Forest Rovers - Åshöjdens BK 	2 - 3 	HT Re-Live
+	Sunne IK - Gäddträsket 	3 - 1 	HT Re-Live
+	EM Tigers - Inter Sthlm 	3 - 2 	HT Re-Live

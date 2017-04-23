@@ -1,0 +1,84 @@
+Omgång  1
+2005-05-29 10:00 			
+	Tjecko-85 - FK Glow	1 - 4 	HT Re-Live
+	Sublime BK - Falkenbergs FF	2 - 2 	HT Re-Live
+	Goomers - Spurs FC	3 - 1 	HT Re-Live
+	IFK SPOKET - Sluga BK	1 - 0 	HT Re-Live
+Omgång  2
+2005-06-05 10:00 			
+	Spurs FC - Tjecko-85	2 - 2 	HT Re-Live
+	Sluga BK - Sublime BK	2 - 2 	HT Re-Live
+	FK Glow - IFK SPOKET	3 - 1 	HT Re-Live
+	Falkenbergs FF - Goomers	2 - 3 	HT Re-Live
+Omgång  3
+2005-06-12 10:00 			
+	Sublime BK - FK Glow	3 - 2 	HT Re-Live
+	Goomers - Sluga BK	3 - 0 	HT Re-Live
+	Spurs FC - Falkenbergs FF	4 - 0 	HT Re-Live
+	IFK SPOKET - Tjecko-85	2 - 0 	HT Re-Live
+Omgång  4
+2005-06-19 10:00 			
+	Tjecko-85 - Falkenbergs FF	1 - 2 	HT Re-Live
+	Sluga BK - Spurs FC	3 - 2 	HT Re-Live
+	FK Glow - Goomers	1 - 3 	HT Re-Live
+	IFK SPOKET - Sublime BK	4 - 1 	HT Re-Live
+Omgång  5
+2005-06-26 10:00 			
+	Sublime BK - Tjecko-85	1 - 0 	HT Re-Live
+	Goomers - IFK SPOKET	3 - 1 	HT Re-Live
+	Spurs FC - FK Glow	3 - 1 	HT Re-Live
+	Falkenbergs FF - Sluga BK	4 - 0 	HT Re-Live
+Omgång  6
+2005-07-03 10:00 			
+	Tjecko-85 - Sluga BK	1 - 3 	HT Re-Live
+	Sublime BK - Goomers	6 - 1 	HT Re-Live
+	FK Glow - Falkenbergs FF	2 - 2 	HT Re-Live
+	IFK SPOKET - Spurs FC	5 - 1 	HT Re-Live
+Omgång  7
+2005-07-10 10:00 			
+	Goomers - Tjecko-85	2 - 3 	HT Re-Live
+	Spurs FC - Sublime BK	2 - 1 	HT Re-Live
+	Sluga BK - FK Glow	3 - 0 	HT Re-Live
+	Falkenbergs FF - IFK SPOKET	4 - 0 	HT Re-Live
+Omgång  8
+2005-07-17 10:00 			
+	IFK SPOKET - Falkenbergs FF	3 - 1 	HT Re-Live
+	FK Glow - Sluga BK	4 - 2 	HT Re-Live
+	Sublime BK - Spurs FC	2 - 1 	HT Re-Live
+	Tjecko-85 - Goomers	4 - 0 	HT Re-Live
+Omgång  9
+2005-07-24 10:00 			
+	Spurs FC - IFK SPOKET	3 - 1 	HT Re-Live
+	Falkenbergs FF - FK Glow	3 - 2 	HT Re-Live
+	Goomers - Sublime BK	1 - 5 	HT Re-Live
+	Sluga BK - Tjecko-85	1 - 1 	HT Re-Live
+Omgång  10
+2005-07-31 10:00 			
+	Sluga BK - Falkenbergs FF	2 - 2 	HT Re-Live
+	FK Glow - Spurs FC	3 - 1 	HT Re-Live
+	IFK SPOKET - Goomers	2 - 4 	HT Re-Live
+	Tjecko-85 - Sublime BK	1 - 4 	HT Re-Live
+Omgång  11
+2005-08-07 10:00 			
+	Sublime BK - IFK SPOKET	1 - 1 	HT Re-Live
+	Goomers - FK Glow	6 - 2 	HT Re-Live
+	Spurs FC - Sluga BK	2 - 1 	HT Re-Live
+	Falkenbergs FF - Tjecko-85	4 - 2 	HT Re-Live
+Omgång  12
+2005-08-14 10:00 			
+	Tjecko-85 - IFK SPOKET	1 - 1 	HT Re-Live
+	Falkenbergs FF - Spurs FC	3 - 3 	HT Re-Live
+	Sluga BK - Goomers	5 - 4 	HT Re-Live
+	FK Glow - Sublime BK	2 - 1 	HT Re-Live
+Omgång  13
+2005-08-21 10:00 			
+	Goomers - Falkenbergs FF	4 - 1 	HT Re-Live
+	IFK SPOKET - FK Glow	0 - 5 	HT Re-Live
+	Sublime BK - Sluga BK	6 - 1 	HT Re-Live
+	Tjecko-85 - Spurs FC	3 - 1 	HT Re-Live
+Omgång  14
+2005-08-28 10:00 			
+	Sluga BK - IFK SPOKET	4 - 0 	HT Re-Live
+	Spurs FC - Goomers	7 - 0 	HT Re-Live
+	Falkenbergs FF - Sublime BK	4 - 1 	HT Re-Live
+	FK Glow - Tjecko-85	4 - 1 	HT Re-Live

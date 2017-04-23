@@ -1,0 +1,84 @@
+Omgång  1
+2004-10-17 10:00 			
+	Sublime BK - Falkenbergs FF	2 - 3 	HT Re-Live
+	Rosenborg BK - Orminge Wankerz	3 - 0 	HT Re-Live
+	Ass-Kickers - BK Marx	0 - 4 	HT Re-Live
+	Vildmarken Utd - Belgian Blue	0 - 2 	HT Re-Live
+Omgång  2
+2004-10-24 10:00 			
+	BK Marx - Sublime BK	2 - 0 	HT Re-Live
+	Belgian Blue - Rosenborg BK	6 - 0 	HT Re-Live
+	Falkenbergs FF - Vildmarken Utd	4 - 0 	HT Re-Live
+	Orminge Wankerz - Ass-Kickers	2 - 2 	HT Re-Live
+Omgång  3
+2004-10-31 10:00 			
+	Rosenborg BK - Falkenbergs FF	0 - 8 	HT Re-Live
+	Ass-Kickers - Belgian Blue	2 - 2 	HT Re-Live
+	BK Marx - Orminge Wankerz	5 - 2 	HT Re-Live
+	Vildmarken Utd - Sublime BK	3 - 3 	HT Re-Live
+Omgång  4
+2004-11-07 10:00 			
+	Sublime BK - Orminge Wankerz	3 - 1 	HT Re-Live
+	Belgian Blue - BK Marx	3 - 0 	HT Re-Live
+	Falkenbergs FF - Ass-Kickers	4 - 1 	HT Re-Live
+	Vildmarken Utd - Rosenborg BK	0 - 0 	HT Re-Live
+Omgång  5
+2004-11-14 10:00 			
+	Rosenborg BK - Sublime BK	0 - 2 	HT Re-Live
+	Ass-Kickers - Vildmarken Utd	4 - 1 	HT Re-Live
+	BK Marx - Falkenbergs FF	4 - 1 	HT Re-Live
+	Orminge Wankerz - Belgian Blue	3 - 2 	HT Re-Live
+Omgång  6
+2004-11-21 10:00 			
+	Sublime BK - Belgian Blue	2 - 2 	HT Re-Live
+	Rosenborg BK - Ass-Kickers	0 - 1 	HT Re-Live
+	Falkenbergs FF - Orminge Wankerz	4 - 1 	HT Re-Live
+	Vildmarken Utd - BK Marx	3 - 4 	HT Re-Live
+Omgång  7
+2004-11-28 10:00 			
+	Ass-Kickers - Sublime BK	2 - 4 	HT Re-Live
+	BK Marx - Rosenborg BK	6 - 0 	HT Re-Live
+	Belgian Blue - Falkenbergs FF	3 - 2 	HT Re-Live
+	Orminge Wankerz - Vildmarken Utd	1 - 4 	HT Re-Live
+Omgång  8
+2004-12-05 10:00 			
+	Vildmarken Utd - Orminge Wankerz	3 - 3 	HT Re-Live
+	Falkenbergs FF - Belgian Blue	0 - 5 	HT Re-Live
+	Rosenborg BK - BK Marx	0 - 7 	HT Re-Live
+	Sublime BK - Ass-Kickers	3 - 3 	HT Re-Live
+Omgång  9
+2004-12-12 10:00 			
+	BK Marx - Vildmarken Utd	5 - 4 	HT Re-Live
+	Orminge Wankerz - Falkenbergs FF	1 - 1 	HT Re-Live
+	Ass-Kickers - Rosenborg BK	6 - 0 	HT Re-Live
+	Belgian Blue - Sublime BK	6 - 1 	HT Re-Live
+Omgång  10
+2004-12-19 10:00 			
+	Belgian Blue - Orminge Wankerz	5 - 1 	HT Re-Live
+	Falkenbergs FF - BK Marx	1 - 2 	HT Re-Live
+	Vildmarken Utd - Ass-Kickers	1 - 1 	HT Re-Live
+	Sublime BK - Rosenborg BK	8 - 0 	HT Re-Live
+Omgång  11
+2004-12-26 10:00 			
+	Rosenborg BK - Vildmarken Utd	0 - 6 	HT Re-Live
+	Ass-Kickers - Falkenbergs FF	2 - 1 	HT Re-Live
+	BK Marx - Belgian Blue	5 - 3 	HT Re-Live
+	Orminge Wankerz - Sublime BK	2 - 1 	HT Re-Live
+Omgång  12
+2005-01-02 10:00 			
+	Sublime BK - Vildmarken Utd	4 - 2 	HT Re-Live
+	Orminge Wankerz - BK Marx	0 - 2 	HT Re-Live
+	Belgian Blue - Ass-Kickers	4 - 1 	HT Re-Live
+	Falkenbergs FF - Rosenborg BK	5 - 0 	HT Re-Live
+Omgång  13
+2005-01-09 10:00 			
+	Ass-Kickers - Orminge Wankerz	3 - 0 	HT Re-Live
+	Vildmarken Utd - Falkenbergs FF	4 - 3 	HT Re-Live
+	Rosenborg BK - Belgian Blue	0 - 6 	HT Re-Live
+	Sublime BK - BK Marx	0 - 6 	HT Re-Live
+Omgång  14
+2005-01-16 10:00 			
+	Belgian Blue - Vildmarken Utd	4 - 2 	HT Re-Live
+	BK Marx - Ass-Kickers	1 - 1 	HT Re-Live
+	Orminge Wankerz - Rosenborg BK	8 - 0 	HT Re-Live
+	Falkenbergs FF - Sublime BK	3 - 0 	HT Re-Live

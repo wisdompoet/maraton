@@ -1,0 +1,84 @@
+Omgång  1
+2004-06-27 10:00 			
+	Arvidsjaur BK - Åsehöjden	1 - 3 	HT Re-Live
+	Tjecko-85 - Wermdö Trappers	3 - 3 	HT Re-Live
+	Norsgatan Kickers - FC Frontpage	4 - 3 	HT Re-Live
+	Ambient Underground - Järna BK	3 - 2 	HT Re-Live
+Omgång  2
+2004-07-04 10:00 			
+	FC Frontpage - Arvidsjaur BK	1 - 1 	HT Re-Live
+	Järna BK - Tjecko-85	1 - 2 	HT Re-Live
+	Åsehöjden - Ambient Underground	5 - 2 	HT Re-Live
+	Wermdö Trappers - Norsgatan Kickers	2 - 2 	HT Re-Live
+Omgång  3
+2004-07-11 10:00 			
+	Tjecko-85 - Åsehöjden	5 - 0 	HT Re-Live
+	Norsgatan Kickers - Järna BK	5 - 0 	HT Re-Live
+	FC Frontpage - Wermdö Trappers	7 - 0 	HT Re-Live
+	Ambient Underground - Arvidsjaur BK	0 - 0 	HT Re-Live
+Omgång  4
+2004-07-18 10:00 			
+	Arvidsjaur BK - Wermdö Trappers	0 - 1 	HT Re-Live
+	Järna BK - FC Frontpage	0 - 3 	HT Re-Live
+	Åsehöjden - Norsgatan Kickers	2 - 5 	HT Re-Live
+	Ambient Underground - Tjecko-85	4 - 2 	HT Re-Live
+Omgång  5
+2004-07-25 10:00 			
+	Tjecko-85 - Arvidsjaur BK	4 - 0 	HT Re-Live
+	Norsgatan Kickers - Ambient Underground	3 - 2 	HT Re-Live
+	FC Frontpage - Åsehöjden	4 - 3 	HT Re-Live
+	Wermdö Trappers - Järna BK	3 - 0 	HT Re-Live
+Omgång  6
+2004-08-01 10:00 			
+	Arvidsjaur BK - Järna BK	0 - 2 	HT Re-Live
+	Tjecko-85 - Norsgatan Kickers	5 - 0 	HT Re-Live
+	Åsehöjden - Wermdö Trappers	4 - 1 	HT Re-Live
+	Ambient Underground - FC Frontpage	3 - 0 	HT Re-Live
+Omgång  7
+2004-08-08 10:00 			
+	Norsgatan Kickers - Arvidsjaur BK	4 - 0 	HT Re-Live
+	FC Frontpage - Tjecko-85	3 - 1 	HT Re-Live
+	Järna BK - Åsehöjden	2 - 3 	HT Re-Live
+	Wermdö Trappers - Ambient Underground	0 - 5 	HT Re-Live
+Omgång  8
+2004-08-15 10:00 			
+	Ambient Underground - Wermdö Trappers	4 - 1 	HT Re-Live
+	Åsehöjden - Järna BK	5 - 2 	HT Re-Live
+	Tjecko-85 - FC Frontpage	5 - 0 	HT Re-Live
+	Arvidsjaur BK - Norsgatan Kickers	0 - 4 	HT Re-Live
+Omgång  9
+2004-08-22 10:00 			
+	FC Frontpage - Ambient Underground	0 - 4 	HT Re-Live
+	Wermdö Trappers - Åsehöjden	4 - 1 	HT Re-Live
+	Norsgatan Kickers - Tjecko-85	1 - 2 	HT Re-Live
+	Järna BK - Arvidsjaur BK	2 - 0 	HT Re-Live
+Omgång  10
+2004-08-29 10:00 			
+	Järna BK - Wermdö Trappers	5 - 0 	HT Re-Live
+	Åsehöjden - FC Frontpage	2 - 2 	HT Re-Live
+	Ambient Underground - Norsgatan Kickers	4 - 1 	HT Re-Live
+	Arvidsjaur BK - Tjecko-85	0 - 3 	HT Re-Live
+Omgång  11
+2004-09-05 10:00 			
+	Tjecko-85 - Ambient Underground	3 - 2 	HT Re-Live
+	Norsgatan Kickers - Åsehöjden	3 - 4 	HT Re-Live
+	FC Frontpage - Järna BK	1 - 5 	HT Re-Live
+	Wermdö Trappers - Arvidsjaur BK	5 - 0 	HT Re-Live
+Omgång  12
+2004-09-12 10:00 			
+	Arvidsjaur BK - Ambient Underground	0 - 3 	HT Re-Live
+	Wermdö Trappers - FC Frontpage	2 - 0 	HT Re-Live
+	Järna BK - Norsgatan Kickers	4 - 3 	HT Re-Live
+	Åsehöjden - Tjecko-85	4 - 1 	HT Re-Live
+Omgång  13
+2004-09-19 10:00 			
+	Norsgatan Kickers - Wermdö Trappers	3 - 5 	HT Re-Live
+	Ambient Underground - Åsehöjden	8 - 1 	HT Re-Live
+	Tjecko-85 - Järna BK	4 - 1 	HT Re-Live
+	Arvidsjaur BK - FC Frontpage	0 - 3 	HT Re-Live
+Omgång  14
+2004-09-26 10:00 			
+	Järna BK - Ambient Underground	2 - 1 	HT Re-Live
+	FC Frontpage - Norsgatan Kickers	0 - 5 	HT Re-Live
+	Wermdö Trappers - Tjecko-85	2 - 3 	HT Re-Live
+	Åsehöjden - Arvidsjaur BK	2 - 0 	HT Re-Live

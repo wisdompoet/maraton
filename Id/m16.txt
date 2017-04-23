@@ -1,0 +1,84 @@
+Omgång  1
+2002-05-05 10:00 			
+	IFK Livergården - Team Ångest	2 - 2 	HT Re-Live
+	IFK FF - Fogdaröd Invalidos	2 - 1 	HT Re-Live
+	Kistbärarna - F.C Keeps	1 - 0 	HT Re-Live
+	Babar And Tha Boyz FF - Uddewalla FC	5 - 1 	HT Re-Live
+Omgång  2
+2002-05-12 10:00 			
+	F.C Keeps - IFK Livergården	0 - 3 	HT Re-Live
+	Uddewalla FC - IFK FF	3 - 1 	HT Re-Live
+	Team Ångest - Babar And Tha Boyz FF	3 - 0 	HT Re-Live
+	Fogdaröd Invalidos - Kistbärarna	2 - 3 	HT Re-Live
+Omgång  3
+2002-05-19 10:00 			
+	IFK FF - Team Ångest	1 - 1 	HT Re-Live
+	Kistbärarna - Uddewalla FC	1 - 0 	HT Re-Live
+	F.C Keeps - Fogdaröd Invalidos	1 - 0 	HT Re-Live
+	Babar And Tha Boyz FF - IFK Livergården	4 - 2 	HT Re-Live
+Omgång  4
+2002-05-26 10:00 			
+	IFK Livergården - Fogdaröd Invalidos	3 - 0 	HT Re-Live
+	Uddewalla FC - F.C Keeps	2 - 1 	HT Re-Live
+	Team Ångest - Kistbärarna	3 - 2 	HT Re-Live
+	Babar And Tha Boyz FF - IFK FF	4 - 1 	HT Re-Live
+Omgång  5
+2002-06-02 10:00 			
+	IFK FF - IFK Livergården	2 - 3 	HT Re-Live
+	Kistbärarna - Babar And Tha Boyz FF	2 - 2 	HT Re-Live
+	F.C Keeps - Team Ångest	2 - 1 	HT Re-Live
+	Fogdaröd Invalidos - Uddewalla FC	0 - 4 	HT Re-Live
+Omgång  6
+2002-06-09 10:00 			
+	IFK Livergården - Uddewalla FC	1 - 5 	HT Re-Live
+	IFK FF - Kistbärarna	3 - 2 	HT Re-Live
+	Team Ångest - Fogdaröd Invalidos	0 - 0 	HT Re-Live
+	Babar And Tha Boyz FF - F.C Keeps	5 - 2 	HT Re-Live
+Omgång  7
+2002-06-16 10:00 			
+	Kistbärarna - IFK Livergården	1 - 2 	HT Re-Live
+	F.C Keeps - IFK FF	1 - 4 	HT Re-Live
+	Uddewalla FC - Team Ångest	4 - 2 	HT Re-Live
+	Fogdaröd Invalidos - Babar And Tha Boyz FF	2 - 2 	HT Re-Live
+Omgång  8
+2002-06-23 10:00 			
+	Babar And Tha Boyz FF - Fogdaröd Invalidos	1 - 1 	HT Re-Live
+	Team Ångest - Uddewalla FC	6 - 0 	HT Re-Live
+	IFK FF - F.C Keeps	2 - 2 	HT Re-Live
+	IFK Livergården - Kistbärarna	1 - 2 	HT Re-Live
+Omgång  9
+2002-06-30 10:00 			
+	F.C Keeps - Babar And Tha Boyz FF	6 - 2 	HT Re-Live
+	Fogdaröd Invalidos - Team Ångest	1 - 1 	HT Re-Live
+	Kistbärarna - IFK FF	1 - 3 	HT Re-Live
+	Uddewalla FC - IFK Livergården	3 - 4 	HT Re-Live
+Omgång  10
+2002-07-07 10:00 			
+	Uddewalla FC - Fogdaröd Invalidos	2 - 0 	HT Re-Live
+	Team Ångest - F.C Keeps	1 - 3 	HT Re-Live
+	Babar And Tha Boyz FF - Kistbärarna	3 - 2 	HT Re-Live
+	IFK Livergården - IFK FF	3 - 0 	HT Re-Live
+Omgång  11
+2002-07-14 10:00 			
+	IFK FF - Babar And Tha Boyz FF	3 - 4 	HT Re-Live
+	Kistbärarna - Team Ångest	3 - 1 	HT Re-Live
+	F.C Keeps - Uddewalla FC	2 - 0 	HT Re-Live
+	Fogdaröd Invalidos - IFK Livergården	0 - 5 	HT Re-Live
+Omgång  12
+2002-07-21 10:00 			
+	IFK Livergården - Babar And Tha Boyz FF	4 - 0 	HT Re-Live
+	Fogdaröd Invalidos - F.C Keeps	1 - 2 	HT Re-Live
+	Uddewalla FC - Kistbärarna	1 - 2 	HT Re-Live
+	Team Ångest - IFK FF	0 - 2 	HT Re-Live
+Omgång  13
+2002-07-28 10:00 			
+	Kistbärarna - Fogdaröd Invalidos	2 - 1 	HT Re-Live
+	Babar And Tha Boyz FF - Team Ångest	3 - 5 	HT Re-Live
+	IFK FF - Uddewalla FC	6 - 0 	HT Re-Live
+	IFK Livergården - F.C Keeps	4 - 0 	HT Re-Live
+Omgång  14
+2002-08-04 10:00 			
+	Uddewalla FC - Babar And Tha Boyz FF	5 - 1 	HT Re-Live
+	F.C Keeps - Kistbärarna	2 - 0 	HT Re-Live
+	Fogdaröd Invalidos - IFK FF	0 - 2 	HT Re-Live
+	Team Ångest - IFK Livergården	2 - 1 	HT Re-Live

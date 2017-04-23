@@ -1,0 +1,84 @@
+Omgång  1
+2014-11-30 10:00 			
+	Wheelsbridge Wanderers - BK ROSEN 	3 - 1 	HT Re-Live
+	Frölunda killers - Chimboraze 	3 - 1 	HT Re-Live
+	Andarna BK - Donosti 	3 - 1 	HT Re-Live
+	Tampes United - Massive Attack 	5 - 3 	HT Re-Live
+Omgång  2
+2014-12-07 10:00 			
+	Chimboraze - Tampes United 	6 - 2 	HT Re-Live
+	Massive Attack - Andarna BK 	3 - 1 	HT Re-Live
+	BK ROSEN - Frölunda killers 	3 - 4 	HT Re-Live
+	Donosti - Wheelsbridge Wanderers 	1 - 2 	HT Re-Live
+Omgång  3
+2014-12-14 10:00 			
+	Frölunda killers - Wheelsbridge Wanderers 	5 - 1 	HT Re-Live
+	Tampes United - Donosti 	1 - 1 	HT Re-Live
+	Andarna BK - BK ROSEN 	1 - 2 	HT Re-Live
+	Chimboraze - Massive Attack 	2 - 1 	HT Re-Live
+Omgång  4
+2014-12-21 10:00 			
+	BK ROSEN - Tampes United 	3 - 6 	HT Re-Live
+	Wheelsbridge Wanderers - Andarna BK 	3 - 3 	HT Re-Live
+	Massive Attack - Frölunda killers 	3 - 4 	HT Re-Live
+	Donosti - Chimboraze 	3 - 2 	HT Re-Live
+Omgång  5
+2014-12-28 10:00 			
+	Massive Attack - BK ROSEN 	5 - 0 	HT Re-Live
+	Tampes United - Andarna BK 	3 - 0 	HT Re-Live
+	Frölunda killers - Donosti 	1 - 3 	HT Re-Live
+	Chimboraze - Wheelsbridge Wanderers 	1 - 0 	HT Re-Live
+Omgång  6
+2015-01-04 10:00 			
+	Wheelsbridge Wanderers - Tampes United 	4 - 3 	HT Re-Live
+	Andarna BK - Frölunda killers 	1 - 2 	HT Re-Live
+	BK ROSEN - Chimboraze 	3 - 2 	HT Re-Live
+	Donosti - Massive Attack 	3 - 1 	HT Re-Live
+Omgång  7
+2015-01-11 10:00 			
+	Massive Attack - Wheelsbridge Wanderers 	3 - 3 	HT Re-Live
+	Chimboraze - Andarna BK 	0 - 0 	HT Re-Live
+	Tampes United - Frölunda killers 	2 - 3 	HT Re-Live
+	BK ROSEN - Donosti 	1 - 1 	HT Re-Live
+Omgång  8
+2015-01-18 10:00 			
+	Donosti - BK ROSEN 	4 - 1 	HT Re-Live
+	Wheelsbridge Wanderers - Massive Attack 	1 - 2 	HT Re-Live
+	Andarna BK - Chimboraze 	1 - 4 	HT Re-Live
+	Frölunda killers - Tampes United 	2 - 4 	HT Re-Live
+Omgång  9
+2015-01-25 10:00 			
+	Tampes United - Wheelsbridge Wanderers 	2 - 0 	HT Re-Live
+	Chimboraze - BK ROSEN 	0 - 1 	HT Re-Live
+	Massive Attack - Donosti 	2 - 2 	HT Re-Live
+	Frölunda killers - Andarna BK 	2 - 1 	HT Re-Live
+Omgång  10
+2015-02-01 10:00 			
+	Donosti - Frölunda killers 	1 - 1 	HT Re-Live
+	Wheelsbridge Wanderers - Chimboraze 	2 - 2 	HT Re-Live
+	BK ROSEN - Massive Attack 	2 - 2 	HT Re-Live
+	Andarna BK - Tampes United 	1 - 7 	HT Re-Live
+Omgång  11
+2015-02-08 10:00 			
+	Chimboraze - Donosti 	5 - 1 	HT Re-Live
+	Andarna BK - Wheelsbridge Wanderers 	0 - 5 	HT Re-Live
+	Tampes United - BK ROSEN 	1 - 2 	HT Re-Live
+	Frölunda killers - Massive Attack 	6 - 0 	HT Re-Live
+Omgång  12
+2015-02-15 10:00 			
+	Massive Attack - Chimboraze 	5 - 1 	HT Re-Live
+	Wheelsbridge Wanderers - Frölunda killers 	2 - 5 	HT Re-Live
+	BK ROSEN - Andarna BK 	10 - 0 	HT Re-Live
+	Donosti - Tampes United 	3 - 4 	HT Re-Live
+Omgång  13
+2015-02-22 10:00 			
+	Frölunda killers - BK ROSEN 	6 - 1 	HT Re-Live
+	Wheelsbridge Wanderers - Donosti 	4 - 0 	HT Re-Live
+	Andarna BK - Massive Attack 	1 - 8 	HT Re-Live
+	Tampes United - Chimboraze 	4 - 1 	HT Re-Live
+Omgång  14
+2015-03-01 10:00 			
+	Donosti - Andarna BK 	7 - 0 	HT Re-Live
+	Chimboraze - Frölunda killers 	1 - 2 	HT Re-Live
+	Massive Attack - Tampes United 	0 - 4 	HT Re-Live
+	BK ROSEN - Wheelsbridge Wanderers 	2 - 3 	HT Re-Live

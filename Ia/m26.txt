@@ -1,0 +1,84 @@
+Omgång  1
+2005-05-29 10:00 			
+	Stream Team - Alpha Lipoic AC	4 - 2 	HT Re-Live
+	Sunne IK - Black Ivory	6 - 1 	HT Re-Live
+	Krillstar - Tyresö Drifters	3 - 1 	HT Re-Live
+	Umeå Stars - Cirkus Brazil Jack	2 - 5 	HT Re-Live
+Omgång  2
+2005-06-05 10:00 			
+	Tyresö Drifters - Stream Team	2 - 2 	HT Re-Live
+	Cirkus Brazil Jack - Sunne IK	5 - 3 	HT Re-Live
+	Alpha Lipoic AC - Umeå Stars	6 - 2 	HT Re-Live
+	Black Ivory - Krillstar	0 - 0 	HT Re-Live
+Omgång  3
+2005-06-12 10:00 			
+	Sunne IK - Alpha Lipoic AC	3 - 4 	HT Re-Live
+	Krillstar - Cirkus Brazil Jack	2 - 0 	HT Re-Live
+	Tyresö Drifters - Black Ivory	2 - 1 	HT Re-Live
+	Umeå Stars - Stream Team	6 - 3 	HT Re-Live
+Omgång  4
+2005-06-19 10:00 			
+	Stream Team - Black Ivory	4 - 0 	HT Re-Live
+	Cirkus Brazil Jack - Tyresö Drifters	0 - 0 	HT Re-Live
+	Alpha Lipoic AC - Krillstar	1 - 0 	HT Re-Live
+	Umeå Stars - Sunne IK	4 - 2 	HT Re-Live
+Omgång  5
+2005-06-26 10:00 			
+	Sunne IK - Stream Team	3 - 3 	HT Re-Live
+	Krillstar - Umeå Stars	6 - 2 	HT Re-Live
+	Tyresö Drifters - Alpha Lipoic AC	1 - 2 	HT Re-Live
+	Black Ivory - Cirkus Brazil Jack	5 - 1 	HT Re-Live
+Omgång  6
+2005-07-03 10:00 			
+	Stream Team - Cirkus Brazil Jack	2 - 2 	HT Re-Live
+	Sunne IK - Krillstar	4 - 3 	HT Re-Live
+	Alpha Lipoic AC - Black Ivory	3 - 0 	HT Re-Live
+	Umeå Stars - Tyresö Drifters	4 - 2 	HT Re-Live
+Omgång  7
+2005-07-10 10:00 			
+	Krillstar - Stream Team	3 - 1 	HT Re-Live
+	Tyresö Drifters - Sunne IK	3 - 1 	HT Re-Live
+	Cirkus Brazil Jack - Alpha Lipoic AC	2 - 1 	HT Re-Live
+	Black Ivory - Umeå Stars	6 - 0 	HT Re-Live
+Omgång  8
+2005-07-17 10:00 			
+	Umeå Stars - Black Ivory	5 - 1 	HT Re-Live
+	Alpha Lipoic AC - Cirkus Brazil Jack	1 - 5 	HT Re-Live
+	Sunne IK - Tyresö Drifters	6 - 2 	HT Re-Live
+	Stream Team - Krillstar	4 - 2 	HT Re-Live
+Omgång  9
+2005-07-24 10:00 			
+	Tyresö Drifters - Umeå Stars	3 - 2 	HT Re-Live
+	Black Ivory - Alpha Lipoic AC	5 - 0 	HT Re-Live
+	Krillstar - Sunne IK	5 - 1 	HT Re-Live
+	Cirkus Brazil Jack - Stream Team	5 - 0 	HT Re-Live
+Omgång  10
+2005-07-31 10:00 			
+	Cirkus Brazil Jack - Black Ivory	5 - 0 	HT Re-Live
+	Alpha Lipoic AC - Tyresö Drifters	1 - 0 	HT Re-Live
+	Umeå Stars - Krillstar	3 - 2 	HT Re-Live
+	Stream Team - Sunne IK	3 - 3 	HT Re-Live
+Omgång  11
+2005-08-07 10:00 			
+	Sunne IK - Umeå Stars	3 - 3 	HT Re-Live
+	Krillstar - Alpha Lipoic AC	2 - 4 	HT Re-Live
+	Tyresö Drifters - Cirkus Brazil Jack	1 - 1 	HT Re-Live
+	Black Ivory - Stream Team	4 - 4 	HT Re-Live
+Omgång  12
+2005-08-14 10:00 			
+	Stream Team - Umeå Stars	5 - 2 	HT Re-Live
+	Black Ivory - Tyresö Drifters	1 - 0 	HT Re-Live
+	Cirkus Brazil Jack - Krillstar	3 - 0 	HT Re-Live
+	Alpha Lipoic AC - Sunne IK	6 - 2 	HT Re-Live
+Omgång  13
+2005-08-21 10:00 			
+	Krillstar - Black Ivory	0 - 2 	HT Re-Live
+	Umeå Stars - Alpha Lipoic AC	1 - 5 	HT Re-Live
+	Sunne IK - Cirkus Brazil Jack	0 - 4 	HT Re-Live
+	Stream Team - Tyresö Drifters	1 - 2 	HT Re-Live
+Omgång  14
+2005-08-28 10:00 			
+	Cirkus Brazil Jack - Umeå Stars	3 - 1 	HT Re-Live
+	Tyresö Drifters - Krillstar	1 - 1 	HT Re-Live
+	Black Ivory - Sunne IK	6 - 0 	HT Re-Live
+	Alpha Lipoic AC - Stream Team	2 - 0 	HT Re-Live

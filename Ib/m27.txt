@@ -1,0 +1,84 @@
+Omgång  1
+2005-09-18 10:00 			
+	Fjukers - Murklan FC	0 - 6 	HT Re-Live
+	fumpen - Åsehöjden	3 - 0 	HT Re-Live
+	Storhagen United - IFK Mörlanda	4 - 1 	HT Re-Live
+	New Psycho Cowboys - Matte Ducks	4 - 3 	HT Re-Live
+Omgång  2
+2005-09-25 10:00 			
+	IFK Mörlanda - Fjukers	3 - 0 	HT Re-Live
+	Matte Ducks - fumpen	1 - 1 	HT Re-Live
+	Murklan FC - New Psycho Cowboys	4 - 1 	HT Re-Live
+	Åsehöjden - Storhagen United	3 - 2 	HT Re-Live
+Omgång  3
+2005-10-02 10:00 			
+	fumpen - Murklan FC	3 - 2 	HT Re-Live
+	Storhagen United - Matte Ducks	4 - 1 	HT Re-Live
+	IFK Mörlanda - Åsehöjden	1 - 0 	HT Re-Live
+	New Psycho Cowboys - Fjukers	5 - 2 	HT Re-Live
+Omgång  4
+2005-10-09 10:00 			
+	Fjukers - Åsehöjden	4 - 2 	HT Re-Live
+	Matte Ducks - IFK Mörlanda	4 - 3 	HT Re-Live
+	Murklan FC - Storhagen United	6 - 2 	HT Re-Live
+	New Psycho Cowboys - fumpen	2 - 3 	HT Re-Live
+Omgång  5
+2005-10-16 10:00 			
+	fumpen - Fjukers	5 - 0 	HT Re-Live
+	Storhagen United - New Psycho Cowboys	0 - 2 	HT Re-Live
+	IFK Mörlanda - Murklan FC	3 - 0 	HT Re-Live
+	Åsehöjden - Matte Ducks	2 - 6 	HT Re-Live
+Omgång  6
+2005-10-23 10:00 			
+	Fjukers - Matte Ducks	2 - 5 	HT Re-Live
+	fumpen - Storhagen United	3 - 0 	HT Re-Live
+	Murklan FC - Åsehöjden	3 - 2 	HT Re-Live
+	New Psycho Cowboys - IFK Mörlanda	4 - 2 	HT Re-Live
+Omgång  7
+2005-10-30 10:00 			
+	Storhagen United - Fjukers	4 - 2 	HT Re-Live
+	IFK Mörlanda - fumpen	1 - 1 	HT Re-Live
+	Matte Ducks - Murklan FC	0 - 2 	HT Re-Live
+	Åsehöjden - New Psycho Cowboys	2 - 2 	HT Re-Live
+Omgång  8
+2005-11-06 10:00 			
+	New Psycho Cowboys - Åsehöjden	4 - 0 	HT Re-Live
+	Murklan FC - Matte Ducks	1 - 1 	HT Re-Live
+	fumpen - IFK Mörlanda	6 - 0 	HT Re-Live
+	Fjukers - Storhagen United	1 - 4 	HT Re-Live
+Omgång  9
+2005-11-13 10:00 			
+	IFK Mörlanda - New Psycho Cowboys	1 - 2 	HT Re-Live
+	Åsehöjden - Murklan FC	2 - 1 	HT Re-Live
+	Storhagen United - fumpen	0 - 3 	HT Re-Live
+	Matte Ducks - Fjukers	3 - 1 	HT Re-Live
+Omgång  10
+2005-11-20 10:00 			
+	Matte Ducks - Åsehöjden	4 - 0 	HT Re-Live
+	Murklan FC - IFK Mörlanda	5 - 0 	HT Re-Live
+	New Psycho Cowboys - Storhagen United	6 - 1 	HT Re-Live
+	Fjukers - fumpen	0 - 5 	HT Re-Live
+Omgång  11
+2005-11-27 10:00 			
+	fumpen - New Psycho Cowboys	7 - 1 	HT Re-Live
+	Storhagen United - Murklan FC	4 - 0 	HT Re-Live
+	IFK Mörlanda - Matte Ducks	0 - 4 	HT Re-Live
+	Åsehöjden - Fjukers	4 - 0 	HT Re-Live
+Omgång  12
+2005-12-04 10:00 			
+	Fjukers - New Psycho Cowboys	1 - 4 	HT Re-Live
+	Åsehöjden - IFK Mörlanda	2 - 0 	HT Re-Live
+	Matte Ducks - Storhagen United	3 - 0 	HT Re-Live
+	Murklan FC - fumpen	3 - 2 	HT Re-Live
+Omgång  13
+2005-12-11 10:00 			
+	Storhagen United - Åsehöjden	5 - 1 	HT Re-Live
+	New Psycho Cowboys - Murklan FC	3 - 1 	HT Re-Live
+	fumpen - Matte Ducks	2 - 1 	HT Re-Live
+	Fjukers - IFK Mörlanda	2 - 5 	HT Re-Live
+Omgång  14
+2005-12-18 10:00 			
+	Matte Ducks - New Psycho Cowboys	8 - 0 	HT Re-Live
+	IFK Mörlanda - Storhagen United	3 - 4 	HT Re-Live
+	Åsehöjden - fumpen	2 - 3 	HT Re-Live
+	Murklan FC - Fjukers	2 - 0 	HT Re-Live

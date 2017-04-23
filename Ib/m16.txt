@@ -1,0 +1,84 @@
+Omgång  1
+2002-05-05 10:00 			
+	Inter Sthlm - Gaddens IF	4 - 0 	HT Re-Live
+	Wermdö Trappers - Psychedelic Bumbibears	3 - 1 	HT Re-Live
+	Real Español - Matte Ducks	4 - 3 	HT Re-Live
+	Boca Seniors - Hebbes vänner	2 - 0 	HT Re-Live
+Omgång  2
+2002-05-12 10:00 			
+	Matte Ducks - Inter Sthlm	3 - 2 	HT Re-Live
+	Hebbes vänner - Wermdö Trappers	0 - 8 	HT Re-Live
+	Gaddens IF - Boca Seniors	1 - 3 	HT Re-Live
+	Psychedelic Bumbibears - Real Español	1 - 3 	HT Re-Live
+Omgång  3
+2002-05-19 10:00 			
+	Wermdö Trappers - Gaddens IF	3 - 0 	HT Re-Live
+	Real Español - Hebbes vänner	1 - 3 	HT Re-Live
+	Matte Ducks - Psychedelic Bumbibears	2 - 0 	HT Re-Live
+	Boca Seniors - Inter Sthlm	6 - 1 	HT Re-Live
+Omgång  4
+2002-05-26 10:00 			
+	Inter Sthlm - Psychedelic Bumbibears	4 - 1 	HT Re-Live
+	Hebbes vänner - Matte Ducks	6 - 1 	HT Re-Live
+	Gaddens IF - Real Español	2 - 3 	HT Re-Live
+	Boca Seniors - Wermdö Trappers	5 - 0 	HT Re-Live
+Omgång  5
+2002-06-02 10:00 			
+	Wermdö Trappers - Inter Sthlm	4 - 1 	HT Re-Live
+	Real Español - Boca Seniors	1 - 1 	HT Re-Live
+	Matte Ducks - Gaddens IF	1 - 2 	HT Re-Live
+	Psychedelic Bumbibears - Hebbes vänner	3 - 2 	HT Re-Live
+Omgång  6
+2002-06-09 10:00 			
+	Inter Sthlm - Hebbes vänner	3 - 4 	HT Re-Live
+	Wermdö Trappers - Real Español	3 - 1 	HT Re-Live
+	Gaddens IF - Psychedelic Bumbibears	3 - 1 	HT Re-Live
+	Boca Seniors - Matte Ducks	4 - 1 	HT Re-Live
+Omgång  7
+2002-06-16 10:00 			
+	Real Español - Inter Sthlm	5 - 1 	HT Re-Live
+	Matte Ducks - Wermdö Trappers	1 - 5 	HT Re-Live
+	Hebbes vänner - Gaddens IF	4 - 1 	HT Re-Live
+	Psychedelic Bumbibears - Boca Seniors	0 - 4 	HT Re-Live
+Omgång  8
+2002-06-23 10:00 			
+	Boca Seniors - Psychedelic Bumbibears	2 - 0 	HT Re-Live
+	Gaddens IF - Hebbes vänner	4 - 1 	HT Re-Live
+	Wermdö Trappers - Matte Ducks	5 - 1 	HT Re-Live
+	Inter Sthlm - Real Español	4 - 1 	HT Re-Live
+Omgång  9
+2002-06-30 10:00 			
+	Matte Ducks - Boca Seniors	2 - 1 	HT Re-Live
+	Psychedelic Bumbibears - Gaddens IF	0 - 0 	HT Re-Live
+	Real Español - Wermdö Trappers	2 - 1 	HT Re-Live
+	Hebbes vänner - Inter Sthlm	1 - 5 	HT Re-Live
+Omgång  10
+2002-07-07 10:00 			
+	Hebbes vänner - Psychedelic Bumbibears	4 - 0 	HT Re-Live
+	Gaddens IF - Matte Ducks	3 - 0 	HT Re-Live
+	Boca Seniors - Real Español	3 - 0 	HT Re-Live
+	Inter Sthlm - Wermdö Trappers	1 - 3 	HT Re-Live
+Omgång  11
+2002-07-14 10:00 			
+	Wermdö Trappers - Boca Seniors	1 - 2 	HT Re-Live
+	Real Español - Gaddens IF	2 - 0 	HT Re-Live
+	Matte Ducks - Hebbes vänner	2 - 3 	HT Re-Live
+	Psychedelic Bumbibears - Inter Sthlm	0 - 4 	HT Re-Live
+Omgång  12
+2002-07-21 10:00 			
+	Inter Sthlm - Boca Seniors	2 - 1 	HT Re-Live
+	Psychedelic Bumbibears - Matte Ducks	4 - 1 	HT Re-Live
+	Hebbes vänner - Real Español	4 - 2 	HT Re-Live
+	Gaddens IF - Wermdö Trappers	1 - 1 	HT Re-Live
+Omgång  13
+2002-07-28 10:00 			
+	Real Español - Psychedelic Bumbibears	2 - 0 	HT Re-Live
+	Boca Seniors - Gaddens IF	4 - 0 	HT Re-Live
+	Wermdö Trappers - Hebbes vänner	5 - 1 	HT Re-Live
+	Inter Sthlm - Matte Ducks	3 - 0 	HT Re-Live
+Omgång  14
+2002-08-04 10:00 			
+	Hebbes vänner - Boca Seniors	3 - 4 	HT Re-Live
+	Matte Ducks - Real Español	4 - 1 	HT Re-Live
+	Psychedelic Bumbibears - Wermdö Trappers	0 - 4 	HT Re-Live
+	Gaddens IF - Inter Sthlm	3 - 0 	HT Re-Live

@@ -1,0 +1,84 @@
+Omgång  1
+2013-05-19 10:00 			
+	Inter Draggen - FC Phazz	0 - 9 	HT Re-Live
+	FC Mackan - FC Balingsnäs	6 - 0 	HT Re-Live
+	Rotorp - Strömsbergs BK	2 - 0 	HT Re-Live
+	Wheelsbridge Wanderers - Cobra Fighters	4 - 1 	HT Re-Live
+Omgång  2
+2013-05-26 10:00 			
+	FC Balingsnäs  - Inter Draggen	4 - 0 	HT Re-Live
+	FC Phazz - Wheelsbridge Wanderers	4 - 1 	HT Re-Live
+	Strömsbergs BK - FC Mackan	3 - 2 	HT Re-Live
+	Cobra Fighters - Rotorp	2 - 2 	HT Re-Live
+Omgång  3
+2013-06-02 10:00 			
+	FC Mackan - Rotorp	5 - 2 	HT Re-Live
+	Wheelsbridge Wanderers - Strömsbergs BK	1 - 0 	HT Re-Live
+	FC Balingsnäs  - FC Phazz	0 - 6 	HT Re-Live
+	Inter Draggen - Cobra Fighters	1 - 8 	HT Re-Live
+Omgång  4
+2013-06-09 10:00 			
+	Strömsbergs BK - Inter Draggen	9 - 0 	HT Re-Live
+	FC Phazz - FC Mackan	4 - 2 	HT Re-Live
+	Rotorp - Wheelsbridge Wanderers	6 - 0 	HT Re-Live
+	Cobra Fighters - FC Balingsnäs	8 - 1 	HT Re-Live
+Omgång  5
+2013-06-16 10:00 			
+	Inter Draggen - Wheelsbridge Wanderers	1 - 8 	HT Re-Live
+	FC Balingsnäs  - Rotorp	0 - 7 	HT Re-Live
+	FC Mackan - Cobra Fighters	6 - 1 	HT Re-Live
+	FC Phazz - Strömsbergs BK	4 - 1 	HT Re-Live
+Omgång  6
+2013-06-23 10:00 			
+	Wheelsbridge Wanderers - FC Mackan	3 - 3 	HT Re-Live
+	Cobra Fighters - FC Phazz	1 - 3 	HT Re-Live
+	Rotorp - Inter Draggen	10 - 0 	HT Re-Live
+	Strömsbergs BK - FC Balingsnäs	7 - 0 	HT Re-Live
+Omgång  7
+2013-06-30 10:00 			
+	Strömsbergs BK - Cobra Fighters	2 - 4 	HT Re-Live
+	FC Phazz - Rotorp	4 - 3 	HT Re-Live
+	Inter Draggen - FC Mackan	0 - 8 	HT Re-Live
+	FC Balingsnäs  - Wheelsbridge Wanderers	0 - 7 	HT Re-Live
+Omgång  8
+2013-07-07 10:00 			
+	FC Mackan - Inter Draggen	9 - 0 	HT Re-Live
+	Cobra Fighters - Strömsbergs BK	3 - 2 	HT Re-Live
+	Rotorp - FC Phazz	5 - 1 	HT Re-Live
+	Wheelsbridge Wanderers - FC Balingsnäs	9 - 0 	HT Re-Live
+Omgång  9
+2013-07-14 10:00 			
+	FC Balingsnäs  - Strömsbergs BK	0 - 6 	HT Re-Live
+	FC Phazz - Cobra Fighters	2 - 0 	HT Re-Live
+	FC Mackan - Wheelsbridge Wanderers	2 - 0 	HT Re-Live
+	Inter Draggen - Rotorp	0 - 7 	HT Re-Live
+Omgång  10
+2013-07-21 10:00 			
+	Strömsbergs BK - FC Phazz	3 - 5 	HT Re-Live
+	Cobra Fighters - FC Mackan	3 - 2 	HT Re-Live
+	Rotorp - FC Balingsnäs	3 - 1 	HT Re-Live
+	Wheelsbridge Wanderers - Inter Draggen	10 - 0 	HT Re-Live
+Omgång  11
+2013-07-28 10:00 			
+	FC Mackan - FC Phazz	0 - 3 	HT Re-Live
+	FC Balingsnäs  - Cobra Fighters	1 - 6 	HT Re-Live
+	Wheelsbridge Wanderers - Rotorp	2 - 2 	HT Re-Live
+	Inter Draggen - Strömsbergs BK	0 - 7 	HT Re-Live
+Omgång  12
+2013-08-04 10:00 			
+	FC Phazz - FC Balingsnäs	10 - 0 	HT Re-Live
+	Cobra Fighters - Inter Draggen	9 - 0 	HT Re-Live
+	Rotorp - FC Mackan	3 - 1 	HT Re-Live
+	Strömsbergs BK - Wheelsbridge Wanderers	1 - 0 	HT Re-Live
+Omgång  13
+2013-08-11 10:00 			
+	Rotorp - Cobra Fighters	2 - 1 	HT Re-Live
+	FC Mackan - Strömsbergs BK	5 - 3 	HT Re-Live
+	Wheelsbridge Wanderers - FC Phazz	2 - 2 	HT Re-Live
+	Inter Draggen - FC Balingsnäs	1 - 3 	HT Re-Live
+Omgång  14
+2013-08-18 10:00 			
+	FC Balingsnäs  - FC Mackan	0 - 9 	HT Re-Live
+	Cobra Fighters - Wheelsbridge Wanderers	2 - 2 	HT Re-Live
+	FC Phazz - Inter Draggen	9 - 0 	HT Re-Live
+	Strömsbergs BK - Rotorp	0 - 2 	HT Re-Live

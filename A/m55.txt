@@ -1,0 +1,84 @@
+Omgång  1
+2014-04-20 10:00 			
+	Skansholms SK - Ljungby IF 	3 - 2 	HT Re-Live
+	FC Uberlirarna - Picos Verdes 	6 - 2 	HT Re-Live
+	Dicanio - The Stocks 	2 - 3 	HT Re-Live
+	Söderbröder FC - FC Mackan 	3 - 0 	HT Re-Live
+Omgång  2
+2014-04-27 10:00 			
+	Picos Verdes - Skansholms SK 	3 - 2 	HT Re-Live
+	Ljungby IF - Söderbröder FC 	2 - 2 	HT Re-Live
+	FC Mackan - Dicanio 	4 - 0 	HT Re-Live
+	The Stocks - FC Uberlirarna 	2 - 2 	HT Re-Live
+Omgång  3
+2014-05-04 10:00 			
+	FC Uberlirarna - Dicanio 	1 - 1 	HT Re-Live
+	Skansholms SK - FC Mackan 	3 - 2 	HT Re-Live
+	Picos Verdes - Ljungby IF 	1 - 0 	HT Re-Live
+	Söderbröder FC - The Stocks 	5 - 2 	HT Re-Live
+Omgång  4
+2014-05-11 10:00 			
+	Ljungby IF - FC Uberlirarna 	2 - 2 	HT Re-Live
+	The Stocks - Skansholms SK 	6 - 2 	HT Re-Live
+	Dicanio - Söderbröder FC 	2 - 1 	HT Re-Live
+	FC Mackan - Picos Verdes 	4 - 4 	HT Re-Live
+Omgång  5
+2014-05-18 10:00 			
+	Skansholms SK - Söderbröder FC 	0 - 1 	HT Re-Live
+	Picos Verdes - Dicanio 	4 - 1 	HT Re-Live
+	Ljungby IF - The Stocks 	1 - 0 	HT Re-Live
+	FC Uberlirarna - FC Mackan 	3 - 0 	HT Re-Live
+Omgång  6
+2014-05-25 10:00 			
+	Dicanio - Skansholms SK 	3 - 1 	HT Re-Live
+	The Stocks - Picos Verdes 	5 - 1 	HT Re-Live
+	Söderbröder FC - FC Uberlirarna 	2 - 0 	HT Re-Live
+	FC Mackan - Ljungby IF 	2 - 1 	HT Re-Live
+Omgång  7
+2014-06-01 10:00 			
+	Skansholms SK - FC Uberlirarna 	3 - 2 	HT Re-Live
+	Ljungby IF - Dicanio 	1 - 1 	HT Re-Live
+	Picos Verdes - Söderbröder FC 	2 - 5 	HT Re-Live
+	The Stocks - FC Mackan 	2 - 4 	HT Re-Live
+Omgång  8
+2014-06-08 10:00 			
+	FC Mackan - The Stocks 	4 - 2 	HT Re-Live
+	Söderbröder FC - Picos Verdes 	5 - 0 	HT Re-Live
+	Dicanio - Ljungby IF 	1 - 2 	HT Re-Live
+	FC Uberlirarna - Skansholms SK 	4 - 2 	HT Re-Live
+Omgång  9
+2014-06-15 10:00 			
+	Ljungby IF - FC Mackan 	0 - 2 	HT Re-Live
+	Picos Verdes - The Stocks 	1 - 4 	HT Re-Live
+	FC Uberlirarna - Söderbröder FC 	3 - 1 	HT Re-Live
+	Skansholms SK - Dicanio 	6 - 0 	HT Re-Live
+Omgång  10
+2014-06-22 10:00 			
+	The Stocks - Ljungby IF 	2 - 2 	HT Re-Live
+	FC Mackan - FC Uberlirarna 	5 - 4 	HT Re-Live
+	Dicanio - Picos Verdes 	1 - 1 	HT Re-Live
+	Söderbröder FC - Skansholms SK 	1 - 4 	HT Re-Live
+Omgång  11
+2014-06-29 10:00 			
+	Picos Verdes - FC Mackan 	2 - 4 	HT Re-Live
+	Söderbröder FC - Dicanio 	2 - 2 	HT Re-Live
+	FC Uberlirarna - Ljungby IF 	1 - 2 	HT Re-Live
+	Skansholms SK - The Stocks 	3 - 4 	HT Re-Live
+Omgång  12
+2014-07-06 10:00 			
+	The Stocks - Söderbröder FC 	3 - 2 	HT Re-Live
+	Ljungby IF - Picos Verdes 	4 - 1 	HT Re-Live
+	Dicanio - FC Uberlirarna 	2 - 1 	HT Re-Live
+	FC Mackan - Skansholms SK 	3 - 1 	HT Re-Live
+Omgång  13
+2014-07-13 10:00 			
+	Dicanio - FC Mackan 	5 - 0 	HT Re-Live
+	Söderbröder FC - Ljungby IF 	2 - 2 	HT Re-Live
+	FC Uberlirarna - The Stocks 	3 - 2 	HT Re-Live
+	Skansholms SK - Picos Verdes 	3 - 1 	HT Re-Live
+Omgång  14
+2014-07-20 10:00 			
+	FC Mackan - Söderbröder FC 	1 - 5 	HT Re-Live
+	The Stocks - Dicanio 	2 - 3 	HT Re-Live
+	Picos Verdes - FC Uberlirarna 	3 - 3 	HT Re-Live
+	Ljungby IF - Skansholms SK 	2 - 3 	HT Re-Live

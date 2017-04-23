@@ -1,0 +1,84 @@
+Omgång  1
+2001-06-03 10:00 			
+	IFK FF - Åshöjdens BK	3 - 3 	HT Re-Live
+	Team Ångest - Brunkongarnas FF	2 - 5 	HT Re-Live
+	Hasselbacken FC - Grabbarna Med Hår På Bröstet	1 - 1 	HT Re-Live
+	Sublime BK - BK Smittan	1 - 0 	HT Re-Live
+Omgång  2
+2001-06-10 10:00 			
+	Grabbarna Med Hår På Bröstet - IFK FF	1 - 1 	HT Re-Live
+	BK Smittan - Team Ångest	1 - 0 	HT Re-Live
+	Åshöjdens BK - Sublime BK	3 - 5 	HT Re-Live
+	Brunkongarnas FF - Hasselbacken FC	3 - 0 	HT Re-Live
+Omgång  3
+2001-06-17 10:00 			
+	Team Ångest - Åshöjdens BK	7 - 1 	HT Re-Live
+	Hasselbacken FC - BK Smittan	2 - 1 	HT Re-Live
+	Grabbarna Med Hår På Bröstet - Brunkongarnas FF	3 - 3 	HT Re-Live
+	Sublime BK - IFK FF	2 - 0 	HT Re-Live
+Omgång  4
+2001-06-24 10:00 			
+	IFK FF - Brunkongarnas FF	3 - 1 	HT Re-Live
+	BK Smittan - Grabbarna Med Hår På Bröstet	1 - 2 	HT Re-Live
+	Åshöjdens BK - Hasselbacken FC	5 - 0 	HT Re-Live
+	Sublime BK - Team Ångest	1 - 0 	HT Re-Live
+Omgång  5
+2001-07-01 10:00 			
+	Team Ångest - IFK FF	1 - 1 	HT Re-Live
+	Hasselbacken FC - Sublime BK	0 - 2 	HT Re-Live
+	Grabbarna Med Hår På Bröstet - Åshöjdens BK	1 - 3 	HT Re-Live
+	Brunkongarnas FF - BK Smittan	1 - 0 	HT Re-Live
+Omgång  6
+2001-07-08 10:00 			
+	IFK FF - BK Smittan	1 - 0 	HT Re-Live
+	Team Ångest - Hasselbacken FC	4 - 0 	HT Re-Live
+	Åshöjdens BK - Brunkongarnas FF	4 - 1 	HT Re-Live
+	Sublime BK - Grabbarna Med Hår På Bröstet	3 - 0 	HT Re-Live
+Omgång  7
+2001-07-15 10:00 			
+	Hasselbacken FC - IFK FF	0 - 1 	HT Re-Live
+	Grabbarna Med Hår På Bröstet - Team Ångest	2 - 2 	HT Re-Live
+	BK Smittan - Åshöjdens BK	1 - 3 	HT Re-Live
+	Brunkongarnas FF - Sublime BK	1 - 3 	HT Re-Live
+Omgång  8
+2001-07-22 10:00 			
+	Sublime BK - Brunkongarnas FF	3 - 3 	HT Re-Live
+	Åshöjdens BK - BK Smittan	3 - 1 	HT Re-Live
+	Team Ångest - Grabbarna Med Hår På Bröstet	1 - 4 	HT Re-Live
+	IFK FF - Hasselbacken FC	2 - 0 	HT Re-Live
+Omgång  9
+2001-07-29 10:00 			
+	Grabbarna Med Hår På Bröstet - Sublime BK	1 - 1 	HT Re-Live
+	Brunkongarnas FF - Åshöjdens BK	0 - 8 	HT Re-Live
+	Hasselbacken FC - Team Ångest	0 - 3 	HT Re-Live
+	BK Smittan - IFK FF	0 - 1 	HT Re-Live
+Omgång  10
+2001-08-05 10:00 			
+	BK Smittan - Brunkongarnas FF	1 - 1 	HT Re-Live
+	Åshöjdens BK - Grabbarna Med Hår På Bröstet	3 - 1 	HT Re-Live
+	Sublime BK - Hasselbacken FC	1 - 0 	HT Re-Live
+	IFK FF - Team Ångest	1 - 1 	HT Re-Live
+Omgång  11
+2001-08-12 10:00 			
+	Team Ångest - Sublime BK	2 - 0 	HT Re-Live
+	Hasselbacken FC - Åshöjdens BK	2 - 4 	HT Re-Live
+	Grabbarna Med Hår På Bröstet - BK Smittan	3 - 1 	HT Re-Live
+	Brunkongarnas FF - IFK FF	4 - 1 	HT Re-Live
+Omgång  12
+2001-08-19 10:00 			
+	IFK FF - Sublime BK	0 - 0 	HT Re-Live
+	Brunkongarnas FF - Grabbarna Med Hår På Bröstet	5 - 1 	HT Re-Live
+	BK Smittan - Hasselbacken FC	1 - 0 	HT Re-Live
+	Åshöjdens BK - Team Ångest	5 - 2 	HT Re-Live
+Omgång  13
+2001-08-26 10:00 			
+	Hasselbacken FC - Brunkongarnas FF	0 - 3 	HT Re-Live
+	Sublime BK - Åshöjdens BK	1 - 2 	HT Re-Live
+	Team Ångest - BK Smittan	0 - 1 	HT Re-Live
+	IFK FF - Grabbarna Med Hår På Bröstet	3 - 0 	HT Re-Live
+Omgång  14
+2001-09-02 10:00 			
+	BK Smittan - Sublime BK	0 - 1 	HT Re-Live
+	Grabbarna Med Hår På Bröstet - Hasselbacken FC	1 - 0 	HT Re-Live
+	Brunkongarnas FF - Team Ångest	1 - 0 	HT Re-Live
+	Åshöjdens BK - IFK FF	2 - 4 	HT Re-Live

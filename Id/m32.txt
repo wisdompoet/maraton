@@ -1,0 +1,84 @@
+Omgång  1
+2007-04-01 10:00 			
+	Huskvarna - Gäddträsket	2 - 1 	HT Re-Live
+	Hjärnarp GIF - IFK Göteberg	1 - 1 	HT Re-Live
+	BK Tuvan - AMTrix	2 - 1 	HT Re-Live
+	Schenströmska BK - Sagbab	6 - 0 	HT Re-Live
+Omgång  2
+2007-04-08 10:00 			
+	AMTrix - Hjärnarp GIF	4 - 1 	HT Re-Live
+	Gäddträsket - BK Tuvan	2 - 2 	HT Re-Live
+	Sagbab - Huskvarna	4 - 3 	HT Re-Live
+	IFK Göteberg - Schenströmska BK	2 - 5 	HT Re-Live
+Omgång  3
+2007-04-15 10:00 			
+	AMTrix - Gäddträsket	4 - 1 	HT Re-Live
+	Schenströmska BK - Hjärnarp GIF	6 - 0 	HT Re-Live
+	Huskvarna - IFK Göteberg	3 - 4 	HT Re-Live
+	BK Tuvan - Sagbab	1 - 2 	HT Re-Live
+Omgång  4
+2007-04-22 10:00 			
+	Sagbab - AMTrix	3 - 2 	HT Re-Live
+	Schenströmska BK - Huskvarna	6 - 2 	HT Re-Live
+	IFK Göteberg - BK Tuvan	3 - 5 	HT Re-Live
+	Hjärnarp GIF - Gäddträsket	1 - 4 	HT Re-Live
+Omgång  5
+2007-04-29 10:00 			
+	Gäddträsket - Sagbab	3 - 1 	HT Re-Live
+	Huskvarna - Hjärnarp GIF	4 - 2 	HT Re-Live
+	BK Tuvan - Schenströmska BK	1 - 7 	HT Re-Live
+	AMTrix - IFK Göteberg	5 - 0 	HT Re-Live
+Omgång  6
+2007-05-06 10:00 			
+	Huskvarna - BK Tuvan	3 - 3 	HT Re-Live
+	Schenströmska BK - AMTrix	3 - 2 	HT Re-Live
+	Hjärnarp GIF - Sagbab	5 - 0 	HT Re-Live
+	IFK Göteberg - Gäddträsket	3 - 2 	HT Re-Live
+Omgång  7
+2007-05-13 10:00 			
+	AMTrix - Huskvarna	3 - 0 	HT Re-Live
+	Gäddträsket - Schenströmska BK	0 - 5 	HT Re-Live
+	Sagbab - IFK Göteberg	3 - 5 	HT Re-Live
+	BK Tuvan - Hjärnarp GIF	2 - 3 	HT Re-Live
+Omgång  8
+2007-05-20 10:00 			
+	Schenströmska BK - Gäddträsket	4 - 0 	HT Re-Live
+	Hjärnarp GIF - BK Tuvan	6 - 0 	HT Re-Live
+	Huskvarna - AMTrix	4 - 1 	HT Re-Live
+	IFK Göteberg - Sagbab	4 - 1 	HT Re-Live
+Omgång  9
+2007-05-27 10:00 			
+	Sagbab - Hjärnarp GIF	1 - 2 	HT Re-Live
+	Gäddträsket - IFK Göteberg	1 - 2 	HT Re-Live
+	AMTrix - Schenströmska BK	3 - 1 	HT Re-Live
+	BK Tuvan - Huskvarna	3 - 4 	HT Re-Live
+Omgång  10
+2007-06-03 10:00 			
+	IFK Göteberg - AMTrix	2 - 2 	HT Re-Live
+	Schenströmska BK - BK Tuvan	6 - 0 	HT Re-Live
+	Sagbab - Gäddträsket	1 - 2 	HT Re-Live
+	Hjärnarp GIF - Huskvarna	4 - 2 	HT Re-Live
+Omgång  11
+2007-06-10 10:00 			
+	BK Tuvan - IFK Göteberg	0 - 2 	HT Re-Live
+	Huskvarna - Schenströmska BK	1 - 6 	HT Re-Live
+	AMTrix - Sagbab	4 - 0 	HT Re-Live
+	Gäddträsket - Hjärnarp GIF	0 - 2 	HT Re-Live
+Omgång  12
+2007-06-17 10:00 			
+	Gäddträsket - AMTrix	1 - 4 	HT Re-Live
+	IFK Göteberg - Huskvarna	1 - 0 	HT Re-Live
+	Hjärnarp GIF - Schenströmska BK	1 - 3 	HT Re-Live
+	Sagbab - BK Tuvan	3 - 2 	HT Re-Live
+Omgång  13
+2007-06-24 10:00 			
+	Schenströmska BK - IFK Göteberg	5 - 1 	HT Re-Live
+	Huskvarna - Sagbab	4 - 2 	HT Re-Live
+	BK Tuvan - Gäddträsket	3 - 3 	HT Re-Live
+	Hjärnarp GIF - AMTrix	1 - 2 	HT Re-Live
+Omgång  14
+2007-07-01 10:00 			
+	IFK Göteberg - Hjärnarp GIF	2 - 2 	HT Re-Live
+	AMTrix - BK Tuvan	4 - 1 	HT Re-Live
+	Sagbab - Schenströmska BK	3 - 2 	HT Re-Live
+	Gäddträsket - Huskvarna	5 - 1 	HT Re-Live

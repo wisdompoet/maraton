@@ -1,0 +1,84 @@
+Omgång  1
+2005-05-29 10:00 			
+	Åshöjdens BK - Åsehöjden	8 - 1 	HT Re-Live
+	Scoring Xtreme - Murklan FC	2 - 3 	HT Re-Live
+	IFK Mörlanda - Storhagen United	0 - 4 	HT Re-Live
+	Wermdö Trappers - fumpen	1 - 2 	HT Re-Live
+Omgång  2
+2005-06-05 10:00 			
+	Storhagen United - Åshöjdens BK	2 - 1 	HT Re-Live
+	fumpen - Scoring Xtreme	1 - 1 	HT Re-Live
+	Åsehöjden - Wermdö Trappers	3 - 0 	HT Re-Live
+	Murklan FC - IFK Mörlanda	6 - 1 	HT Re-Live
+Omgång  3
+2005-06-12 10:00 			
+	Scoring Xtreme - Åsehöjden	1 - 0 	HT Re-Live
+	IFK Mörlanda - fumpen	2 - 1 	HT Re-Live
+	Storhagen United - Murklan FC	0 - 4 	HT Re-Live
+	Wermdö Trappers - Åshöjdens BK	2 - 3 	HT Re-Live
+Omgång  4
+2005-06-19 10:00 			
+	Åshöjdens BK - Murklan FC	4 - 1 	HT Re-Live
+	fumpen - Storhagen United	1 - 3 	HT Re-Live
+	Åsehöjden - IFK Mörlanda	3 - 0 	HT Re-Live
+	Wermdö Trappers - Scoring Xtreme	3 - 2 	HT Re-Live
+Omgång  5
+2005-06-26 10:00 			
+	Scoring Xtreme - Åshöjdens BK	1 - 3 	HT Re-Live
+	IFK Mörlanda - Wermdö Trappers	1 - 1 	HT Re-Live
+	Storhagen United - Åsehöjden	2 - 2 	HT Re-Live
+	Murklan FC - fumpen	1 - 5 	HT Re-Live
+Omgång  6
+2005-07-03 10:00 			
+	Åshöjdens BK - fumpen	1 - 0 	HT Re-Live
+	Scoring Xtreme - IFK Mörlanda	2 - 1 	HT Re-Live
+	Åsehöjden - Murklan FC	2 - 1 	HT Re-Live
+	Wermdö Trappers - Storhagen United	4 - 0 	HT Re-Live
+Omgång  7
+2005-07-10 10:00 			
+	IFK Mörlanda - Åshöjdens BK	0 - 1 	HT Re-Live
+	Storhagen United - Scoring Xtreme	1 - 1 	HT Re-Live
+	fumpen - Åsehöjden	3 - 1 	HT Re-Live
+	Murklan FC - Wermdö Trappers	2 - 0 	HT Re-Live
+Omgång  8
+2005-07-17 10:00 			
+	Wermdö Trappers - Murklan FC	0 - 3 	HT Re-Live
+	Åsehöjden - fumpen	1 - 2 	HT Re-Live
+	Scoring Xtreme - Storhagen United	2 - 1 	HT Re-Live
+	Åshöjdens BK - IFK Mörlanda	2 - 2 	HT Re-Live
+Omgång  9
+2005-07-24 10:00 			
+	Storhagen United - Wermdö Trappers	1 - 1 	HT Re-Live
+	Murklan FC - Åsehöjden	4 - 3 	HT Re-Live
+	IFK Mörlanda - Scoring Xtreme	3 - 2 	HT Re-Live
+	fumpen - Åshöjdens BK	3 - 0 	HT Re-Live
+Omgång  10
+2005-07-31 10:00 			
+	fumpen - Murklan FC	1 - 3 	HT Re-Live
+	Åsehöjden - Storhagen United	3 - 0 	HT Re-Live
+	Wermdö Trappers - IFK Mörlanda	2 - 3 	HT Re-Live
+	Åshöjdens BK - Scoring Xtreme	4 - 1 	HT Re-Live
+Omgång  11
+2005-08-07 10:00 			
+	Scoring Xtreme - Wermdö Trappers	3 - 3 	HT Re-Live
+	IFK Mörlanda - Åsehöjden	4 - 3 	HT Re-Live
+	Storhagen United - fumpen	0 - 2 	HT Re-Live
+	Murklan FC - Åshöjdens BK	1 - 1 	HT Re-Live
+Omgång  12
+2005-08-14 10:00 			
+	Åshöjdens BK - Wermdö Trappers	6 - 1 	HT Re-Live
+	Murklan FC - Storhagen United	5 - 0 	HT Re-Live
+	fumpen - IFK Mörlanda	3 - 0 	HT Re-Live
+	Åsehöjden - Scoring Xtreme	7 - 1 	HT Re-Live
+Omgång  13
+2005-08-21 10:00 			
+	IFK Mörlanda - Murklan FC	1 - 1 	HT Re-Live
+	Wermdö Trappers - Åsehöjden	1 - 3 	HT Re-Live
+	Scoring Xtreme - fumpen	1 - 1 	HT Re-Live
+	Åshöjdens BK - Storhagen United	2 - 1 	HT Re-Live
+Omgång  14
+2005-08-28 10:00 			
+	fumpen - Wermdö Trappers	4 - 3 	HT Re-Live
+	Storhagen United - IFK Mörlanda	3 - 1 	HT Re-Live
+	Murklan FC - Scoring Xtreme	2 - 0 	HT Re-Live
+	Åsehöjden - Åshöjdens BK	1 - 2 	HT Re-Live

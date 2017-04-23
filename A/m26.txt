@@ -1,0 +1,84 @@
+Omgång  1
+2005-05-29 10:00 			
+	Inter Sthlm - EM Tigers 	3 - 1 	HT Re-Live
+	IFK Livergården - Gäddträsket 	4 - 3 	HT Re-Live
+	Fjukers - BK Marx 	3 - 3 	HT Re-Live
+	Lokomotiv Lund - DrPepper FC 	4 - 3 	HT Re-Live
+Omgång  2
+2005-06-05 10:00 			
+	BK Marx - Inter Sthlm 	1 - 0 	HT Re-Live
+	DrPepper FC - IFK Livergården 	1 - 1 	HT Re-Live
+	EM Tigers - Lokomotiv Lund 	4 - 2 	HT Re-Live
+	Gäddträsket - Fjukers 	4 - 2 	HT Re-Live
+Omgång  3
+2005-06-12 10:00 			
+	IFK Livergården - EM Tigers 	2 - 2 	HT Re-Live
+	Fjukers - DrPepper FC 	3 - 1 	HT Re-Live
+	BK Marx - Gäddträsket 	1 - 2 	HT Re-Live
+	Lokomotiv Lund - Inter Sthlm 	2 - 4 	HT Re-Live
+Omgång  4
+2005-06-19 10:00 			
+	Inter Sthlm - Gäddträsket 	4 - 1 	HT Re-Live
+	DrPepper FC - BK Marx 	0 - 1 	HT Re-Live
+	EM Tigers - Fjukers 	3 - 2 	HT Re-Live
+	Lokomotiv Lund - IFK Livergården 	1 - 4 	HT Re-Live
+Omgång  5
+2005-06-26 10:00 			
+	IFK Livergården - Inter Sthlm 	1 - 2 	HT Re-Live
+	Fjukers - Lokomotiv Lund 	4 - 2 	HT Re-Live
+	BK Marx - EM Tigers 	2 - 2 	HT Re-Live
+	Gäddträsket - DrPepper FC 	6 - 0 	HT Re-Live
+Omgång  6
+2005-07-03 10:00 			
+	Inter Sthlm - DrPepper FC 	4 - 1 	HT Re-Live
+	IFK Livergården - Fjukers 	3 - 0 	HT Re-Live
+	EM Tigers - Gäddträsket 	2 - 3 	HT Re-Live
+	Lokomotiv Lund - BK Marx 	5 - 1 	HT Re-Live
+Omgång  7
+2005-07-10 10:00 			
+	Fjukers - Inter Sthlm 	0 - 5 	HT Re-Live
+	BK Marx - IFK Livergården 	2 - 2 	HT Re-Live
+	DrPepper FC - EM Tigers 	1 - 5 	HT Re-Live
+	Gäddträsket - Lokomotiv Lund 	3 - 3 	HT Re-Live
+Omgång  8
+2005-07-17 10:00 			
+	Lokomotiv Lund - Gäddträsket 	6 - 0 	HT Re-Live
+	EM Tigers - DrPepper FC 	3 - 1 	HT Re-Live
+	IFK Livergården - BK Marx 	4 - 1 	HT Re-Live
+	Inter Sthlm - Fjukers 	4 - 1 	HT Re-Live
+Omgång  9
+2005-07-24 10:00 			
+	BK Marx - Lokomotiv Lund 	2 - 3 	HT Re-Live
+	Gäddträsket - EM Tigers 	0 - 2 	HT Re-Live
+	Fjukers - IFK Livergården 	0 - 6 	HT Re-Live
+	DrPepper FC - Inter Sthlm 	0 - 6 	HT Re-Live
+Omgång  10
+2005-07-31 10:00 			
+	DrPepper FC - Gäddträsket 	4 - 2 	HT Re-Live
+	EM Tigers - BK Marx 	0 - 1 	HT Re-Live
+	Lokomotiv Lund - Fjukers 	7 - 0 	HT Re-Live
+	Inter Sthlm - IFK Livergården 	2 - 3 	HT Re-Live
+Omgång  11
+2005-08-07 10:00 			
+	IFK Livergården - Lokomotiv Lund 	4 - 1 	HT Re-Live
+	Fjukers - EM Tigers 	1 - 1 	HT Re-Live
+	BK Marx - DrPepper FC 	0 - 1 	HT Re-Live
+	Gäddträsket - Inter Sthlm 	1 - 2 	HT Re-Live
+Omgång  12
+2005-08-14 10:00 			
+	Inter Sthlm - Lokomotiv Lund 	6 - 1 	HT Re-Live
+	Gäddträsket - BK Marx 	5 - 2 	HT Re-Live
+	DrPepper FC - Fjukers 	2 - 1 	HT Re-Live
+	EM Tigers - IFK Livergården 	0 - 4 	HT Re-Live
+Omgång  13
+2005-08-21 10:00 			
+	Fjukers - Gäddträsket 	2 - 4 	HT Re-Live
+	Lokomotiv Lund - EM Tigers 	0 - 4 	HT Re-Live
+	IFK Livergården - DrPepper FC 	5 - 0 	HT Re-Live
+	Inter Sthlm - BK Marx 	5 - 0 	HT Re-Live
+Omgång  14
+2005-08-28 10:00 			
+	DrPepper FC - Lokomotiv Lund 	2 - 1 	HT Re-Live
+	BK Marx - Fjukers 	1 - 4 	HT Re-Live
+	Gäddträsket - IFK Livergården 	1 - 6 	HT Re-Live
+	EM Tigers - Inter Sthlm 	2 - 5 	HT Re-Live

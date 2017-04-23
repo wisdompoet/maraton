@@ -1,0 +1,84 @@
+Omgång  1
+2009-02-01 10:00 			
+	Jefferson Bicycle United Football Cub - Bäverhult BK	0 - 5 	HT Re-Live
+	Sundsvall Meanmachines - FC Kabel 80	5 - 2 	HT Re-Live
+	Ekens FF - Vasa/City FC	1 - 1 	HT Re-Live
+	FC Corvus Corax - LA Hookers	2 - 2 	HT Re-Live
+Omgång  2
+2009-02-08 10:00 			
+	LA Hookers - Jefferson Bicycle United Football Cub	5 - 0 	HT Re-Live
+	Vasa/City FC - Sundsvall Meanmachines	2 - 3 	HT Re-Live
+	FC Kabel 80 - FC Corvus Corax	7 - 2 	HT Re-Live
+	Bäverhult BK - Ekens FF	5 - 0 	HT Re-Live
+Omgång  3
+2009-02-15 10:00 			
+	Sundsvall Meanmachines - Bäverhult BK	4 - 1 	HT Re-Live
+	LA Hookers - FC Kabel 80	3 - 1 	HT Re-Live
+	Ekens FF - Jefferson Bicycle United Football Cub	5 - 0 	HT Re-Live
+	FC Corvus Corax - Vasa/City FC	2 - 0 	HT Re-Live
+Omgång  4
+2009-02-22 10:00 			
+	Jefferson Bicycle United Football Cub - FC Kabel 80	0 - 5 	HT Re-Live
+	Vasa/City FC - LA Hookers	3 - 2 	HT Re-Live
+	Ekens FF - Sundsvall Meanmachines	3 - 0 	HT Re-Live
+	Bäverhult BK - FC Corvus Corax	2 - 2 	HT Re-Live
+Omgång  5
+2009-03-01 10:00 			
+	Sundsvall Meanmachines - Jefferson Bicycle United Football Cub	5 - 0 	HT Re-Live
+	FC Corvus Corax - Ekens FF	5 - 1 	HT Re-Live
+	FC Kabel 80 - Vasa/City FC	2 - 4 	HT Re-Live
+	LA Hookers - Bäverhult BK	1 - 4 	HT Re-Live
+Omgång  6
+2009-03-08 10:00 			
+	Sundsvall Meanmachines - FC Corvus Corax	2 - 2 	HT Re-Live
+	Bäverhult BK - FC Kabel 80	2 - 2 	HT Re-Live
+	Ekens FF - LA Hookers	2 - 1 	HT Re-Live
+	Jefferson Bicycle United Football Cub - Vasa/City FC	0 - 5 	HT Re-Live
+Omgång  7
+2009-03-15 10:00 			
+	FC Corvus Corax - Jefferson Bicycle United Football Cub	5 - 0 	HT Re-Live
+	LA Hookers - Sundsvall Meanmachines	2 - 2 	HT Re-Live
+	Vasa/City FC - Bäverhult BK	2 - 1 	HT Re-Live
+	FC Kabel 80 - Ekens FF	4 - 2 	HT Re-Live
+Omgång  8
+2009-03-22 10:00 			
+	Ekens FF - FC Kabel 80	3 - 1 	HT Re-Live
+	Bäverhult BK - Vasa/City FC	2 - 3 	HT Re-Live
+	Sundsvall Meanmachines - LA Hookers	3 - 0 	HT Re-Live
+	Jefferson Bicycle United Football Cub - FC Corvus Corax	0 - 5 	HT Re-Live
+Omgång  9
+2009-03-29 10:00 			
+	FC Kabel 80 - Bäverhult BK	2 - 1 	HT Re-Live
+	Vasa/City FC - Jefferson Bicycle United Football Cub	5 - 0 	HT Re-Live
+	FC Corvus Corax - Sundsvall Meanmachines	0 - 2 	HT Re-Live
+	LA Hookers - Ekens FF	0 - 2 	HT Re-Live
+Omgång  10
+2009-04-05 10:00 			
+	Bäverhult BK - LA Hookers	2 - 1 	HT Re-Live
+	Ekens FF - FC Corvus Corax	2 - 0 	HT Re-Live
+	Jefferson Bicycle United Football Cub - Sundsvall Meanmachines	0 - 5 	HT Re-Live
+	Vasa/City FC - FC Kabel 80	2 - 1 	HT Re-Live
+Omgång  11
+2009-04-12 10:00 			
+	Sundsvall Meanmachines - Ekens FF	3 - 4 	HT Re-Live
+	FC Corvus Corax - Bäverhult BK	1 - 2 	HT Re-Live
+	LA Hookers - Vasa/City FC	1 - 3 	HT Re-Live
+	FC Kabel 80 - Jefferson Bicycle United Football Cub	5 - 0 	HT Re-Live
+Omgång  12
+2009-04-19 10:00 			
+	Vasa/City FC - FC Corvus Corax	2 - 2 	HT Re-Live
+	Jefferson Bicycle United Football Cub - Ekens FF	0 - 5 	HT Re-Live
+	FC Kabel 80 - LA Hookers	3 - 1 	HT Re-Live
+	Bäverhult BK - Sundsvall Meanmachines	2 - 2 	HT Re-Live
+Omgång  13
+2009-04-26 10:00 			
+	Ekens FF - Bäverhult BK	3 - 1 	HT Re-Live
+	FC Corvus Corax - FC Kabel 80	3 - 1 	HT Re-Live
+	Sundsvall Meanmachines - Vasa/City FC	4 - 0 	HT Re-Live
+	Jefferson Bicycle United Football Cub - LA Hookers	0 - 5 	HT Re-Live
+Omgång  14
+2009-05-03 10:00 			
+	LA Hookers - FC Corvus Corax	2 - 2 	HT Re-Live
+	FC Kabel 80 - Sundsvall Meanmachines	2 - 4 	HT Re-Live
+	Bäverhult BK - Jefferson Bicycle United Football Cub	5 - 0 	HT Re-Live
+	Vasa/City FC - Ekens FF	0 - 4 	HT Re-Live

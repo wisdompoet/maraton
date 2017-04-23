@@ -1,0 +1,84 @@
+Omgång  1
+2008-03-02 10:00 			
+	Ditry deeds - FC Kabel 80	3 - 3 	HT Re-Live
+	Seb IF - Sundsvall Meanmachines	0 - 1 	HT Re-Live
+	LA Hookers - Ambient Underground	2 - 1 	HT Re-Live
+	BK Spoven - Bäverhult BK	5 - 0 	HT Re-Live
+Omgång  2
+2008-03-09 10:00 			
+	Sundsvall Meanmachines - LA Hookers	2 - 3 	HT Re-Live
+	FC Kabel 80 - BK Spoven	2 - 0 	HT Re-Live
+	Ambient Underground - Ditry deeds	2 - 2 	HT Re-Live
+	Bäverhult BK - Seb IF	4 - 2 	HT Re-Live
+Omgång  3
+2008-03-16 10:00 			
+	Seb IF - FC Kabel 80	3 - 2 	HT Re-Live
+	Sundsvall Meanmachines - Bäverhult BK	2 - 2 	HT Re-Live
+	Ditry deeds - LA Hookers	6 - 1 	HT Re-Live
+	BK Spoven - Ambient Underground	0 - 1 	HT Re-Live
+Omgång  4
+2008-03-23 10:00 			
+	LA Hookers - Bäverhult BK	6 - 0 	HT Re-Live
+	FC Kabel 80 - Sundsvall Meanmachines	4 - 1 	HT Re-Live
+	Ditry deeds - BK Spoven	9 - 0 	HT Re-Live
+	Ambient Underground - Seb IF	4 - 0 	HT Re-Live
+Omgång  5
+2008-03-30 10:00 			
+	BK Spoven - LA Hookers	1 - 8 	HT Re-Live
+	Seb IF - Ditry deeds	6 - 1 	HT Re-Live
+	Bäverhult BK - FC Kabel 80	4 - 1 	HT Re-Live
+	Sundsvall Meanmachines - Ambient Underground	2 - 2 	HT Re-Live
+Omgång  6
+2008-04-06 10:00 			
+	LA Hookers - FC Kabel 80	3 - 2 	HT Re-Live
+	Ditry deeds - Sundsvall Meanmachines	4 - 2 	HT Re-Live
+	Ambient Underground - Bäverhult BK	3 - 0 	HT Re-Live
+	BK Spoven - Seb IF	2 - 6 	HT Re-Live
+Omgång  7
+2008-04-13 10:00 			
+	Seb IF - LA Hookers	4 - 1 	HT Re-Live
+	Sundsvall Meanmachines - BK Spoven	9 - 0 	HT Re-Live
+	FC Kabel 80 - Ambient Underground	3 - 0 	HT Re-Live
+	Bäverhult BK - Ditry deeds	6 - 3 	HT Re-Live
+Omgång  8
+2008-04-20 10:00 			
+	Ditry deeds - Bäverhult BK	3 - 4 	HT Re-Live
+	BK Spoven - Sundsvall Meanmachines	0 - 10 	HT Re-Live
+	Ambient Underground - FC Kabel 80	1 - 2 	HT Re-Live
+	LA Hookers - Seb IF	4 - 1 	HT Re-Live
+Omgång  9
+2008-04-27 10:00 			
+	Sundsvall Meanmachines - Ditry deeds	8 - 1 	HT Re-Live
+	Bäverhult BK - Ambient Underground	2 - 2 	HT Re-Live
+	Seb IF - BK Spoven	3 - 1 	HT Re-Live
+	FC Kabel 80 - LA Hookers	4 - 1 	HT Re-Live
+Omgång  10
+2008-05-04 10:00 			
+	FC Kabel 80 - Bäverhult BK	4 - 4 	HT Re-Live
+	Ambient Underground - Sundsvall Meanmachines	3 - 0 	HT Re-Live
+	Ditry deeds - Seb IF	10 - 0 	HT Re-Live
+	LA Hookers - BK Spoven	11 - 0 	HT Re-Live
+Omgång  11
+2008-05-11 10:00 			
+	Seb IF - Ambient Underground	0 - 8 	HT Re-Live
+	Sundsvall Meanmachines - FC Kabel 80	3 - 1 	HT Re-Live
+	Bäverhult BK - LA Hookers	2 - 0 	HT Re-Live
+	BK Spoven - Ditry deeds	1 - 10 	HT Re-Live
+Omgång  12
+2008-05-18 10:00 			
+	FC Kabel 80 - Seb IF	7 - 0 	HT Re-Live
+	Ambient Underground - BK Spoven	11 - 0 	HT Re-Live
+	LA Hookers - Ditry deeds	7 - 1 	HT Re-Live
+	Bäverhult BK - Sundsvall Meanmachines	4 - 0 	HT Re-Live
+Omgång  13
+2008-05-25 10:00 			
+	LA Hookers - Sundsvall Meanmachines	1 - 0 	HT Re-Live
+	BK Spoven - FC Kabel 80	0 - 7 	HT Re-Live
+	Seb IF - Bäverhult BK	0 - 5 	HT Re-Live
+	Ditry deeds - Ambient Underground	0 - 10 	HT Re-Live
+Omgång  14
+2008-06-01 10:00 			
+	Ambient Underground - LA Hookers	4 - 0 	HT Re-Live
+	Bäverhult BK - BK Spoven	8 - 0 	HT Re-Live
+	Sundsvall Meanmachines - Seb IF	2 - 0 	HT Re-Live
+	FC Kabel 80 - Ditry deeds	10 - 0 	HT Re-Live

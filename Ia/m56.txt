@@ -1,0 +1,84 @@
+Omgång  1
+2014-08-10 10:00 			
+	Dicanio - BK Torpet	4 - 2 	HT Re-Live
+	Bondglamsen FK - Max FF	8 - 2 	HT Re-Live
+	Lilltroll FC - Arvika IF	1 - 4 	HT Re-Live
+	Helags FF - FK Joker	2 - 0 	HT Re-Live
+Omgång  2
+2014-08-17 10:00 			
+	Arvika IF - Dicanio	0 - 2 	HT Re-Live
+	BK Torpet - Helags FF	3 - 3 	HT Re-Live
+	FK Joker - Bondglamsen FK	4 - 5 	HT Re-Live
+	Max FF - Lilltroll FC	6 - 0 	HT Re-Live
+Omgång  3
+2014-08-24 10:00 			
+	Dicanio - FK Joker	3 - 0 	HT Re-Live
+	Lilltroll FC - Bondglamsen FK	0 - 5 	HT Re-Live
+	Arvika IF - BK Torpet	3 - 2 	HT Re-Live
+	Helags FF - Max FF	5 - 0 	HT Re-Live
+Omgång  4
+2014-08-31 10:00 			
+	Max FF - Dicanio	1 - 3 	HT Re-Live
+	BK Torpet - Lilltroll FC	5 - 0 	HT Re-Live
+	Bondglamsen FK - Helags FF	3 - 0 	HT Re-Live
+	FK Joker - Arvika IF	4 - 0 	HT Re-Live
+Omgång  5
+2014-09-07 10:00 			
+	Dicanio - Helags FF	2 - 2 	HT Re-Live
+	Arvika IF - Bondglamsen FK	5 - 4 	HT Re-Live
+	Lilltroll FC - FK Joker	1 - 6 	HT Re-Live
+	BK Torpet - Max FF	4 - 1 	HT Re-Live
+Omgång  6
+2014-09-14 10:00 			
+	Bondglamsen FK - Dicanio	2 - 2 	HT Re-Live
+	FK Joker - BK Torpet	2 - 0 	HT Re-Live
+	Max FF - Arvika IF	2 - 1 	HT Re-Live
+	Helags FF - Lilltroll FC	4 - 0 	HT Re-Live
+Omgång  7
+2014-09-21 10:00 			
+	Dicanio - Lilltroll FC	5 - 0 	HT Re-Live
+	BK Torpet - Bondglamsen FK	4 - 2 	HT Re-Live
+	Arvika IF - Helags FF	2 - 2 	HT Re-Live
+	Max FF - FK Joker	1 - 2 	HT Re-Live
+Omgång  8
+2014-09-28 10:00 			
+	Bondglamsen FK - BK Torpet	3 - 1 	HT Re-Live
+	Lilltroll FC - Dicanio	0 - 9 	HT Re-Live
+	Helags FF - Arvika IF	3 - 0 	HT Re-Live
+	FK Joker - Max FF	1 - 2 	HT Re-Live
+Omgång  9
+2014-10-05 10:00 			
+	BK Torpet - FK Joker	4 - 1 	HT Re-Live
+	Arvika IF - Max FF	2 - 2 	HT Re-Live
+	Lilltroll FC - Helags FF	1 - 7 	HT Re-Live
+	Dicanio - Bondglamsen FK	4 - 2 	HT Re-Live
+Omgång  10
+2014-10-12 10:00 			
+	FK Joker - Lilltroll FC	3 - 0 	HT Re-Live
+	Max FF - BK Torpet	1 - 3 	HT Re-Live
+	Bondglamsen FK - Arvika IF	4 - 2 	HT Re-Live
+	Helags FF - Dicanio	6 - 1 	HT Re-Live
+Omgång  11
+2014-10-19 10:00 			
+	Arvika IF - FK Joker	5 - 1 	HT Re-Live
+	Lilltroll FC - BK Torpet	0 - 7 	HT Re-Live
+	Helags FF - Bondglamsen FK	0 - 0 	HT Re-Live
+	Dicanio - Max FF	2 - 1 	HT Re-Live
+Omgång  12
+2014-10-26 10:00 			
+	Max FF - Helags FF	4 - 1 	HT Re-Live
+	BK Torpet - Arvika IF	3 - 4 	HT Re-Live
+	FK Joker - Dicanio	0 - 3 	HT Re-Live
+	Bondglamsen FK - Lilltroll FC	8 - 1 	HT Re-Live
+Omgång  13
+2014-11-02 10:00 			
+	Lilltroll FC - Max FF	0 - 7 	HT Re-Live
+	Bondglamsen FK - FK Joker	3 - 1 	HT Re-Live
+	Helags FF - BK Torpet	3 - 2 	HT Re-Live
+	Dicanio - Arvika IF	4 - 2 	HT Re-Live
+Omgång  14
+2014-11-09 10:00 			
+	FK Joker - Helags FF	1 - 1 	HT Re-Live
+	Arvika IF - Lilltroll FC	8 - 1 	HT Re-Live
+	BK Torpet - Dicanio	6 - 1 	HT Re-Live
+	Max FF - Bondglamsen FK	3 - 2 	HT Re-Live

@@ -1,0 +1,84 @@
+Omgång  1
+2002-12-15 10:00 			
+	Starwars - Salomon Islands	1 - 4 	HT Re-Live
+	Talangen Stars - Hallåellers	3 - 4 	HT Re-Live
+	Åshöjdens BK - Headless Chickens FC	5 - 1 	HT Re-Live
+	Quatro Staggione AC - Kicking Stars	2 - 1 	HT Re-Live
+Omgång  2
+2002-12-22 10:00 			
+	Headless Chickens FC - Starwars	0 - 5 	HT Re-Live
+	Kicking Stars - Talangen Stars	3 - 2 	HT Re-Live
+	Salomon Islands - Quatro Staggione AC	3 - 0 	HT Re-Live
+	Hallåellers - Åshöjdens BK	3 - 3 	HT Re-Live
+Omgång  3
+2002-12-29 10:00 			
+	Talangen Stars - Salomon Islands	2 - 3 	HT Re-Live
+	Åshöjdens BK - Kicking Stars	2 - 2 	HT Re-Live
+	Headless Chickens FC - Hallåellers	1 - 2 	HT Re-Live
+	Quatro Staggione AC - Starwars	1 - 1 	HT Re-Live
+Omgång  4
+2003-01-05 10:00 			
+	Starwars - Hallåellers	2 - 0 	HT Re-Live
+	Kicking Stars - Headless Chickens FC	0 - 3 	HT Re-Live
+	Salomon Islands - Åshöjdens BK	1 - 1 	HT Re-Live
+	Quatro Staggione AC - Talangen Stars	1 - 1 	HT Re-Live
+Omgång  5
+2003-01-12 10:00 			
+	Talangen Stars - Starwars	4 - 1 	HT Re-Live
+	Åshöjdens BK - Quatro Staggione AC	4 - 1 	HT Re-Live
+	Headless Chickens FC - Salomon Islands	5 - 2 	HT Re-Live
+	Hallåellers - Kicking Stars	2 - 1 	HT Re-Live
+Omgång  6
+2003-01-19 10:00 			
+	Starwars - Kicking Stars	4 - 0 	HT Re-Live
+	Talangen Stars - Åshöjdens BK	2 - 4 	HT Re-Live
+	Salomon Islands - Hallåellers	2 - 2 	HT Re-Live
+	Quatro Staggione AC - Headless Chickens FC	4 - 0 	HT Re-Live
+Omgång  7
+2003-01-26 10:00 			
+	Åshöjdens BK - Starwars	0 - 0 	HT Re-Live
+	Headless Chickens FC - Talangen Stars	4 - 3 	HT Re-Live
+	Kicking Stars - Salomon Islands	3 - 0 	HT Re-Live
+	Hallåellers - Quatro Staggione AC	3 - 1 	HT Re-Live
+Omgång  8
+2003-02-02 10:00 			
+	Quatro Staggione AC - Hallåellers	2 - 0 	HT Re-Live
+	Salomon Islands - Kicking Stars	3 - 2 	HT Re-Live
+	Talangen Stars - Headless Chickens FC	5 - 0 	HT Re-Live
+	Starwars - Åshöjdens BK	0 - 1 	HT Re-Live
+Omgång  9
+2003-02-09 10:00 			
+	Headless Chickens FC - Quatro Staggione AC	5 - 0 	HT Re-Live
+	Hallåellers - Salomon Islands	0 - 3 	HT Re-Live
+	Åshöjdens BK - Talangen Stars	2 - 0 	HT Re-Live
+	Kicking Stars - Starwars	2 - 1 	HT Re-Live
+Omgång  10
+2003-02-16 10:00 			
+	Kicking Stars - Hallåellers	0 - 1 	HT Re-Live
+	Salomon Islands - Headless Chickens FC	5 - 1 	HT Re-Live
+	Quatro Staggione AC - Åshöjdens BK	3 - 1 	HT Re-Live
+	Starwars - Talangen Stars	1 - 1 	HT Re-Live
+Omgång  11
+2003-02-23 10:00 			
+	Talangen Stars - Quatro Staggione AC	2 - 0 	HT Re-Live
+	Åshöjdens BK - Salomon Islands	2 - 2 	HT Re-Live
+	Headless Chickens FC - Kicking Stars	5 - 3 	HT Re-Live
+	Hallåellers - Starwars	3 - 2 	HT Re-Live
+Omgång  12
+2003-03-02 10:00 			
+	Starwars - Quatro Staggione AC	3 - 1 	HT Re-Live
+	Hallåellers - Headless Chickens FC	2 - 2 	HT Re-Live
+	Kicking Stars - Åshöjdens BK	3 - 1 	HT Re-Live
+	Salomon Islands - Talangen Stars	5 - 1 	HT Re-Live
+Omgång  13
+2003-03-09 10:00 			
+	Åshöjdens BK - Hallåellers	3 - 0 	HT Re-Live
+	Quatro Staggione AC - Salomon Islands	1 - 1 	HT Re-Live
+	Talangen Stars - Kicking Stars	2 - 2 	HT Re-Live
+	Starwars - Headless Chickens FC	7 - 0 	HT Re-Live
+Omgång  14
+2003-03-16 10:00 			
+	Kicking Stars - Quatro Staggione AC	2 - 1 	HT Re-Live
+	Headless Chickens FC - Åshöjdens BK	1 - 1 	HT Re-Live
+	Hallåellers - Talangen Stars	2 - 2 	HT Re-Live
+	Salomon Islands - Starwars	4 - 1 	HT Re-Live

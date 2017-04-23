@@ -1,0 +1,84 @@
+Omgång  1
+2002-08-25 10:00 			
+	Sunne IK - Dynamo Patricia	6 - 1 	HT Re-Live
+	Stream Team - Bäcken IF	1 - 0 	HT Re-Live
+	Rubicon - BK Marx	2 - 1 	HT Re-Live
+	FC Morp - Lazy Boyz	1 - 0 	HT Re-Live
+Omgång  2
+2002-09-01 10:00 			
+	BK Marx - Sunne IK	2 - 6 	HT Re-Live
+	Lazy Boyz - Stream Team	2 - 1 	HT Re-Live
+	Dynamo Patricia - FC Morp	2 - 1 	HT Re-Live
+	Bäcken IF - Rubicon	1 - 1 	HT Re-Live
+Omgång  3
+2002-09-08 10:00 			
+	Stream Team - Dynamo Patricia	2 - 4 	HT Re-Live
+	Rubicon - Lazy Boyz	1 - 0 	HT Re-Live
+	BK Marx - Bäcken IF	6 - 1 	HT Re-Live
+	FC Morp - Sunne IK	2 - 0 	HT Re-Live
+Omgång  4
+2002-09-15 10:00 			
+	Sunne IK - Bäcken IF	3 - 0 	HT Re-Live
+	Lazy Boyz - BK Marx	2 - 2 	HT Re-Live
+	Dynamo Patricia - Rubicon	5 - 1 	HT Re-Live
+	FC Morp - Stream Team	2 - 0 	HT Re-Live
+Omgång  5
+2002-09-22 10:00 			
+	Stream Team - Sunne IK	3 - 4 	HT Re-Live
+	Rubicon - FC Morp	1 - 1 	HT Re-Live
+	BK Marx - Dynamo Patricia	5 - 1 	HT Re-Live
+	Bäcken IF - Lazy Boyz	0 - 2 	HT Re-Live
+Omgång  6
+2002-09-29 10:00 			
+	Sunne IK - Lazy Boyz	3 - 0 	HT Re-Live
+	Stream Team - Rubicon	3 - 1 	HT Re-Live
+	Dynamo Patricia - Bäcken IF	2 - 1 	HT Re-Live
+	FC Morp - BK Marx	3 - 1 	HT Re-Live
+Omgång  7
+2002-10-06 10:00 			
+	Rubicon - Sunne IK	0 - 7 	HT Re-Live
+	BK Marx - Stream Team	5 - 2 	HT Re-Live
+	Lazy Boyz - Dynamo Patricia	3 - 3 	HT Re-Live
+	Bäcken IF - FC Morp	0 - 1 	HT Re-Live
+Omgång  8
+2002-10-13 10:00 			
+	FC Morp - Bäcken IF	2 - 0 	HT Re-Live
+	Dynamo Patricia - Lazy Boyz	2 - 0 	HT Re-Live
+	Stream Team - BK Marx	2 - 5 	HT Re-Live
+	Sunne IK - Rubicon	3 - 0 	HT Re-Live
+Omgång  9
+2002-10-20 10:00 			
+	BK Marx - FC Morp	3 - 4 	HT Re-Live
+	Bäcken IF - Dynamo Patricia	1 - 3 	HT Re-Live
+	Rubicon - Stream Team	3 - 0 	HT Re-Live
+	Lazy Boyz - Sunne IK	0 - 3 	HT Re-Live
+Omgång  10
+2002-10-27 10:00 			
+	Lazy Boyz - Bäcken IF	2 - 0 	HT Re-Live
+	Dynamo Patricia - BK Marx	7 - 0 	HT Re-Live
+	FC Morp - Rubicon	0 - 0 	HT Re-Live
+	Sunne IK - Stream Team	6 - 1 	HT Re-Live
+Omgång  11
+2002-11-03 10:00 			
+	Stream Team - FC Morp	2 - 3 	HT Re-Live
+	Rubicon - Dynamo Patricia	1 - 0 	HT Re-Live
+	BK Marx - Lazy Boyz	2 - 2 	HT Re-Live
+	Bäcken IF - Sunne IK	1 - 3 	HT Re-Live
+Omgång  12
+2002-11-10 10:00 			
+	Sunne IK - FC Morp	2 - 0 	HT Re-Live
+	Bäcken IF - BK Marx	2 - 3 	HT Re-Live
+	Lazy Boyz - Rubicon	0 - 2 	HT Re-Live
+	Dynamo Patricia - Stream Team	2 - 1 	HT Re-Live
+Omgång  13
+2002-11-17 10:00 			
+	Rubicon - Bäcken IF	1 - 1 	HT Re-Live
+	FC Morp - Dynamo Patricia	5 - 1 	HT Re-Live
+	Stream Team - Lazy Boyz	5 - 1 	HT Re-Live
+	Sunne IK - BK Marx	3 - 1 	HT Re-Live
+Omgång  14
+2002-11-24 10:00 			
+	Lazy Boyz - FC Morp	0 - 0 	HT Re-Live
+	BK Marx - Rubicon	3 - 2 	HT Re-Live
+	Bäcken IF - Stream Team	0 - 5 	HT Re-Live
+	Dynamo Patricia - Sunne IK	0 - 3 	HT Re-Live

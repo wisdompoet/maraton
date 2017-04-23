@@ -1,0 +1,84 @@
+Omgång  1
+2007-11-11 10:00 			
+	Black Rhinos United - Los Pebbos	3 - 2 	HT Re-Live
+	Torpa Warriors - Järnkaminernas FK	2 - 2 	HT Re-Live
+	Schenströmska BK - Coffin Nibblers	3 - 2 	HT Re-Live
+	FC Montesvano - Rubblarp Redemption	4 - 1 	HT Re-Live
+Omgång  2
+2007-11-18 10:00 			
+	Los Pebbos - Schenströmska BK	2 - 1 	HT Re-Live
+	Järnkaminernas FK - Black Rhinos United	1 - 3 	HT Re-Live
+	Coffin Nibblers - FC Montesvano	1 - 4 	HT Re-Live
+	Rubblarp Redemption - Torpa Warriors	3 - 2 	HT Re-Live
+Omgång  3
+2007-11-25 10:00 			
+	Black Rhinos United - Rubblarp Redemption	2 - 2 	HT Re-Live
+	Los Pebbos - Järnkaminernas FK	4 - 2 	HT Re-Live
+	Torpa Warriors - Coffin Nibblers	3 - 2 	HT Re-Live
+	FC Montesvano - Schenströmska BK	0 - 2 	HT Re-Live
+Omgång  4
+2007-12-02 10:00 			
+	Coffin Nibblers - Black Rhinos United	3 - 0 	HT Re-Live
+	Schenströmska BK - Järnkaminernas FK	5 - 0 	HT Re-Live
+	FC Montesvano - Torpa Warriors	2 - 2 	HT Re-Live
+	Rubblarp Redemption - Los Pebbos	1 - 6 	HT Re-Live
+Omgång  5
+2007-12-09 10:00 			
+	Torpa Warriors - Schenströmska BK	3 - 3 	HT Re-Live
+	Black Rhinos United - FC Montesvano	4 - 4 	HT Re-Live
+	Los Pebbos - Coffin Nibblers	2 - 3 	HT Re-Live
+	Järnkaminernas FK - Rubblarp Redemption	1 - 5 	HT Re-Live
+Omgång  6
+2007-12-16 10:00 			
+	Schenströmska BK - Rubblarp Redemption	5 - 2 	HT Re-Live
+	Torpa Warriors - Black Rhinos United	2 - 3 	HT Re-Live
+	Coffin Nibblers - Järnkaminernas FK	1 - 0 	HT Re-Live
+	FC Montesvano - Los Pebbos	3 - 2 	HT Re-Live
+Omgång  7
+2007-12-23 10:00 			
+	Los Pebbos - Torpa Warriors	4 - 0 	HT Re-Live
+	Black Rhinos United - Schenströmska BK	1 - 4 	HT Re-Live
+	Järnkaminernas FK - FC Montesvano	1 - 3 	HT Re-Live
+	Rubblarp Redemption - Coffin Nibblers	5 - 1 	HT Re-Live
+Omgång  8
+2007-12-30 10:00 			
+	FC Montesvano - Järnkaminernas FK	2 - 2 	HT Re-Live
+	Coffin Nibblers - Rubblarp Redemption	4 - 4 	HT Re-Live
+	Torpa Warriors - Los Pebbos	1 - 1 	HT Re-Live
+	Schenströmska BK - Black Rhinos United	2 - 2 	HT Re-Live
+Omgång  9
+2008-01-06 10:00 			
+	Los Pebbos - FC Montesvano	5 - 0 	HT Re-Live
+	Järnkaminernas FK - Coffin Nibblers	1 - 6 	HT Re-Live
+	Black Rhinos United - Torpa Warriors	1 - 0 	HT Re-Live
+	Rubblarp Redemption - Schenströmska BK	4 - 2 	HT Re-Live
+Omgång  10
+2008-01-13 10:00 			
+	Rubblarp Redemption - Järnkaminernas FK	6 - 0 	HT Re-Live
+	Coffin Nibblers - Los Pebbos	5 - 2 	HT Re-Live
+	FC Montesvano - Black Rhinos United	0 - 5 	HT Re-Live
+	Schenströmska BK - Torpa Warriors	1 - 0 	HT Re-Live
+Omgång  11
+2008-01-20 10:00 			
+	Torpa Warriors - FC Montesvano	7 - 0 	HT Re-Live
+	Black Rhinos United - Coffin Nibblers	4 - 0 	HT Re-Live
+	Los Pebbos - Rubblarp Redemption	2 - 4 	HT Re-Live
+	Järnkaminernas FK - Schenströmska BK	0 - 5 	HT Re-Live
+Omgång  12
+2008-01-27 10:00 			
+	Schenströmska BK - FC Montesvano	3 - 1 	HT Re-Live
+	Järnkaminernas FK - Los Pebbos	2 - 5 	HT Re-Live
+	Coffin Nibblers - Torpa Warriors	4 - 1 	HT Re-Live
+	Rubblarp Redemption - Black Rhinos United	3 - 3 	HT Re-Live
+Omgång  13
+2008-02-03 10:00 			
+	Black Rhinos United - Järnkaminernas FK	3 - 0 	HT Re-Live
+	FC Montesvano - Coffin Nibblers	1 - 3 	HT Re-Live
+	Torpa Warriors - Rubblarp Redemption	2 - 4 	HT Re-Live
+	Schenströmska BK - Los Pebbos	5 - 1 	HT Re-Live
+Omgång  14
+2008-02-10 10:00 			
+	Coffin Nibblers - Schenströmska BK	4 - 2 	HT Re-Live
+	Järnkaminernas FK - Torpa Warriors	0 - 1 	HT Re-Live
+	Rubblarp Redemption - FC Montesvano	2 - 0 	HT Re-Live
+	Los Pebbos - Black Rhinos United	0 - 2 	HT Re-Live

@@ -1,0 +1,84 @@
+Omgång  1
+2013-09-08 10:00 			
+	Arvika IF - FC Volrat	10 - 0 	HT Re-Live
+	BK Torpet - Flying Pigs FC	5 - 1 	HT Re-Live
+	IFK Grisfotboll - Ljungby IF	1 - 8 	HT Re-Live
+	Lilltroll FC - The Stocks	3 - 2 	HT Re-Live
+Omgång  2
+2013-09-15 10:00 			
+	Ljungby IF - Lilltroll FC	3 - 0 	HT Re-Live
+	Flying Pigs FC - Arvika IF	1 - 4 	HT Re-Live
+	FC Volrat - IFK Grisfotboll	0 - 5 	HT Re-Live
+	The Stocks - BK Torpet	4 - 0 	HT Re-Live
+Omgång  3
+2013-09-22 10:00 			
+	Arvika IF - BK Torpet	4 - 2 	HT Re-Live
+	Lilltroll FC - Flying Pigs FC	1 - 2 	HT Re-Live
+	IFK Grisfotboll - The Stocks	0 - 6 	HT Re-Live
+	FC Volrat - Ljungby IF	0 - 10 	HT Re-Live
+Omgång  4
+2013-09-29 10:00 			
+	Flying Pigs FC - IFK Grisfotboll	2 - 0 	HT Re-Live
+	Ljungby IF - Arvika IF	3 - 2 	HT Re-Live
+	BK Torpet - Lilltroll FC	3 - 2 	HT Re-Live
+	The Stocks - FC Volrat	8 - 0 	HT Re-Live
+Omgång  5
+2013-10-06 10:00 			
+	IFK Grisfotboll - Lilltroll FC	0 - 4 	HT Re-Live
+	FC Volrat - BK Torpet	0 - 10 	HT Re-Live
+	Ljungby IF - Flying Pigs FC	4 - 1 	HT Re-Live
+	Arvika IF - The Stocks	3 - 3 	HT Re-Live
+Omgång  6
+2013-10-13 10:00 			
+	BK Torpet - IFK Grisfotboll	8 - 0 	HT Re-Live
+	Lilltroll FC - Arvika IF	5 - 4 	HT Re-Live
+	Flying Pigs FC - FC Volrat	7 - 0 	HT Re-Live
+	The Stocks - Ljungby IF	1 - 3 	HT Re-Live
+Omgång  7
+2013-10-20 10:00 			
+	IFK Grisfotboll - Arvika IF	0 - 5 	HT Re-Live
+	Ljungby IF - BK Torpet	3 - 3 	HT Re-Live
+	FC Volrat - Lilltroll FC	0 - 6 	HT Re-Live
+	Flying Pigs FC - The Stocks	1 - 1 	HT Re-Live
+Omgång  8
+2013-10-27 10:00 			
+	The Stocks - Flying Pigs FC	2 - 0 	HT Re-Live
+	Lilltroll FC - FC Volrat	7 - 0 	HT Re-Live
+	BK Torpet - Ljungby IF	1 - 4 	HT Re-Live
+	Arvika IF - IFK Grisfotboll	2 - 0 	HT Re-Live
+Omgång  9
+2013-11-03 10:00 			
+	Ljungby IF - The Stocks	5 - 1 	HT Re-Live
+	FC Volrat - Flying Pigs FC	0 - 11 	HT Re-Live
+	Arvika IF - Lilltroll FC	3 - 3 	HT Re-Live
+	IFK Grisfotboll - BK Torpet	0 - 3 	HT Re-Live
+Omgång  10
+2013-11-10 10:00 			
+	Flying Pigs FC - Ljungby IF	1 - 3 	HT Re-Live
+	BK Torpet - FC Volrat	12 - 0 	HT Re-Live
+	Lilltroll FC - IFK Grisfotboll	6 - 0 	HT Re-Live
+	The Stocks - Arvika IF	3 - 0 	HT Re-Live
+Omgång  11
+2013-11-17 10:00 			
+	FC Volrat - The Stocks	0 - 8 	HT Re-Live
+	IFK Grisfotboll - Flying Pigs FC	1 - 5 	HT Re-Live
+	Lilltroll FC - BK Torpet	4 - 0 	HT Re-Live
+	Arvika IF - Ljungby IF	1 - 2 	HT Re-Live
+Omgång  12
+2013-11-24 10:00 			
+	Flying Pigs FC - Lilltroll FC	1 - 0 	HT Re-Live
+	Ljungby IF - FC Volrat	10 - 0 	HT Re-Live
+	BK Torpet - Arvika IF	1 - 0 	HT Re-Live
+	The Stocks - IFK Grisfotboll	7 - 0 	HT Re-Live
+Omgång  13
+2013-12-01 10:00 			
+	Arvika IF - Flying Pigs FC	1 - 1 	HT Re-Live
+	BK Torpet - The Stocks	1 - 3 	HT Re-Live
+	Lilltroll FC - Ljungby IF	1 - 1 	HT Re-Live
+	IFK Grisfotboll - FC Volrat	3 - 0 	HT Re-Live
+Omgång  14
+2013-12-08 10:00 			
+	Ljungby IF - IFK Grisfotboll	3 - 0 	HT Re-Live
+	FC Volrat - Arvika IF	0 - 3 	HT Re-Live
+	Flying Pigs FC - BK Torpet	0 - 0 	HT Re-Live
+	The Stocks - Lilltroll FC	2 - 4 	HT Re-Live

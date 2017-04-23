@@ -1,0 +1,84 @@
+Omgång  1
+2012-02-26 10:00 			
+	Ditry deeds - NyFF 	1 - 0 	
+	Cirkus Brazil Jack - Babylon Boys 	2 - 2 	
+	Real Karlskrona - BusbyBabes 	5 - 0 	
+	Inter Draggen - Wick IT 	1 - 1 	
+Omgång  2
+2012-03-04 10:00 			
+	Wick IT - Real Karlskrona 	3 - 2 	
+	BusbyBabes - Ditry deeds 	1 - 3 	
+	Babylon Boys - Inter Draggen 	6 - 2 	
+	NyFF - Cirkus Brazil Jack 	2 - 4 	
+Omgång  3
+2012-03-11 10:00 			
+	Real Karlskrona - NyFF 	4 - 1 	
+	Inter Draggen - Cirkus Brazil Jack 	3 - 4 	
+	Wick IT - BusbyBabes 	3 - 2 	
+	Ditry deeds - Babylon Boys 	2 - 2 	
+Omgång  4
+2012-03-18 10:00 			
+	Babylon Boys - Real Karlskrona 	3 - 4 	
+	Cirkus Brazil Jack - Ditry deeds 	2 - 1 	
+	BusbyBabes - Inter Draggen 	2 - 2 	
+	NyFF - Wick IT 	5 - 3 	
+Omgång  5
+2012-03-25 10:00 			
+	Real Karlskrona - Ditry deeds 	2 - 0 	
+	Wick IT - Cirkus Brazil Jack 	3 - 1 	
+	Inter Draggen - NyFF 	2 - 0 	
+	BusbyBabes - Babylon Boys 	5 - 3 	
+Omgång  6
+2012-04-01 10:00 			
+	Cirkus Brazil Jack - Real Karlskrona 	4 - 1 	
+	Ditry deeds - Inter Draggen 	4 - 3 	
+	Babylon Boys - Wick IT 	5 - 2 	
+	NyFF - BusbyBabes 	2 - 3 	
+Omgång  7
+2012-04-08 10:00 			
+	BusbyBabes - Cirkus Brazil Jack 	3 - 5 	
+	Real Karlskrona - Inter Draggen 	1 - 3 	
+	Wick IT - Ditry deeds 	1 - 1 	
+	Babylon Boys - NyFF 	3 - 0 	
+Omgång  8
+2012-04-15 10:00 			
+	NyFF - Babylon Boys 	0 - 4 	
+	Ditry deeds - Wick IT 	1 - 1 	
+	Cirkus Brazil Jack - BusbyBabes 	4 - 3 	
+	Inter Draggen - Real Karlskrona 	4 - 1 	
+Omgång  9
+2012-04-22 10:00 			
+	Wick IT - Babylon Boys 	0 - 4 	
+	Inter Draggen - Ditry deeds 	0 - 1 	
+	Real Karlskrona - Cirkus Brazil Jack 	2 - 1 	
+	BusbyBabes - NyFF 	5 - 4 	
+Omgång  10
+2012-04-29 10:00 			
+	NyFF - Inter Draggen 	0 - 2 	
+	Ditry deeds - Real Karlskrona 	4 - 4 	
+	Babylon Boys - BusbyBabes 	3 - 3 	
+	Cirkus Brazil Jack - Wick IT 	0 - 0 	
+Omgång  11
+2012-05-06 10:00 			
+	Ditry deeds - Cirkus Brazil Jack 	0 - 1 	
+	Inter Draggen - BusbyBabes 	1 - 1 	
+	Real Karlskrona - Babylon Boys 	1 - 0 	
+	Wick IT - NyFF 	4 - 0 	
+Omgång  12
+2012-05-13 10:00 			
+	Babylon Boys - Ditry deeds 	3 - 1 	
+	BusbyBabes - Wick IT 	1 - 3 	
+	Cirkus Brazil Jack - Inter Draggen 	2 - 1 	
+	NyFF - Real Karlskrona 	3 - 3 	
+Omgång  13
+2012-05-20 10:00 			
+	Inter Draggen - Babylon Boys 	6 - 0 	
+	Cirkus Brazil Jack - NyFF 	4 - 0 	
+	Ditry deeds - BusbyBabes 	2 - 3 	
+	Real Karlskrona - Wick IT 	2 - 0 	
+Omgång  14
+2012-05-27 10:00 			
+	Wick IT - Inter Draggen 	0 - 1 	
+	BusbyBabes - Real Karlskrona 	2 - 5 	
+	Babylon Boys - Cirkus Brazil Jack 	3 - 1 	
+	NyFF - Ditry deeds 	1 - 5 	

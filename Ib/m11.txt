@@ -1,0 +1,84 @@
+Omgång  1
+2000-10-22 10:00 			
+	Smackers United - TK-Softies	4 - 1 	HT Re-Live
+	Lappträsk FC - Nosaby IF	1 - 2 	HT Re-Live
+	Matte Ducks - Byleloken FC	2 - 2 	HT Re-Live
+	Dynamo Göteborg - Thrash City	1 - 1 	HT Re-Live
+Omgång  2
+2000-10-29 10:00 			
+	Byleloken FC - Smackers United	5 - 2 	HT Re-Live
+	Thrash City - Lappträsk FC	2 - 2 	HT Re-Live
+	TK-Softies - Dynamo Göteborg	4 - 0 	HT Re-Live
+	Nosaby IF - Matte Ducks	0 - 2 	HT Re-Live
+Omgång  3
+2000-11-05 10:00 			
+	Lappträsk FC - TK-Softies	2 - 0 	HT Re-Live
+	Matte Ducks - Thrash City	2 - 1 	HT Re-Live
+	Byleloken FC - Nosaby IF	0 - 0 	HT Re-Live
+	Dynamo Göteborg - Smackers United	1 - 3 	HT Re-Live
+Omgång  4
+2000-11-12 10:00 			
+	Smackers United - Nosaby IF	3 - 0 	HT Re-Live
+	Thrash City - Byleloken FC	2 - 3 	HT Re-Live
+	TK-Softies - Matte Ducks	1 - 1 	HT Re-Live
+	Dynamo Göteborg - Lappträsk FC	0 - 5 	HT Re-Live
+Omgång  5
+2000-11-19 10:00 			
+	Lappträsk FC - Smackers United	1 - 6 	HT Re-Live
+	Matte Ducks - Dynamo Göteborg	4 - 0 	HT Re-Live
+	Byleloken FC - TK-Softies	3 - 0 	HT Re-Live
+	Nosaby IF - Thrash City	0 - 2 	HT Re-Live
+Omgång  6
+2000-11-26 10:00 			
+	Smackers United - Thrash City	2 - 1 	HT Re-Live
+	Lappträsk FC - Matte Ducks	3 - 3 	HT Re-Live
+	TK-Softies - Nosaby IF	1 - 1 	HT Re-Live
+	Dynamo Göteborg - Byleloken FC	1 - 4 	HT Re-Live
+Omgång  7
+2000-12-03 10:00 			
+	Matte Ducks - Smackers United	1 - 4 	HT Re-Live
+	Byleloken FC - Lappträsk FC	3 - 1 	HT Re-Live
+	Thrash City - TK-Softies	1 - 2 	HT Re-Live
+	Nosaby IF - Dynamo Göteborg	3 - 1 	HT Re-Live
+Omgång  8
+2000-12-10 10:00 			
+	Dynamo Göteborg - Nosaby IF	0 - 6 	HT Re-Live
+	TK-Softies - Thrash City	3 - 2 	HT Re-Live
+	Lappträsk FC - Byleloken FC	3 - 1 	HT Re-Live
+	Smackers United - Matte Ducks	6 - 0 	HT Re-Live
+Omgång  9
+2000-12-17 10:00 			
+	Byleloken FC - Dynamo Göteborg	4 - 1 	HT Re-Live
+	Nosaby IF - TK-Softies	1 - 3 	HT Re-Live
+	Matte Ducks - Lappträsk FC	4 - 1 	HT Re-Live
+	Thrash City - Smackers United	1 - 4 	HT Re-Live
+Omgång  10
+2000-12-24 10:00 			
+	Thrash City - Nosaby IF	2 - 0 	HT Re-Live
+	TK-Softies - Byleloken FC	3 - 0 	HT Re-Live
+	Dynamo Göteborg - Matte Ducks	0 - 4 	HT Re-Live
+	Smackers United - Lappträsk FC	0 - 0 	HT Re-Live
+Omgång  11
+2000-12-31 10:00 			
+	Lappträsk FC - Dynamo Göteborg	2 - 0 	HT Re-Live
+	Matte Ducks - TK-Softies	1 - 2 	HT Re-Live
+	Byleloken FC - Thrash City	2 - 0 	HT Re-Live
+	Nosaby IF - Smackers United	2 - 1 	HT Re-Live
+Omgång  12
+2001-01-07 10:00 			
+	Smackers United - Dynamo Göteborg	3 - 3 	HT Re-Live
+	Nosaby IF - Byleloken FC	0 - 2 	HT Re-Live
+	Thrash City - Matte Ducks	2 - 0 	HT Re-Live
+	TK-Softies - Lappträsk FC	4 - 0 	HT Re-Live
+Omgång  13
+2001-01-14 10:00 			
+	Matte Ducks - Nosaby IF	0 - 0 	HT Re-Live
+	Dynamo Göteborg - TK-Softies	0 - 2 	HT Re-Live
+	Lappträsk FC - Thrash City	1 - 2 	HT Re-Live
+	Smackers United - Byleloken FC	5 - 0 	HT Re-Live
+Omgång  14
+2001-01-21 10:00 			
+	Thrash City - Dynamo Göteborg	1 - 1 	HT Re-Live
+	Byleloken FC - Matte Ducks	3 - 0 	HT Re-Live
+	Nosaby IF - Lappträsk FC	0 - 0 	HT Re-Live
+	TK-Softies - Smackers United	5 - 1 	HT Re-Live

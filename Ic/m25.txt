@@ -1,0 +1,84 @@
+Omgång  1
+2005-02-06 10:00 			
+	DrPepper FC - Belgian Blue	4 - 0 	HT Re-Live
+	Falkenbergs FF - Ass-Kickers	9 - 0 	HT Re-Live
+	Sublime BK - FK Glow	3 - 3 	HT Re-Live
+	AMTrix - Goomers	4 - 3 	HT Re-Live
+Omgång  2
+2005-02-13 10:00 			
+	FK Glow - DrPepper FC	1 - 1 	HT Re-Live
+	Goomers - Falkenbergs FF	3 - 3 	HT Re-Live
+	Belgian Blue - AMTrix	0 - 11 	HT Re-Live
+	Ass-Kickers - Sublime BK	0 - 8 	HT Re-Live
+Omgång  3
+2005-02-20 10:00 			
+	Falkenbergs FF - Belgian Blue	9 - 0 	HT Re-Live
+	Sublime BK - Goomers	2 - 1 	HT Re-Live
+	FK Glow - Ass-Kickers	7 - 0 	HT Re-Live
+	AMTrix - DrPepper FC	1 - 2 	HT Re-Live
+Omgång  4
+2005-02-27 10:00 			
+	DrPepper FC - Ass-Kickers	9 - 0 	HT Re-Live
+	Goomers - FK Glow	2 - 2 	HT Re-Live
+	Belgian Blue - Sublime BK	0 - 3 	HT Re-Live
+	AMTrix - Falkenbergs FF	2 - 2 	HT Re-Live
+Omgång  5
+2005-03-06 10:00 			
+	Falkenbergs FF - DrPepper FC	0 - 2 	HT Re-Live
+	Sublime BK - AMTrix	3 - 1 	HT Re-Live
+	FK Glow - Belgian Blue	10 - 0 	HT Re-Live
+	Ass-Kickers - Goomers	0 - 9 	HT Re-Live
+Omgång  6
+2005-03-13 10:00 			
+	DrPepper FC - Goomers	4 - 1 	HT Re-Live
+	Falkenbergs FF - Sublime BK	2 - 2 	HT Re-Live
+	Belgian Blue - Ass-Kickers	1 - 7 	HT Re-Live
+	AMTrix - FK Glow	2 - 2 	HT Re-Live
+Omgång  7
+2005-03-20 10:00 			
+	Sublime BK - DrPepper FC	3 - 0 	HT Re-Live
+	FK Glow - Falkenbergs FF	1 - 1 	HT Re-Live
+	Goomers - Belgian Blue	7 - 0 	HT Re-Live
+	Ass-Kickers - AMTrix	1 - 6 	HT Re-Live
+Omgång  8
+2005-03-27 10:00 			
+	AMTrix - Ass-Kickers	5 - 3 	HT Re-Live
+	Belgian Blue - Goomers	0 - 11 	HT Re-Live
+	Falkenbergs FF - FK Glow	0 - 2 	HT Re-Live
+	DrPepper FC - Sublime BK	4 - 0 	HT Re-Live
+Omgång  9
+2005-04-03 10:00 			
+	FK Glow - AMTrix	8 - 0 	HT Re-Live
+	Ass-Kickers - Belgian Blue	6 - 0 	HT Re-Live
+	Sublime BK - Falkenbergs FF	1 - 4 	HT Re-Live
+	Goomers - DrPepper FC	1 - 0 	HT Re-Live
+Omgång  10
+2005-04-10 10:00 			
+	Goomers - Ass-Kickers	6 - 0 	HT Re-Live
+	Belgian Blue - FK Glow	1 - 8 	HT Re-Live
+	AMTrix - Sublime BK	0 - 4 	HT Re-Live
+	DrPepper FC - Falkenbergs FF	1 - 0 	HT Re-Live
+Omgång  11
+2005-04-17 10:00 			
+	Falkenbergs FF - AMTrix	7 - 0 	HT Re-Live
+	Sublime BK - Belgian Blue	9 - 0 	HT Re-Live
+	FK Glow - Goomers	4 - 2 	HT Re-Live
+	Ass-Kickers - DrPepper FC	0 - 4 	HT Re-Live
+Omgång  12
+2005-04-24 10:00 			
+	DrPepper FC - AMTrix	4 - 1 	HT Re-Live
+	Ass-Kickers - FK Glow	1 - 6 	HT Re-Live
+	Goomers - Sublime BK	3 - 1 	HT Re-Live
+	Belgian Blue - Falkenbergs FF	1 - 9 	HT Re-Live
+Omgång  13
+2005-05-01 10:00 			
+	Sublime BK - Ass-Kickers	8 - 0 	HT Re-Live
+	AMTrix - Belgian Blue	9 - 0 	HT Re-Live
+	Falkenbergs FF - Goomers	4 - 0 	HT Re-Live
+	DrPepper FC - FK Glow	3 - 2 	HT Re-Live
+Omgång  14
+2005-05-08 10:00 			
+	Goomers - AMTrix	5 - 1 	HT Re-Live
+	FK Glow - Sublime BK	4 - 2 	HT Re-Live
+	Ass-Kickers - Falkenbergs FF	0 - 1 	HT Re-Live
+	Belgian Blue - DrPepper FC	0 - 6 	HT Re-Live

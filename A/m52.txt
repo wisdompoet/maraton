@@ -1,0 +1,84 @@
+Omgång  1
+2013-05-19 10:00 			
+	Ditry deeds - IFK Grisfotboll 	4 - 1 	HT Re-Live
+	Schenströmska BK - Skansholms SK 	4 - 2 	HT Re-Live
+	skelett - Picos Verdes 	3 - 1 	HT Re-Live
+	Massive Attack - Kungsholmen Kickers 	2 - 5 	HT Re-Live
+Omgång  2
+2013-05-26 10:00 			
+	Skansholms SK - Ditry deeds 	3 - 1 	HT Re-Live
+	IFK Grisfotboll - Massive Attack 	0 - 4 	HT Re-Live
+	Picos Verdes - Schenströmska BK 	1 - 2 	HT Re-Live
+	Kungsholmen Kickers - skelett 	3 - 5 	HT Re-Live
+Omgång  3
+2013-06-02 10:00 			
+	Ditry deeds - Kungsholmen Kickers 	3 - 0 	HT Re-Live
+	Schenströmska BK - skelett 	3 - 1 	HT Re-Live
+	Skansholms SK - IFK Grisfotboll 	3 - 1 	HT Re-Live
+	Massive Attack - Picos Verdes 	3 - 5 	HT Re-Live
+Omgång  4
+2013-06-09 10:00 			
+	Picos Verdes - Ditry deeds 	0 - 0 	HT Re-Live
+	IFK Grisfotboll - Schenströmska BK 	1 - 3 	HT Re-Live
+	skelett - Massive Attack 	3 - 1 	HT Re-Live
+	Kungsholmen Kickers - Skansholms SK 	3 - 2 	HT Re-Live
+Omgång  5
+2013-06-16 10:00 			
+	Ditry deeds - Massive Attack 	2 - 1 	HT Re-Live
+	Skansholms SK - skelett 	2 - 2 	HT Re-Live
+	Schenströmska BK - Kungsholmen Kickers 	0 - 3 	HT Re-Live
+	IFK Grisfotboll - Picos Verdes 	3 - 1 	HT Re-Live
+Omgång  6
+2013-06-23 10:00 			
+	skelett - Ditry deeds 	3 - 1 	HT Re-Live
+	Picos Verdes - Skansholms SK 	3 - 3 	HT Re-Live
+	Massive Attack - Schenströmska BK 	4 - 2 	HT Re-Live
+	Kungsholmen Kickers - IFK Grisfotboll 	3 - 1 	HT Re-Live
+Omgång  7
+2013-06-30 10:00 			
+	Ditry deeds - Schenströmska BK 	3 - 1 	HT Re-Live
+	Skansholms SK - Massive Attack 	2 - 2 	HT Re-Live
+	IFK Grisfotboll - skelett 	2 - 1 	HT Re-Live
+	Picos Verdes - Kungsholmen Kickers 	2 - 3 	HT Re-Live
+Omgång  8
+2013-07-07 10:00 			
+	Kungsholmen Kickers - Picos Verdes 	1 - 1 	HT Re-Live
+	Massive Attack - Skansholms SK 	4 - 1 	HT Re-Live
+	skelett - IFK Grisfotboll 	2 - 1 	HT Re-Live
+	Schenströmska BK - Ditry deeds 	4 - 3 	HT Re-Live
+Omgång  9
+2013-07-14 10:00 			
+	IFK Grisfotboll - Kungsholmen Kickers 	0 - 4 	HT Re-Live
+	Schenströmska BK - Massive Attack 	2 - 2 	HT Re-Live
+	Skansholms SK - Picos Verdes 	3 - 0 	HT Re-Live
+	Ditry deeds - skelett 	2 - 1 	HT Re-Live
+Omgång  10
+2013-07-21 10:00 			
+	Picos Verdes - IFK Grisfotboll 	5 - 1 	HT Re-Live
+	Kungsholmen Kickers - Schenströmska BK 	6 - 3 	HT Re-Live
+	skelett - Skansholms SK 	2 - 0 	HT Re-Live
+	Massive Attack - Ditry deeds 	5 - 0 	HT Re-Live
+Omgång  11
+2013-07-28 10:00 			
+	Massive Attack - skelett 	3 - 1 	HT Re-Live
+	Skansholms SK - Kungsholmen Kickers 	4 - 2 	HT Re-Live
+	Schenströmska BK - IFK Grisfotboll 	1 - 1 	HT Re-Live
+	Ditry deeds - Picos Verdes 	3 - 0 	HT Re-Live
+Omgång  12
+2013-08-04 10:00 			
+	Picos Verdes - Massive Attack 	4 - 2 	HT Re-Live
+	IFK Grisfotboll - Skansholms SK 	5 - 3 	HT Re-Live
+	skelett - Schenströmska BK 	3 - 0 	HT Re-Live
+	Kungsholmen Kickers - Ditry deeds 	2 - 6 	HT Re-Live
+Omgång  13
+2013-08-11 10:00 			
+	Schenströmska BK - Picos Verdes 	1 - 6 	HT Re-Live
+	Massive Attack - IFK Grisfotboll 	1 - 4 	HT Re-Live
+	skelett - Kungsholmen Kickers 	0 - 1 	HT Re-Live
+	Ditry deeds - Skansholms SK 	2 - 3 	HT Re-Live
+Omgång  14
+2013-08-18 10:00 			
+	Kungsholmen Kickers - Massive Attack 	6 - 2 	HT Re-Live
+	Picos Verdes - skelett 	2 - 1 	HT Re-Live
+	Skansholms SK - Schenströmska BK 	2 - 3 	HT Re-Live
+	IFK Grisfotboll - Ditry deeds 	2 - 5 	HT Re-Live

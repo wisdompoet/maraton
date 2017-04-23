@@ -1,0 +1,84 @@
+Omgång  1
+2001-02-11 10:00 			
+	Smackers United - TK-Softies	3 - 0 	HT Re-Live
+	Byleloken FC - Matte Ducks	4 - 2 	HT Re-Live
+	Bajsgupparna - Kingdom Raiders	1 - 4 	HT Re-Live
+	Thunder - FC Morp	2 - 1 	HT Re-Live
+Omgång  2
+2001-02-18 10:00 			
+	Kingdom Raiders - Smackers United	2 - 1 	HT Re-Live
+	FC Morp - Byleloken FC	2 - 2 	HT Re-Live
+	TK-Softies - Thunder	2 - 4 	HT Re-Live
+	Matte Ducks - Bajsgupparna	1 - 5 	HT Re-Live
+Omgång  3
+2001-02-25 10:00 			
+	Byleloken FC - TK-Softies	2 - 0 	HT Re-Live
+	Bajsgupparna - FC Morp	3 - 1 	HT Re-Live
+	Kingdom Raiders - Matte Ducks	3 - 0 	HT Re-Live
+	Thunder - Smackers United	1 - 3 	HT Re-Live
+Omgång  4
+2001-03-04 10:00 			
+	Smackers United - Matte Ducks	5 - 1 	HT Re-Live
+	FC Morp - Kingdom Raiders	2 - 3 	HT Re-Live
+	TK-Softies - Bajsgupparna	3 - 1 	HT Re-Live
+	Thunder - Byleloken FC	0 - 1 	HT Re-Live
+Omgång  5
+2001-03-11 10:00 			
+	Byleloken FC - Smackers United	3 - 3 	HT Re-Live
+	Bajsgupparna - Thunder	0 - 3 	HT Re-Live
+	Kingdom Raiders - TK-Softies	3 - 0 	HT Re-Live
+	Matte Ducks - FC Morp	1 - 3 	HT Re-Live
+Omgång  6
+2001-03-18 10:00 			
+	Smackers United - FC Morp	3 - 0 	HT Re-Live
+	Byleloken FC - Bajsgupparna	3 - 0 	HT Re-Live
+	TK-Softies - Matte Ducks	3 - 4 	HT Re-Live
+	Thunder - Kingdom Raiders	1 - 4 	HT Re-Live
+Omgång  7
+2001-03-25 10:00 			
+	Bajsgupparna - Smackers United	0 - 5 	HT Re-Live
+	Kingdom Raiders - Byleloken FC	3 - 0 	HT Re-Live
+	FC Morp - TK-Softies	0 - 1 	HT Re-Live
+	Matte Ducks - Thunder	4 - 0 	HT Re-Live
+Omgång  8
+2001-04-01 10:00 			
+	Thunder - Matte Ducks	3 - 0 	HT Re-Live
+	TK-Softies - FC Morp	4 - 1 	HT Re-Live
+	Byleloken FC - Kingdom Raiders	1 - 5 	HT Re-Live
+	Smackers United - Bajsgupparna	4 - 0 	HT Re-Live
+Omgång  9
+2001-04-08 10:00 			
+	Kingdom Raiders - Thunder	3 - 0 	HT Re-Live
+	Matte Ducks - TK-Softies	2 - 0 	HT Re-Live
+	Bajsgupparna - Byleloken FC	2 - 4 	HT Re-Live
+	FC Morp - Smackers United	0 - 3 	HT Re-Live
+Omgång  10
+2001-04-15 10:00 			
+	FC Morp - Matte Ducks	1 - 4 	HT Re-Live
+	TK-Softies - Kingdom Raiders	1 - 2 	HT Re-Live
+	Thunder - Bajsgupparna	3 - 0 	HT Re-Live
+	Smackers United - Byleloken FC	4 - 1 	HT Re-Live
+Omgång  11
+2001-04-22 10:00 			
+	Byleloken FC - Thunder	2 - 1 	HT Re-Live
+	Bajsgupparna - TK-Softies	5 - 1 	HT Re-Live
+	Kingdom Raiders - FC Morp	6 - 0 	HT Re-Live
+	Matte Ducks - Smackers United	0 - 4 	HT Re-Live
+Omgång  12
+2001-04-29 10:00 			
+	Smackers United - Thunder	2 - 0 	HT Re-Live
+	Matte Ducks - Kingdom Raiders	1 - 5 	HT Re-Live
+	FC Morp - Bajsgupparna	0 - 3 	HT Re-Live
+	TK-Softies - Byleloken FC	2 - 1 	HT Re-Live
+Omgång  13
+2001-05-06 10:00 			
+	Bajsgupparna - Matte Ducks	2 - 2 	HT Re-Live
+	Thunder - TK-Softies	0 - 2 	HT Re-Live
+	Byleloken FC - FC Morp	1 - 2 	HT Re-Live
+	Smackers United - Kingdom Raiders	6 - 2 	HT Re-Live
+Omgång  14
+2001-05-13 10:00 			
+	FC Morp - Thunder	6 - 0 	HT Re-Live
+	Kingdom Raiders - Bajsgupparna	7 - 0 	HT Re-Live
+	Matte Ducks - Byleloken FC	2 - 3 	HT Re-Live
+	TK-Softies - Smackers United	0 - 4 	HT Re-Live

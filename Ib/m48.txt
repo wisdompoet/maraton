@@ -1,0 +1,84 @@
+Omgång  1
+2012-02-26 10:00 			
+	Rommeholen FC - Bakerkings	5 - 0 	HT Re-Live
+	Södermalm City - AYREON FC	3 - 1 	HT Re-Live
+	FC Thad - Maximus FF	4 - 2 	HT Re-Live
+	Sionisterna - Beutlins	1 - 1 	HT Re-Live
+Omgång  2
+2012-03-04 10:00 			
+	AYREON FC - Sionisterna	1 - 0 	HT Re-Live
+	Maximus FF - Rommeholen FC	2 - 4 	HT Re-Live
+	Beutlins - FC Thad	1 - 2 	HT Re-Live
+	Bakerkings - Södermalm City	4 - 2 	HT Re-Live
+Omgång  3
+2012-03-11 10:00 			
+	Rommeholen FC - FC Thad	6 - 0 	HT Re-Live
+	Sionisterna - Maximus FF	1 - 1 	HT Re-Live
+	Bakerkings - AYREON FC	1 - 2 	HT Re-Live
+	Södermalm City - Beutlins	3 - 4 	HT Re-Live
+Omgång  4
+2012-03-18 10:00 			
+	AYREON FC - Rommeholen FC	2 - 4 	HT Re-Live
+	FC Thad - Sionisterna	1 - 0 	HT Re-Live
+	Beutlins - Bakerkings	1 - 0 	HT Re-Live
+	Maximus FF - Södermalm City	4 - 3 	HT Re-Live
+Omgång  5
+2012-03-25 10:00 			
+	Södermalm City - Sionisterna	1 - 2 	HT Re-Live
+	Bakerkings - FC Thad	4 - 1 	HT Re-Live
+	Rommeholen FC - Beutlins	2 - 1 	HT Re-Live
+	AYREON FC - Maximus FF	2 - 1 	HT Re-Live
+Omgång  6
+2012-04-01 10:00 			
+	Sionisterna - Rommeholen FC	1 - 0 	HT Re-Live
+	Maximus FF - Bakerkings	1 - 2 	HT Re-Live
+	FC Thad - Södermalm City	5 - 5 	HT Re-Live
+	Beutlins - AYREON FC	1 - 1 	HT Re-Live
+Omgång  7
+2012-04-08 10:00 			
+	Maximus FF - Beutlins	3 - 0 	HT Re-Live
+	Bakerkings - Sionisterna	2 - 3 	HT Re-Live
+	AYREON FC - FC Thad	3 - 0 	HT Re-Live
+	Södermalm City - Rommeholen FC	3 - 2 	HT Re-Live
+Omgång  8
+2012-04-15 10:00 			
+	Rommeholen FC - Södermalm City	6 - 0 	HT Re-Live
+	Beutlins - Maximus FF	1 - 1 	HT Re-Live
+	Sionisterna - Bakerkings	3 - 1 	HT Re-Live
+	FC Thad - AYREON FC	2 - 0 	HT Re-Live
+Omgång  9
+2012-04-22 10:00 			
+	AYREON FC - Beutlins	1 - 0 	HT Re-Live
+	Rommeholen FC - Sionisterna	4 - 1 	HT Re-Live
+	Södermalm City - FC Thad	1 - 5 	HT Re-Live
+	Bakerkings - Maximus FF	2 - 2 	HT Re-Live
+Omgång  10
+2012-04-29 10:00 			
+	Maximus FF - AYREON FC	4 - 0 	HT Re-Live
+	Beutlins - Rommeholen FC	1 - 2 	HT Re-Live
+	FC Thad - Bakerkings	3 - 0 	HT Re-Live
+	Sionisterna - Södermalm City	5 - 2 	HT Re-Live
+Omgång  11
+2012-05-06 10:00 			
+	Bakerkings - Beutlins	1 - 0 	HT Re-Live
+	Sionisterna - FC Thad	5 - 1 	HT Re-Live
+	Södermalm City - Maximus FF	5 - 4 	HT Re-Live
+	Rommeholen FC - AYREON FC	2 - 0 	HT Re-Live
+Omgång  12
+2012-05-13 10:00 			
+	AYREON FC - Bakerkings	3 - 0 	HT Re-Live
+	Maximus FF - Sionisterna	0 - 1 	HT Re-Live
+	Beutlins - Södermalm City	5 - 1 	HT Re-Live
+	FC Thad - Rommeholen FC	2 - 1 	HT Re-Live
+Omgång  13
+2012-05-20 10:00 			
+	Södermalm City - Bakerkings	2 - 4 	HT Re-Live
+	Rommeholen FC - Maximus FF	2 - 1 	HT Re-Live
+	Sionisterna - AYREON FC	2 - 0 	HT Re-Live
+	FC Thad - Beutlins	4 - 3 	HT Re-Live
+Omgång  14
+2012-05-27 10:00 			
+	Maximus FF - FC Thad	2 - 2 	HT Re-Live
+	Beutlins - Sionisterna	2 - 2 	HT Re-Live
+	AYREON FC - Södermalm City	6 - 1 	HT Re-Live
+	Bakerkings - Rommeholen FC	1 - 0 	HT Re-Live

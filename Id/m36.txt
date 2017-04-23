@@ -1,0 +1,84 @@
+Omgång  1
+2008-06-22 10:00 			
+	Skansholms SK - Hjärnarp GIF	5 - 1 	HT Re-Live
+	Kantarellerna - Skogsbo avesta if	5 - 2 	HT Re-Live
+	BK Örnen - Crazy Apes	5 - 2 	HT Re-Live
+	Real Messmör - Team Molgan	1 - 1 	HT Re-Live
+Omgång  2
+2008-06-29 10:00 			
+	Skogsbo avesta if - Skansholms SK	5 - 2 	HT Re-Live
+	Crazy Apes - Kantarellerna	3 - 3 	HT Re-Live
+	Team Molgan - BK Örnen	3 - 0 	HT Re-Live
+	Hjärnarp GIF - Real Messmör	2 - 4 	HT Re-Live
+Omgång  3
+2008-07-06 10:00 			
+	Skansholms SK - Crazy Apes	3 - 4 	HT Re-Live
+	Kantarellerna - BK Örnen	3 - 3 	HT Re-Live
+	Real Messmör - Skogsbo avesta if	3 - 1 	HT Re-Live
+	Team Molgan - Hjärnarp GIF	3 - 2 	HT Re-Live
+Omgång  4
+2008-07-13 10:00 			
+	BK Örnen - Hjärnarp GIF	8 - 0 	HT Re-Live
+	Skogsbo avesta if - Team Molgan	0 - 7 	HT Re-Live
+	Crazy Apes - Real Messmör	2 - 0 	HT Re-Live
+	Kantarellerna - Skansholms SK	5 - 3 	HT Re-Live
+Omgång  5
+2008-07-20 10:00 			
+	Skansholms SK - BK Örnen	8 - 1 	HT Re-Live
+	Real Messmör - Kantarellerna	3 - 5 	HT Re-Live
+	Team Molgan - Crazy Apes	4 - 0 	HT Re-Live
+	Hjärnarp GIF - Skogsbo avesta if	0 - 3 	HT Re-Live
+Omgång  6
+2008-07-27 10:00 			
+	BK Örnen - Skogsbo avesta if	8 - 0 	HT Re-Live
+	Skansholms SK - Real Messmör	5 - 1 	HT Re-Live
+	Kantarellerna - Team Molgan	3 - 0 	HT Re-Live
+	Crazy Apes - Hjärnarp GIF	7 - 0 	HT Re-Live
+Omgång  7
+2008-08-03 10:00 			
+	Real Messmör - BK Örnen	4 - 0 	HT Re-Live
+	Team Molgan - Skansholms SK	2 - 3 	HT Re-Live
+	Skogsbo avesta if - Crazy Apes	0 - 3 	HT Re-Live
+	Hjärnarp GIF - Kantarellerna	1 - 7 	HT Re-Live
+Omgång  8
+2008-08-10 10:00 			
+	Kantarellerna - Hjärnarp GIF	9 - 0 	HT Re-Live
+	Skansholms SK - Team Molgan	2 - 2 	HT Re-Live
+	Crazy Apes - Skogsbo avesta if	4 - 1 	HT Re-Live
+	BK Örnen - Real Messmör	3 - 2 	HT Re-Live
+Omgång  9
+2008-08-17 10:00 			
+	Team Molgan - Kantarellerna	1 - 1 	HT Re-Live
+	Hjärnarp GIF - Crazy Apes	0 - 8 	HT Re-Live
+	Skogsbo avesta if - BK Örnen	4 - 2 	HT Re-Live
+	Real Messmör - Skansholms SK	8 - 0 	HT Re-Live
+Omgång  10
+2008-08-24 10:00 			
+	Kantarellerna - Real Messmör	3 - 1 	HT Re-Live
+	BK Örnen - Skansholms SK	6 - 1 	HT Re-Live
+	Skogsbo avesta if - Hjärnarp GIF	7 - 0 	HT Re-Live
+	Crazy Apes - Team Molgan	2 - 2 	HT Re-Live
+Omgång  11
+2008-08-31 10:00 			
+	Real Messmör - Crazy Apes	6 - 2 	HT Re-Live
+	Team Molgan - Skogsbo avesta if	4 - 3 	HT Re-Live
+	Hjärnarp GIF - BK Örnen	0 - 9 	HT Re-Live
+	Skansholms SK - Kantarellerna	2 - 3 	HT Re-Live
+Omgång  12
+2008-09-07 10:00 			
+	BK Örnen - Kantarellerna	6 - 1 	HT Re-Live
+	Hjärnarp GIF - Team Molgan	0 - 6 	HT Re-Live
+	Skogsbo avesta if - Real Messmör	2 - 4 	HT Re-Live
+	Crazy Apes - Skansholms SK	3 - 0 	HT Re-Live
+Omgång  13
+2008-09-14 10:00 			
+	Real Messmör - Hjärnarp GIF	9 - 0 	HT Re-Live
+	Kantarellerna - Crazy Apes	4 - 2 	HT Re-Live
+	Skansholms SK - Skogsbo avesta if	4 - 2 	HT Re-Live
+	BK Örnen - Team Molgan	4 - 2 	HT Re-Live
+Omgång  14
+2008-09-21 10:00 			
+	Skogsbo avesta if - Kantarellerna	5 - 4 	HT Re-Live
+	Team Molgan - Real Messmör	2 - 4 	HT Re-Live
+	Hjärnarp GIF - Skansholms SK	0 - 9 	HT Re-Live
+	Crazy Apes - BK Örnen	2 - 4 	HT Re-Live

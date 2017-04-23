@@ -1,0 +1,84 @@
+Omgång  1
+2003-07-27 10:00 			
+	Åsehöjden - Forest Rovers	5 - 3 	HT Re-Live
+	Inter Sthlm - Scoring Xtreme	5 - 0 	HT Re-Live
+	Juveby IF - Tjecko-85	2 - 5 	HT Re-Live
+	FC Frontpage - FC Morp	5 - 0 	HT Re-Live
+Omgång  2
+2003-08-03 10:00 			
+	Tjecko-85 - Åsehöjden	4 - 2 	HT Re-Live
+	FC Morp - Inter Sthlm	1 - 1 	HT Re-Live
+	Forest Rovers - FC Frontpage	3 - 3 	HT Re-Live
+	Scoring Xtreme - Juveby IF	2 - 1 	HT Re-Live
+Omgång  3
+2003-08-10 10:00 			
+	Inter Sthlm - Forest Rovers	5 - 0 	HT Re-Live
+	Juveby IF - FC Morp	3 - 1 	HT Re-Live
+	Tjecko-85 - Scoring Xtreme	1 - 1 	HT Re-Live
+	FC Frontpage - Åsehöjden	4 - 3 	HT Re-Live
+Omgång  4
+2003-08-17 10:00 			
+	Åsehöjden - Scoring Xtreme	3 - 0 	HT Re-Live
+	FC Morp - Tjecko-85	2 - 1 	HT Re-Live
+	Forest Rovers - Juveby IF	4 - 2 	HT Re-Live
+	FC Frontpage - Inter Sthlm	2 - 3 	HT Re-Live
+Omgång  5
+2003-08-24 10:00 			
+	Inter Sthlm - Åsehöjden	3 - 2 	HT Re-Live
+	Juveby IF - FC Frontpage	5 - 0 	HT Re-Live
+	Tjecko-85 - Forest Rovers	6 - 2 	HT Re-Live
+	Scoring Xtreme - FC Morp	4 - 2 	HT Re-Live
+Omgång  6
+2003-08-31 10:00 			
+	Åsehöjden - FC Morp	2 - 0 	HT Re-Live
+	Inter Sthlm - Juveby IF	3 - 2 	HT Re-Live
+	Forest Rovers - Scoring Xtreme	5 - 0 	HT Re-Live
+	FC Frontpage - Tjecko-85	5 - 0 	HT Re-Live
+Omgång  7
+2003-09-07 10:00 			
+	Juveby IF - Åsehöjden	3 - 3 	HT Re-Live
+	Tjecko-85 - Inter Sthlm	0 - 5 	HT Re-Live
+	FC Morp - Forest Rovers	3 - 2 	HT Re-Live
+	Scoring Xtreme - FC Frontpage	4 - 0 	HT Re-Live
+Omgång  8
+2003-09-14 10:00 			
+	FC Frontpage - Scoring Xtreme	3 - 2 	HT Re-Live
+	Forest Rovers - FC Morp	3 - 3 	HT Re-Live
+	Inter Sthlm - Tjecko-85	2 - 0 	HT Re-Live
+	Åsehöjden - Juveby IF	2 - 1 	HT Re-Live
+Omgång  9
+2003-09-21 10:00 			
+	Tjecko-85 - FC Frontpage	2 - 0 	HT Re-Live
+	Scoring Xtreme - Forest Rovers	1 - 4 	HT Re-Live
+	Juveby IF - Inter Sthlm	0 - 1 	HT Re-Live
+	FC Morp - Åsehöjden	2 - 3 	HT Re-Live
+Omgång  10
+2003-09-28 10:00 			
+	FC Morp - Scoring Xtreme	2 - 2 	HT Re-Live
+	Forest Rovers - Tjecko-85	4 - 1 	HT Re-Live
+	FC Frontpage - Juveby IF	7 - 1 	HT Re-Live
+	Åsehöjden - Inter Sthlm	0 - 0 	HT Re-Live
+Omgång  11
+2003-10-05 10:00 			
+	Inter Sthlm - FC Frontpage	3 - 0 	HT Re-Live
+	Juveby IF - Forest Rovers	3 - 0 	HT Re-Live
+	Tjecko-85 - FC Morp	2 - 3 	HT Re-Live
+	Scoring Xtreme - Åsehöjden	3 - 2 	HT Re-Live
+Omgång  12
+2003-10-12 10:00 			
+	Åsehöjden - FC Frontpage	3 - 2 	HT Re-Live
+	Scoring Xtreme - Tjecko-85	4 - 3 	HT Re-Live
+	FC Morp - Juveby IF	1 - 0 	HT Re-Live
+	Forest Rovers - Inter Sthlm	2 - 2 	HT Re-Live
+Omgång  13
+2003-10-19 10:00 			
+	Juveby IF - Scoring Xtreme	2 - 1 	HT Re-Live
+	FC Frontpage - Forest Rovers	0 - 5 	HT Re-Live
+	Inter Sthlm - FC Morp	1 - 0 	HT Re-Live
+	Åsehöjden - Tjecko-85	2 - 2 	HT Re-Live
+Omgång  14
+2003-10-26 10:00 			
+	FC Morp - FC Frontpage	1 - 5 	HT Re-Live
+	Tjecko-85 - Juveby IF	5 - 2 	HT Re-Live
+	Scoring Xtreme - Inter Sthlm	0 - 2 	HT Re-Live
+	Forest Rovers - Åsehöjden	5 - 1 	HT Re-Live

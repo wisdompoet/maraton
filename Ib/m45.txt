@@ -1,0 +1,84 @@
+Omgång  1
+2011-03-27 10:00 			
+	Helags FF - Estö BK	1 - 0 	HT Re-Live
+	Babylon Boys - Maximus FF	1 - 3 	HT Re-Live
+	IFK Grisfotboll - Wick IT	3 - 1 	HT Re-Live
+	Empoli - Emperors SK	1 - 1 	HT Re-Live
+Omgång  2
+2011-04-03 10:00 			
+	Emperors SK - IFK Grisfotboll	4 - 4 	HT Re-Live
+	Maximus FF - Empoli	0 - 2 	HT Re-Live
+	Estö BK - Babylon Boys	3 - 2 	HT Re-Live
+	Wick IT - Helags FF	4 - 2 	HT Re-Live
+Omgång  3
+2011-04-10 10:00 			
+	Babylon Boys - Helags FF	1 - 0 	HT Re-Live
+	Maximus FF - Emperors SK	2 - 1 	HT Re-Live
+	IFK Grisfotboll - Estö BK	1 - 1 	HT Re-Live
+	Empoli - Wick IT	2 - 3 	HT Re-Live
+Omgång  4
+2011-04-17 10:00 			
+	Emperors SK - Babylon Boys	1 - 2 	HT Re-Live
+	Estö BK - Empoli	0 - 0 	HT Re-Live
+	Wick IT - Maximus FF	2 - 2 	HT Re-Live
+	Helags FF - IFK Grisfotboll	1 - 0 	HT Re-Live
+Omgång  5
+2011-04-24 10:00 			
+	Empoli - IFK Grisfotboll	1 - 0 	HT Re-Live
+	Babylon Boys - Wick IT	4 - 0 	HT Re-Live
+	Emperors SK - Estö BK	3 - 1 	HT Re-Live
+	Maximus FF - Helags FF	4 - 1 	HT Re-Live
+Omgång  6
+2011-05-01 10:00 			
+	Helags FF - Empoli	0 - 0 	HT Re-Live
+	IFK Grisfotboll - Babylon Boys	1 - 4 	HT Re-Live
+	Wick IT - Emperors SK	2 - 1 	HT Re-Live
+	Estö BK - Maximus FF	2 - 1 	HT Re-Live
+Omgång  7
+2011-05-08 10:00 			
+	Emperors SK - Helags FF	4 - 0 	HT Re-Live
+	Maximus FF - IFK Grisfotboll	2 - 1 	HT Re-Live
+	Estö BK - Wick IT	0 - 3 	HT Re-Live
+	Empoli - Babylon Boys	2 - 2 	HT Re-Live
+Omgång  8
+2011-05-15 10:00 			
+	IFK Grisfotboll - Maximus FF	0 - 0 	HT Re-Live
+	Wick IT - Estö BK	3 - 1 	HT Re-Live
+	Helags FF - Emperors SK	3 - 0 	HT Re-Live
+	Babylon Boys - Empoli	4 - 0 	HT Re-Live
+Omgång  9
+2011-05-22 10:00 			
+	Maximus FF - Estö BK	0 - 0 	HT Re-Live
+	Emperors SK - Wick IT	1 - 1 	HT Re-Live
+	Babylon Boys - IFK Grisfotboll	5 - 1 	HT Re-Live
+	Empoli - Helags FF	1 - 0 	HT Re-Live
+Omgång  10
+2011-05-29 10:00 			
+	Estö BK - Emperors SK	2 - 2 	HT Re-Live
+	Wick IT - Babylon Boys	0 - 3 	HT Re-Live
+	Helags FF - Maximus FF	2 - 1 	HT Re-Live
+	IFK Grisfotboll - Empoli	4 - 1 	HT Re-Live
+Omgång  11
+2011-06-05 10:00 			
+	Babylon Boys - Emperors SK	4 - 0 	HT Re-Live
+	Empoli - Estö BK	2 - 1 	HT Re-Live
+	Maximus FF - Wick IT	2 - 1 	HT Re-Live
+	IFK Grisfotboll - Helags FF	3 - 2 	HT Re-Live
+Omgång  12
+2011-06-12 10:00 			
+	Emperors SK - Maximus FF	3 - 0 	HT Re-Live
+	Estö BK - IFK Grisfotboll	1 - 0 	HT Re-Live
+	Helags FF - Babylon Boys	0 - 4 	HT Re-Live
+	Wick IT - Empoli	5 - 1 	HT Re-Live
+Omgång  13
+2011-06-19 10:00 			
+	Empoli - Maximus FF	2 - 1 	HT Re-Live
+	IFK Grisfotboll - Emperors SK	1 - 1 	HT Re-Live
+	Babylon Boys - Estö BK	4 - 0 	HT Re-Live
+	Helags FF - Wick IT	1 - 0 	HT Re-Live
+Omgång  14
+2011-06-26 10:00 			
+	Emperors SK - Empoli	5 - 2 	HT Re-Live
+	Maximus FF - Babylon Boys	2 - 2 	HT Re-Live
+	Estö BK - Helags FF	0 - 1 	HT Re-Live
+	Wick IT - IFK Grisfotboll	3 - 0 	HT Re-Live

@@ -1,0 +1,84 @@
+Omgång  1
+2013-12-29 10:00 			
+	Sionisterna - Nordpolen FF	2 - 2 	HT Re-Live
+	FC Cazzix - Scoring Xtreme	3 - 3 	HT Re-Live
+	skelett - Söderbröder FC	0 - 4 	HT Re-Live
+	Norsgatan Kickers - Terra Nova FC	4 - 0 	HT Re-Live
+Omgång  2
+2014-01-05 10:00 			
+	Nordpolen FF - skelett	7 - 0 	HT Re-Live
+	Söderbröder FC - Norsgatan Kickers	5 - 1 	HT Re-Live
+	Scoring Xtreme - Sionisterna	1 - 1 	HT Re-Live
+	Terra Nova FC - FC Cazzix	7 - 1 	HT Re-Live
+Omgång  3
+2014-01-12 10:00 			
+	Sionisterna - FC Cazzix	4 - 1 	HT Re-Live
+	Norsgatan Kickers - Scoring Xtreme	6 - 0 	HT Re-Live
+	Nordpolen FF - Söderbröder FC	1 - 4 	HT Re-Live
+	skelett - Terra Nova FC	1 - 9 	HT Re-Live
+Omgång  4
+2014-01-19 10:00 			
+	Söderbröder FC - Sionisterna	1 - 1 	HT Re-Live
+	Scoring Xtreme - skelett	7 - 0 	HT Re-Live
+	FC Cazzix - Norsgatan Kickers	3 - 4 	HT Re-Live
+	Terra Nova FC - Nordpolen FF	4 - 0 	HT Re-Live
+Omgång  5
+2014-01-26 10:00 			
+	Nordpolen FF - FC Cazzix	3 - 2 	HT Re-Live
+	skelett - Norsgatan Kickers	0 - 7 	HT Re-Live
+	Sionisterna - Terra Nova FC	4 - 5 	HT Re-Live
+	Söderbröder FC - Scoring Xtreme	5 - 1 	HT Re-Live
+Omgång  6
+2014-02-02 10:00 			
+	Norsgatan Kickers - Sionisterna	1 - 0 	HT Re-Live
+	Scoring Xtreme - Nordpolen FF	3 - 0 	HT Re-Live
+	Terra Nova FC - Söderbröder FC	5 - 3 	HT Re-Live
+	FC Cazzix - skelett	8 - 0 	HT Re-Live
+Omgång  7
+2014-02-09 10:00 			
+	Scoring Xtreme - Terra Nova FC	3 - 0 	HT Re-Live
+	skelett - Sionisterna	0 - 7 	HT Re-Live
+	Nordpolen FF - Norsgatan Kickers	1 - 1 	HT Re-Live
+	Söderbröder FC - FC Cazzix	4 - 1 	HT Re-Live
+Omgång  8
+2014-02-16 10:00 			
+	Norsgatan Kickers - Nordpolen FF	5 - 0 	HT Re-Live
+	FC Cazzix - Söderbröder FC	0 - 4 	HT Re-Live
+	Terra Nova FC - Scoring Xtreme	11 - 0 	HT Re-Live
+	Sionisterna - skelett	8 - 0 	HT Re-Live
+Omgång  9
+2014-02-23 10:00 			
+	Nordpolen FF - Scoring Xtreme	4 - 0 	HT Re-Live
+	Sionisterna - Norsgatan Kickers	2 - 0 	HT Re-Live
+	skelett - FC Cazzix	0 - 8 	HT Re-Live
+	Söderbröder FC - Terra Nova FC	4 - 3 	HT Re-Live
+Omgång  10
+2014-03-02 10:00 			
+	Scoring Xtreme - Söderbröder FC	0 - 2 	HT Re-Live
+	FC Cazzix - Nordpolen FF	5 - 0 	HT Re-Live
+	Terra Nova FC - Sionisterna	5 - 2 	HT Re-Live
+	Norsgatan Kickers - skelett	6 - 0 	HT Re-Live
+Omgång  11
+2014-03-09 10:00 			
+	Norsgatan Kickers - FC Cazzix	5 - 2 	HT Re-Live
+	Sionisterna - Söderbröder FC	2 - 2 	HT Re-Live
+	skelett - Scoring Xtreme	1 - 1 	HT Re-Live
+	Nordpolen FF - Terra Nova FC	1 - 6 	HT Re-Live
+Omgång  12
+2014-03-16 10:00 			
+	Scoring Xtreme - Norsgatan Kickers	0 - 4 	HT Re-Live
+	Söderbröder FC - Nordpolen FF	5 - 2 	HT Re-Live
+	Terra Nova FC - skelett	10 - 1 	HT Re-Live
+	FC Cazzix - Sionisterna	2 - 4 	HT Re-Live
+Omgång  13
+2014-03-23 10:00 			
+	Sionisterna - Scoring Xtreme	6 - 1 	HT Re-Live
+	Norsgatan Kickers - Söderbröder FC	2 - 3 	HT Re-Live
+	skelett - Nordpolen FF	1 - 7 	HT Re-Live
+	FC Cazzix - Terra Nova FC	2 - 5 	HT Re-Live
+Omgång  14
+2014-03-30 10:00 			
+	Terra Nova FC - Norsgatan Kickers	3 - 1 	HT Re-Live
+	Scoring Xtreme - FC Cazzix	5 - 1 	HT Re-Live
+	Nordpolen FF - Sionisterna	1 - 2 	HT Re-Live
+	Söderbröder FC - skelett	7 - 0 	HT Re-Live

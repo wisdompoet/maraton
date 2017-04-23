@@ -1,0 +1,84 @@
+Omgång  1
+2009-05-24 10:00 			
+	SkalBolaget BK - FC Volrat	2 - 4 	HT Re-Live
+	Korsudden - Dynamo Kebab	4 - 3 	HT Re-Live
+	Grålle GIF - Hestra2000	0 - 3 	HT Re-Live
+	Inter Draggen - Ultras Stockholm FC	0 - 6 	HT Re-Live
+Omgång  2
+2009-05-31 10:00 			
+	Hestra2000 - Korsudden	2 - 1 	HT Re-Live
+	Ultras Stockholm FC - SkalBolaget BK	2 - 0 	HT Re-Live
+	FC Volrat - Grålle GIF	4 - 0 	HT Re-Live
+	Dynamo Kebab - Inter Draggen	8 - 0 	HT Re-Live
+Omgång  3
+2009-06-07 10:00 			
+	SkalBolaget BK - Inter Draggen	9 - 0 	HT Re-Live
+	Korsudden - FC Volrat	4 - 1 	HT Re-Live
+	Dynamo Kebab - Hestra2000	4 - 1 	HT Re-Live
+	Grålle GIF - Ultras Stockholm FC	3 - 1 	HT Re-Live
+Omgång  4
+2009-06-14 10:00 			
+	SkalBolaget BK - Grålle GIF	2 - 0 	HT Re-Live
+	Ultras Stockholm FC - Korsudden	2 - 1 	HT Re-Live
+	Inter Draggen - Hestra2000	0 - 9 	HT Re-Live
+	FC Volrat - Dynamo Kebab	5 - 2 	HT Re-Live
+Omgång  5
+2009-06-21 10:00 			
+	Hestra2000 - FC Volrat	3 - 2 	HT Re-Live
+	Dynamo Kebab - Ultras Stockholm FC	5 - 2 	HT Re-Live
+	Korsudden - SkalBolaget BK	0 - 4 	HT Re-Live
+	Grålle GIF - Inter Draggen	10 - 0 	HT Re-Live
+Omgång  6
+2009-06-28 10:00 			
+	SkalBolaget BK - Dynamo Kebab	4 - 2 	HT Re-Live
+	Grålle GIF - Korsudden	2 - 1 	HT Re-Live
+	Ultras Stockholm FC - Hestra2000	0 - 2 	HT Re-Live
+	Inter Draggen - FC Volrat	0 - 8 	HT Re-Live
+Omgång  7
+2009-07-05 10:00 			
+	Hestra2000 - SkalBolaget BK	2 - 1 	HT Re-Live
+	FC Volrat - Ultras Stockholm FC	2 - 1 	HT Re-Live
+	Dynamo Kebab - Grålle GIF	7 - 1 	HT Re-Live
+	Korsudden - Inter Draggen	8 - 0 	HT Re-Live
+Omgång  8
+2009-07-12 10:00 			
+	Inter Draggen - Korsudden	1 - 6 	HT Re-Live
+	Grålle GIF - Dynamo Kebab	3 - 3 	HT Re-Live
+	Ultras Stockholm FC - FC Volrat	3 - 3 	HT Re-Live
+	SkalBolaget BK - Hestra2000	4 - 1 	HT Re-Live
+Omgång  9
+2009-07-19 10:00 			
+	FC Volrat - Inter Draggen	7 - 0 	HT Re-Live
+	Korsudden - Grålle GIF	3 - 0 	HT Re-Live
+	Hestra2000 - Ultras Stockholm FC	4 - 1 	HT Re-Live
+	Dynamo Kebab - SkalBolaget BK	4 - 0 	HT Re-Live
+Omgång  10
+2009-07-26 10:00 			
+	Inter Draggen - Grålle GIF	0 - 5 	HT Re-Live
+	SkalBolaget BK - Korsudden	2 - 3 	HT Re-Live
+	Ultras Stockholm FC - Dynamo Kebab	0 - 3 	HT Re-Live
+	FC Volrat - Hestra2000	3 - 0 	HT Re-Live
+Omgång  11
+2009-08-02 10:00 			
+	Hestra2000 - Inter Draggen	9 - 0 	HT Re-Live
+	Dynamo Kebab - FC Volrat	5 - 1 	HT Re-Live
+	Korsudden - Ultras Stockholm FC	1 - 1 	HT Re-Live
+	Grålle GIF - SkalBolaget BK	7 - 2 	HT Re-Live
+Omgång  12
+2009-08-09 10:00 			
+	Ultras Stockholm FC - Grålle GIF	4 - 0 	HT Re-Live
+	FC Volrat - Korsudden	6 - 3 	HT Re-Live
+	Hestra2000 - Dynamo Kebab	4 - 2 	HT Re-Live
+	Inter Draggen - SkalBolaget BK	0 - 7 	HT Re-Live
+Omgång  13
+2009-08-16 10:00 			
+	Inter Draggen - Dynamo Kebab	0 - 7 	HT Re-Live
+	Korsudden - Hestra2000	2 - 1 	HT Re-Live
+	Grålle GIF - FC Volrat	0 - 4 	HT Re-Live
+	SkalBolaget BK - Ultras Stockholm FC	1 - 2 	HT Re-Live
+Omgång  14
+2009-08-23 10:00 			
+	Hestra2000 - Grålle GIF	9 - 0 	HT Re-Live
+	Ultras Stockholm FC - Inter Draggen	10 - 0 	HT Re-Live
+	Dynamo Kebab - Korsudden	2 - 2 	HT Re-Live
+	FC Volrat - SkalBolaget BK	3 - 1 	HT Re-Live

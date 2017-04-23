@@ -1,0 +1,84 @@
+Omgång  1
+2006-04-30 10:00 			
+	Åshöjdens BK - Ljungby IF	1 - 1 	HT Re-Live
+	Neonic FC - Morgoths horder	5 - 3 	HT Re-Live
+	BK Lambohov - Olsfors FC	5 - 4 	HT Re-Live
+	Boca Seniors - LA Hookers	0 - 3 	HT Re-Live
+Omgång  2
+2006-05-07 10:00 			
+	Olsfors FC - Neonic FC	3 - 4 	HT Re-Live
+	Ljungby IF - BK Lambohov	1 - 0 	HT Re-Live
+	LA Hookers - Åshöjdens BK	6 - 0 	HT Re-Live
+	Morgoths horder - Boca Seniors	3 - 5 	HT Re-Live
+Omgång  3
+2006-05-14 10:00 			
+	Neonic FC - Ljungby IF	4 - 1 	HT Re-Live
+	Boca Seniors - Olsfors FC	6 - 1 	HT Re-Live
+	LA Hookers - Morgoths horder	5 - 1 	HT Re-Live
+	BK Lambohov - Åshöjdens BK	1 - 0 	HT Re-Live
+Omgång  4
+2006-05-21 10:00 			
+	Åshöjdens BK - Morgoths horder	1 - 0 	HT Re-Live
+	Olsfors FC - LA Hookers	4 - 2 	HT Re-Live
+	BK Lambohov - Neonic FC	7 - 2 	HT Re-Live
+	Ljungby IF - Boca Seniors	1 - 0 	HT Re-Live
+Omgång  5
+2006-05-28 10:00 			
+	LA Hookers - Ljungby IF	4 - 1 	HT Re-Live
+	Neonic FC - Åshöjdens BK	6 - 1 	HT Re-Live
+	Boca Seniors - BK Lambohov	2 - 3 	HT Re-Live
+	Morgoths horder - Olsfors FC	6 - 1 	HT Re-Live
+Omgång  6
+2006-06-04 10:00 			
+	Åshöjdens BK - Olsfors FC	3 - 1 	HT Re-Live
+	Neonic FC - Boca Seniors	6 - 1 	HT Re-Live
+	Ljungby IF - Morgoths horder	2 - 2 	HT Re-Live
+	BK Lambohov - LA Hookers	7 - 3 	HT Re-Live
+Omgång  7
+2006-06-11 10:00 			
+	Boca Seniors - Åshöjdens BK	2 - 1 	HT Re-Live
+	Morgoths horder - BK Lambohov	5 - 4 	HT Re-Live
+	LA Hookers - Neonic FC	0 - 5 	HT Re-Live
+	Olsfors FC - Ljungby IF	1 - 4 	HT Re-Live
+Omgång  8
+2006-06-18 10:00 			
+	BK Lambohov - Morgoths horder	3 - 2 	HT Re-Live
+	Ljungby IF - Olsfors FC	2 - 0 	HT Re-Live
+	Åshöjdens BK - Boca Seniors	0 - 5 	HT Re-Live
+	Neonic FC - LA Hookers	0 - 4 	HT Re-Live
+Omgång  9
+2006-06-25 10:00 			
+	Boca Seniors - Neonic FC	3 - 3 	HT Re-Live
+	Morgoths horder - Ljungby IF	2 - 0 	HT Re-Live
+	Olsfors FC - Åshöjdens BK	1 - 3 	HT Re-Live
+	LA Hookers - BK Lambohov	3 - 0 	HT Re-Live
+Omgång  10
+2006-07-02 10:00 			
+	Olsfors FC - Morgoths horder	2 - 2 	HT Re-Live
+	BK Lambohov - Boca Seniors	3 - 1 	HT Re-Live
+	Ljungby IF - LA Hookers	1 - 0 	HT Re-Live
+	Åshöjdens BK - Neonic FC	0 - 5 	HT Re-Live
+Omgång  11
+2006-07-09 10:00 			
+	Neonic FC - BK Lambohov	7 - 0 	HT Re-Live
+	LA Hookers - Olsfors FC	5 - 0 	HT Re-Live
+	Boca Seniors - Ljungby IF	1 - 1 	HT Re-Live
+	Morgoths horder - Åshöjdens BK	3 - 1 	HT Re-Live
+Omgång  12
+2006-07-16 10:00 			
+	Åshöjdens BK - BK Lambohov	1 - 3 	HT Re-Live
+	Olsfors FC - Boca Seniors	0 - 5 	HT Re-Live
+	Morgoths horder - LA Hookers	1 - 6 	HT Re-Live
+	Ljungby IF - Neonic FC	4 - 3 	HT Re-Live
+Omgång  13
+2006-07-23 10:00 			
+	BK Lambohov - Ljungby IF	2 - 0 	HT Re-Live
+	Boca Seniors - Morgoths horder	3 - 1 	HT Re-Live
+	Neonic FC - Olsfors FC	5 - 2 	HT Re-Live
+	Åshöjdens BK - LA Hookers	1 - 6 	HT Re-Live
+Omgång  14
+2006-07-30 10:00 			
+	Olsfors FC - BK Lambohov	3 - 3 	HT Re-Live
+	Ljungby IF - Åshöjdens BK	2 - 1 	HT Re-Live
+	LA Hookers - Boca Seniors	3 - 0 	HT Re-Live
+	Morgoths horder - Neonic FC	0 - 7 	HT Re-Live

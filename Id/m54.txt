@@ -1,0 +1,84 @@
+Omgång  1
+2013-12-29 10:00 			
+	Rotorp - FC Mackan	3 - 2 	HT Re-Live
+	Bensparkers - Massive Attack	4 - 6 	HT Re-Live
+	Korporationen - Wheelsbridge Wanderers	5 - 5 	HT Re-Live
+	AS Rotary - Hjullan BK	2 - 2 	HT Re-Live
+Omgång  2
+2014-01-05 10:00 			
+	FC Mackan - AS Rotary	5 - 0 	HT Re-Live
+	Massive Attack - Rotorp	5 - 1 	HT Re-Live
+	Wheelsbridge Wanderers - Bensparkers	2 - 2 	HT Re-Live
+	Hjullan BK - Korporationen	3 - 1 	HT Re-Live
+Omgång  3
+2014-01-12 10:00 			
+	Massive Attack - FC Mackan	2 - 2 	HT Re-Live
+	AS Rotary - Wheelsbridge Wanderers	6 - 1 	HT Re-Live
+	Bensparkers - Korporationen	4 - 2 	HT Re-Live
+	Rotorp - Hjullan BK	3 - 1 	HT Re-Live
+Omgång  4
+2014-01-19 10:00 			
+	Hjullan BK - Massive Attack	1 - 4 	HT Re-Live
+	Wheelsbridge Wanderers - Rotorp	4 - 2 	HT Re-Live
+	FC Mackan - Bensparkers	2 - 1 	HT Re-Live
+	Korporationen - AS Rotary	0 - 10 	HT Re-Live
+Omgång  5
+2014-01-26 10:00 			
+	FC Mackan - Wheelsbridge Wanderers	3 - 0 	HT Re-Live
+	Bensparkers - Hjullan BK	3 - 3 	HT Re-Live
+	Rotorp - AS Rotary	5 - 0 	HT Re-Live
+	Massive Attack - Korporationen	11 - 0 	HT Re-Live
+Omgång  6
+2014-02-02 10:00 			
+	Korporationen - Rotorp	0 - 9 	HT Re-Live
+	AS Rotary - Bensparkers	1 - 0 	HT Re-Live
+	Wheelsbridge Wanderers - Massive Attack	2 - 3 	HT Re-Live
+	Hjullan BK - FC Mackan	3 - 5 	HT Re-Live
+Omgång  7
+2014-02-09 10:00 			
+	Rotorp - Bensparkers	5 - 0 	HT Re-Live
+	Wheelsbridge Wanderers - Hjullan BK	2 - 0 	HT Re-Live
+	Massive Attack - AS Rotary	4 - 2 	HT Re-Live
+	FC Mackan - Korporationen	10 - 0 	HT Re-Live
+Omgång  8
+2014-02-16 10:00 			
+	Hjullan BK - Wheelsbridge Wanderers	2 - 5 	HT Re-Live
+	Korporationen - FC Mackan	0 - 8 	HT Re-Live
+	Bensparkers - Rotorp	3 - 5 	HT Re-Live
+	AS Rotary - Massive Attack	1 - 4 	HT Re-Live
+Omgång  9
+2014-02-23 10:00 			
+	Rotorp - Korporationen	8 - 0 	HT Re-Live
+	FC Mackan - Hjullan BK	4 - 0 	HT Re-Live
+	Massive Attack - Wheelsbridge Wanderers	4 - 0 	HT Re-Live
+	Bensparkers - AS Rotary	5 - 1 	HT Re-Live
+Omgång  10
+2014-03-02 10:00 			
+	Wheelsbridge Wanderers - FC Mackan	1 - 2 	HT Re-Live
+	Hjullan BK - Bensparkers	5 - 0 	HT Re-Live
+	Korporationen - Massive Attack	1 - 8 	HT Re-Live
+	AS Rotary - Rotorp	3 - 1 	HT Re-Live
+Omgång  11
+2014-03-09 10:00 			
+	Massive Attack - Hjullan BK	6 - 3 	HT Re-Live
+	Bensparkers - FC Mackan	3 - 1 	HT Re-Live
+	AS Rotary - Korporationen	12 - 0 	HT Re-Live
+	Rotorp - Wheelsbridge Wanderers	1 - 2 	HT Re-Live
+Omgång  12
+2014-03-16 10:00 			
+	Wheelsbridge Wanderers - AS Rotary	3 - 1 	HT Re-Live
+	Korporationen - Bensparkers	0 - 10 	HT Re-Live
+	FC Mackan - Massive Attack	3 - 1 	HT Re-Live
+	Hjullan BK - Rotorp	0 - 5 	HT Re-Live
+Omgång  13
+2014-03-23 10:00 			
+	Bensparkers - Wheelsbridge Wanderers	0 - 2 	HT Re-Live
+	AS Rotary - FC Mackan	1 - 5 	HT Re-Live
+	Rotorp - Massive Attack	3 - 1 	HT Re-Live
+	Korporationen - Hjullan BK	0 - 4 	HT Re-Live
+Omgång  14
+2014-03-30 10:00 			
+	Hjullan BK - AS Rotary	2 - 3 	HT Re-Live
+	Massive Attack - Bensparkers	4 - 2 	HT Re-Live
+	Wheelsbridge Wanderers - Korporationen	10 - 0 	HT Re-Live
+	FC Mackan - Rotorp	7 - 0 	HT Re-Live

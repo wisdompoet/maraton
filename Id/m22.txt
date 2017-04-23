@@ -1,0 +1,84 @@
+Omgång  1
+2004-03-07 10:00 			
+	Mjällbyn - Vagabundos FC	4 - 0 	HT Re-Live
+	Boca Seniors - Prince Park Rangers	3 - 1 	HT Re-Live
+	DrPepper FC - Rusta Hallick	4 - 3 	HT Re-Live
+	Team Rebecca - Adagio SK	3 - 0 	HT Re-Live
+Omgång  2
+2004-03-14 10:00 			
+	Rusta Hallick - Mjällbyn	1 - 4 	HT Re-Live
+	Adagio SK - Boca Seniors	1 - 1 	HT Re-Live
+	Vagabundos FC - Team Rebecca	1 - 1 	HT Re-Live
+	Prince Park Rangers - DrPepper FC	0 - 3 	HT Re-Live
+Omgång  3
+2004-03-21 10:00 			
+	Boca Seniors - Vagabundos FC	3 - 1 	HT Re-Live
+	DrPepper FC - Adagio SK	3 - 0 	HT Re-Live
+	Rusta Hallick - Prince Park Rangers	1 - 2 	HT Re-Live
+	Team Rebecca - Mjällbyn	3 - 3 	HT Re-Live
+Omgång  4
+2004-03-28 10:00 			
+	Mjällbyn - Prince Park Rangers	7 - 0 	HT Re-Live
+	Adagio SK - Rusta Hallick	0 - 2 	HT Re-Live
+	Vagabundos FC - DrPepper FC	2 - 2 	HT Re-Live
+	Team Rebecca - Boca Seniors	4 - 2 	HT Re-Live
+Omgång  5
+2004-04-04 10:00 			
+	Boca Seniors - Mjällbyn	4 - 3 	HT Re-Live
+	DrPepper FC - Team Rebecca	6 - 1 	HT Re-Live
+	Rusta Hallick - Vagabundos FC	3 - 5 	HT Re-Live
+	Prince Park Rangers - Adagio SK	5 - 0 	HT Re-Live
+Omgång  6
+2004-04-11 10:00 			
+	Mjällbyn - Adagio SK	3 - 1 	HT Re-Live
+	Boca Seniors - DrPepper FC	3 - 1 	HT Re-Live
+	Vagabundos FC - Prince Park Rangers	2 - 5 	HT Re-Live
+	Team Rebecca - Rusta Hallick	2 - 1 	HT Re-Live
+Omgång  7
+2004-04-18 10:00 			
+	DrPepper FC - Mjällbyn	5 - 1 	HT Re-Live
+	Rusta Hallick - Boca Seniors	2 - 0 	HT Re-Live
+	Adagio SK - Vagabundos FC	2 - 1 	HT Re-Live
+	Prince Park Rangers - Team Rebecca	2 - 1 	HT Re-Live
+Omgång  8
+2004-04-25 10:00 			
+	Team Rebecca - Prince Park Rangers	3 - 0 	HT Re-Live
+	Vagabundos FC - Adagio SK	3 - 2 	HT Re-Live
+	Boca Seniors - Rusta Hallick	3 - 0 	HT Re-Live
+	Mjällbyn - DrPepper FC	1 - 6 	HT Re-Live
+Omgång  9
+2004-05-02 10:00 			
+	Rusta Hallick - Team Rebecca	6 - 3 	HT Re-Live
+	Prince Park Rangers - Vagabundos FC	2 - 2 	HT Re-Live
+	DrPepper FC - Boca Seniors	2 - 3 	HT Re-Live
+	Adagio SK - Mjällbyn	3 - 2 	HT Re-Live
+Omgång  10
+2004-05-09 10:00 			
+	Adagio SK - Prince Park Rangers	5 - 0 	HT Re-Live
+	Vagabundos FC - Rusta Hallick	1 - 0 	HT Re-Live
+	Team Rebecca - DrPepper FC	0 - 4 	HT Re-Live
+	Mjällbyn - Boca Seniors	3 - 4 	HT Re-Live
+Omgång  11
+2004-05-16 10:00 			
+	Boca Seniors - Team Rebecca	5 - 0 	HT Re-Live
+	DrPepper FC - Vagabundos FC	3 - 0 	HT Re-Live
+	Rusta Hallick - Adagio SK	1 - 1 	HT Re-Live
+	Prince Park Rangers - Mjällbyn	5 - 3 	HT Re-Live
+Omgång  12
+2004-05-23 10:00 			
+	Mjällbyn - Team Rebecca	5 - 1 	HT Re-Live
+	Prince Park Rangers - Rusta Hallick	0 - 0 	HT Re-Live
+	Adagio SK - DrPepper FC	4 - 3 	HT Re-Live
+	Vagabundos FC - Boca Seniors	3 - 2 	HT Re-Live
+Omgång  13
+2004-05-30 10:00 			
+	DrPepper FC - Prince Park Rangers	3 - 2 	HT Re-Live
+	Team Rebecca - Vagabundos FC	1 - 2 	HT Re-Live
+	Boca Seniors - Adagio SK	2 - 1 	HT Re-Live
+	Mjällbyn - Rusta Hallick	3 - 0 	HT Re-Live
+Omgång  14
+2004-06-06 10:00 			
+	Adagio SK - Team Rebecca	3 - 3 	HT Re-Live
+	Rusta Hallick - DrPepper FC	2 - 3 	HT Re-Live
+	Prince Park Rangers - Boca Seniors	3 - 3 	HT Re-Live
+	Vagabundos FC - Mjällbyn	1 - 4 	HT Re-Live

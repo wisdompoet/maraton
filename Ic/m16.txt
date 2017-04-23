@@ -1,0 +1,84 @@
+Omgång  1
+2002-05-05 10:00 			
+	Bloodbath - BK Marx	0 - 5 	HT Re-Live
+	Arvidsjaur BK - Dynamo Patricia	3 - 1 	HT Re-Live
+	Stream Team - Ljungans FF	6 - 0 	HT Re-Live
+	FC StarShip Troopers - Bäcken IF	0 - 5 	HT Re-Live
+Omgång  2
+2002-05-12 10:00 			
+	Ljungans FF - Bloodbath	5 - 0 	HT Re-Live
+	Bäcken IF - Arvidsjaur BK	0 - 0 	HT Re-Live
+	BK Marx - FC StarShip Troopers	5 - 0 	HT Re-Live
+	Dynamo Patricia - Stream Team	2 - 0 	HT Re-Live
+Omgång  3
+2002-05-19 10:00 			
+	Arvidsjaur BK - BK Marx	1 - 0 	HT Re-Live
+	Stream Team - Bäcken IF	3 - 0 	HT Re-Live
+	Ljungans FF - Dynamo Patricia	4 - 0 	HT Re-Live
+	FC StarShip Troopers - Bloodbath	0 - 0 	HT Re-Live
+Omgång  4
+2002-05-26 10:00 			
+	Bloodbath - Dynamo Patricia	0 - 5 	HT Re-Live
+	Bäcken IF - Ljungans FF	3 - 0 	HT Re-Live
+	BK Marx - Stream Team	2 - 3 	HT Re-Live
+	FC StarShip Troopers - Arvidsjaur BK	0 - 5 	HT Re-Live
+Omgång  5
+2002-06-02 10:00 			
+	Arvidsjaur BK - Bloodbath	5 - 0 	HT Re-Live
+	Stream Team - FC StarShip Troopers	5 - 0 	HT Re-Live
+	Ljungans FF - BK Marx	0 - 2 	HT Re-Live
+	Dynamo Patricia - Bäcken IF	4 - 1 	HT Re-Live
+Omgång  6
+2002-06-09 10:00 			
+	Bloodbath - Bäcken IF	0 - 5 	HT Re-Live
+	Arvidsjaur BK - Stream Team	3 - 0 	HT Re-Live
+	BK Marx - Dynamo Patricia	2 - 2 	HT Re-Live
+	FC StarShip Troopers - Ljungans FF	0 - 5 	HT Re-Live
+Omgång  7
+2002-06-16 10:00 			
+	Stream Team - Bloodbath	5 - 0 	HT Re-Live
+	Ljungans FF - Arvidsjaur BK	0 - 5 	HT Re-Live
+	Bäcken IF - BK Marx	1 - 1 	HT Re-Live
+	Dynamo Patricia - FC StarShip Troopers	5 - 0 	HT Re-Live
+Omgång  8
+2002-06-23 10:00 			
+	FC StarShip Troopers - Dynamo Patricia	0 - 5 	HT Re-Live
+	BK Marx - Bäcken IF	0 - 0 	HT Re-Live
+	Arvidsjaur BK - Ljungans FF	3 - 0 	HT Re-Live
+	Bloodbath - Stream Team	0 - 5 	HT Re-Live
+Omgång  9
+2002-06-30 10:00 			
+	Ljungans FF - FC StarShip Troopers	5 - 0 	HT Re-Live
+	Dynamo Patricia - BK Marx	3 - 0 	HT Re-Live
+	Stream Team - Arvidsjaur BK	3 - 1 	HT Re-Live
+	Bäcken IF - Bloodbath	5 - 0 	HT Re-Live
+Omgång  10
+2002-07-07 10:00 			
+	Bäcken IF - Dynamo Patricia	0 - 3 	HT Re-Live
+	BK Marx - Ljungans FF	1 - 2 	HT Re-Live
+	FC StarShip Troopers - Stream Team	0 - 5 	HT Re-Live
+	Bloodbath - Arvidsjaur BK	0 - 5 	HT Re-Live
+Omgång  11
+2002-07-14 10:00 			
+	Arvidsjaur BK - FC StarShip Troopers	5 - 0 	HT Re-Live
+	Stream Team - BK Marx	5 - 0 	HT Re-Live
+	Ljungans FF - Bäcken IF	0 - 0 	HT Re-Live
+	Dynamo Patricia - Bloodbath	5 - 0 	HT Re-Live
+Omgång  12
+2002-07-21 10:00 			
+	Bloodbath - FC StarShip Troopers	0 - 0 	HT Re-Live
+	Dynamo Patricia - Ljungans FF	3 - 0 	HT Re-Live
+	Bäcken IF - Stream Team	1 - 0 	HT Re-Live
+	BK Marx - Arvidsjaur BK	0 - 1 	HT Re-Live
+Omgång  13
+2002-07-28 10:00 			
+	Stream Team - Dynamo Patricia	1 - 4 	HT Re-Live
+	FC StarShip Troopers - BK Marx	0 - 5 	HT Re-Live
+	Arvidsjaur BK - Bäcken IF	3 - 0 	HT Re-Live
+	Bloodbath - Ljungans FF	0 - 5 	HT Re-Live
+Omgång  14
+2002-08-04 10:00 			
+	Bäcken IF - FC StarShip Troopers	5 - 0 	HT Re-Live
+	Ljungans FF - Stream Team	0 - 3 	HT Re-Live
+	Dynamo Patricia - Arvidsjaur BK	1 - 2 	HT Re-Live
+	BK Marx - Bloodbath	5 - 0 	HT Re-Live

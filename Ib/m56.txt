@@ -1,0 +1,84 @@
+Omgång  1
+2014-08-10 10:00 			
+	Emperors SK - Sionisterna	5 - 0 	HT Re-Live
+	Söra Lions - Port Grimaud FC	9 - 0 	HT Re-Live
+	Ljungby IF - Terra Nova FC	2 - 2 	HT Re-Live
+	F.C. Pompadou - Parkgatans Gubbar	4 - 2 	HT Re-Live
+Omgång  2
+2014-08-17 10:00 			
+	Sionisterna - Ljungby IF	0 - 3 	HT Re-Live
+	Terra Nova FC - F.C. Pompadou	4 - 0 	HT Re-Live
+	Port Grimaud FC - Emperors SK	0 - 3 	HT Re-Live
+	Parkgatans Gubbar - Söra Lions	2 - 1 	HT Re-Live
+Omgång  3
+2014-08-24 10:00 			
+	Ljungby IF - Parkgatans Gubbar	3 - 0 	HT Re-Live
+	Emperors SK - Söra Lions	4 - 2 	HT Re-Live
+	Sionisterna - Terra Nova FC	1 - 5 	HT Re-Live
+	F.C. Pompadou - Port Grimaud FC	3 - 0 	HT Re-Live
+Omgång  4
+2014-08-31 10:00 			
+	Port Grimaud FC - Ljungby IF	0 - 5 	HT Re-Live
+	Söra Lions - F.C. Pompadou	2 - 2 	HT Re-Live
+	Terra Nova FC - Emperors SK	6 - 0 	HT Re-Live
+	Parkgatans Gubbar - Sionisterna	3 - 2 	HT Re-Live
+Omgång  5
+2014-09-07 10:00 			
+	Ljungby IF - F.C. Pompadou	6 - 0 	HT Re-Live
+	Sionisterna - Söra Lions	1 - 2 	HT Re-Live
+	Emperors SK - Parkgatans Gubbar	4 - 0 	HT Re-Live
+	Terra Nova FC - Port Grimaud FC	7 - 1 	HT Re-Live
+Omgång  6
+2014-09-14 10:00 			
+	Söra Lions - Ljungby IF	0 - 2 	HT Re-Live
+	F.C. Pompadou - Emperors SK	1 - 0 	HT Re-Live
+	Port Grimaud FC - Sionisterna	0 - 4 	HT Re-Live
+	Parkgatans Gubbar - Terra Nova FC	3 - 1 	HT Re-Live
+Omgång  7
+2014-09-21 10:00 			
+	Sionisterna - F.C. Pompadou	4 - 2 	HT Re-Live
+	Terra Nova FC - Söra Lions	1 - 4 	HT Re-Live
+	Port Grimaud FC - Parkgatans Gubbar	0 - 4 	HT Re-Live
+	Ljungby IF - Emperors SK	1 - 1 	HT Re-Live
+Omgång  8
+2014-09-28 10:00 			
+	F.C. Pompadou - Sionisterna	5 - 3 	HT Re-Live
+	Parkgatans Gubbar - Port Grimaud FC	6 - 0 	HT Re-Live
+	Söra Lions - Terra Nova FC	1 - 1 	HT Re-Live
+	Emperors SK - Ljungby IF	2 - 0 	HT Re-Live
+Omgång  9
+2014-10-05 10:00 			
+	Terra Nova FC - Parkgatans Gubbar	4 - 2 	HT Re-Live
+	Sionisterna - Port Grimaud FC	6 - 0 	HT Re-Live
+	Emperors SK - F.C. Pompadou	2 - 1 	HT Re-Live
+	Ljungby IF - Söra Lions	4 - 2 	HT Re-Live
+Omgång  10
+2014-10-12 10:00 			
+	Port Grimaud FC - Terra Nova FC	0 - 8 	HT Re-Live
+	Parkgatans Gubbar - Emperors SK	4 - 2 	HT Re-Live
+	Söra Lions - Sionisterna	6 - 1 	HT Re-Live
+	F.C. Pompadou - Ljungby IF	2 - 1 	HT Re-Live
+Omgång  11
+2014-10-19 10:00 			
+	Sionisterna - Parkgatans Gubbar	1 - 4 	HT Re-Live
+	F.C. Pompadou - Söra Lions	4 - 3 	HT Re-Live
+	Emperors SK - Terra Nova FC	4 - 0 	HT Re-Live
+	Ljungby IF - Port Grimaud FC	10 - 0 	HT Re-Live
+Omgång  12
+2014-10-26 10:00 			
+	Söra Lions - Emperors SK	0 - 3 	HT Re-Live
+	Port Grimaud FC - F.C. Pompadou	0 - 9 	HT Re-Live
+	Parkgatans Gubbar - Ljungby IF	2 - 2 	HT Re-Live
+	Terra Nova FC - Sionisterna	7 - 0 	HT Re-Live
+Omgång  13
+2014-11-02 10:00 			
+	Emperors SK - Port Grimaud FC	7 - 0 	HT Re-Live
+	Söra Lions - Parkgatans Gubbar	1 - 4 	HT Re-Live
+	F.C. Pompadou - Terra Nova FC	2 - 5 	HT Re-Live
+	Ljungby IF - Sionisterna	7 - 0 	HT Re-Live
+Omgång  14
+2014-11-09 10:00 			
+	Parkgatans Gubbar - F.C. Pompadou	2 - 0 	HT Re-Live
+	Port Grimaud FC - Söra Lions	0 - 5 	HT Re-Live
+	Sionisterna - Emperors SK	1 - 7 	HT Re-Live
+	Terra Nova FC - Ljungby IF	3 - 4 	HT Re-Live

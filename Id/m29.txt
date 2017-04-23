@@ -1,0 +1,84 @@
+Omgång  1
+2006-04-30 10:00 			
+	Gäddträsket - Forest Rovers	1 - 0 	HT Re-Live
+	Mjällbyn - Djurgårdens IF	6 - 1 	HT Re-Live
+	Hjärnarp GIF - Xpander	3 - 1 	HT Re-Live
+	Sluga BK - Naughty Trolls	2 - 1 	HT Re-Live
+Omgång  2
+2006-05-07 10:00 			
+	Forest Rovers - Hjärnarp GIF	0 - 3 	HT Re-Live
+	Xpander - Mjällbyn	3 - 4 	HT Re-Live
+	Naughty Trolls - Gäddträsket	4 - 4 	HT Re-Live
+	Djurgårdens IF - Sluga BK	2 - 0 	HT Re-Live
+Omgång  3
+2006-05-14 10:00 			
+	Hjärnarp GIF - Gäddträsket	1 - 3 	HT Re-Live
+	Sluga BK - Xpander	5 - 1 	HT Re-Live
+	Naughty Trolls - Djurgårdens IF	5 - 3 	HT Re-Live
+	Mjällbyn - Forest Rovers	4 - 3 	HT Re-Live
+Omgång  4
+2006-05-21 10:00 			
+	Forest Rovers - Sluga BK	0 - 2 	HT Re-Live
+	Xpander - Naughty Trolls	6 - 1 	HT Re-Live
+	Hjärnarp GIF - Mjällbyn	3 - 3 	HT Re-Live
+	Gäddträsket - Djurgårdens IF	5 - 1 	HT Re-Live
+Omgång  5
+2006-05-28 10:00 			
+	Naughty Trolls - Forest Rovers	0 - 1 	HT Re-Live
+	Djurgårdens IF - Xpander	4 - 1 	HT Re-Live
+	Mjällbyn - Gäddträsket	1 - 3 	HT Re-Live
+	Sluga BK - Hjärnarp GIF	3 - 0 	HT Re-Live
+Omgång  6
+2006-06-04 10:00 			
+	Forest Rovers - Djurgårdens IF	1 - 4 	HT Re-Live
+	Mjällbyn - Sluga BK	5 - 0 	HT Re-Live
+	Hjärnarp GIF - Naughty Trolls	7 - 1 	HT Re-Live
+	Gäddträsket - Xpander	1 - 0 	HT Re-Live
+Omgång  7
+2006-06-11 10:00 			
+	Xpander - Forest Rovers	3 - 0 	HT Re-Live
+	Naughty Trolls - Mjällbyn	6 - 5 	HT Re-Live
+	Djurgårdens IF - Hjärnarp GIF	1 - 1 	HT Re-Live
+	Sluga BK - Gäddträsket	2 - 1 	HT Re-Live
+Omgång  8
+2006-06-18 10:00 			
+	Forest Rovers - Xpander	0 - 3 	HT Re-Live
+	Hjärnarp GIF - Djurgårdens IF	4 - 1 	HT Re-Live
+	Gäddträsket - Sluga BK	0 - 2 	HT Re-Live
+	Mjällbyn - Naughty Trolls	7 - 1 	HT Re-Live
+Omgång  9
+2006-06-25 10:00 			
+	Naughty Trolls - Hjärnarp GIF	5 - 2 	HT Re-Live
+	Djurgårdens IF - Forest Rovers	0 - 3 	HT Re-Live
+	Xpander - Gäddträsket	0 - 1 	HT Re-Live
+	Sluga BK - Mjällbyn	3 - 3 	HT Re-Live
+Omgång  10
+2006-07-02 10:00 			
+	Xpander - Djurgårdens IF	2 - 4 	HT Re-Live
+	Forest Rovers - Naughty Trolls	1 - 5 	HT Re-Live
+	Hjärnarp GIF - Sluga BK	2 - 1 	HT Re-Live
+	Gäddträsket - Mjällbyn	2 - 1 	HT Re-Live
+Omgång  11
+2006-07-09 10:00 			
+	Djurgårdens IF - Gäddträsket	1 - 0 	HT Re-Live
+	Sluga BK - Forest Rovers	2 - 2 	HT Re-Live
+	Mjällbyn - Hjärnarp GIF	3 - 1 	HT Re-Live
+	Naughty Trolls - Xpander	2 - 3 	HT Re-Live
+Omgång  12
+2006-07-16 10:00 			
+	Gäddträsket - Hjärnarp GIF	3 - 2 	HT Re-Live
+	Forest Rovers - Mjällbyn	8 - 3 	HT Re-Live
+	Djurgårdens IF - Naughty Trolls	9 - 1 	HT Re-Live
+	Xpander - Sluga BK	1 - 0 	HT Re-Live
+Omgång  13
+2006-07-23 10:00 			
+	Hjärnarp GIF - Forest Rovers	6 - 0 	HT Re-Live
+	Sluga BK - Djurgårdens IF	2 - 3 	HT Re-Live
+	Gäddträsket - Naughty Trolls	3 - 3 	HT Re-Live
+	Mjällbyn - Xpander	5 - 0 	HT Re-Live
+Omgång  14
+2006-07-30 10:00 			
+	Djurgårdens IF - Mjällbyn	2 - 4 	HT Re-Live
+	Forest Rovers - Gäddträsket	1 - 2 	HT Re-Live
+	Xpander - Hjärnarp GIF	1 - 1 	HT Re-Live
+	Naughty Trolls - Sluga BK	4 - 1 	HT Re-Live

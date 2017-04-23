@@ -1,0 +1,84 @@
+Omgång  1
+2002-08-25 10:00 			
+	Åsehöjden - Wermdö Trappers	2 - 1 	HT Re-Live
+	Real Español - Inter Sthlm	3 - 1 	HT Re-Live
+	Hebbes vänner - Gaddens IF	4 - 4 	HT Re-Live
+	Scoring Xtreme - Brallorna BK	4 - 0 	HT Re-Live
+Omgång  2
+2002-09-01 10:00 			
+	Gaddens IF - Åsehöjden	1 - 3 	HT Re-Live
+	Brallorna BK - Real Español	1 - 1 	HT Re-Live
+	Wermdö Trappers - Scoring Xtreme	2 - 0 	HT Re-Live
+	Inter Sthlm - Hebbes vänner	3 - 2 	HT Re-Live
+Omgång  3
+2002-09-08 10:00 			
+	Real Español - Wermdö Trappers	2 - 0 	HT Re-Live
+	Hebbes vänner - Brallorna BK	2 - 0 	HT Re-Live
+	Gaddens IF - Inter Sthlm	3 - 5 	HT Re-Live
+	Scoring Xtreme - Åsehöjden	0 - 3 	HT Re-Live
+Omgång  4
+2002-09-15 10:00 			
+	Åsehöjden - Inter Sthlm	3 - 3 	HT Re-Live
+	Brallorna BK - Gaddens IF	1 - 4 	HT Re-Live
+	Wermdö Trappers - Hebbes vänner	3 - 1 	HT Re-Live
+	Scoring Xtreme - Real Español	1 - 2 	HT Re-Live
+Omgång  5
+2002-09-22 10:00 			
+	Real Español - Åsehöjden	3 - 3 	HT Re-Live
+	Hebbes vänner - Scoring Xtreme	2 - 1 	HT Re-Live
+	Gaddens IF - Wermdö Trappers	1 - 2 	HT Re-Live
+	Inter Sthlm - Brallorna BK	5 - 0 	HT Re-Live
+Omgång  6
+2002-09-29 10:00 			
+	Åsehöjden - Brallorna BK	3 - 0 	HT Re-Live
+	Real Español - Hebbes vänner	2 - 2 	HT Re-Live
+	Wermdö Trappers - Inter Sthlm	3 - 2 	HT Re-Live
+	Scoring Xtreme - Gaddens IF	2 - 0 	HT Re-Live
+Omgång  7
+2002-10-06 10:00 			
+	Hebbes vänner - Åsehöjden	3 - 2 	HT Re-Live
+	Gaddens IF - Real Español	3 - 1 	HT Re-Live
+	Brallorna BK - Wermdö Trappers	0 - 3 	HT Re-Live
+	Inter Sthlm - Scoring Xtreme	2 - 2 	HT Re-Live
+Omgång  8
+2002-10-13 10:00 			
+	Scoring Xtreme - Inter Sthlm	2 - 1 	HT Re-Live
+	Wermdö Trappers - Brallorna BK	2 - 0 	HT Re-Live
+	Real Español - Gaddens IF	0 - 4 	HT Re-Live
+	Åsehöjden - Hebbes vänner	7 - 1 	HT Re-Live
+Omgång  9
+2002-10-20 10:00 			
+	Gaddens IF - Scoring Xtreme	5 - 0 	HT Re-Live
+	Inter Sthlm - Wermdö Trappers	0 - 4 	HT Re-Live
+	Hebbes vänner - Real Español	3 - 0 	HT Re-Live
+	Brallorna BK - Åsehöjden	0 - 3 	HT Re-Live
+Omgång  10
+2002-10-27 10:00 			
+	Brallorna BK - Inter Sthlm	0 - 3 	HT Re-Live
+	Wermdö Trappers - Gaddens IF	6 - 2 	HT Re-Live
+	Scoring Xtreme - Hebbes vänner	3 - 0 	HT Re-Live
+	Åsehöjden - Real Español	4 - 0 	HT Re-Live
+Omgång  11
+2002-11-03 10:00 			
+	Real Español - Scoring Xtreme	3 - 1 	HT Re-Live
+	Hebbes vänner - Wermdö Trappers	2 - 5 	HT Re-Live
+	Gaddens IF - Brallorna BK	1 - 0 	HT Re-Live
+	Inter Sthlm - Åsehöjden	5 - 0 	HT Re-Live
+Omgång  12
+2002-11-10 10:00 			
+	Åsehöjden - Scoring Xtreme	4 - 1 	HT Re-Live
+	Inter Sthlm - Gaddens IF	3 - 1 	HT Re-Live
+	Brallorna BK - Hebbes vänner	3 - 0 	HT Re-Live
+	Wermdö Trappers - Real Español	3 - 0 	HT Re-Live
+Omgång  13
+2002-11-17 10:00 			
+	Hebbes vänner - Inter Sthlm	3 - 1 	HT Re-Live
+	Scoring Xtreme - Wermdö Trappers	0 - 1 	HT Re-Live
+	Real Español - Brallorna BK	5 - 0 	HT Re-Live
+	Åsehöjden - Gaddens IF	1 - 1 	HT Re-Live
+Omgång  14
+2002-11-24 10:00 			
+	Brallorna BK - Scoring Xtreme	0 - 2 	HT Re-Live
+	Gaddens IF - Hebbes vänner	6 - 3 	HT Re-Live
+	Inter Sthlm - Real Español	3 - 2 	HT Re-Live
+	Wermdö Trappers - Åsehöjden	2 - 5 	HT Re-Live

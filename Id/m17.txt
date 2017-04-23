@@ -1,0 +1,84 @@
+Omgång  1
+2002-08-25 10:00 			
+	IFK Livergården - IFK FF	3 - 0 	HT Re-Live
+	Kistbärarna - F.C Keeps	3 - 1 	HT Re-Live
+	Uddewalla FC - Babar And Tha Boyz FF	2 - 1 	HT Re-Live
+	FK Sturm - Team Falcon Export	3 - 6 	HT Re-Live
+Omgång  2
+2002-09-01 10:00 			
+	Babar And Tha Boyz FF - IFK Livergården	2 - 2 	HT Re-Live
+	Team Falcon Export - Kistbärarna	6 - 2 	HT Re-Live
+	IFK FF - FK Sturm	3 - 1 	HT Re-Live
+	F.C Keeps - Uddewalla FC	3 - 0 	HT Re-Live
+Omgång  3
+2002-09-08 10:00 			
+	Kistbärarna - IFK FF	0 - 10 	HT Re-Live
+	Uddewalla FC - Team Falcon Export	3 - 3 	HT Re-Live
+	Babar And Tha Boyz FF - F.C Keeps	2 - 7 	HT Re-Live
+	FK Sturm - IFK Livergården	3 - 4 	HT Re-Live
+Omgång  4
+2002-09-15 10:00 			
+	IFK Livergården - F.C Keeps	4 - 1 	HT Re-Live
+	Team Falcon Export - Babar And Tha Boyz FF	7 - 0 	HT Re-Live
+	IFK FF - Uddewalla FC	3 - 0 	HT Re-Live
+	FK Sturm - Kistbärarna	7 - 0 	HT Re-Live
+Omgång  5
+2002-09-22 10:00 			
+	Kistbärarna - IFK Livergården	0 - 11 	HT Re-Live
+	Uddewalla FC - FK Sturm	2 - 3 	HT Re-Live
+	Babar And Tha Boyz FF - IFK FF	0 - 4 	HT Re-Live
+	F.C Keeps - Team Falcon Export	4 - 0 	HT Re-Live
+Omgång  6
+2002-09-29 10:00 			
+	IFK Livergården - Team Falcon Export	5 - 1 	HT Re-Live
+	Kistbärarna - Uddewalla FC	0 - 5 	HT Re-Live
+	IFK FF - F.C Keeps	5 - 0 	HT Re-Live
+	FK Sturm - Babar And Tha Boyz FF	5 - 0 	HT Re-Live
+Omgång  7
+2002-10-06 10:00 			
+	Uddewalla FC - IFK Livergården	2 - 2 	HT Re-Live
+	Babar And Tha Boyz FF - Kistbärarna	9 - 0 	HT Re-Live
+	Team Falcon Export - IFK FF	5 - 0 	HT Re-Live
+	F.C Keeps - FK Sturm	2 - 0 	HT Re-Live
+Omgång  8
+2002-10-13 10:00 			
+	FK Sturm - F.C Keeps	5 - 0 	HT Re-Live
+	IFK FF - Team Falcon Export	2 - 2 	HT Re-Live
+	Kistbärarna - Babar And Tha Boyz FF	0 - 7 	HT Re-Live
+	IFK Livergården - Uddewalla FC	5 - 1 	HT Re-Live
+Omgång  9
+2002-10-20 10:00 			
+	Babar And Tha Boyz FF - FK Sturm	3 - 0 	HT Re-Live
+	F.C Keeps - IFK FF	0 - 1 	HT Re-Live
+	Uddewalla FC - Kistbärarna	5 - 0 	HT Re-Live
+	Team Falcon Export - IFK Livergården	0 - 6 	HT Re-Live
+Omgång  10
+2002-10-27 10:00 			
+	Team Falcon Export - F.C Keeps	0 - 2 	HT Re-Live
+	IFK FF - Babar And Tha Boyz FF	2 - 5 	HT Re-Live
+	FK Sturm - Uddewalla FC	4 - 1 	HT Re-Live
+	IFK Livergården - Kistbärarna	8 - 0 	HT Re-Live
+Omgång  11
+2002-11-03 10:00 			
+	Kistbärarna - FK Sturm	0 - 7 	HT Re-Live
+	Uddewalla FC - IFK FF	3 - 0 	HT Re-Live
+	Babar And Tha Boyz FF - Team Falcon Export	1 - 3 	HT Re-Live
+	F.C Keeps - IFK Livergården	0 - 3 	HT Re-Live
+Omgång  12
+2002-11-10 10:00 			
+	IFK Livergården - FK Sturm	5 - 0 	HT Re-Live
+	F.C Keeps - Babar And Tha Boyz FF	1 - 3 	HT Re-Live
+	Team Falcon Export - Uddewalla FC	4 - 2 	HT Re-Live
+	IFK FF - Kistbärarna	8 - 0 	HT Re-Live
+Omgång  13
+2002-11-17 10:00 			
+	Uddewalla FC - F.C Keeps	1 - 1 	HT Re-Live
+	FK Sturm - IFK FF	3 - 0 	HT Re-Live
+	Kistbärarna - Team Falcon Export	0 - 6 	HT Re-Live
+	IFK Livergården - Babar And Tha Boyz FF	7 - 1 	HT Re-Live
+Omgång  14
+2002-11-24 10:00 			
+	Team Falcon Export - FK Sturm	1 - 3 	HT Re-Live
+	Babar And Tha Boyz FF - Uddewalla FC	6 - 1 	HT Re-Live
+	F.C Keeps - Kistbärarna	8 - 0 	HT Re-Live
+	IFK FF - IFK Livergården	1 - 1 	HT Re-Live

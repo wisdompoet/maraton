@@ -1,0 +1,84 @@
+Omgång  1
+2008-10-12 10:00 			
+	Sundsvall Meanmachines - Norsgatan Kickers	3 - 4 	HT Re-Live
+	FC Kabel 80 - Ambient Underground	5 - 2 	HT Re-Live
+	Den celtiska byn - Bäverhult BK	4 - 0 	HT Re-Live
+	IFK Losers  - FC Corvus Corax	0 - 2 	HT Re-Live
+Omgång  2
+2008-10-19 10:00 			
+	Bäverhult BK - FC Kabel 80	5 - 3 	HT Re-Live
+	Ambient Underground - IFK Losers	2 - 1 	HT Re-Live
+	FC Corvus Corax - Sundsvall Meanmachines	3 - 3 	HT Re-Live
+	Norsgatan Kickers - Den celtiska byn	3 - 3 	HT Re-Live
+Omgång  3
+2008-10-26 10:00 			
+	Sundsvall Meanmachines - Ambient Underground	2 - 0 	HT Re-Live
+	Den celtiska byn - FC Corvus Corax	6 - 1 	HT Re-Live
+	Bäverhult BK - Norsgatan Kickers	3 - 5 	HT Re-Live
+	IFK Losers  - FC Kabel 80	6 - 2 	HT Re-Live
+Omgång  4
+2008-11-02 10:00 			
+	FC Kabel 80 - Norsgatan Kickers	2 - 4 	HT Re-Live
+	FC Corvus Corax - Bäverhult BK	4 - 2 	HT Re-Live
+	Ambient Underground - Den celtiska byn	3 - 0 	HT Re-Live
+	IFK Losers  - Sundsvall Meanmachines	5 - 2 	HT Re-Live
+Omgång  5
+2008-11-09 10:00 			
+	Sundsvall Meanmachines - FC Kabel 80	2 - 5 	HT Re-Live
+	Den celtiska byn - IFK Losers	1 - 6 	HT Re-Live
+	Norsgatan Kickers - FC Corvus Corax	2 - 1 	HT Re-Live
+	Bäverhult BK - Ambient Underground	5 - 2 	HT Re-Live
+Omgång  6
+2008-11-16 10:00 			
+	FC Kabel 80 - FC Corvus Corax	3 - 1 	HT Re-Live
+	Sundsvall Meanmachines - Den celtiska byn	5 - 3 	HT Re-Live
+	Ambient Underground - Norsgatan Kickers	1 - 2 	HT Re-Live
+	IFK Losers  - Bäverhult BK	3 - 4 	HT Re-Live
+Omgång  7
+2008-11-23 10:00 			
+	Den celtiska byn - FC Kabel 80	1 - 2 	HT Re-Live
+	Bäverhult BK - Sundsvall Meanmachines	3 - 2 	HT Re-Live
+	FC Corvus Corax - Ambient Underground	5 - 3 	HT Re-Live
+	Norsgatan Kickers - IFK Losers	5 - 1 	HT Re-Live
+Omgång  8
+2008-11-30 10:00 			
+	IFK Losers  - Norsgatan Kickers	1 - 3 	HT Re-Live
+	Ambient Underground - FC Corvus Corax	3 - 3 	HT Re-Live
+	Sundsvall Meanmachines - Bäverhult BK	2 - 1 	HT Re-Live
+	FC Kabel 80 - Den celtiska byn	4 - 4 	HT Re-Live
+Omgång  9
+2008-12-07 10:00 			
+	Bäverhult BK - IFK Losers	7 - 2 	HT Re-Live
+	Norsgatan Kickers - Ambient Underground	3 - 1 	HT Re-Live
+	Den celtiska byn - Sundsvall Meanmachines	2 - 4 	HT Re-Live
+	FC Corvus Corax - FC Kabel 80	5 - 1 	HT Re-Live
+Omgång  10
+2008-12-14 10:00 			
+	FC Corvus Corax - Norsgatan Kickers	2 - 4 	HT Re-Live
+	Ambient Underground - Bäverhult BK	2 - 3 	HT Re-Live
+	IFK Losers  - Den celtiska byn	6 - 2 	HT Re-Live
+	FC Kabel 80 - Sundsvall Meanmachines	4 - 1 	HT Re-Live
+Omgång  11
+2008-12-21 10:00 			
+	Sundsvall Meanmachines - IFK Losers	3 - 0 	HT Re-Live
+	Den celtiska byn - Ambient Underground	3 - 4 	HT Re-Live
+	Bäverhult BK - FC Corvus Corax	3 - 1 	HT Re-Live
+	Norsgatan Kickers - FC Kabel 80	7 - 1 	HT Re-Live
+Omgång  12
+2008-12-28 10:00 			
+	FC Corvus Corax - Den celtiska byn	3 - 0 	HT Re-Live
+	Norsgatan Kickers - Bäverhult BK	2 - 1 	HT Re-Live
+	FC Kabel 80 - IFK Losers	2 - 2 	HT Re-Live
+	Ambient Underground - Sundsvall Meanmachines	2 - 3 	HT Re-Live
+Omgång  13
+2009-01-04 10:00 			
+	Sundsvall Meanmachines - FC Corvus Corax	2 - 1 	HT Re-Live
+	Den celtiska byn - Norsgatan Kickers	5 - 3 	HT Re-Live
+	IFK Losers  - Ambient Underground	1 - 2 	HT Re-Live
+	FC Kabel 80 - Bäverhult BK	4 - 3 	HT Re-Live
+Omgång  14
+2009-01-11 10:00 			
+	FC Corvus Corax - IFK Losers	2 - 2 	HT Re-Live
+	Norsgatan Kickers - Sundsvall Meanmachines	5 - 1 	HT Re-Live
+	Bäverhult BK - Den celtiska byn	5 - 2 	HT Re-Live
+	Ambient Underground - FC Kabel 80	4 - 0 	HT Re-Live

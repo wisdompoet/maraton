@@ -1,0 +1,84 @@
+Omgång  1
+2005-09-18 10:00 			
+	Inter Sthlm - IFK Livergården 	5 - 0 	HT Re-Live
+	EM Tigers - Gäddträsket 	3 - 1 	HT Re-Live
+	Lokomotiv Lund - Cirkus Brazil Jack 	1 - 5 	HT Re-Live
+	team_ekos - Åshöjdens BK 	2 - 0 	HT Re-Live
+Omgång  2
+2005-09-25 10:00 			
+	Cirkus Brazil Jack - Inter Sthlm 	4 - 4 	HT Re-Live
+	Åshöjdens BK - EM Tigers 	3 - 2 	HT Re-Live
+	IFK Livergården - team_ekos 	1 - 3 	HT Re-Live
+	Gäddträsket - Lokomotiv Lund 	3 - 2 	HT Re-Live
+Omgång  3
+2005-10-02 10:00 			
+	EM Tigers - IFK Livergården 	4 - 1 	HT Re-Live
+	Lokomotiv Lund - Åshöjdens BK 	3 - 1 	HT Re-Live
+	Cirkus Brazil Jack - Gäddträsket 	3 - 4 	HT Re-Live
+	team_ekos - Inter Sthlm 	1 - 3 	HT Re-Live
+Omgång  4
+2005-10-09 10:00 			
+	Inter Sthlm - Gäddträsket 	9 - 2 	HT Re-Live
+	Åshöjdens BK - Cirkus Brazil Jack 	2 - 4 	HT Re-Live
+	IFK Livergården - Lokomotiv Lund 	3 - 1 	HT Re-Live
+	team_ekos - EM Tigers 	4 - 2 	HT Re-Live
+Omgång  5
+2005-10-16 10:00 			
+	EM Tigers - Inter Sthlm 	3 - 1 	HT Re-Live
+	Lokomotiv Lund - team_ekos 	1 - 8 	HT Re-Live
+	Cirkus Brazil Jack - IFK Livergården 	4 - 3 	HT Re-Live
+	Gäddträsket - Åshöjdens BK 	4 - 1 	HT Re-Live
+Omgång  6
+2005-10-23 10:00 			
+	Inter Sthlm - Åshöjdens BK 	5 - 2 	HT Re-Live
+	EM Tigers - Lokomotiv Lund 	2 - 1 	HT Re-Live
+	IFK Livergården - Gäddträsket 	3 - 2 	HT Re-Live
+	team_ekos - Cirkus Brazil Jack 	4 - 3 	HT Re-Live
+Omgång  7
+2005-10-30 10:00 			
+	Lokomotiv Lund - Inter Sthlm 	1 - 5 	HT Re-Live
+	Cirkus Brazil Jack - EM Tigers 	5 - 1 	HT Re-Live
+	Åshöjdens BK - IFK Livergården 	2 - 1 	HT Re-Live
+	Gäddträsket - team_ekos 	2 - 3 	HT Re-Live
+Omgång  8
+2005-11-06 10:00 			
+	team_ekos - Gäddträsket 	3 - 1 	HT Re-Live
+	IFK Livergården - Åshöjdens BK 	0 - 5 	HT Re-Live
+	EM Tigers - Cirkus Brazil Jack 	3 - 3 	HT Re-Live
+	Inter Sthlm - Lokomotiv Lund 	4 - 0 	HT Re-Live
+Omgång  9
+2005-11-13 10:00 			
+	Cirkus Brazil Jack - team_ekos 	1 - 3 	HT Re-Live
+	Gäddträsket - IFK Livergården 	5 - 0 	HT Re-Live
+	Lokomotiv Lund - EM Tigers 	4 - 3 	HT Re-Live
+	Åshöjdens BK - Inter Sthlm 	0 - 5 	HT Re-Live
+Omgång  10
+2005-11-20 10:00 			
+	Åshöjdens BK - Gäddträsket 	2 - 1 	HT Re-Live
+	IFK Livergården - Cirkus Brazil Jack 	0 - 5 	HT Re-Live
+	team_ekos - Lokomotiv Lund 	4 - 2 	HT Re-Live
+	Inter Sthlm - EM Tigers 	3 - 4 	HT Re-Live
+Omgång  11
+2005-11-27 10:00 			
+	EM Tigers - team_ekos 	4 - 4 	HT Re-Live
+	Lokomotiv Lund - IFK Livergården 	5 - 0 	HT Re-Live
+	Cirkus Brazil Jack - Åshöjdens BK 	1 - 0 	HT Re-Live
+	Gäddträsket - Inter Sthlm 	0 - 3 	HT Re-Live
+Omgång  12
+2005-12-04 10:00 			
+	Inter Sthlm - team_ekos 	4 - 2 	HT Re-Live
+	Gäddträsket - Cirkus Brazil Jack 	4 - 1 	HT Re-Live
+	Åshöjdens BK - Lokomotiv Lund 	3 - 2 	HT Re-Live
+	IFK Livergården - EM Tigers 	0 - 5 	HT Re-Live
+Omgång  13
+2005-12-11 10:00 			
+	Lokomotiv Lund - Gäddträsket 	2 - 2 	HT Re-Live
+	team_ekos - IFK Livergården 	5 - 0 	HT Re-Live
+	EM Tigers - Åshöjdens BK 	2 - 1 	HT Re-Live
+	Inter Sthlm - Cirkus Brazil Jack 	2 - 1 	HT Re-Live
+Omgång  14
+2005-12-18 10:00 			
+	Åshöjdens BK - team_ekos 	9 - 0 	HT Re-Live
+	Cirkus Brazil Jack - Lokomotiv Lund 	6 - 3 	HT Re-Live
+	Gäddträsket - EM Tigers 	1 - 4 	HT Re-Live
+	IFK Livergården - Inter Sthlm 	0 - 5 	HT Re-Live

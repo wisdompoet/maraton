@@ -1,0 +1,84 @@
+Omgång  1
+2006-08-20 10:00 			
+	Lokomotiv Lund - IK Frisco 	2 - 2 	HT Re-Live
+	Kungshamra tåfjutters - Cirkus Brazil Jack 	4 - 3 	HT Re-Live
+	EM Tigers - Neonic FC 	2 - 5 	HT Re-Live
+	fumpen - Skansholms SK 	1 - 1 	HT Re-Live
+Omgång  2
+2006-08-27 10:00 			
+	Neonic FC - fumpen 	7 - 0 	HT Re-Live
+	Cirkus Brazil Jack - Lokomotiv Lund 	4 - 4 	HT Re-Live
+	IK Frisco - EM Tigers 	3 - 1 	HT Re-Live
+	Skansholms SK - Kungshamra tåfjutters 	3 - 1 	HT Re-Live
+Omgång  3
+2006-09-03 10:00 			
+	Neonic FC - IK Frisco 	6 - 3 	HT Re-Live
+	Lokomotiv Lund - Skansholms SK 	4 - 3 	HT Re-Live
+	Kungshamra tåfjutters - fumpen 	2 - 2 	HT Re-Live
+	EM Tigers - Cirkus Brazil Jack 	2 - 2 	HT Re-Live
+Omgång  4
+2006-09-10 10:00 			
+	Kungshamra tåfjutters - Lokomotiv Lund 	5 - 0 	HT Re-Live
+	fumpen - IK Frisco 	3 - 0 	HT Re-Live
+	Skansholms SK - EM Tigers 	2 - 0 	HT Re-Live
+	Cirkus Brazil Jack - Neonic FC 	1 - 1 	HT Re-Live
+Omgång  5
+2006-09-17 10:00 			
+	EM Tigers - Kungshamra tåfjutters 	5 - 1 	HT Re-Live
+	IK Frisco - Cirkus Brazil Jack 	5 - 0 	HT Re-Live
+	Neonic FC - Skansholms SK 	5 - 0 	HT Re-Live
+	Lokomotiv Lund - fumpen 	2 - 2 	HT Re-Live
+Omgång  6
+2006-09-24 10:00 			
+	Kungshamra tåfjutters - Neonic FC 	1 - 3 	HT Re-Live
+	fumpen - Cirkus Brazil Jack 	4 - 2 	HT Re-Live
+	Skansholms SK - IK Frisco 	1 - 4 	HT Re-Live
+	Lokomotiv Lund - EM Tigers 	2 - 1 	HT Re-Live
+Omgång  7
+2006-10-01 10:00 			
+	EM Tigers - fumpen 	1 - 2 	HT Re-Live
+	Cirkus Brazil Jack - Skansholms SK 	3 - 1 	HT Re-Live
+	Neonic FC - Lokomotiv Lund 	3 - 2 	HT Re-Live
+	IK Frisco - Kungshamra tåfjutters 	2 - 0 	HT Re-Live
+Omgång  8
+2006-10-08 10:00 			
+	Skansholms SK - Cirkus Brazil Jack 	4 - 2 	HT Re-Live
+	Kungshamra tåfjutters - IK Frisco 	4 - 2 	HT Re-Live
+	Lokomotiv Lund - Neonic FC 	1 - 1 	HT Re-Live
+	fumpen - EM Tigers 	3 - 2 	HT Re-Live
+Omgång  9
+2006-10-15 10:00 			
+	Neonic FC - Kungshamra tåfjutters 	3 - 0 	HT Re-Live
+	Cirkus Brazil Jack - fumpen 	3 - 0 	HT Re-Live
+	EM Tigers - Lokomotiv Lund 	4 - 2 	HT Re-Live
+	IK Frisco - Skansholms SK 	2 - 4 	HT Re-Live
+Omgång  10
+2006-10-22 10:00 			
+	Cirkus Brazil Jack - IK Frisco 	3 - 1 	HT Re-Live
+	Skansholms SK - Neonic FC 	1 - 5 	HT Re-Live
+	Kungshamra tåfjutters - EM Tigers 	5 - 3 	HT Re-Live
+	fumpen - Lokomotiv Lund 	2 - 0 	HT Re-Live
+Omgång  11
+2006-10-29 10:00 			
+	Lokomotiv Lund - Kungshamra tåfjutters 	4 - 1 	HT Re-Live
+	EM Tigers - Skansholms SK 	5 - 4 	HT Re-Live
+	IK Frisco - fumpen 	2 - 0 	HT Re-Live
+	Neonic FC - Cirkus Brazil Jack 	2 - 6 	HT Re-Live
+Omgång  12
+2006-11-05 10:00 			
+	fumpen - Kungshamra tåfjutters 	1 - 0 	HT Re-Live
+	Cirkus Brazil Jack - EM Tigers 	7 - 1 	HT Re-Live
+	IK Frisco - Neonic FC 	3 - 0 	HT Re-Live
+	Skansholms SK - Lokomotiv Lund 	5 - 1 	HT Re-Live
+Omgång  13
+2006-11-12 10:00 			
+	EM Tigers - IK Frisco 	2 - 2 	HT Re-Live
+	Lokomotiv Lund - Cirkus Brazil Jack 	5 - 2 	HT Re-Live
+	Kungshamra tåfjutters - Skansholms SK 	5 - 2 	HT Re-Live
+	fumpen - Neonic FC 	0 - 2 	HT Re-Live
+Omgång  14
+2006-11-19 10:00 			
+	Cirkus Brazil Jack - Kungshamra tåfjutters 	5 - 1 	HT Re-Live
+	Neonic FC - EM Tigers 	2 - 4 	HT Re-Live
+	Skansholms SK - fumpen 	7 - 0 	HT Re-Live
+	IK Frisco - Lokomotiv Lund 	3 - 4 	HT Re-Live

@@ -1,0 +1,84 @@
+Omgång  1
+2001-06-03 10:00 			
+	Baloo BK - Swemporri	3 - 0 	HT Re-Live
+	Ljungans FF - Dynamo Patricia	0 - 2 	HT Re-Live
+	SvinArne IF - IFK Svanen	1 - 1 	HT Re-Live
+	Gubbängen IF - Pecka´s Boys	0 - 3 	HT Re-Live
+Omgång  2
+2001-06-10 10:00 			
+	IFK Svanen - Baloo BK	0 - 0 	HT Re-Live
+	Pecka´s Boys - Ljungans FF	3 - 0 	HT Re-Live
+	Swemporri - Gubbängen IF	3 - 0 	HT Re-Live
+	Dynamo Patricia - SvinArne IF	5 - 3 	HT Re-Live
+Omgång  3
+2001-06-17 10:00 			
+	Ljungans FF - Swemporri	1 - 2 	HT Re-Live
+	SvinArne IF - Pecka´s Boys	3 - 2 	HT Re-Live
+	IFK Svanen - Dynamo Patricia	2 - 2 	HT Re-Live
+	Gubbängen IF - Baloo BK	2 - 1 	HT Re-Live
+Omgång  4
+2001-06-24 10:00 			
+	Baloo BK - Dynamo Patricia	3 - 0 	HT Re-Live
+	Pecka´s Boys - IFK Svanen	0 - 2 	HT Re-Live
+	Swemporri - SvinArne IF	5 - 1 	HT Re-Live
+	Gubbängen IF - Ljungans FF	1 - 1 	HT Re-Live
+Omgång  5
+2001-07-01 10:00 			
+	Ljungans FF - Baloo BK	0 - 1 	HT Re-Live
+	SvinArne IF - Gubbängen IF	4 - 1 	HT Re-Live
+	IFK Svanen - Swemporri	2 - 2 	HT Re-Live
+	Dynamo Patricia - Pecka´s Boys	4 - 2 	HT Re-Live
+Omgång  6
+2001-07-08 10:00 			
+	Baloo BK - Pecka´s Boys	2 - 3 	HT Re-Live
+	Ljungans FF - SvinArne IF	3 - 2 	HT Re-Live
+	Swemporri - Dynamo Patricia	6 - 1 	HT Re-Live
+	Gubbängen IF - IFK Svanen	1 - 1 	HT Re-Live
+Omgång  7
+2001-07-15 10:00 			
+	SvinArne IF - Baloo BK	4 - 0 	HT Re-Live
+	IFK Svanen - Ljungans FF	0 - 0 	HT Re-Live
+	Pecka´s Boys - Swemporri	2 - 2 	HT Re-Live
+	Dynamo Patricia - Gubbängen IF	5 - 0 	HT Re-Live
+Omgång  8
+2001-07-22 10:00 			
+	Gubbängen IF - Dynamo Patricia	1 - 2 	HT Re-Live
+	Swemporri - Pecka´s Boys	6 - 0 	HT Re-Live
+	Ljungans FF - IFK Svanen	3 - 0 	HT Re-Live
+	Baloo BK - SvinArne IF	3 - 0 	HT Re-Live
+Omgång  9
+2001-07-29 10:00 			
+	IFK Svanen - Gubbängen IF	0 - 0 	HT Re-Live
+	Dynamo Patricia - Swemporri	4 - 3 	HT Re-Live
+	SvinArne IF - Ljungans FF	1 - 0 	HT Re-Live
+	Pecka´s Boys - Baloo BK	2 - 0 	HT Re-Live
+Omgång  10
+2001-08-05 10:00 			
+	Pecka´s Boys - Dynamo Patricia	2 - 3 	HT Re-Live
+	Swemporri - IFK Svanen	2 - 2 	HT Re-Live
+	Gubbängen IF - SvinArne IF	3 - 0 	HT Re-Live
+	Baloo BK - Ljungans FF	3 - 1 	HT Re-Live
+Omgång  11
+2001-08-12 10:00 			
+	Ljungans FF - Gubbängen IF	1 - 0 	HT Re-Live
+	SvinArne IF - Swemporri	3 - 3 	HT Re-Live
+	IFK Svanen - Pecka´s Boys	2 - 0 	HT Re-Live
+	Dynamo Patricia - Baloo BK	0 - 1 	HT Re-Live
+Omgång  12
+2001-08-19 10:00 			
+	Baloo BK - Gubbängen IF	3 - 1 	HT Re-Live
+	Dynamo Patricia - IFK Svanen	6 - 0 	HT Re-Live
+	Pecka´s Boys - SvinArne IF	3 - 0 	HT Re-Live
+	Swemporri - Ljungans FF	4 - 1 	HT Re-Live
+Omgång  13
+2001-08-26 10:00 			
+	SvinArne IF - Dynamo Patricia	2 - 1 	HT Re-Live
+	Gubbängen IF - Swemporri	2 - 1 	HT Re-Live
+	Ljungans FF - Pecka´s Boys	1 - 0 	HT Re-Live
+	Baloo BK - IFK Svanen	2 - 0 	HT Re-Live
+Omgång  14
+2001-09-02 10:00 			
+	Pecka´s Boys - Gubbängen IF	0 - 1 	HT Re-Live
+	IFK Svanen - SvinArne IF	3 - 1 	HT Re-Live
+	Dynamo Patricia - Ljungans FF	1 - 5 	HT Re-Live
+	Swemporri - Baloo BK	1 - 5 	HT Re-Live

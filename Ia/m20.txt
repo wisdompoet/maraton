@@ -1,0 +1,84 @@
+Omgång  1
+2003-07-27 10:00 			
+	Åshöjdens BK - Salomon Islands	3 - 1 	HT Re-Live
+	Starwars - Brunkongarnas FF	3 - 1 	HT Re-Live
+	Jäderfors SK - Hallåellers	2 - 3 	HT Re-Live
+	TK-Softies - Nätets FF	0 - 0 	HT Re-Live
+Omgång  2
+2003-08-03 10:00 			
+	Hallåellers - Åshöjdens BK	2 - 2 	HT Re-Live
+	Nätets FF - Starwars	6 - 2 	HT Re-Live
+	Salomon Islands - TK-Softies	1 - 1 	HT Re-Live
+	Brunkongarnas FF - Jäderfors SK	3 - 3 	HT Re-Live
+Omgång  3
+2003-08-10 10:00 			
+	Starwars - Salomon Islands	1 - 5 	HT Re-Live
+	Jäderfors SK - Nätets FF	4 - 0 	HT Re-Live
+	Hallåellers - Brunkongarnas FF	4 - 2 	HT Re-Live
+	TK-Softies - Åshöjdens BK	1 - 3 	HT Re-Live
+Omgång  4
+2003-08-17 10:00 			
+	Åshöjdens BK - Brunkongarnas FF	7 - 0 	HT Re-Live
+	Nätets FF - Hallåellers	2 - 0 	HT Re-Live
+	Salomon Islands - Jäderfors SK	3 - 2 	HT Re-Live
+	TK-Softies - Starwars	2 - 3 	HT Re-Live
+Omgång  5
+2003-08-24 10:00 			
+	Starwars - Åshöjdens BK	0 - 0 	HT Re-Live
+	Jäderfors SK - TK-Softies	4 - 2 	HT Re-Live
+	Hallåellers - Salomon Islands	5 - 3 	HT Re-Live
+	Brunkongarnas FF - Nätets FF	2 - 3 	HT Re-Live
+Omgång  6
+2003-08-31 10:00 			
+	Åshöjdens BK - Nätets FF	0 - 2 	HT Re-Live
+	Starwars - Jäderfors SK	1 - 4 	HT Re-Live
+	Salomon Islands - Brunkongarnas FF	4 - 2 	HT Re-Live
+	TK-Softies - Hallåellers	1 - 1 	HT Re-Live
+Omgång  7
+2003-09-07 10:00 			
+	Jäderfors SK - Åshöjdens BK	4 - 0 	HT Re-Live
+	Hallåellers - Starwars	4 - 2 	HT Re-Live
+	Nätets FF - Salomon Islands	1 - 4 	HT Re-Live
+	Brunkongarnas FF - TK-Softies	0 - 4 	HT Re-Live
+Omgång  8
+2003-09-14 10:00 			
+	TK-Softies - Brunkongarnas FF	6 - 0 	HT Re-Live
+	Salomon Islands - Nätets FF	3 - 2 	HT Re-Live
+	Starwars - Hallåellers	1 - 1 	HT Re-Live
+	Åshöjdens BK - Jäderfors SK	4 - 2 	HT Re-Live
+Omgång  9
+2003-09-21 10:00 			
+	Hallåellers - TK-Softies	3 - 0 	HT Re-Live
+	Brunkongarnas FF - Salomon Islands	0 - 8 	HT Re-Live
+	Jäderfors SK - Starwars	2 - 3 	HT Re-Live
+	Nätets FF - Åshöjdens BK	4 - 1 	HT Re-Live
+Omgång  10
+2003-09-28 10:00 			
+	Nätets FF - Brunkongarnas FF	5 - 0 	HT Re-Live
+	Salomon Islands - Hallåellers	6 - 0 	HT Re-Live
+	TK-Softies - Jäderfors SK	4 - 3 	HT Re-Live
+	Åshöjdens BK - Starwars	6 - 1 	HT Re-Live
+Omgång  11
+2003-10-05 10:00 			
+	Starwars - TK-Softies	2 - 1 	HT Re-Live
+	Jäderfors SK - Salomon Islands	1 - 2 	HT Re-Live
+	Hallåellers - Nätets FF	0 - 3 	HT Re-Live
+	Brunkongarnas FF - Åshöjdens BK	0 - 2 	HT Re-Live
+Omgång  12
+2003-10-12 10:00 			
+	Åshöjdens BK - TK-Softies	0 - 0 	HT Re-Live
+	Brunkongarnas FF - Hallåellers	0 - 4 	HT Re-Live
+	Nätets FF - Jäderfors SK	2 - 1 	HT Re-Live
+	Salomon Islands - Starwars	6 - 2 	HT Re-Live
+Omgång  13
+2003-10-19 10:00 			
+	Jäderfors SK - Brunkongarnas FF	4 - 0 	HT Re-Live
+	TK-Softies - Salomon Islands	2 - 3 	HT Re-Live
+	Starwars - Nätets FF	3 - 2 	HT Re-Live
+	Åshöjdens BK - Hallåellers	5 - 0 	HT Re-Live
+Omgång  14
+2003-10-26 10:00 			
+	Nätets FF - TK-Softies	3 - 1 	HT Re-Live
+	Hallåellers - Jäderfors SK	4 - 1 	HT Re-Live
+	Brunkongarnas FF - Starwars	2 - 4 	HT Re-Live
+	Salomon Islands - Åshöjdens BK	2 - 2 	HT Re-Live

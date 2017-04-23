@@ -1,0 +1,84 @@
+Omgång  1
+2009-09-13 10:00 			
+	Ultras Stockholm FC - SkalBolaget BK	3 - 4 	HT Re-Live
+	Södra Malmens IF - Team ugly	5 - 0 	HT Re-Live
+	Dynamo Kebab - Korsudden	4 - 5 	HT Re-Live
+	FC Volrat - Hestra2000	3 - 1 	HT Re-Live
+Omgång  2
+2009-09-20 10:00 			
+	Team ugly - Dynamo Kebab	1 - 2 	HT Re-Live
+	Korsudden - Ultras Stockholm FC	2 - 9 	HT Re-Live
+	Hestra2000 - Södra Malmens IF	4 - 3 	HT Re-Live
+	SkalBolaget BK - FC Volrat	2 - 3 	HT Re-Live
+Omgång  3
+2009-09-27 10:00 			
+	Ultras Stockholm FC - Team ugly	3 - 2 	HT Re-Live
+	Södra Malmens IF - FC Volrat	5 - 0 	HT Re-Live
+	SkalBolaget BK - Korsudden	6 - 0 	HT Re-Live
+	Dynamo Kebab - Hestra2000	4 - 1 	HT Re-Live
+Omgång  4
+2009-10-04 10:00 			
+	Södra Malmens IF - Dynamo Kebab	3 - 4 	HT Re-Live
+	Team ugly - SkalBolaget BK	1 - 0 	HT Re-Live
+	Hestra2000 - Ultras Stockholm FC	2 - 2 	HT Re-Live
+	FC Volrat - Korsudden	4 - 3 	HT Re-Live
+Omgång  5
+2009-10-11 10:00 			
+	Korsudden - Team ugly	4 - 4 	HT Re-Live
+	SkalBolaget BK - Hestra2000	1 - 2 	HT Re-Live
+	Ultras Stockholm FC - Södra Malmens IF	2 - 5 	HT Re-Live
+	Dynamo Kebab - FC Volrat	5 - 2 	HT Re-Live
+Omgång  6
+2009-10-18 10:00 			
+	Södra Malmens IF - SkalBolaget BK	4 - 1 	HT Re-Live
+	Hestra2000 - Korsudden	4 - 0 	HT Re-Live
+	Dynamo Kebab - Ultras Stockholm FC	3 - 1 	HT Re-Live
+	FC Volrat - Team ugly	2 - 2 	HT Re-Live
+Omgång  7
+2009-10-25 10:00 			
+	Team ugly - Hestra2000	3 - 0 	HT Re-Live
+	Korsudden - Södra Malmens IF	1 - 5 	HT Re-Live
+	SkalBolaget BK - Dynamo Kebab	0 - 10 	HT Re-Live
+	Ultras Stockholm FC - FC Volrat	3 - 5 	HT Re-Live
+Omgång  8
+2009-11-01 10:00 			
+	FC Volrat - Ultras Stockholm FC	3 - 0 	HT Re-Live
+	Dynamo Kebab - SkalBolaget BK	10 - 0 	HT Re-Live
+	Hestra2000 - Team ugly	2 - 0 	HT Re-Live
+	Södra Malmens IF - Korsudden	3 - 0 	HT Re-Live
+Omgång  9
+2009-11-08 10:00 			
+	Team ugly - FC Volrat	3 - 2 	HT Re-Live
+	Ultras Stockholm FC - Dynamo Kebab	3 - 3 	HT Re-Live
+	Korsudden - Hestra2000	0 - 4 	HT Re-Live
+	SkalBolaget BK - Södra Malmens IF	1 - 9 	HT Re-Live
+Omgång  10
+2009-11-15 10:00 			
+	FC Volrat - Dynamo Kebab	2 - 3 	HT Re-Live
+	Södra Malmens IF - Ultras Stockholm FC	6 - 1 	HT Re-Live
+	Team ugly - Korsudden	3 - 1 	HT Re-Live
+	Hestra2000 - SkalBolaget BK	10 - 0 	HT Re-Live
+Omgång  11
+2009-11-22 10:00 			
+	Korsudden - FC Volrat	7 - 0 	HT Re-Live
+	SkalBolaget BK - Team ugly	1 - 9 	HT Re-Live
+	Ultras Stockholm FC - Hestra2000	2 - 1 	HT Re-Live
+	Dynamo Kebab - Södra Malmens IF	0 - 2 	HT Re-Live
+Omgång  12
+2009-11-29 10:00 			
+	Team ugly - Ultras Stockholm FC	4 - 1 	HT Re-Live
+	Hestra2000 - Dynamo Kebab	2 - 5 	HT Re-Live
+	Korsudden - SkalBolaget BK	5 - 1 	HT Re-Live
+	FC Volrat - Södra Malmens IF	2 - 5 	HT Re-Live
+Omgång  13
+2009-12-06 10:00 			
+	FC Volrat - SkalBolaget BK	7 - 0 	HT Re-Live
+	Dynamo Kebab - Team ugly	2 - 1 	HT Re-Live
+	Södra Malmens IF - Hestra2000	6 - 2 	HT Re-Live
+	Ultras Stockholm FC - Korsudden	4 - 1 	HT Re-Live
+Omgång  14
+2009-12-13 10:00 			
+	Korsudden - Dynamo Kebab	0 - 9 	HT Re-Live
+	Hestra2000 - FC Volrat	5 - 1 	HT Re-Live
+	SkalBolaget BK - Ultras Stockholm FC	0 - 4 	HT Re-Live
+	Team ugly - Södra Malmens IF	1 - 6 	HT Re-Live

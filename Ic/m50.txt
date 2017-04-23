@@ -1,0 +1,84 @@
+Omgång  1
+2012-10-07 10:00 			
+	Cirkus Brazil Jack - IFK Grisfotboll	3 - 3 	HT Re-Live
+	fibborna - Playboys Us	2 - 0 	HT Re-Live
+	413 United - Djurgården 71s Götecastleuleå HF	4 - 3 	HT Re-Live
+	FBKkrossen - Södra Rovers	2 - 4 	HT Re-Live
+Omgång  2
+2012-10-14 10:00 			
+	Playboys Us - 413 United	0 - 1 	HT Re-Live
+	Djurgården 71s Götecastleuleå HF - Cirkus Brazil Jack	1 - 2 	HT Re-Live
+	IFK Grisfotboll - FBKkrossen	2 - 0 	HT Re-Live
+	Södra Rovers - fibborna	1 - 0 	HT Re-Live
+Omgång  3
+2012-10-21 10:00 			
+	413 United - fibborna	3 - 0 	HT Re-Live
+	Djurgården 71s Götecastleuleå HF - IFK Grisfotboll	2 - 1 	HT Re-Live
+	Cirkus Brazil Jack - Södra Rovers	6 - 1 	HT Re-Live
+	FBKkrossen - Playboys Us	2 - 2 	HT Re-Live
+Omgång  4
+2012-10-28 10:00 			
+	Playboys Us - Cirkus Brazil Jack	2 - 4 	HT Re-Live
+	IFK Grisfotboll - 413 United	3 - 1 	HT Re-Live
+	fibborna - FBKkrossen	1 - 1 	HT Re-Live
+	Södra Rovers - Djurgården 71s Götecastleuleå HF	1 - 5 	HT Re-Live
+Omgång  5
+2012-11-04 10:00 			
+	Cirkus Brazil Jack - FBKkrossen	3 - 1 	HT Re-Live
+	Djurgården 71s Götecastleuleå HF - fibborna	4 - 1 	HT Re-Live
+	413 United - Södra Rovers	4 - 1 	HT Re-Live
+	IFK Grisfotboll - Playboys Us	1 - 2 	HT Re-Live
+Omgång  6
+2012-11-11 10:00 			
+	FBKkrossen - 413 United	1 - 0 	HT Re-Live
+	fibborna - Cirkus Brazil Jack	1 - 0 	HT Re-Live
+	Playboys Us - Djurgården 71s Götecastleuleå HF	1 - 1 	HT Re-Live
+	Södra Rovers - IFK Grisfotboll	3 - 3 	HT Re-Live
+Omgång  7
+2012-11-18 10:00 			
+	Djurgården 71s Götecastleuleå HF - FBKkrossen	3 - 2 	HT Re-Live
+	IFK Grisfotboll - fibborna	2 - 0 	HT Re-Live
+	Playboys Us - Södra Rovers	4 - 1 	HT Re-Live
+	Cirkus Brazil Jack - 413 United	1 - 1 	HT Re-Live
+Omgång  8
+2012-11-25 10:00 			
+	413 United - Cirkus Brazil Jack	2 - 3 	HT Re-Live
+	Södra Rovers - Playboys Us	4 - 0 	HT Re-Live
+	FBKkrossen - Djurgården 71s Götecastleuleå HF	0 - 0 	HT Re-Live
+	fibborna - IFK Grisfotboll	0 - 1 	HT Re-Live
+Omgång  9
+2012-12-02 10:00 			
+	Djurgården 71s Götecastleuleå HF - Playboys Us	2 - 2 	HT Re-Live
+	413 United - FBKkrossen	6 - 2 	HT Re-Live
+	Cirkus Brazil Jack - fibborna	5 - 1 	HT Re-Live
+	IFK Grisfotboll - Södra Rovers	4 - 3 	HT Re-Live
+Omgång  10
+2012-12-09 10:00 			
+	Södra Rovers - 413 United	0 - 4 	HT Re-Live
+	fibborna - Djurgården 71s Götecastleuleå HF	5 - 4 	HT Re-Live
+	Playboys Us - IFK Grisfotboll	1 - 2 	HT Re-Live
+	FBKkrossen - Cirkus Brazil Jack	1 - 4 	HT Re-Live
+Omgång  11
+2012-12-16 10:00 			
+	Djurgården 71s Götecastleuleå HF - Södra Rovers	6 - 3 	HT Re-Live
+	FBKkrossen - fibborna	2 - 3 	HT Re-Live
+	413 United - IFK Grisfotboll	0 - 2 	HT Re-Live
+	Cirkus Brazil Jack - Playboys Us	4 - 0 	HT Re-Live
+Omgång  12
+2012-12-23 10:00 			
+	Playboys Us - FBKkrossen	0 - 0 	HT Re-Live
+	IFK Grisfotboll - Djurgården 71s Götecastleuleå HF	3 - 1 	HT Re-Live
+	Södra Rovers - Cirkus Brazil Jack	1 - 7 	HT Re-Live
+	fibborna - 413 United	2 - 6 	HT Re-Live
+Omgång  13
+2012-12-30 10:00 			
+	413 United - Playboys Us	1 - 0 	HT Re-Live
+	Cirkus Brazil Jack - Djurgården 71s Götecastleuleå HF	1 - 4 	HT Re-Live
+	fibborna - Södra Rovers	4 - 1 	HT Re-Live
+	FBKkrossen - IFK Grisfotboll	2 - 2 	HT Re-Live
+Omgång  14
+2013-01-06 10:00 			
+	IFK Grisfotboll - Cirkus Brazil Jack	4 - 3 	HT Re-Live
+	Playboys Us - fibborna	4 - 0 	HT Re-Live
+	Djurgården 71s Götecastleuleå HF - 413 United	3 - 3 	HT Re-Live
+	Södra Rovers - FBKkrossen	1 - 4 	HT Re-Live

@@ -1,0 +1,84 @@
+Omgång  1
+2010-01-03 10:00 			
+	Coffin Nibblers - Cornelis United	2 - 0 	HT Re-Live
+	Djurgården 71s Götecastleuleå HF - Ambitious Outsiders	3 - 1 	HT Re-Live
+	Freddans Angels - Estö BK	3 - 0 	HT Re-Live
+	Ambient Underground - Vittjärv Stars	2 - 2 	HT Re-Live
+Omgång  2
+2010-01-10 10:00 			
+	Estö BK - Coffin Nibblers	2 - 0 	HT Re-Live
+	Vittjärv Stars - Djurgården 71s Götecastleuleå HF	2 - 1 	HT Re-Live
+	Cornelis United - Ambient Underground	1 - 1 	HT Re-Live
+	Ambitious Outsiders - Freddans Angels	0 - 1 	HT Re-Live
+Omgång  3
+2010-01-17 10:00 			
+	Djurgården 71s Götecastleuleå HF - Cornelis United	4 - 1 	HT Re-Live
+	Ambient Underground - Coffin Nibblers	5 - 0 	HT Re-Live
+	Freddans Angels - Vittjärv Stars	6 - 0 	HT Re-Live
+	Estö BK - Ambitious Outsiders	2 - 2 	HT Re-Live
+Omgång  4
+2010-01-24 10:00 			
+	Coffin Nibblers - Ambitious Outsiders	0 - 8 	HT Re-Live
+	Vittjärv Stars - Estö BK	3 - 0 	HT Re-Live
+	Cornelis United - Freddans Angels	0 - 3 	HT Re-Live
+	Ambient Underground - Djurgården 71s Götecastleuleå HF	2 - 3 	HT Re-Live
+Omgång  5
+2010-01-31 10:00 			
+	Freddans Angels - Ambient Underground	1 - 2 	HT Re-Live
+	Djurgården 71s Götecastleuleå HF - Coffin Nibblers	7 - 2 	HT Re-Live
+	Estö BK - Cornelis United	2 - 2 	HT Re-Live
+	Ambitious Outsiders - Vittjärv Stars	6 - 0 	HT Re-Live
+Omgång  6
+2010-02-07 10:00 			
+	Coffin Nibblers - Vittjärv Stars	0 - 6 	HT Re-Live
+	Cornelis United - Ambitious Outsiders	2 - 0 	HT Re-Live
+	Ambient Underground - Estö BK	6 - 1 	HT Re-Live
+	Djurgården 71s Götecastleuleå HF - Freddans Angels	1 - 3 	HT Re-Live
+Omgång  7
+2010-02-14 10:00 			
+	Freddans Angels - Coffin Nibblers	11 - 0 	HT Re-Live
+	Vittjärv Stars - Cornelis United	1 - 3 	HT Re-Live
+	Estö BK - Djurgården 71s Götecastleuleå HF	4 - 0 	HT Re-Live
+	Ambitious Outsiders - Ambient Underground	4 - 2 	HT Re-Live
+Omgång  8
+2010-02-21 10:00 			
+	Cornelis United - Vittjärv Stars	4 - 2 	HT Re-Live
+	Ambient Underground - Ambitious Outsiders	3 - 1 	HT Re-Live
+	Djurgården 71s Götecastleuleå HF - Estö BK	3 - 0 	HT Re-Live
+	Coffin Nibblers - Freddans Angels	0 - 10 	HT Re-Live
+Omgång  9
+2010-02-28 10:00 			
+	Estö BK - Ambient Underground	3 - 4 	HT Re-Live
+	Vittjärv Stars - Coffin Nibblers	9 - 0 	HT Re-Live
+	Freddans Angels - Djurgården 71s Götecastleuleå HF	4 - 3 	HT Re-Live
+	Ambitious Outsiders - Cornelis United	4 - 1 	HT Re-Live
+Omgång  10
+2010-03-07 10:00 			
+	Vittjärv Stars - Ambitious Outsiders	3 - 2 	HT Re-Live
+	Cornelis United - Estö BK	6 - 0 	HT Re-Live
+	Ambient Underground - Freddans Angels	1 - 4 	HT Re-Live
+	Coffin Nibblers - Djurgården 71s Götecastleuleå HF	0 - 9 	HT Re-Live
+Omgång  11
+2010-03-14 10:00 			
+	Djurgården 71s Götecastleuleå HF - Ambient Underground	1 - 1 	HT Re-Live
+	Freddans Angels - Cornelis United	2 - 0 	HT Re-Live
+	Ambitious Outsiders - Coffin Nibblers	10 - 0 	HT Re-Live
+	Estö BK - Vittjärv Stars	0 - 1 	HT Re-Live
+Omgång  12
+2010-03-21 10:00 			
+	Coffin Nibblers - Ambient Underground	0 - 6 	HT Re-Live
+	Ambitious Outsiders - Estö BK	2 - 2 	HT Re-Live
+	Vittjärv Stars - Freddans Angels	2 - 2 	HT Re-Live
+	Cornelis United - Djurgården 71s Götecastleuleå HF	0 - 1 	HT Re-Live
+Omgång  13
+2010-03-28 10:00 			
+	Freddans Angels - Ambitious Outsiders	3 - 0 	HT Re-Live
+	Ambient Underground - Cornelis United	1 - 0 	HT Re-Live
+	Coffin Nibblers - Estö BK	0 - 4 	HT Re-Live
+	Djurgården 71s Götecastleuleå HF - Vittjärv Stars	3 - 1 	HT Re-Live
+Omgång  14
+2010-04-04 10:00 			
+	Cornelis United - Coffin Nibblers	6 - 0 	HT Re-Live
+	Estö BK - Freddans Angels	3 - 2 	HT Re-Live
+	Ambitious Outsiders - Djurgården 71s Götecastleuleå HF	2 - 0 	HT Re-Live
+	Vittjärv Stars - Ambient Underground	1 - 4 	HT Re-Live

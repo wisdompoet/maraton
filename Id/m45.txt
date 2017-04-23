@@ -1,0 +1,84 @@
+Omgång  1
+2011-03-27 10:00 			
+	Crazy Apes - A-jaur Kings	2 - 2 	HT Re-Live
+	IFK Godtemplarna - Sepps FF	3 - 3 	HT Re-Live
+	Sauber scores - FC Balingsnäs	4 - 0 	HT Re-Live
+	The Stocks - Dynamo Kebab	3 - 0 	HT Re-Live
+Omgång  2
+2011-04-03 10:00 			
+	FC Balingsnäs  - The Stocks	3 - 1 	HT Re-Live
+	A-jaur Kings - Sauber scores	4 - 2 	HT Re-Live
+	Sepps FF - Crazy Apes	3 - 0 	HT Re-Live
+	Dynamo Kebab - IFK Godtemplarna	7 - 2 	HT Re-Live
+Omgång  3
+2011-04-10 10:00 			
+	FC Balingsnäs  - Dynamo Kebab	4 - 2 	HT Re-Live
+	IFK Godtemplarna - A-jaur Kings	3 - 1 	HT Re-Live
+	Sauber scores - Crazy Apes	6 - 1 	HT Re-Live
+	The Stocks - Sepps FF	0 - 1 	HT Re-Live
+Omgång  4
+2011-04-17 10:00 			
+	Crazy Apes - IFK Godtemplarna	3 - 2 	HT Re-Live
+	A-jaur Kings - The Stocks	4 - 0 	HT Re-Live
+	Dynamo Kebab - Sauber scores	4 - 2 	HT Re-Live
+	Sepps FF - FC Balingsnäs	3 - 2 	HT Re-Live
+Omgång  5
+2011-04-24 10:00 			
+	The Stocks - IFK Godtemplarna	1 - 0 	HT Re-Live
+	FC Balingsnäs  - Crazy Apes	4 - 1 	HT Re-Live
+	Sauber scores - Sepps FF	2 - 0 	HT Re-Live
+	Dynamo Kebab - A-jaur Kings	1 - 4 	HT Re-Live
+Omgång  6
+2011-05-01 10:00 			
+	Crazy Apes - The Stocks	3 - 1 	HT Re-Live
+	A-jaur Kings - FC Balingsnäs	5 - 3 	HT Re-Live
+	IFK Godtemplarna - Sauber scores	3 - 2 	HT Re-Live
+	Sepps FF - Dynamo Kebab	7 - 2 	HT Re-Live
+Omgång  7
+2011-05-08 10:00 			
+	The Stocks - Sauber scores	0 - 2 	HT Re-Live
+	Dynamo Kebab - Crazy Apes	2 - 0 	HT Re-Live
+	FC Balingsnäs  - IFK Godtemplarna	3 - 0 	HT Re-Live
+	A-jaur Kings - Sepps FF	3 - 2 	HT Re-Live
+Omgång  8
+2011-05-15 10:00 			
+	Sepps FF - A-jaur Kings	3 - 5 	HT Re-Live
+	IFK Godtemplarna - FC Balingsnäs	2 - 3 	HT Re-Live
+	Crazy Apes - Dynamo Kebab	4 - 4 	HT Re-Live
+	Sauber scores - The Stocks	2 - 1 	HT Re-Live
+Omgång  9
+2011-05-22 10:00 			
+	The Stocks - Crazy Apes	1 - 4 	HT Re-Live
+	Dynamo Kebab - Sepps FF	3 - 1 	HT Re-Live
+	FC Balingsnäs  - A-jaur Kings	6 - 1 	HT Re-Live
+	Sauber scores - IFK Godtemplarna	2 - 1 	HT Re-Live
+Omgång  10
+2011-05-29 10:00 			
+	IFK Godtemplarna - The Stocks	4 - 0 	HT Re-Live
+	Crazy Apes - FC Balingsnäs	0 - 3 	HT Re-Live
+	Sepps FF - Sauber scores	1 - 2 	HT Re-Live
+	A-jaur Kings - Dynamo Kebab	5 - 2 	HT Re-Live
+Omgång  11
+2011-06-05 10:00 			
+	IFK Godtemplarna - Crazy Apes	5 - 2 	HT Re-Live
+	FC Balingsnäs  - Sepps FF	4 - 0 	HT Re-Live
+	Sauber scores - Dynamo Kebab	4 - 2 	HT Re-Live
+	The Stocks - A-jaur Kings	1 - 1 	HT Re-Live
+Omgång  12
+2011-06-12 10:00 			
+	A-jaur Kings - IFK Godtemplarna	4 - 0 	HT Re-Live
+	Dynamo Kebab - FC Balingsnäs	2 - 2 	HT Re-Live
+	Crazy Apes - Sauber scores	1 - 4 	HT Re-Live
+	Sepps FF - The Stocks	7 - 0 	HT Re-Live
+Omgång  13
+2011-06-19 10:00 			
+	The Stocks - FC Balingsnäs	0 - 7 	HT Re-Live
+	Crazy Apes - Sepps FF	0 - 1 	HT Re-Live
+	Sauber scores - A-jaur Kings	6 - 2 	HT Re-Live
+	IFK Godtemplarna - Dynamo Kebab	5 - 0 	HT Re-Live
+Omgång  14
+2011-06-26 10:00 			
+	A-jaur Kings - Crazy Apes	3 - 0 	HT Re-Live
+	Sepps FF - IFK Godtemplarna	4 - 1 	HT Re-Live
+	FC Balingsnäs  - Sauber scores	3 - 2 	HT Re-Live
+	Dynamo Kebab - The Stocks	6 - 1 	HT Re-Live

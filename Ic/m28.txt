@@ -1,0 +1,84 @@
+Omgång  1
+2006-01-08 10:00 			
+	IFK Livergården - Råssbyn United	0 - 10 	HT Re-Live
+	Starwars - Conbarris	1 - 4 	HT Re-Live
+	Sublime BK - Bolltrollarnas AIS, BAIS	4 - 0 	HT Re-Live
+	IK Frisco - Kungshamra tåfjutters	2 - 2 	HT Re-Live
+Omgång  2
+2006-01-15 10:00 			
+	Bolltrollarnas AIS, BAIS - IFK Livergården	10 - 0 	HT Re-Live
+	Kungshamra tåfjutters - Starwars	3 - 2 	HT Re-Live
+	Råssbyn United - IK Frisco	2 - 0 	HT Re-Live
+	Conbarris - Sublime BK	0 - 2 	HT Re-Live
+Omgång  3
+2006-01-22 10:00 			
+	Starwars - Råssbyn United	2 - 4 	HT Re-Live
+	Sublime BK - Kungshamra tåfjutters	1 - 1 	HT Re-Live
+	Bolltrollarnas AIS, BAIS - Conbarris	0 - 2 	HT Re-Live
+	IK Frisco - IFK Livergården	8 - 0 	HT Re-Live
+Omgång  4
+2006-01-29 10:00 			
+	IFK Livergården - Conbarris	0 - 9 	HT Re-Live
+	Kungshamra tåfjutters - Bolltrollarnas AIS, BAIS	4 - 2 	HT Re-Live
+	Råssbyn United - Sublime BK	1 - 6 	HT Re-Live
+	IK Frisco - Starwars	5 - 0 	HT Re-Live
+Omgång  5
+2006-02-05 10:00 			
+	Starwars - IFK Livergården	8 - 0 	HT Re-Live
+	Sublime BK - IK Frisco	1 - 3 	HT Re-Live
+	Bolltrollarnas AIS, BAIS - Råssbyn United	3 - 2 	HT Re-Live
+	Conbarris - Kungshamra tåfjutters	3 - 2 	HT Re-Live
+Omgång  6
+2006-02-12 10:00 			
+	IFK Livergården - Kungshamra tåfjutters	0 - 8 	HT Re-Live
+	Starwars - Sublime BK	1 - 1 	HT Re-Live
+	Råssbyn United - Conbarris	2 - 2 	HT Re-Live
+	IK Frisco - Bolltrollarnas AIS, BAIS	7 - 0 	HT Re-Live
+Omgång  7
+2006-02-19 10:00 			
+	Sublime BK - IFK Livergården	10 - 0 	HT Re-Live
+	Bolltrollarnas AIS, BAIS - Starwars	3 - 4 	HT Re-Live
+	Kungshamra tåfjutters - Råssbyn United	0 - 0 	HT Re-Live
+	Conbarris - IK Frisco	0 - 4 	HT Re-Live
+Omgång  8
+2006-02-26 10:00 			
+	IK Frisco - Conbarris	5 - 2 	HT Re-Live
+	Råssbyn United - Kungshamra tåfjutters	1 - 2 	HT Re-Live
+	Starwars - Bolltrollarnas AIS, BAIS	2 - 4 	HT Re-Live
+	IFK Livergården - Sublime BK	0 - 8 	HT Re-Live
+Omgång  9
+2006-03-05 10:00 			
+	Bolltrollarnas AIS, BAIS - IK Frisco	0 - 5 	HT Re-Live
+	Conbarris - Råssbyn United	1 - 0 	HT Re-Live
+	Sublime BK - Starwars	2 - 2 	HT Re-Live
+	Kungshamra tåfjutters - IFK Livergården	8 - 0 	HT Re-Live
+Omgång  10
+2006-03-12 10:00 			
+	Kungshamra tåfjutters - Conbarris	3 - 0 	HT Re-Live
+	Råssbyn United - Bolltrollarnas AIS, BAIS	5 - 3 	HT Re-Live
+	IK Frisco - Sublime BK	2 - 3 	HT Re-Live
+	IFK Livergården - Starwars	0 - 8 	HT Re-Live
+Omgång  11
+2006-03-19 10:00 			
+	Starwars - IK Frisco	0 - 3 	HT Re-Live
+	Sublime BK - Råssbyn United	2 - 0 	HT Re-Live
+	Bolltrollarnas AIS, BAIS - Kungshamra tåfjutters	4 - 2 	HT Re-Live
+	Conbarris - IFK Livergården	8 - 0 	HT Re-Live
+Omgång  12
+2006-03-26 10:00 			
+	IFK Livergården - IK Frisco	1 - 9 	HT Re-Live
+	Conbarris - Bolltrollarnas AIS, BAIS	2 - 1 	HT Re-Live
+	Kungshamra tåfjutters - Sublime BK	1 - 0 	HT Re-Live
+	Råssbyn United - Starwars	6 - 0 	HT Re-Live
+Omgång  13
+2006-04-02 10:00 			
+	Sublime BK - Conbarris	0 - 3 	HT Re-Live
+	IK Frisco - Råssbyn United	0 - 2 	HT Re-Live
+	Starwars - Kungshamra tåfjutters	0 - 2 	HT Re-Live
+	IFK Livergården - Bolltrollarnas AIS, BAIS	0 - 8 	HT Re-Live
+Omgång  14
+2006-04-09 10:00 			
+	Kungshamra tåfjutters - IK Frisco	0 - 1 	HT Re-Live
+	Bolltrollarnas AIS, BAIS - Sublime BK	5 - 0 	HT Re-Live
+	Conbarris - Starwars	0 - 3 	HT Re-Live
+	Råssbyn United - IFK Livergården	11 - 0 	HT Re-Live

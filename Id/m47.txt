@@ -1,0 +1,84 @@
+Omgång  1
+2011-11-06 10:00 			
+	Tigers Of Tibble - Sauber scores	4 - 0 	HT Re-Live
+	FC Balingsnäs  - A-jaur Kings	7 - 2 	HT Re-Live
+	Dynamo Kebab - NyFF	4 - 5 	HT Re-Live
+	Real Krantz - LAKERS	0 - 1 	HT Re-Live
+Omgång  2
+2011-11-13 10:00 			
+	A-jaur Kings - Tigers Of Tibble	1 - 5 	HT Re-Live
+	Sauber scores - Real Krantz	3 - 2 	HT Re-Live
+	LAKERS - Dynamo Kebab	5 - 0 	HT Re-Live
+	NyFF - FC Balingsnäs	5 - 1 	HT Re-Live
+Omgång  3
+2011-11-20 10:00 			
+	A-jaur Kings - Sauber scores	2 - 2 	HT Re-Live
+	FC Balingsnäs  - Dynamo Kebab	7 - 0 	HT Re-Live
+	Tigers Of Tibble - LAKERS	1 - 3 	HT Re-Live
+	Real Krantz - NyFF	2 - 5 	HT Re-Live
+Omgång  4
+2011-11-27 10:00 			
+	Sauber scores - FC Balingsnäs	3 - 1 	HT Re-Live
+	Dynamo Kebab - Real Krantz	1 - 3 	HT Re-Live
+	NyFF - Tigers Of Tibble	4 - 3 	HT Re-Live
+	LAKERS - A-jaur Kings	4 - 2 	HT Re-Live
+Omgång  5
+2011-12-04 10:00 			
+	FC Balingsnäs  - LAKERS	5 - 2 	HT Re-Live
+	Sauber scores - NyFF	2 - 4 	HT Re-Live
+	Tigers Of Tibble - Real Krantz	2 - 1 	HT Re-Live
+	A-jaur Kings - Dynamo Kebab	5 - 2 	HT Re-Live
+Omgång  6
+2011-12-11 10:00 			
+	Dynamo Kebab - Tigers Of Tibble	3 - 6 	HT Re-Live
+	LAKERS - Sauber scores	7 - 0 	HT Re-Live
+	Real Krantz - FC Balingsnäs	0 - 4 	HT Re-Live
+	NyFF - A-jaur Kings	5 - 3 	HT Re-Live
+Omgång  7
+2011-12-18 10:00 			
+	Sauber scores - Dynamo Kebab	0 - 5 	HT Re-Live
+	Tigers Of Tibble - FC Balingsnäs	1 - 0 	HT Re-Live
+	NyFF - LAKERS	3 - 1 	HT Re-Live
+	A-jaur Kings - Real Krantz	2 - 1 	HT Re-Live
+Omgång  8
+2011-12-25 10:00 			
+	Real Krantz - A-jaur Kings	5 - 1 	HT Re-Live
+	LAKERS - NyFF	3 - 5 	HT Re-Live
+	FC Balingsnäs  - Tigers Of Tibble	4 - 3 	HT Re-Live
+	Dynamo Kebab - Sauber scores	9 - 0 	HT Re-Live
+Omgång  9
+2012-01-01 10:00 			
+	Sauber scores - LAKERS	0 - 9 	HT Re-Live
+	A-jaur Kings - NyFF	0 - 9 	HT Re-Live
+	Tigers Of Tibble - Dynamo Kebab	1 - 1 	HT Re-Live
+	FC Balingsnäs  - Real Krantz	3 - 0 	HT Re-Live
+Omgång  10
+2012-01-08 10:00 			
+	LAKERS - FC Balingsnäs	1 - 2 	HT Re-Live
+	Real Krantz - Tigers Of Tibble	0 - 0 	HT Re-Live
+	Dynamo Kebab - A-jaur Kings	9 - 0 	HT Re-Live
+	NyFF - Sauber scores	8 - 0 	HT Re-Live
+Omgång  11
+2012-01-15 10:00 			
+	FC Balingsnäs  - Sauber scores	7 - 0 	HT Re-Live
+	A-jaur Kings - LAKERS	0 - 5 	HT Re-Live
+	Real Krantz - Dynamo Kebab	2 - 5 	HT Re-Live
+	Tigers Of Tibble - NyFF	5 - 1 	HT Re-Live
+Omgång  12
+2012-01-22 10:00 			
+	Sauber scores - A-jaur Kings	0 - 1 	HT Re-Live
+	LAKERS - Tigers Of Tibble	1 - 1 	HT Re-Live
+	NyFF - Real Krantz	2 - 1 	HT Re-Live
+	Dynamo Kebab - FC Balingsnäs	2 - 2 	HT Re-Live
+Omgång  13
+2012-01-29 10:00 			
+	Dynamo Kebab - LAKERS	2 - 5 	HT Re-Live
+	Tigers Of Tibble - A-jaur Kings	9 - 0 	HT Re-Live
+	Real Krantz - Sauber scores	6 - 1 	HT Re-Live
+	FC Balingsnäs  - NyFF	7 - 1 	HT Re-Live
+Omgång  14
+2012-02-05 10:00 			
+	LAKERS - Real Krantz	5 - 1 	HT Re-Live
+	NyFF - Dynamo Kebab	3 - 1 	HT Re-Live
+	Sauber scores - Tigers Of Tibble	0 - 8 	HT Re-Live
+	A-jaur Kings - FC Balingsnäs	0 - 6 	HT Re-Live

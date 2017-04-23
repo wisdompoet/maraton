@@ -1,0 +1,84 @@
+Omgång  1
+2013-05-19 10:00 			
+	Djurgården 71s Götecastleuleå HF - Cirkus Brazil Jack	11 - 0 	HT Re-Live
+	Wick IT - Dicanio	1 - 1 	HT Re-Live
+	Ponnyvalparna - Spader Dam	3 - 1 	HT Re-Live
+	Lambo Town BFC - Babylon Boys	6 - 0 	HT Re-Live
+Omgång  2
+2013-05-26 10:00 			
+	Cirkus Brazil Jack - Wick IT	0 - 9 	HT Re-Live
+	Dicanio - Ponnyvalparna	1 - 0 	HT Re-Live
+	Babylon Boys - Djurgården 71s Götecastleuleå HF	0 - 7 	HT Re-Live
+	Spader Dam - Lambo Town BFC	0 - 3 	HT Re-Live
+Omgång  3
+2013-06-02 10:00 			
+	Lambo Town BFC - Ponnyvalparna	3 - 2 	HT Re-Live
+	Babylon Boys - Cirkus Brazil Jack	1 - 0 	HT Re-Live
+	Djurgården 71s Götecastleuleå HF - Dicanio	3 - 4 	HT Re-Live
+	Wick IT - Spader Dam	3 - 1 	HT Re-Live
+Omgång  4
+2013-06-09 10:00 			
+	Spader Dam - Djurgården 71s Götecastleuleå HF	0 - 0 	HT Re-Live
+	Dicanio - Babylon Boys	7 - 0 	HT Re-Live
+	Ponnyvalparna - Wick IT	2 - 0 	HT Re-Live
+	Cirkus Brazil Jack - Lambo Town BFC	0 - 8 	HT Re-Live
+Omgång  5
+2013-06-16 10:00 			
+	Babylon Boys - Ponnyvalparna	0 - 7 	HT Re-Live
+	Lambo Town BFC - Dicanio	1 - 1 	HT Re-Live
+	Djurgården 71s Götecastleuleå HF - Wick IT	3 - 2 	HT Re-Live
+	Cirkus Brazil Jack - Spader Dam	0 - 8 	HT Re-Live
+Omgång  6
+2013-06-23 10:00 			
+	Wick IT - Lambo Town BFC	1 - 2 	HT Re-Live
+	Ponnyvalparna - Djurgården 71s Götecastleuleå HF	2 - 0 	HT Re-Live
+	Spader Dam - Babylon Boys	5 - 0 	HT Re-Live
+	Dicanio - Cirkus Brazil Jack	8 - 0 	HT Re-Live
+Omgång  7
+2013-06-30 10:00 			
+	Cirkus Brazil Jack - Ponnyvalparna	0 - 11 	HT Re-Live
+	Djurgården 71s Götecastleuleå HF - Lambo Town BFC	3 - 3 	HT Re-Live
+	Spader Dam - Dicanio	2 - 1 	HT Re-Live
+	Babylon Boys - Wick IT	0 - 8 	HT Re-Live
+Omgång  8
+2013-07-07 10:00 			
+	Wick IT - Babylon Boys	6 - 0 	HT Re-Live
+	Ponnyvalparna - Cirkus Brazil Jack	13 - 0 	HT Re-Live
+	Lambo Town BFC - Djurgården 71s Götecastleuleå HF	1 - 5 	HT Re-Live
+	Dicanio - Spader Dam	4 - 2 	HT Re-Live
+Omgång  9
+2013-07-14 10:00 			
+	Babylon Boys - Spader Dam	0 - 6 	HT Re-Live
+	Cirkus Brazil Jack - Dicanio	0 - 11 	HT Re-Live
+	Djurgården 71s Götecastleuleå HF - Ponnyvalparna	1 - 4 	HT Re-Live
+	Lambo Town BFC - Wick IT	1 - 1 	HT Re-Live
+Omgång  10
+2013-07-21 10:00 			
+	Spader Dam - Cirkus Brazil Jack	10 - 0 	HT Re-Live
+	Dicanio - Lambo Town BFC	3 - 1 	HT Re-Live
+	Ponnyvalparna - Babylon Boys	7 - 1 	HT Re-Live
+	Wick IT - Djurgården 71s Götecastleuleå HF	1 - 1 	HT Re-Live
+Omgång  11
+2013-07-28 10:00 			
+	Wick IT - Ponnyvalparna	1 - 0 	HT Re-Live
+	Babylon Boys - Dicanio	0 - 8 	HT Re-Live
+	Lambo Town BFC - Cirkus Brazil Jack	8 - 0 	HT Re-Live
+	Djurgården 71s Götecastleuleå HF - Spader Dam	0 - 4 	HT Re-Live
+Omgång  12
+2013-08-04 10:00 			
+	Dicanio - Djurgården 71s Götecastleuleå HF	2 - 1 	HT Re-Live
+	Cirkus Brazil Jack - Babylon Boys	0 - 2 	HT Re-Live
+	Spader Dam - Wick IT	6 - 1 	HT Re-Live
+	Ponnyvalparna - Lambo Town BFC	1 - 0 	HT Re-Live
+Omgång  13
+2013-08-11 10:00 			
+	Ponnyvalparna - Dicanio	2 - 3 	HT Re-Live
+	Djurgården 71s Götecastleuleå HF - Babylon Boys	9 - 2 	HT Re-Live
+	Wick IT - Cirkus Brazil Jack	10 - 0 	HT Re-Live
+	Lambo Town BFC - Spader Dam	2 - 0 	HT Re-Live
+Omgång  14
+2013-08-18 10:00 			
+	Babylon Boys - Lambo Town BFC	0 - 9 	HT Re-Live
+	Cirkus Brazil Jack - Djurgården 71s Götecastleuleå HF	1 - 6 	HT Re-Live
+	Spader Dam - Ponnyvalparna	2 - 3 	HT Re-Live
+	Dicanio - Wick IT	1 - 4 	HT Re-Live

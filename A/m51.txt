@@ -1,0 +1,84 @@
+Omgång  1
+2013-01-27 10:00 			
+	Skansholms SK - Picos Verdes 	5 - 0 	HT Re-Live
+	Söderbröder FC - IFK Grisfotboll 	2 - 3 	HT Re-Live
+	skelett - Schenströmska BK 	2 - 2 	HT Re-Live
+	Inter Draggen - Ditry deeds 	1 - 2 	HT Re-Live
+Omgång  2
+2013-02-03 10:00 			
+	Picos Verdes - skelett 	4 - 0 	HT Re-Live
+	Ditry deeds - Skansholms SK 	6 - 1 	HT Re-Live
+	IFK Grisfotboll - Inter Draggen 	9 - 0 	HT Re-Live
+	Schenströmska BK - Söderbröder FC 	3 - 2 	HT Re-Live
+Omgång  3
+2013-02-10 10:00 			
+	Skansholms SK - Schenströmska BK 	1 - 2 	HT Re-Live
+	Inter Draggen - Söderbröder FC 	0 - 9 	HT Re-Live
+	Ditry deeds - Picos Verdes 	1 - 1 	HT Re-Live
+	skelett - IFK Grisfotboll 	5 - 2 	HT Re-Live
+Omgång  4
+2013-02-17 10:00 			
+	IFK Grisfotboll - Skansholms SK 	6 - 4 	HT Re-Live
+	Picos Verdes - Inter Draggen 	12 - 0 	HT Re-Live
+	Söderbröder FC - skelett 	3 - 0 	HT Re-Live
+	Schenströmska BK - Ditry deeds 	0 - 3 	HT Re-Live
+Omgång  5
+2013-02-24 10:00 			
+	Skansholms SK - skelett 	1 - 0 	HT Re-Live
+	Ditry deeds - Söderbröder FC 	4 - 2 	HT Re-Live
+	Inter Draggen - Schenströmska BK 	0 - 8 	HT Re-Live
+	Picos Verdes - IFK Grisfotboll 	4 - 1 	HT Re-Live
+Omgång  6
+2013-03-03 10:00 			
+	Söderbröder FC - Skansholms SK 	0 - 4 	HT Re-Live
+	skelett - Inter Draggen 	10 - 0 	HT Re-Live
+	IFK Grisfotboll - Ditry deeds 	0 - 5 	HT Re-Live
+	Schenströmska BK - Picos Verdes 	3 - 2 	HT Re-Live
+Omgång  7
+2013-03-10 10:00 			
+	Ditry deeds - skelett 	2 - 1 	HT Re-Live
+	Picos Verdes - Söderbröder FC 	2 - 2 	HT Re-Live
+	Skansholms SK - Inter Draggen 	10 - 0 	HT Re-Live
+	IFK Grisfotboll - Schenströmska BK 	3 - 1 	HT Re-Live
+Omgång  8
+2013-03-17 10:00 			
+	skelett - Ditry deeds 	3 - 0 	HT Re-Live
+	Söderbröder FC - Picos Verdes 	3 - 0 	HT Re-Live
+	Inter Draggen - Skansholms SK 	0 - 10 	HT Re-Live
+	Schenströmska BK - IFK Grisfotboll 	1 - 2 	HT Re-Live
+Omgång  9
+2013-03-24 10:00 			
+	Picos Verdes - Schenströmska BK 	2 - 4 	HT Re-Live
+	Ditry deeds - IFK Grisfotboll 	1 - 1 	HT Re-Live
+	Inter Draggen - skelett 	0 - 8 	HT Re-Live
+	Skansholms SK - Söderbröder FC 	5 - 1 	HT Re-Live
+Omgång  10
+2013-03-31 10:00 			
+	IFK Grisfotboll - Picos Verdes 	3 - 1 	HT Re-Live
+	Schenströmska BK - Inter Draggen 	13 - 0 	HT Re-Live
+	Söderbröder FC - Ditry deeds 	1 - 1 	HT Re-Live
+	skelett - Skansholms SK 	3 - 2 	HT Re-Live
+Omgång  11
+2013-04-07 10:00 			
+	skelett - Söderbröder FC 	1 - 1 	HT Re-Live
+	Ditry deeds - Schenströmska BK 	0 - 3 	HT Re-Live
+	Inter Draggen - Picos Verdes 	0 - 11 	HT Re-Live
+	Skansholms SK - IFK Grisfotboll 	5 - 0 	HT Re-Live
+Omgång  12
+2013-04-14 10:00 			
+	IFK Grisfotboll - skelett 	3 - 0 	HT Re-Live
+	Schenströmska BK - Skansholms SK 	4 - 4 	HT Re-Live
+	Picos Verdes - Ditry deeds 	2 - 2 	HT Re-Live
+	Söderbröder FC - Inter Draggen 	9 - 0 	HT Re-Live
+Omgång  13
+2013-04-21 10:00 			
+	Söderbröder FC - Schenströmska BK 	4 - 3 	HT Re-Live
+	skelett - Picos Verdes 	3 - 0 	HT Re-Live
+	Inter Draggen - IFK Grisfotboll 	0 - 8 	HT Re-Live
+	Skansholms SK - Ditry deeds 	0 - 3 	HT Re-Live
+Omgång  14
+2013-04-28 10:00 			
+	IFK Grisfotboll - Söderbröder FC 	5 - 2 	HT Re-Live
+	Ditry deeds - Inter Draggen 	10 - 0 	HT Re-Live
+	Schenströmska BK - skelett 	2 - 2 	HT Re-Live
+	Picos Verdes - Skansholms SK 	4 - 3 	HT Re-Live

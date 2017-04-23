@@ -1,0 +1,84 @@
+Omgång  1
+2000-10-22 10:00 			
+	AC Weah - Juveby IF	4 - 2 	HT Re-Live
+	Ljungans FF - Real Mossen	1 - 0 	HT Re-Live
+	Anabolica - Kicking Stars	4 - 0 	HT Re-Live
+	Appelkvist F.K. - Dynamo Patricia	0 - 3 	HT Re-Live
+Omgång  2
+2000-10-29 10:00 			
+	Kicking Stars - AC Weah	1 - 4 	HT Re-Live
+	Dynamo Patricia - Ljungans FF	1 - 2 	HT Re-Live
+	Juveby IF - Appelkvist F.K.	2 - 1 	HT Re-Live
+	Real Mossen - Anabolica	2 - 0 	HT Re-Live
+Omgång  3
+2000-11-05 10:00 			
+	Ljungans FF - Juveby IF	0 - 0 	HT Re-Live
+	Anabolica - Dynamo Patricia	0 - 2 	HT Re-Live
+	Kicking Stars - Real Mossen	2 - 1 	HT Re-Live
+	Appelkvist F.K. - AC Weah	1 - 5 	HT Re-Live
+Omgång  4
+2000-11-12 10:00 			
+	AC Weah - Real Mossen	0 - 0 	HT Re-Live
+	Dynamo Patricia - Kicking Stars	4 - 0 	HT Re-Live
+	Juveby IF - Anabolica	3 - 0 	HT Re-Live
+	Appelkvist F.K. - Ljungans FF	0 - 0 	HT Re-Live
+Omgång  5
+2000-11-19 10:00 			
+	Ljungans FF - AC Weah	0 - 2 	HT Re-Live
+	Anabolica - Appelkvist F.K.	6 - 0 	HT Re-Live
+	Kicking Stars - Juveby IF	2 - 2 	HT Re-Live
+	Real Mossen - Dynamo Patricia	0 - 1 	HT Re-Live
+Omgång  6
+2000-11-26 10:00 			
+	AC Weah - Dynamo Patricia	5 - 0 	HT Re-Live
+	Ljungans FF - Anabolica	3 - 0 	HT Re-Live
+	Juveby IF - Real Mossen	2 - 0 	HT Re-Live
+	Appelkvist F.K. - Kicking Stars	0 - 4 	HT Re-Live
+Omgång  7
+2000-12-03 10:00 			
+	Anabolica - AC Weah	4 - 0 	HT Re-Live
+	Kicking Stars - Ljungans FF	1 - 4 	HT Re-Live
+	Dynamo Patricia - Juveby IF	2 - 1 	HT Re-Live
+	Real Mossen - Appelkvist F.K.	7 - 0 	HT Re-Live
+Omgång  8
+2000-12-10 10:00 			
+	Appelkvist F.K. - Real Mossen	0 - 4 	HT Re-Live
+	Juveby IF - Dynamo Patricia	2 - 1 	HT Re-Live
+	Ljungans FF - Kicking Stars	1 - 0 	HT Re-Live
+	AC Weah - Anabolica	5 - 2 	HT Re-Live
+Omgång  9
+2000-12-17 10:00 			
+	Kicking Stars - Appelkvist F.K.	5 - 0 	HT Re-Live
+	Real Mossen - Juveby IF	0 - 2 	HT Re-Live
+	Anabolica - Ljungans FF	0 - 0 	HT Re-Live
+	Dynamo Patricia - AC Weah	2 - 1 	HT Re-Live
+Omgång  10
+2000-12-24 10:00 			
+	Dynamo Patricia - Real Mossen	3 - 3 	HT Re-Live
+	Juveby IF - Kicking Stars	4 - 0 	HT Re-Live
+	Appelkvist F.K. - Anabolica	0 - 4 	HT Re-Live
+	AC Weah - Ljungans FF	0 - 2 	HT Re-Live
+Omgång  11
+2000-12-31 10:00 			
+	Ljungans FF - Appelkvist F.K.	5 - 0 	HT Re-Live
+	Anabolica - Juveby IF	0 - 1 	HT Re-Live
+	Kicking Stars - Dynamo Patricia	4 - 2 	HT Re-Live
+	Real Mossen - AC Weah	1 - 2 	HT Re-Live
+Omgång  12
+2001-01-07 10:00 			
+	AC Weah - Appelkvist F.K.	6 - 0 	HT Re-Live
+	Real Mossen - Kicking Stars	3 - 0 	HT Re-Live
+	Dynamo Patricia - Anabolica	0 - 3 	HT Re-Live
+	Juveby IF - Ljungans FF	1 - 1 	HT Re-Live
+Omgång  13
+2001-01-14 10:00 			
+	Anabolica - Real Mossen	0 - 3 	HT Re-Live
+	Appelkvist F.K. - Juveby IF	0 - 8 	HT Re-Live
+	Ljungans FF - Dynamo Patricia	4 - 0 	HT Re-Live
+	AC Weah - Kicking Stars	3 - 0 	HT Re-Live
+Omgång  14
+2001-01-21 10:00 			
+	Dynamo Patricia - Appelkvist F.K.	6 - 0 	HT Re-Live
+	Kicking Stars - Anabolica	0 - 3 	HT Re-Live
+	Real Mossen - Ljungans FF	0 - 2 	HT Re-Live
+	Juveby IF - AC Weah	0 - 3 	HT Re-Live

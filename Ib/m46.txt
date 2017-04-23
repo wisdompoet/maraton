@@ -1,0 +1,84 @@
+Omgång  1
+2011-07-17 10:00 			
+	Rommeholen FC - FC Thad	1 - 0 	HT Re-Live
+	Titans of Hammarberget - Emperors SK	1 - 4 	HT Re-Live
+	Maximus FF - Helags FF	3 - 0 	HT Re-Live
+	Bakerkings - Wick IT	0 - 2 	HT Re-Live
+Omgång  2
+2011-07-24 10:00 			
+	Wick IT - Rommeholen FC	3 - 1 	HT Re-Live
+	Helags FF - Bakerkings	2 - 2 	HT Re-Live
+	Emperors SK - Maximus FF	2 - 2 	HT Re-Live
+	FC Thad - Titans of Hammarberget	5 - 2 	HT Re-Live
+Omgång  3
+2011-07-31 10:00 			
+	Helags FF - Wick IT	1 - 2 	HT Re-Live
+	Maximus FF - Titans of Hammarberget	1 - 1 	HT Re-Live
+	Rommeholen FC - Emperors SK	5 - 3 	HT Re-Live
+	Bakerkings - FC Thad	5 - 2 	HT Re-Live
+Omgång  4
+2011-08-07 10:00 			
+	Wick IT - Maximus FF	2 - 0 	HT Re-Live
+	Emperors SK - Bakerkings	4 - 0 	HT Re-Live
+	Titans of Hammarberget - Rommeholen FC	2 - 2 	HT Re-Live
+	FC Thad - Helags FF	2 - 0 	HT Re-Live
+Omgång  5
+2011-08-14 10:00 			
+	Helags FF - Titans of Hammarberget	3 - 1 	HT Re-Live
+	Bakerkings - Rommeholen FC	1 - 5 	HT Re-Live
+	Maximus FF - FC Thad	0 - 1 	HT Re-Live
+	Wick IT - Emperors SK	3 - 1 	HT Re-Live
+Omgång  6
+2011-08-21 10:00 			
+	Rommeholen FC - Maximus FF	1 - 0 	HT Re-Live
+	Titans of Hammarberget - Bakerkings	0 - 5 	HT Re-Live
+	FC Thad - Wick IT	0 - 4 	HT Re-Live
+	Emperors SK - Helags FF	1 - 0 	HT Re-Live
+Omgång  7
+2011-08-28 10:00 			
+	Bakerkings - Maximus FF	3 - 1 	HT Re-Live
+	Wick IT - Titans of Hammarberget	5 - 0 	HT Re-Live
+	Helags FF - Rommeholen FC	0 - 4 	HT Re-Live
+	Emperors SK - FC Thad	3 - 0 	HT Re-Live
+Omgång  8
+2011-09-04 10:00 			
+	FC Thad - Emperors SK	2 - 2 	HT Re-Live
+	Rommeholen FC - Helags FF	3 - 2 	HT Re-Live
+	Titans of Hammarberget - Wick IT	0 - 5 	HT Re-Live
+	Maximus FF - Bakerkings	3 - 1 	HT Re-Live
+Omgång  9
+2011-09-11 10:00 			
+	Wick IT - FC Thad	3 - 1 	HT Re-Live
+	Maximus FF - Rommeholen FC	0 - 2 	HT Re-Live
+	Bakerkings - Titans of Hammarberget	3 - 0 	HT Re-Live
+	Helags FF - Emperors SK	2 - 2 	HT Re-Live
+Omgång  10
+2011-09-18 10:00 			
+	Emperors SK - Wick IT	3 - 2 	HT Re-Live
+	FC Thad - Maximus FF	0 - 2 	HT Re-Live
+	Titans of Hammarberget - Helags FF	0 - 4 	HT Re-Live
+	Rommeholen FC - Bakerkings	1 - 0 	HT Re-Live
+Omgång  11
+2011-09-25 10:00 			
+	Rommeholen FC - Titans of Hammarberget	6 - 1 	HT Re-Live
+	Maximus FF - Wick IT	1 - 4 	HT Re-Live
+	Helags FF - FC Thad	1 - 1 	HT Re-Live
+	Bakerkings - Emperors SK	1 - 1 	HT Re-Live
+Omgång  12
+2011-10-02 10:00 			
+	Titans of Hammarberget - Maximus FF	0 - 1 	HT Re-Live
+	FC Thad - Bakerkings	0 - 2 	HT Re-Live
+	Emperors SK - Rommeholen FC	2 - 3 	HT Re-Live
+	Wick IT - Helags FF	0 - 0 	HT Re-Live
+Omgång  13
+2011-10-09 10:00 			
+	Rommeholen FC - Wick IT	2 - 2 	HT Re-Live
+	Maximus FF - Emperors SK	3 - 3 	HT Re-Live
+	Bakerkings - Helags FF	1 - 3 	HT Re-Live
+	Titans of Hammarberget - FC Thad	0 - 3 	HT Re-Live
+Omgång  14
+2011-10-16 10:00 			
+	FC Thad - Rommeholen FC	2 - 1 	HT Re-Live
+	Emperors SK - Titans of Hammarberget	6 - 0 	HT Re-Live
+	Wick IT - Bakerkings	0 - 0 	HT Re-Live
+	Helags FF - Maximus FF	1 - 1 	HT Re-Live

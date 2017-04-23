@@ -1,0 +1,84 @@
+Omgång  1
+2004-06-27 10:00 			
+	Dynamo Patricia - Nätets FF	0 - 3 	HT Re-Live
+	Headless Chickens FC - Starwars	3 - 2 	HT Re-Live
+	Bäcken IF - Krilles Kometer	1 - 2 	HT Re-Live
+	Bernt I Boas BK - Tyresö Drifters	2 - 3 	HT Re-Live
+Omgång  2
+2004-07-04 10:00 			
+	Krilles Kometer - Dynamo Patricia	3 - 1 	HT Re-Live
+	Tyresö Drifters - Headless Chickens FC	0 - 4 	HT Re-Live
+	Nätets FF - Bernt I Boas BK	8 - 1 	HT Re-Live
+	Starwars - Bäcken IF	1 - 0 	HT Re-Live
+Omgång  3
+2004-07-11 10:00 			
+	Headless Chickens FC - Nätets FF	5 - 2 	HT Re-Live
+	Bäcken IF - Tyresö Drifters	2 - 1 	HT Re-Live
+	Krilles Kometer - Starwars	3 - 4 	HT Re-Live
+	Bernt I Boas BK - Dynamo Patricia	0 - 2 	HT Re-Live
+Omgång  4
+2004-07-18 10:00 			
+	Dynamo Patricia - Starwars	2 - 1 	HT Re-Live
+	Tyresö Drifters - Krilles Kometer	0 - 3 	HT Re-Live
+	Nätets FF - Bäcken IF	3 - 1 	HT Re-Live
+	Bernt I Boas BK - Headless Chickens FC	0 - 1 	HT Re-Live
+Omgång  5
+2004-07-25 10:00 			
+	Headless Chickens FC - Dynamo Patricia	3 - 0 	HT Re-Live
+	Bäcken IF - Bernt I Boas BK	5 - 1 	HT Re-Live
+	Krilles Kometer - Nätets FF	3 - 4 	HT Re-Live
+	Starwars - Tyresö Drifters	4 - 1 	HT Re-Live
+Omgång  6
+2004-08-01 10:00 			
+	Dynamo Patricia - Tyresö Drifters	0 - 2 	HT Re-Live
+	Headless Chickens FC - Bäcken IF	4 - 0 	HT Re-Live
+	Nätets FF - Starwars	3 - 0 	HT Re-Live
+	Bernt I Boas BK - Krilles Kometer	4 - 2 	HT Re-Live
+Omgång  7
+2004-08-08 10:00 			
+	Bäcken IF - Dynamo Patricia	1 - 2 	HT Re-Live
+	Krilles Kometer - Headless Chickens FC	1 - 2 	HT Re-Live
+	Tyresö Drifters - Nätets FF	3 - 2 	HT Re-Live
+	Starwars - Bernt I Boas BK	0 - 2 	HT Re-Live
+Omgång  8
+2004-08-15 10:00 			
+	Bernt I Boas BK - Starwars	4 - 3 	HT Re-Live
+	Nätets FF - Tyresö Drifters	2 - 2 	HT Re-Live
+	Headless Chickens FC - Krilles Kometer	2 - 2 	HT Re-Live
+	Dynamo Patricia - Bäcken IF	0 - 2 	HT Re-Live
+Omgång  9
+2004-08-22 10:00 			
+	Krilles Kometer - Bernt I Boas BK	3 - 3 	HT Re-Live
+	Starwars - Nätets FF	4 - 2 	HT Re-Live
+	Bäcken IF - Headless Chickens FC	1 - 2 	HT Re-Live
+	Tyresö Drifters - Dynamo Patricia	4 - 1 	HT Re-Live
+Omgång  10
+2004-08-29 10:00 			
+	Tyresö Drifters - Starwars	4 - 2 	HT Re-Live
+	Nätets FF - Krilles Kometer	2 - 0 	HT Re-Live
+	Bernt I Boas BK - Bäcken IF	0 - 0 	HT Re-Live
+	Dynamo Patricia - Headless Chickens FC	2 - 4 	HT Re-Live
+Omgång  11
+2004-09-05 10:00 			
+	Headless Chickens FC - Bernt I Boas BK	4 - 1 	HT Re-Live
+	Bäcken IF - Nätets FF	0 - 3 	HT Re-Live
+	Krilles Kometer - Tyresö Drifters	1 - 3 	HT Re-Live
+	Starwars - Dynamo Patricia	4 - 2 	HT Re-Live
+Omgång  12
+2004-09-12 10:00 			
+	Dynamo Patricia - Bernt I Boas BK	1 - 1 	HT Re-Live
+	Starwars - Krilles Kometer	3 - 2 	HT Re-Live
+	Tyresö Drifters - Bäcken IF	2 - 0 	HT Re-Live
+	Nätets FF - Headless Chickens FC	2 - 3 	HT Re-Live
+Omgång  13
+2004-09-19 10:00 			
+	Bäcken IF - Starwars	1 - 6 	HT Re-Live
+	Bernt I Boas BK - Nätets FF	0 - 4 	HT Re-Live
+	Headless Chickens FC - Tyresö Drifters	4 - 0 	HT Re-Live
+	Dynamo Patricia - Krilles Kometer	0 - 0 	HT Re-Live
+Omgång  14
+2004-09-26 10:00 			
+	Tyresö Drifters - Bernt I Boas BK	6 - 0 	HT Re-Live
+	Krilles Kometer - Bäcken IF	2 - 1 	HT Re-Live
+	Starwars - Headless Chickens FC	4 - 0 	HT Re-Live
+	Nätets FF - Dynamo Patricia	0 - 0 	HT Re-Live

@@ -1,0 +1,84 @@
+Omgång  1
+2007-11-11 10:00 			
+	Jefferson Bicycle United Football Cub - Skansholms SK 	3 - 0 	HT Re-Live
+	Babylon Boys - IFK Ninweborg 	2 - 0 	HT Re-Live
+	LA Hookers - Incentus FC 	6 - 1 	HT Re-Live
+	Zeta - BK Örnen 	5 - 2 	HT Re-Live
+Omgång  2
+2007-11-18 10:00 			
+	IFK Ninweborg - Zeta 	4 - 2 	HT Re-Live
+	BK Örnen - Jefferson Bicycle United Football Cub 	2 - 4 	HT Re-Live
+	Incentus FC - Babylon Boys 	0 - 2 	HT Re-Live
+	Skansholms SK - LA Hookers 	4 - 2 	HT Re-Live
+Omgång  3
+2007-11-25 10:00 			
+	Jefferson Bicycle United Football Cub - IFK Ninweborg 	4 - 1 	HT Re-Live
+	Babylon Boys - LA Hookers 	3 - 2 	HT Re-Live
+	Skansholms SK - BK Örnen 	1 - 2 	HT Re-Live
+	Zeta - Incentus FC 	10 - 0 	HT Re-Live
+Omgång  4
+2007-12-02 10:00 			
+	IFK Ninweborg - Skansholms SK 	4 - 3 	HT Re-Live
+	Incentus FC - Jefferson Bicycle United Football Cub 	0 - 7 	HT Re-Live
+	LA Hookers - BK Örnen 	1 - 3 	HT Re-Live
+	Babylon Boys - Zeta 	2 - 2 	HT Re-Live
+Omgång  5
+2007-12-09 10:00 			
+	Zeta - LA Hookers 	5 - 2 	HT Re-Live
+	Jefferson Bicycle United Football Cub - Babylon Boys 	5 - 1 	HT Re-Live
+	BK Örnen - IFK Ninweborg 	2 - 1 	HT Re-Live
+	Skansholms SK - Incentus FC 	7 - 1 	HT Re-Live
+Omgång  6
+2007-12-16 10:00 			
+	LA Hookers - IFK Ninweborg 	2 - 2 	HT Re-Live
+	Zeta - Jefferson Bicycle United Football Cub 	3 - 1 	HT Re-Live
+	Babylon Boys - Skansholms SK 	7 - 0 	HT Re-Live
+	Incentus FC - BK Örnen 	0 - 7 	HT Re-Live
+Omgång  7
+2007-12-23 10:00 			
+	Jefferson Bicycle United Football Cub - LA Hookers 	0 - 3 	HT Re-Live
+	Skansholms SK - Zeta 	1 - 2 	HT Re-Live
+	IFK Ninweborg - Incentus FC 	6 - 0 	HT Re-Live
+	BK Örnen - Babylon Boys 	5 - 1 	HT Re-Live
+Omgång  8
+2007-12-30 10:00 			
+	Incentus FC - IFK Ninweborg 	0 - 6 	HT Re-Live
+	Babylon Boys - BK Örnen 	2 - 1 	HT Re-Live
+	LA Hookers - Jefferson Bicycle United Football Cub 	4 - 2 	HT Re-Live
+	Zeta - Skansholms SK 	3 - 3 	HT Re-Live
+Omgång  9
+2008-01-06 10:00 			
+	Skansholms SK - Babylon Boys 	4 - 2 	HT Re-Live
+	Jefferson Bicycle United Football Cub - Zeta 	1 - 3 	HT Re-Live
+	IFK Ninweborg - LA Hookers 	1 - 1 	HT Re-Live
+	BK Örnen - Incentus FC 	10 - 0 	HT Re-Live
+Omgång  10
+2008-01-13 10:00 			
+	Incentus FC - Skansholms SK 	0 - 3 	HT Re-Live
+	LA Hookers - Zeta 	0 - 2 	HT Re-Live
+	IFK Ninweborg - BK Örnen 	3 - 2 	HT Re-Live
+	Babylon Boys - Jefferson Bicycle United Football Cub 	2 - 2 	HT Re-Live
+Omgång  11
+2008-01-20 10:00 			
+	Jefferson Bicycle United Football Cub - Incentus FC 	5 - 0 	HT Re-Live
+	Skansholms SK - IFK Ninweborg 	2 - 6 	HT Re-Live
+	BK Örnen - LA Hookers 	2 - 1 	HT Re-Live
+	Zeta - Babylon Boys 	5 - 1 	HT Re-Live
+Omgång  12
+2008-01-27 10:00 			
+	IFK Ninweborg - Jefferson Bicycle United Football Cub 	1 - 2 	HT Re-Live
+	Incentus FC - Zeta 	0 - 11 	HT Re-Live
+	BK Örnen - Skansholms SK 	2 - 2 	HT Re-Live
+	LA Hookers - Babylon Boys 	1 - 1 	HT Re-Live
+Omgång  13
+2008-02-03 10:00 			
+	Babylon Boys - Incentus FC 	4 - 0 	HT Re-Live
+	Jefferson Bicycle United Football Cub - BK Örnen 	2 - 2 	HT Re-Live
+	Zeta - IFK Ninweborg 	6 - 1 	HT Re-Live
+	LA Hookers - Skansholms SK 	6 - 0 	HT Re-Live
+Omgång  14
+2008-02-10 10:00 			
+	IFK Ninweborg - Babylon Boys 	3 - 0 	HT Re-Live
+	Incentus FC - LA Hookers 	0 - 7 	HT Re-Live
+	BK Örnen - Zeta 	4 - 0 	HT Re-Live
+	Skansholms SK - Jefferson Bicycle United Football Cub 	1 - 2 	HT Re-Live

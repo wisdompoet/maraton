@@ -1,0 +1,84 @@
+Omgång  1
+2008-06-22 10:00 			
+	Sundsvall Meanmachines - Team Strikers	3 - 1 	HT Re-Live
+	Bäverhult BK - FC Kabel 80	5 - 0 	HT Re-Live
+	Ambient Underground - LA Hookers	3 - 0 	HT Re-Live
+	Den celtiska byn - Norsgatan Kickers	2 - 3 	HT Re-Live
+Omgång  2
+2008-06-29 10:00 			
+	Norsgatan Kickers - Bäverhult BK	4 - 1 	HT Re-Live
+	FC Kabel 80 - Sundsvall Meanmachines	3 - 1 	HT Re-Live
+	Team Strikers - Ambient Underground	0 - 4 	HT Re-Live
+	LA Hookers - Den celtiska byn	2 - 4 	HT Re-Live
+Omgång  3
+2008-07-06 10:00 			
+	Bäverhult BK - LA Hookers	6 - 2 	HT Re-Live
+	Sundsvall Meanmachines - Norsgatan Kickers	8 - 0 	HT Re-Live
+	Team Strikers - FC Kabel 80	0 - 3 	HT Re-Live
+	Den celtiska byn - Ambient Underground	1 - 5 	HT Re-Live
+Omgång  4
+2008-07-13 10:00 			
+	Norsgatan Kickers - Team Strikers	3 - 1 	HT Re-Live
+	Ambient Underground - FC Kabel 80	3 - 0 	HT Re-Live
+	LA Hookers - Sundsvall Meanmachines	2 - 2 	HT Re-Live
+	Den celtiska byn - Bäverhult BK	6 - 0 	HT Re-Live
+Omgång  5
+2008-07-20 10:00 			
+	Bäverhult BK - Ambient Underground	3 - 3 	HT Re-Live
+	Sundsvall Meanmachines - Den celtiska byn	5 - 1 	HT Re-Live
+	Team Strikers - LA Hookers	3 - 1 	HT Re-Live
+	FC Kabel 80 - Norsgatan Kickers	2 - 0 	HT Re-Live
+Omgång  6
+2008-07-27 10:00 			
+	Ambient Underground - Norsgatan Kickers	2 - 2 	HT Re-Live
+	LA Hookers - FC Kabel 80	2 - 2 	HT Re-Live
+	Bäverhult BK - Sundsvall Meanmachines	4 - 1 	HT Re-Live
+	Den celtiska byn - Team Strikers	3 - 3 	HT Re-Live
+Omgång  7
+2008-08-03 10:00 			
+	Team Strikers - Bäverhult BK	1 - 4 	HT Re-Live
+	Sundsvall Meanmachines - Ambient Underground	4 - 0 	HT Re-Live
+	Norsgatan Kickers - LA Hookers	4 - 1 	HT Re-Live
+	FC Kabel 80 - Den celtiska byn	4 - 0 	HT Re-Live
+Omgång  8
+2008-08-10 10:00 			
+	LA Hookers - Norsgatan Kickers	3 - 1 	HT Re-Live
+	Bäverhult BK - Team Strikers	3 - 3 	HT Re-Live
+	Den celtiska byn - FC Kabel 80	2 - 1 	HT Re-Live
+	Ambient Underground - Sundsvall Meanmachines	1 - 1 	HT Re-Live
+Omgång  9
+2008-08-17 10:00 			
+	Team Strikers - Den celtiska byn	2 - 4 	HT Re-Live
+	FC Kabel 80 - LA Hookers	3 - 0 	HT Re-Live
+	Sundsvall Meanmachines - Bäverhult BK	6 - 2 	HT Re-Live
+	Norsgatan Kickers - Ambient Underground	1 - 1 	HT Re-Live
+Omgång  10
+2008-08-24 10:00 			
+	Ambient Underground - Bäverhult BK	5 - 2 	HT Re-Live
+	LA Hookers - Team Strikers	0 - 2 	HT Re-Live
+	Den celtiska byn - Sundsvall Meanmachines	5 - 0 	HT Re-Live
+	Norsgatan Kickers - FC Kabel 80	1 - 4 	HT Re-Live
+Omgång  11
+2008-08-31 10:00 			
+	Sundsvall Meanmachines - LA Hookers	3 - 1 	HT Re-Live
+	Team Strikers - Norsgatan Kickers	2 - 3 	HT Re-Live
+	Bäverhult BK - Den celtiska byn	2 - 4 	HT Re-Live
+	FC Kabel 80 - Ambient Underground	1 - 1 	HT Re-Live
+Omgång  12
+2008-09-07 10:00 			
+	FC Kabel 80 - Team Strikers	3 - 0 	HT Re-Live
+	Norsgatan Kickers - Sundsvall Meanmachines	5 - 0 	HT Re-Live
+	LA Hookers - Bäverhult BK	0 - 1 	HT Re-Live
+	Ambient Underground - Den celtiska byn	1 - 2 	HT Re-Live
+Omgång  13
+2008-09-14 10:00 			
+	Bäverhult BK - Norsgatan Kickers	4 - 1 	HT Re-Live
+	Den celtiska byn - LA Hookers	0 - 1 	HT Re-Live
+	Sundsvall Meanmachines - FC Kabel 80	2 - 1 	HT Re-Live
+	Ambient Underground - Team Strikers	4 - 1 	HT Re-Live
+Omgång  14
+2008-09-21 10:00 			
+	FC Kabel 80 - Bäverhult BK	1 - 0 	HT Re-Live
+	LA Hookers - Ambient Underground	2 - 2 	HT Re-Live
+	Team Strikers - Sundsvall Meanmachines	4 - 1 	HT Re-Live
+	Norsgatan Kickers - Den celtiska byn	4 - 0 	HT Re-Live

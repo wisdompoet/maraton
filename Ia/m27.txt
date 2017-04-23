@@ -1,0 +1,84 @@
+Omgång  1
+2005-09-18 10:00 			
+	DrPepper FC - Alpha Lipoic AC	3 - 8 	HT Re-Live
+	Black Ivory - Krillstar	5 - 1 	HT Re-Live
+	Stream Team - Morgoths horder	3 - 3 	HT Re-Live
+	LA Hookers - Falken Red Wings	5 - 0 	HT Re-Live
+Omgång  2
+2005-09-25 10:00 			
+	Morgoths horder - DrPepper FC	1 - 3 	HT Re-Live
+	Falken Red Wings - Black Ivory	7 - 1 	HT Re-Live
+	Alpha Lipoic AC - LA Hookers	2 - 4 	HT Re-Live
+	Krillstar - Stream Team	1 - 2 	HT Re-Live
+Omgång  3
+2005-10-02 10:00 			
+	Black Ivory - Alpha Lipoic AC	5 - 0 	HT Re-Live
+	Stream Team - Falken Red Wings	6 - 0 	HT Re-Live
+	Morgoths horder - Krillstar	6 - 3 	HT Re-Live
+	LA Hookers - DrPepper FC	1 - 2 	HT Re-Live
+Omgång  4
+2005-10-09 10:00 			
+	DrPepper FC - Krillstar	3 - 0 	HT Re-Live
+	Falken Red Wings - Morgoths horder	4 - 0 	HT Re-Live
+	Alpha Lipoic AC - Stream Team	2 - 1 	HT Re-Live
+	LA Hookers - Black Ivory	0 - 2 	HT Re-Live
+Omgång  5
+2005-10-16 10:00 			
+	Black Ivory - DrPepper FC	1 - 2 	HT Re-Live
+	Stream Team - LA Hookers	4 - 0 	HT Re-Live
+	Morgoths horder - Alpha Lipoic AC	4 - 2 	HT Re-Live
+	Krillstar - Falken Red Wings	1 - 2 	HT Re-Live
+Omgång  6
+2005-10-23 10:00 			
+	DrPepper FC - Falken Red Wings	5 - 1 	HT Re-Live
+	Black Ivory - Stream Team	3 - 2 	HT Re-Live
+	Alpha Lipoic AC - Krillstar	4 - 1 	HT Re-Live
+	LA Hookers - Morgoths horder	5 - 2 	HT Re-Live
+Omgång  7
+2005-10-30 10:00 			
+	Stream Team - DrPepper FC	2 - 1 	HT Re-Live
+	Morgoths horder - Black Ivory	3 - 1 	HT Re-Live
+	Falken Red Wings - Alpha Lipoic AC	2 - 4 	HT Re-Live
+	Krillstar - LA Hookers	3 - 3 	HT Re-Live
+Omgång  8
+2005-11-06 10:00 			
+	LA Hookers - Krillstar	2 - 0 	HT Re-Live
+	Alpha Lipoic AC - Falken Red Wings	2 - 1 	HT Re-Live
+	Black Ivory - Morgoths horder	2 - 2 	HT Re-Live
+	DrPepper FC - Stream Team	4 - 0 	HT Re-Live
+Omgång  9
+2005-11-13 10:00 			
+	Morgoths horder - LA Hookers	1 - 3 	HT Re-Live
+	Krillstar - Alpha Lipoic AC	0 - 4 	HT Re-Live
+	Stream Team - Black Ivory	3 - 1 	HT Re-Live
+	Falken Red Wings - DrPepper FC	3 - 2 	HT Re-Live
+Omgång  10
+2005-11-20 10:00 			
+	Falken Red Wings - Krillstar	3 - 0 	HT Re-Live
+	Alpha Lipoic AC - Morgoths horder	2 - 1 	HT Re-Live
+	LA Hookers - Stream Team	5 - 0 	HT Re-Live
+	DrPepper FC - Black Ivory	6 - 1 	HT Re-Live
+Omgång  11
+2005-11-27 10:00 			
+	Black Ivory - LA Hookers	0 - 3 	HT Re-Live
+	Stream Team - Alpha Lipoic AC	2 - 2 	HT Re-Live
+	Morgoths horder - Falken Red Wings	4 - 0 	HT Re-Live
+	Krillstar - DrPepper FC	1 - 1 	HT Re-Live
+Omgång  12
+2005-12-04 10:00 			
+	DrPepper FC - LA Hookers	1 - 2 	HT Re-Live
+	Krillstar - Morgoths horder	0 - 10 	HT Re-Live
+	Falken Red Wings - Stream Team	5 - 1 	HT Re-Live
+	Alpha Lipoic AC - Black Ivory	3 - 0 	HT Re-Live
+Omgång  13
+2005-12-11 10:00 			
+	Stream Team - Krillstar	10 - 0 	HT Re-Live
+	LA Hookers - Alpha Lipoic AC	4 - 2 	HT Re-Live
+	Black Ivory - Falken Red Wings	4 - 2 	HT Re-Live
+	DrPepper FC - Morgoths horder	1 - 1 	HT Re-Live
+Omgång  14
+2005-12-18 10:00 			
+	Falken Red Wings - LA Hookers	2 - 2 	HT Re-Live
+	Morgoths horder - Stream Team	5 - 2 	HT Re-Live
+	Krillstar - Black Ivory	0 - 9 	HT Re-Live
+	Alpha Lipoic AC - DrPepper FC	6 - 2 	HT Re-Live

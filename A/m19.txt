@@ -1,0 +1,84 @@
+Omgång  1
+2003-04-06 10:00 			
+	IFK Livergården - Gäddträsket 	4 - 1 	HT Re-Live
+	Arvidsjaur BK - EM Tigers 	1 - 0 	HT Re-Live
+	Mjällbyn - Smackers United 	7 - 0 	HT Re-Live
+	Dynamo Patricia - Åsehöjden 	3 - 1 	HT Re-Live
+Omgång  2
+2003-04-13 10:00 			
+	Smackers United - IFK Livergården 	1 - 3 	HT Re-Live
+	Åsehöjden - Arvidsjaur BK 	2 - 4 	HT Re-Live
+	Gäddträsket - Dynamo Patricia 	5 - 1 	HT Re-Live
+	EM Tigers - Mjällbyn 	3 - 1 	HT Re-Live
+Omgång  3
+2003-04-20 10:00 			
+	Arvidsjaur BK - Gäddträsket 	4 - 1 	HT Re-Live
+	Mjällbyn - Åsehöjden 	3 - 1 	HT Re-Live
+	Smackers United - EM Tigers 	2 - 1 	HT Re-Live
+	Dynamo Patricia - IFK Livergården 	1 - 0 	HT Re-Live
+Omgång  4
+2003-04-27 10:00 			
+	IFK Livergården - EM Tigers 	0 - 2 	HT Re-Live
+	Åsehöjden - Smackers United 	4 - 1 	HT Re-Live
+	Gäddträsket - Mjällbyn 	5 - 2 	HT Re-Live
+	Dynamo Patricia - Arvidsjaur BK 	0 - 2 	HT Re-Live
+Omgång  5
+2003-05-04 10:00 			
+	Arvidsjaur BK - IFK Livergården 	4 - 0 	HT Re-Live
+	Mjällbyn - Dynamo Patricia 	4 - 2 	HT Re-Live
+	Smackers United - Gäddträsket 	1 - 5 	HT Re-Live
+	EM Tigers - Åsehöjden 	4 - 0 	HT Re-Live
+Omgång  6
+2003-05-11 10:00 			
+	IFK Livergården - Åsehöjden 	3 - 0 	HT Re-Live
+	Arvidsjaur BK - Mjällbyn 	2 - 2 	HT Re-Live
+	Gäddträsket - EM Tigers 	4 - 2 	HT Re-Live
+	Dynamo Patricia - Smackers United 	3 - 1 	HT Re-Live
+Omgång  7
+2003-05-18 10:00 			
+	Mjällbyn - IFK Livergården 	2 - 1 	HT Re-Live
+	Smackers United - Arvidsjaur BK 	2 - 2 	HT Re-Live
+	Åsehöjden - Gäddträsket 	2 - 3 	HT Re-Live
+	EM Tigers - Dynamo Patricia 	4 - 1 	HT Re-Live
+Omgång  8
+2003-05-25 10:00 			
+	Dynamo Patricia - EM Tigers 	4 - 3 	HT Re-Live
+	Gäddträsket - Åsehöjden 	2 - 1 	HT Re-Live
+	Arvidsjaur BK - Smackers United 	1 - 1 	HT Re-Live
+	IFK Livergården - Mjällbyn 	3 - 1 	HT Re-Live
+Omgång  9
+2003-06-01 10:00 			
+	Smackers United - Dynamo Patricia 	5 - 0 	HT Re-Live
+	EM Tigers - Gäddträsket 	3 - 1 	HT Re-Live
+	Mjällbyn - Arvidsjaur BK 	2 - 5 	HT Re-Live
+	Åsehöjden - IFK Livergården 	0 - 4 	HT Re-Live
+Omgång  10
+2003-06-08 10:00 			
+	Åsehöjden - EM Tigers 	3 - 3 	HT Re-Live
+	Gäddträsket - Smackers United 	1 - 0 	HT Re-Live
+	Dynamo Patricia - Mjällbyn 	0 - 4 	HT Re-Live
+	IFK Livergården - Arvidsjaur BK 	2 - 1 	HT Re-Live
+Omgång  11
+2003-06-15 10:00 			
+	Arvidsjaur BK - Dynamo Patricia 	2 - 0 	HT Re-Live
+	Mjällbyn - Gäddträsket 	2 - 2 	HT Re-Live
+	Smackers United - Åsehöjden 	1 - 1 	HT Re-Live
+	EM Tigers - IFK Livergården 	1 - 5 	HT Re-Live
+Omgång  12
+2003-06-22 10:00 			
+	IFK Livergården - Dynamo Patricia 	2 - 0 	HT Re-Live
+	EM Tigers - Smackers United 	3 - 0 	HT Re-Live
+	Åsehöjden - Mjällbyn 	2 - 5 	HT Re-Live
+	Gäddträsket - Arvidsjaur BK 	3 - 0 	HT Re-Live
+Omgång  13
+2003-06-29 10:00 			
+	Mjällbyn - EM Tigers 	5 - 0 	HT Re-Live
+	Dynamo Patricia - Gäddträsket 	1 - 3 	HT Re-Live
+	Arvidsjaur BK - Åsehöjden 	3 - 3 	HT Re-Live
+	IFK Livergården - Smackers United 	4 - 1 	HT Re-Live
+Omgång  14
+2003-07-06 10:00 			
+	Åsehöjden - Dynamo Patricia 	2 - 1 	HT Re-Live
+	Smackers United - Mjällbyn 	0 - 3 	HT Re-Live
+	EM Tigers - Arvidsjaur BK 	1 - 3 	HT Re-Live
+	Gäddträsket - IFK Livergården 	2 - 1 	HT Re-Live

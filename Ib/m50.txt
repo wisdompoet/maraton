@@ -1,0 +1,84 @@
+Omgång  1
+2012-10-07 10:00 			
+	Schenströmska BK - Maximus FF	0 - 2 	HT Re-Live
+	Sionisterna - Wick IT	2 - 0 	HT Re-Live
+	Bakerkings - Kardoz Boys	2 - 0 	HT Re-Live
+	FC Thad - AYREON FC	0 - 1 	HT Re-Live
+Omgång  2
+2012-10-14 10:00 			
+	AYREON FC - Sionisterna	1 - 0 	HT Re-Live
+	Maximus FF - Bakerkings	4 - 2 	HT Re-Live
+	Wick IT - Schenströmska BK	2 - 1 	HT Re-Live
+	Kardoz Boys - FC Thad	3 - 1 	HT Re-Live
+Omgång  3
+2012-10-21 10:00 			
+	Sionisterna - Maximus FF	4 - 2 	HT Re-Live
+	Schenströmska BK - Kardoz Boys	3 - 0 	HT Re-Live
+	AYREON FC - Wick IT	1 - 1 	HT Re-Live
+	FC Thad - Bakerkings	3 - 0 	HT Re-Live
+Omgång  4
+2012-10-28 10:00 			
+	Maximus FF - AYREON FC	1 - 2 	HT Re-Live
+	Kardoz Boys - Sionisterna	0 - 3 	HT Re-Live
+	Bakerkings - Schenströmska BK	1 - 3 	HT Re-Live
+	Wick IT - FC Thad	1 - 4 	HT Re-Live
+Omgång  5
+2012-11-04 10:00 			
+	Sionisterna - Schenströmska BK	3 - 5 	HT Re-Live
+	AYREON FC - Bakerkings	2 - 1 	HT Re-Live
+	FC Thad - Maximus FF	2 - 2 	HT Re-Live
+	Wick IT - Kardoz Boys	0 - 0 	HT Re-Live
+Omgång  6
+2012-11-11 10:00 			
+	Bakerkings - Sionisterna	2 - 4 	HT Re-Live
+	Schenströmska BK - FC Thad	3 - 0 	HT Re-Live
+	Maximus FF - Wick IT	4 - 0 	HT Re-Live
+	Kardoz Boys - AYREON FC	1 - 1 	HT Re-Live
+Omgång  7
+2012-11-18 10:00 			
+	Sionisterna - FC Thad	4 - 0 	HT Re-Live
+	Wick IT - Bakerkings	2 - 0 	HT Re-Live
+	AYREON FC - Schenströmska BK	1 - 2 	HT Re-Live
+	Kardoz Boys - Maximus FF	2 - 1 	HT Re-Live
+Omgång  8
+2012-11-25 10:00 			
+	Bakerkings - Wick IT	2 - 3 	HT Re-Live
+	FC Thad - Sionisterna	2 - 2 	HT Re-Live
+	Maximus FF - Kardoz Boys	1 - 3 	HT Re-Live
+	Schenströmska BK - AYREON FC	1 - 0 	HT Re-Live
+Omgång  9
+2012-12-02 10:00 			
+	Wick IT - Maximus FF	1 - 5 	HT Re-Live
+	AYREON FC - Kardoz Boys	0 - 1 	HT Re-Live
+	FC Thad - Schenströmska BK	1 - 3 	HT Re-Live
+	Sionisterna - Bakerkings	4 - 2 	HT Re-Live
+Omgång  10
+2012-12-09 10:00 			
+	Maximus FF - FC Thad	3 - 1 	HT Re-Live
+	Bakerkings - AYREON FC	0 - 1 	HT Re-Live
+	Schenströmska BK - Sionisterna	2 - 5 	HT Re-Live
+	Kardoz Boys - Wick IT	2 - 1 	HT Re-Live
+Omgång  11
+2012-12-16 10:00 			
+	AYREON FC - Maximus FF	0 - 1 	HT Re-Live
+	Schenströmska BK - Bakerkings	4 - 1 	HT Re-Live
+	Sionisterna - Kardoz Boys	1 - 2 	HT Re-Live
+	FC Thad - Wick IT	3 - 2 	HT Re-Live
+Omgång  12
+2012-12-23 10:00 			
+	Kardoz Boys - Schenströmska BK	3 - 0 	HT Re-Live
+	Wick IT - AYREON FC	1 - 0 	HT Re-Live
+	Bakerkings - FC Thad	0 - 2 	HT Re-Live
+	Maximus FF - Sionisterna	1 - 0 	HT Re-Live
+Omgång  13
+2012-12-30 10:00 			
+	Bakerkings - Maximus FF	2 - 2 	HT Re-Live
+	FC Thad - Kardoz Boys	3 - 4 	HT Re-Live
+	Schenströmska BK - Wick IT	2 - 0 	HT Re-Live
+	Sionisterna - AYREON FC	2 - 0 	HT Re-Live
+Omgång  14
+2013-01-06 10:00 			
+	Maximus FF - Schenströmska BK	2 - 5 	HT Re-Live
+	AYREON FC - FC Thad	2 - 1 	HT Re-Live
+	Kardoz Boys - Bakerkings	5 - 1 	HT Re-Live
+	Wick IT - Sionisterna	3 - 3 	HT Re-Live

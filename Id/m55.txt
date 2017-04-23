@@ -1,0 +1,84 @@
+Omgång  1
+2014-04-20 10:00 			
+	Frölunda killers - Bensparkers	7 - 0 	HT Re-Live
+	FBKkrossen - Massive Attack	0 - 7 	HT Re-Live
+	Gunnarn IK - Gloppas IF	3 - 2 	HT Re-Live
+	Rotorp - Wheelsbridge Wanderers	3 - 1 	HT Re-Live
+Omgång  2
+2014-04-27 10:00 			
+	Bensparkers - Rotorp	1 - 5 	HT Re-Live
+	Wheelsbridge Wanderers - FBKkrossen	4 - 1 	HT Re-Live
+	Massive Attack - Gunnarn IK	3 - 4 	HT Re-Live
+	Gloppas IF - Frölunda killers	0 - 1 	HT Re-Live
+Omgång  3
+2014-05-04 10:00 			
+	FBKkrossen - Gloppas IF	1 - 3 	HT Re-Live
+	Wheelsbridge Wanderers - Massive Attack	4 - 3 	HT Re-Live
+	Rotorp - Frölunda killers	2 - 1 	HT Re-Live
+	Gunnarn IK - Bensparkers	4 - 2 	HT Re-Live
+Omgång  4
+2014-05-11 10:00 			
+	Bensparkers - FBKkrossen	5 - 1 	HT Re-Live
+	Frölunda killers - Gunnarn IK	4 - 1 	HT Re-Live
+	Massive Attack - Rotorp	6 - 2 	HT Re-Live
+	Gloppas IF - Wheelsbridge Wanderers	3 - 2 	HT Re-Live
+Omgång  5
+2014-05-18 10:00 			
+	FBKkrossen - Gunnarn IK	2 - 7 	HT Re-Live
+	Wheelsbridge Wanderers - Frölunda killers	3 - 3 	HT Re-Live
+	Massive Attack - Bensparkers	4 - 3 	HT Re-Live
+	Rotorp - Gloppas IF	4 - 1 	HT Re-Live
+Omgång  6
+2014-05-25 10:00 			
+	Gunnarn IK - Rotorp	1 - 2 	HT Re-Live
+	Frölunda killers - FBKkrossen	3 - 0 	HT Re-Live
+	Bensparkers - Wheelsbridge Wanderers	7 - 1 	HT Re-Live
+	Gloppas IF - Massive Attack	2 - 2 	HT Re-Live
+Omgång  7
+2014-06-01 10:00 			
+	Wheelsbridge Wanderers - Gunnarn IK	3 - 2 	HT Re-Live
+	Massive Attack - Frölunda killers	4 - 0 	HT Re-Live
+	Bensparkers - Gloppas IF	3 - 4 	HT Re-Live
+	FBKkrossen - Rotorp	1 - 7 	HT Re-Live
+Omgång  8
+2014-06-08 10:00 			
+	Gloppas IF - Bensparkers	4 - 3 	HT Re-Live
+	Gunnarn IK - Wheelsbridge Wanderers	1 - 0 	HT Re-Live
+	Frölunda killers - Massive Attack	3 - 1 	HT Re-Live
+	Rotorp - FBKkrossen	2 - 1 	HT Re-Live
+Omgång  9
+2014-06-15 10:00 			
+	Wheelsbridge Wanderers - Bensparkers	2 - 1 	HT Re-Live
+	Rotorp - Gunnarn IK	4 - 3 	HT Re-Live
+	FBKkrossen - Frölunda killers	0 - 3 	HT Re-Live
+	Massive Attack - Gloppas IF	5 - 1 	HT Re-Live
+Omgång  10
+2014-06-22 10:00 			
+	Bensparkers - Massive Attack	0 - 0 	HT Re-Live
+	Gloppas IF - Rotorp	1 - 3 	HT Re-Live
+	Frölunda killers - Wheelsbridge Wanderers	4 - 1 	HT Re-Live
+	Gunnarn IK - FBKkrossen	2 - 0 	HT Re-Live
+Omgång  11
+2014-06-29 10:00 			
+	FBKkrossen - Bensparkers	0 - 4 	HT Re-Live
+	Wheelsbridge Wanderers - Gloppas IF	3 - 1 	HT Re-Live
+	Gunnarn IK - Frölunda killers	4 - 1 	HT Re-Live
+	Rotorp - Massive Attack	2 - 3 	HT Re-Live
+Omgång  12
+2014-07-06 10:00 			
+	Bensparkers - Gunnarn IK	1 - 4 	HT Re-Live
+	Massive Attack - Wheelsbridge Wanderers	3 - 1 	HT Re-Live
+	Gloppas IF - FBKkrossen	4 - 0 	HT Re-Live
+	Frölunda killers - Rotorp	2 - 4 	HT Re-Live
+Omgång  13
+2014-07-13 10:00 			
+	Rotorp - Bensparkers	3 - 0 	HT Re-Live
+	FBKkrossen - Wheelsbridge Wanderers	1 - 4 	HT Re-Live
+	Gunnarn IK - Massive Attack	3 - 4 	HT Re-Live
+	Frölunda killers - Gloppas IF	4 - 2 	HT Re-Live
+Omgång  14
+2014-07-20 10:00 			
+	Gloppas IF - Gunnarn IK	0 - 5 	HT Re-Live
+	Wheelsbridge Wanderers - Rotorp	3 - 1 	HT Re-Live
+	Massive Attack - FBKkrossen	4 - 0 	HT Re-Live
+	Bensparkers - Frölunda killers	1 - 2 	HT Re-Live

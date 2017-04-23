@@ -1,0 +1,84 @@
+Omgång  1
+2004-10-17 10:00 			
+	Inter Sthlm - Åshöjdens BK 	4 - 1 	HT Re-Live
+	Gäddträsket - EM Tigers 	1 - 0 	HT Re-Live
+	DrPepper FC - IFK Livergården 	2 - 4 	HT Re-Live
+	Headless Chickens FC - Lokomotiv Lund 	4 - 3 	HT Re-Live
+Omgång  2
+2004-10-24 10:00 			
+	IFK Livergården - Inter Sthlm 	0 - 6 	HT Re-Live
+	Lokomotiv Lund - Gäddträsket 	1 - 6 	HT Re-Live
+	Åshöjdens BK - Headless Chickens FC 	4 - 0 	HT Re-Live
+	EM Tigers - DrPepper FC 	1 - 0 	HT Re-Live
+Omgång  3
+2004-10-31 10:00 			
+	Gäddträsket - Åshöjdens BK 	2 - 0 	HT Re-Live
+	DrPepper FC - Lokomotiv Lund 	4 - 4 	HT Re-Live
+	IFK Livergården - EM Tigers 	3 - 1 	HT Re-Live
+	Headless Chickens FC - Inter Sthlm 	2 - 5 	HT Re-Live
+Omgång  4
+2004-11-07 10:00 			
+	Inter Sthlm - EM Tigers 	4 - 1 	HT Re-Live
+	Lokomotiv Lund - IFK Livergården 	1 - 0 	HT Re-Live
+	Åshöjdens BK - DrPepper FC 	5 - 1 	HT Re-Live
+	Headless Chickens FC - Gäddträsket 	0 - 6 	HT Re-Live
+Omgång  5
+2004-11-14 10:00 			
+	Gäddträsket - Inter Sthlm 	3 - 0 	HT Re-Live
+	DrPepper FC - Headless Chickens FC 	4 - 0 	HT Re-Live
+	IFK Livergården - Åshöjdens BK 	2 - 1 	HT Re-Live
+	EM Tigers - Lokomotiv Lund 	5 - 2 	HT Re-Live
+Omgång  6
+2004-11-21 10:00 			
+	Inter Sthlm - Lokomotiv Lund 	6 - 1 	HT Re-Live
+	Gäddträsket - DrPepper FC 	3 - 0 	HT Re-Live
+	Åshöjdens BK - EM Tigers 	1 - 1 	HT Re-Live
+	Headless Chickens FC - IFK Livergården 	2 - 3 	HT Re-Live
+Omgång  7
+2004-11-28 10:00 			
+	DrPepper FC - Inter Sthlm 	1 - 4 	HT Re-Live
+	IFK Livergården - Gäddträsket 	2 - 3 	HT Re-Live
+	Lokomotiv Lund - Åshöjdens BK 	5 - 3 	HT Re-Live
+	EM Tigers - Headless Chickens FC 	2 - 0 	HT Re-Live
+Omgång  8
+2004-12-05 10:00 			
+	Headless Chickens FC - EM Tigers 	2 - 0 	HT Re-Live
+	Åshöjdens BK - Lokomotiv Lund 	10 - 0 	HT Re-Live
+	Gäddträsket - IFK Livergården 	4 - 0 	HT Re-Live
+	Inter Sthlm - DrPepper FC 	7 - 3 	HT Re-Live
+Omgång  9
+2004-12-12 10:00 			
+	IFK Livergården - Headless Chickens FC 	5 - 3 	HT Re-Live
+	EM Tigers - Åshöjdens BK 	4 - 2 	HT Re-Live
+	DrPepper FC - Gäddträsket 	7 - 1 	HT Re-Live
+	Lokomotiv Lund - Inter Sthlm 	4 - 4 	HT Re-Live
+Omgång  10
+2004-12-19 10:00 			
+	Lokomotiv Lund - EM Tigers 	3 - 4 	HT Re-Live
+	Åshöjdens BK - IFK Livergården 	1 - 4 	HT Re-Live
+	Headless Chickens FC - DrPepper FC 	6 - 2 	HT Re-Live
+	Inter Sthlm - Gäddträsket 	2 - 0 	HT Re-Live
+Omgång  11
+2004-12-26 10:00 			
+	Gäddträsket - Headless Chickens FC 	5 - 0 	HT Re-Live
+	DrPepper FC - Åshöjdens BK 	4 - 1 	HT Re-Live
+	IFK Livergården - Lokomotiv Lund 	10 - 2 	HT Re-Live
+	EM Tigers - Inter Sthlm 	2 - 4 	HT Re-Live
+Omgång  12
+2005-01-02 10:00 			
+	Inter Sthlm - Headless Chickens FC 	4 - 1 	HT Re-Live
+	EM Tigers - IFK Livergården 	4 - 1 	HT Re-Live
+	Lokomotiv Lund - DrPepper FC 	6 - 2 	HT Re-Live
+	Åshöjdens BK - Gäddträsket 	1 - 2 	HT Re-Live
+Omgång  13
+2005-01-09 10:00 			
+	DrPepper FC - EM Tigers 	5 - 3 	HT Re-Live
+	Headless Chickens FC - Åshöjdens BK 	4 - 1 	HT Re-Live
+	Gäddträsket - Lokomotiv Lund 	10 - 1 	HT Re-Live
+	Inter Sthlm - IFK Livergården 	4 - 1 	HT Re-Live
+Omgång  14
+2005-01-16 10:00 			
+	Lokomotiv Lund - Headless Chickens FC 	6 - 4 	HT Re-Live
+	IFK Livergården - DrPepper FC 	3 - 1 	HT Re-Live
+	EM Tigers - Gäddträsket 	0 - 3 	HT Re-Live
+	Åshöjdens BK - Inter Sthlm 	2 - 1 	HT Re-Live

@@ -1,0 +1,84 @@
+Omgång  1
+2003-04-06 10:00 			
+	Salomon Islands - Åshöjdens BK	3 - 2 	HT Re-Live
+	Hallåellers - Starwars	2 - 2 	HT Re-Live
+	Kicking Stars - Headless Chickens FC	3 - 4 	HT Re-Live
+	Brunkongarnas FF - Kingdom Raiders	0 - 3 	HT Re-Live
+Omgång  2
+2003-04-13 10:00 			
+	Headless Chickens FC - Salomon Islands	2 - 4 	HT Re-Live
+	Kingdom Raiders - Hallåellers	2 - 2 	HT Re-Live
+	Åshöjdens BK - Brunkongarnas FF	5 - 0 	HT Re-Live
+	Starwars - Kicking Stars	1 - 2 	HT Re-Live
+Omgång  3
+2003-04-20 10:00 			
+	Hallåellers - Åshöjdens BK	1 - 1 	HT Re-Live
+	Kicking Stars - Kingdom Raiders	3 - 2 	HT Re-Live
+	Headless Chickens FC - Starwars	3 - 4 	HT Re-Live
+	Brunkongarnas FF - Salomon Islands	3 - 1 	HT Re-Live
+Omgång  4
+2003-04-27 10:00 			
+	Salomon Islands - Starwars	4 - 0 	HT Re-Live
+	Kingdom Raiders - Headless Chickens FC	3 - 1 	HT Re-Live
+	Åshöjdens BK - Kicking Stars	5 - 0 	HT Re-Live
+	Brunkongarnas FF - Hallåellers	2 - 1 	HT Re-Live
+Omgång  5
+2003-05-04 10:00 			
+	Hallåellers - Salomon Islands	0 - 3 	HT Re-Live
+	Kicking Stars - Brunkongarnas FF	2 - 2 	HT Re-Live
+	Headless Chickens FC - Åshöjdens BK	1 - 2 	HT Re-Live
+	Starwars - Kingdom Raiders	4 - 0 	HT Re-Live
+Omgång  6
+2003-05-11 10:00 			
+	Salomon Islands - Kingdom Raiders	6 - 0 	HT Re-Live
+	Hallåellers - Kicking Stars	2 - 0 	HT Re-Live
+	Åshöjdens BK - Starwars	4 - 0 	HT Re-Live
+	Brunkongarnas FF - Headless Chickens FC	1 - 6 	HT Re-Live
+Omgång  7
+2003-05-18 10:00 			
+	Kicking Stars - Salomon Islands	0 - 3 	HT Re-Live
+	Headless Chickens FC - Hallåellers	5 - 2 	HT Re-Live
+	Kingdom Raiders - Åshöjdens BK	0 - 1 	HT Re-Live
+	Starwars - Brunkongarnas FF	7 - 0 	HT Re-Live
+Omgång  8
+2003-05-25 10:00 			
+	Brunkongarnas FF - Starwars	0 - 2 	HT Re-Live
+	Åshöjdens BK - Kingdom Raiders	4 - 3 	HT Re-Live
+	Hallåellers - Headless Chickens FC	5 - 3 	HT Re-Live
+	Salomon Islands - Kicking Stars	7 - 2 	HT Re-Live
+Omgång  9
+2003-06-01 10:00 			
+	Headless Chickens FC - Brunkongarnas FF	1 - 5 	HT Re-Live
+	Starwars - Åshöjdens BK	0 - 3 	HT Re-Live
+	Kicking Stars - Hallåellers	2 - 0 	HT Re-Live
+	Kingdom Raiders - Salomon Islands	0 - 5 	HT Re-Live
+Omgång  10
+2003-06-08 10:00 			
+	Kingdom Raiders - Starwars	2 - 2 	HT Re-Live
+	Åshöjdens BK - Headless Chickens FC	5 - 0 	HT Re-Live
+	Brunkongarnas FF - Kicking Stars	3 - 0 	HT Re-Live
+	Salomon Islands - Hallåellers	1 - 3 	HT Re-Live
+Omgång  11
+2003-06-15 10:00 			
+	Hallåellers - Brunkongarnas FF	1 - 2 	HT Re-Live
+	Kicking Stars - Åshöjdens BK	3 - 2 	HT Re-Live
+	Headless Chickens FC - Kingdom Raiders	3 - 2 	HT Re-Live
+	Starwars - Salomon Islands	3 - 1 	HT Re-Live
+Omgång  12
+2003-06-22 10:00 			
+	Salomon Islands - Brunkongarnas FF	7 - 0 	HT Re-Live
+	Starwars - Headless Chickens FC	1 - 4 	HT Re-Live
+	Kingdom Raiders - Kicking Stars	4 - 1 	HT Re-Live
+	Åshöjdens BK - Hallåellers	0 - 1 	HT Re-Live
+Omgång  13
+2003-06-29 10:00 			
+	Kicking Stars - Starwars	2 - 1 	HT Re-Live
+	Brunkongarnas FF - Åshöjdens BK	0 - 3 	HT Re-Live
+	Hallåellers - Kingdom Raiders	2 - 2 	HT Re-Live
+	Salomon Islands - Headless Chickens FC	4 - 0 	HT Re-Live
+Omgång  14
+2003-07-06 10:00 			
+	Kingdom Raiders - Brunkongarnas FF	1 - 5 	HT Re-Live
+	Headless Chickens FC - Kicking Stars	3 - 1 	HT Re-Live
+	Starwars - Hallåellers	3 - 1 	HT Re-Live
+	Åshöjdens BK - Salomon Islands	5 - 1 	HT Re-Live

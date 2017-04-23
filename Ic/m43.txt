@@ -1,0 +1,84 @@
+Omgång  1
+2010-08-15 10:00 			
+	GAIS 1894 - FC Corvus Corax	2 - 1 	HT Re-Live
+	Sundsvall Meanmachines - nowhere FF	5 - 2 	HT Re-Live
+	MIA - Schenströmska BK	3 - 2 	HT Re-Live
+	Real Karlskrona - Bengan_Bois	1 - 4 	HT Re-Live
+Omgång  2
+2010-08-22 10:00 			
+	nowhere FF - GAIS 1894	2 - 3 	HT Re-Live
+	Schenströmska BK - Real Karlskrona	9 - 0 	HT Re-Live
+	Bengan_Bois - Sundsvall Meanmachines	4 - 0 	HT Re-Live
+	FC Corvus Corax - MIA	3 - 0 	HT Re-Live
+Omgång  3
+2010-08-29 10:00 			
+	Sundsvall Meanmachines - Real Karlskrona	1 - 1 	HT Re-Live
+	nowhere FF - FC Corvus Corax	1 - 3 	HT Re-Live
+	GAIS 1894 - Schenströmska BK	2 - 3 	HT Re-Live
+	MIA - Bengan_Bois	1 - 5 	HT Re-Live
+Omgång  4
+2010-09-05 10:00 			
+	Schenströmska BK - nowhere FF	4 - 0 	HT Re-Live
+	Real Karlskrona - MIA	2 - 0 	HT Re-Live
+	Bengan_Bois - GAIS 1894	4 - 2 	HT Re-Live
+	FC Corvus Corax - Sundsvall Meanmachines	0 - 0 	HT Re-Live
+Omgång  5
+2010-09-12 10:00 			
+	GAIS 1894 - MIA	1 - 2 	HT Re-Live
+	Sundsvall Meanmachines - Schenströmska BK	3 - 2 	HT Re-Live
+	nowhere FF - Real Karlskrona	1 - 4 	HT Re-Live
+	FC Corvus Corax - Bengan_Bois	1 - 0 	HT Re-Live
+Omgång  6
+2010-09-19 10:00 			
+	Real Karlskrona - GAIS 1894	3 - 1 	HT Re-Live
+	MIA - Sundsvall Meanmachines	4 - 2 	HT Re-Live
+	Bengan_Bois - nowhere FF	4 - 0 	HT Re-Live
+	Schenströmska BK - FC Corvus Corax	1 - 0 	HT Re-Live
+Omgång  7
+2010-09-26 10:00 			
+	FC Corvus Corax - Real Karlskrona	0 - 0 	HT Re-Live
+	GAIS 1894 - Sundsvall Meanmachines	2 - 1 	HT Re-Live
+	nowhere FF - MIA	3 - 1 	HT Re-Live
+	Bengan_Bois - Schenströmska BK	2 - 2 	HT Re-Live
+Omgång  8
+2010-10-03 10:00 			
+	Schenströmska BK - Bengan_Bois	4 - 1 	HT Re-Live
+	Real Karlskrona - FC Corvus Corax	3 - 0 	HT Re-Live
+	MIA - nowhere FF	1 - 0 	HT Re-Live
+	Sundsvall Meanmachines - GAIS 1894	3 - 1 	HT Re-Live
+Omgång  9
+2010-10-10 10:00 			
+	FC Corvus Corax - Schenströmska BK	3 - 3 	HT Re-Live
+	nowhere FF - Bengan_Bois	1 - 2 	HT Re-Live
+	GAIS 1894 - Real Karlskrona	1 - 1 	HT Re-Live
+	Sundsvall Meanmachines - MIA	3 - 1 	HT Re-Live
+Omgång  10
+2010-10-17 10:00 			
+	Bengan_Bois - FC Corvus Corax	1 - 1 	HT Re-Live
+	MIA - GAIS 1894	1 - 0 	HT Re-Live
+	Real Karlskrona - nowhere FF	3 - 2 	HT Re-Live
+	Schenströmska BK - Sundsvall Meanmachines	3 - 2 	HT Re-Live
+Omgång  11
+2010-10-24 10:00 			
+	nowhere FF - Schenströmska BK	0 - 5 	HT Re-Live
+	MIA - Real Karlskrona	1 - 2 	HT Re-Live
+	Sundsvall Meanmachines - FC Corvus Corax	1 - 1 	HT Re-Live
+	GAIS 1894 - Bengan_Bois	2 - 0 	HT Re-Live
+Omgång  12
+2010-10-31 10:00 			
+	FC Corvus Corax - nowhere FF	1 - 0 	HT Re-Live
+	Real Karlskrona - Sundsvall Meanmachines	4 - 0 	HT Re-Live
+	Bengan_Bois - MIA	3 - 1 	HT Re-Live
+	Schenströmska BK - GAIS 1894	2 - 0 	HT Re-Live
+Omgång  13
+2010-11-07 10:00 			
+	Real Karlskrona - Schenströmska BK	1 - 0 	HT Re-Live
+	Sundsvall Meanmachines - Bengan_Bois	8 - 0 	HT Re-Live
+	MIA - FC Corvus Corax	1 - 1 	HT Re-Live
+	GAIS 1894 - nowhere FF	1 - 2 	HT Re-Live
+Omgång  14
+2010-11-14 10:00 			
+	Schenströmska BK - MIA	4 - 0 	HT Re-Live
+	Bengan_Bois - Real Karlskrona	0 - 10 	HT Re-Live
+	nowhere FF - Sundsvall Meanmachines	4 - 1 	HT Re-Live
+	FC Corvus Corax - GAIS 1894	3 - 6 	HT Re-Live

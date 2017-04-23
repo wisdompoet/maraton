@@ -1,0 +1,84 @@
+Omgång  1
+2001-02-11 10:00 			
+	Åshöjdens BK - Kungens IF	3 - 3 	HT Re-Live
+	Team Ångest - Kungsbackas Kor	4 - 0 	HT Re-Live
+	OAK FC - Grabbarna Med Hår På Bröstet	1 - 3 	HT Re-Live
+	Gaddens IF - Brunkongarnas FF	2 - 3 	HT Re-Live
+Omgång  2
+2001-02-18 10:00 			
+	Grabbarna Med Hår På Bröstet - Åshöjdens BK	1 - 5 	HT Re-Live
+	Brunkongarnas FF - Team Ångest	1 - 1 	HT Re-Live
+	Kungens IF - Gaddens IF	2 - 0 	HT Re-Live
+	Kungsbackas Kor - OAK FC	0 - 0 	HT Re-Live
+Omgång  3
+2001-02-25 10:00 			
+	Team Ångest - Kungens IF	0 - 0 	HT Re-Live
+	OAK FC - Brunkongarnas FF	2 - 3 	HT Re-Live
+	Grabbarna Med Hår På Bröstet - Kungsbackas Kor	3 - 2 	HT Re-Live
+	Gaddens IF - Åshöjdens BK	1 - 3 	HT Re-Live
+Omgång  4
+2001-03-04 10:00 			
+	Åshöjdens BK - Kungsbackas Kor	3 - 4 	HT Re-Live
+	Brunkongarnas FF - Grabbarna Med Hår På Bröstet	5 - 2 	HT Re-Live
+	Kungens IF - OAK FC	2 - 2 	HT Re-Live
+	Gaddens IF - Team Ångest	1 - 2 	HT Re-Live
+Omgång  5
+2001-03-11 10:00 			
+	Team Ångest - Åshöjdens BK	2 - 3 	HT Re-Live
+	OAK FC - Gaddens IF	1 - 4 	HT Re-Live
+	Grabbarna Med Hår På Bröstet - Kungens IF	0 - 2 	HT Re-Live
+	Kungsbackas Kor - Brunkongarnas FF	2 - 0 	HT Re-Live
+Omgång  6
+2001-03-18 10:00 			
+	Åshöjdens BK - Brunkongarnas FF	3 - 2 	HT Re-Live
+	Team Ångest - OAK FC	1 - 1 	HT Re-Live
+	Kungens IF - Kungsbackas Kor	0 - 0 	HT Re-Live
+	Gaddens IF - Grabbarna Med Hår På Bröstet	5 - 1 	HT Re-Live
+Omgång  7
+2001-03-25 10:00 			
+	OAK FC - Åshöjdens BK	1 - 3 	HT Re-Live
+	Grabbarna Med Hår På Bröstet - Team Ångest	0 - 1 	HT Re-Live
+	Brunkongarnas FF - Kungens IF	0 - 4 	HT Re-Live
+	Kungsbackas Kor - Gaddens IF	4 - 1 	HT Re-Live
+Omgång  8
+2001-04-01 10:00 			
+	Gaddens IF - Kungsbackas Kor	3 - 2 	HT Re-Live
+	Kungens IF - Brunkongarnas FF	4 - 1 	HT Re-Live
+	Team Ångest - Grabbarna Med Hår På Bröstet	2 - 0 	HT Re-Live
+	Åshöjdens BK - OAK FC	4 - 2 	HT Re-Live
+Omgång  9
+2001-04-08 10:00 			
+	Grabbarna Med Hår På Bröstet - Gaddens IF	2 - 1 	HT Re-Live
+	Kungsbackas Kor - Kungens IF	3 - 3 	HT Re-Live
+	OAK FC - Team Ångest	2 - 1 	HT Re-Live
+	Brunkongarnas FF - Åshöjdens BK	4 - 3 	HT Re-Live
+Omgång  10
+2001-04-15 10:00 			
+	Brunkongarnas FF - Kungsbackas Kor	1 - 0 	HT Re-Live
+	Kungens IF - Grabbarna Med Hår På Bröstet	3 - 1 	HT Re-Live
+	Gaddens IF - OAK FC	1 - 1 	HT Re-Live
+	Åshöjdens BK - Team Ångest	3 - 1 	HT Re-Live
+Omgång  11
+2001-04-22 10:00 			
+	Team Ångest - Gaddens IF	2 - 0 	HT Re-Live
+	OAK FC - Kungens IF	0 - 2 	HT Re-Live
+	Grabbarna Med Hår På Bröstet - Brunkongarnas FF	4 - 0 	HT Re-Live
+	Kungsbackas Kor - Åshöjdens BK	3 - 3 	HT Re-Live
+Omgång  12
+2001-04-29 10:00 			
+	Åshöjdens BK - Gaddens IF	3 - 3 	HT Re-Live
+	Kungsbackas Kor - Grabbarna Med Hår På Bröstet	3 - 0 	HT Re-Live
+	Brunkongarnas FF - OAK FC	3 - 2 	HT Re-Live
+	Kungens IF - Team Ångest	2 - 0 	HT Re-Live
+Omgång  13
+2001-05-06 10:00 			
+	OAK FC - Kungsbackas Kor	0 - 2 	HT Re-Live
+	Gaddens IF - Kungens IF	0 - 5 	HT Re-Live
+	Team Ångest - Brunkongarnas FF	4 - 0 	HT Re-Live
+	Åshöjdens BK - Grabbarna Med Hår På Bröstet	4 - 2 	HT Re-Live
+Omgång  14
+2001-05-13 10:00 			
+	Brunkongarnas FF - Gaddens IF	4 - 1 	HT Re-Live
+	Grabbarna Med Hår På Bröstet - OAK FC	3 - 0 	HT Re-Live
+	Kungsbackas Kor - Team Ångest	0 - 0 	HT Re-Live
+	Kungens IF - Åshöjdens BK	4 - 2 	HT Re-Live

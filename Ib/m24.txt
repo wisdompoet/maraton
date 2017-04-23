@@ -1,0 +1,84 @@
+Omgång  1
+2004-10-17 10:00 			
+	Tjecko-85 - Ambient Underground	4 - 2 	HT Re-Live
+	Åsehöjden - Norsgatan Kickers	1 - 3 	HT Re-Live
+	Wermdö Trappers - Järna BK	5 - 1 	HT Re-Live
+	Ljungby IF - Scoring Xtreme	3 - 1 	HT Re-Live
+Omgång  2
+2004-10-24 10:00 			
+	Järna BK - Tjecko-85	1 - 3 	HT Re-Live
+	Scoring Xtreme - Åsehöjden	3 - 3 	HT Re-Live
+	Ambient Underground - Ljungby IF	4 - 1 	HT Re-Live
+	Norsgatan Kickers - Wermdö Trappers	4 - 1 	HT Re-Live
+Omgång  3
+2004-10-31 10:00 			
+	Åsehöjden - Ambient Underground	1 - 4 	HT Re-Live
+	Wermdö Trappers - Scoring Xtreme	5 - 3 	HT Re-Live
+	Järna BK - Norsgatan Kickers	1 - 4 	HT Re-Live
+	Ljungby IF - Tjecko-85	2 - 0 	HT Re-Live
+Omgång  4
+2004-11-07 10:00 			
+	Tjecko-85 - Norsgatan Kickers	9 - 0 	HT Re-Live
+	Scoring Xtreme - Järna BK	4 - 0 	HT Re-Live
+	Ambient Underground - Wermdö Trappers	4 - 3 	HT Re-Live
+	Ljungby IF - Åsehöjden	3 - 0 	HT Re-Live
+Omgång  5
+2004-11-14 10:00 			
+	Åsehöjden - Tjecko-85	5 - 3 	HT Re-Live
+	Wermdö Trappers - Ljungby IF	7 - 0 	HT Re-Live
+	Järna BK - Ambient Underground	1 - 0 	HT Re-Live
+	Norsgatan Kickers - Scoring Xtreme	2 - 5 	HT Re-Live
+Omgång  6
+2004-11-21 10:00 			
+	Tjecko-85 - Scoring Xtreme	3 - 1 	HT Re-Live
+	Åsehöjden - Wermdö Trappers	7 - 3 	HT Re-Live
+	Ambient Underground - Norsgatan Kickers	5 - 1 	HT Re-Live
+	Ljungby IF - Järna BK	6 - 0 	HT Re-Live
+Omgång  7
+2004-11-28 10:00 			
+	Wermdö Trappers - Tjecko-85	1 - 2 	HT Re-Live
+	Järna BK - Åsehöjden	4 - 2 	HT Re-Live
+	Scoring Xtreme - Ambient Underground	4 - 0 	HT Re-Live
+	Norsgatan Kickers - Ljungby IF	1 - 0 	HT Re-Live
+Omgång  8
+2004-12-05 10:00 			
+	Ljungby IF - Norsgatan Kickers	4 - 1 	HT Re-Live
+	Ambient Underground - Scoring Xtreme	4 - 1 	HT Re-Live
+	Åsehöjden - Järna BK	6 - 0 	HT Re-Live
+	Tjecko-85 - Wermdö Trappers	4 - 1 	HT Re-Live
+Omgång  9
+2004-12-12 10:00 			
+	Järna BK - Ljungby IF	3 - 2 	HT Re-Live
+	Norsgatan Kickers - Ambient Underground	4 - 0 	HT Re-Live
+	Wermdö Trappers - Åsehöjden	2 - 3 	HT Re-Live
+	Scoring Xtreme - Tjecko-85	5 - 2 	HT Re-Live
+Omgång  10
+2004-12-19 10:00 			
+	Scoring Xtreme - Norsgatan Kickers	3 - 2 	HT Re-Live
+	Ambient Underground - Järna BK	3 - 4 	HT Re-Live
+	Ljungby IF - Wermdö Trappers	0 - 0 	HT Re-Live
+	Tjecko-85 - Åsehöjden	5 - 2 	HT Re-Live
+Omgång  11
+2004-12-26 10:00 			
+	Åsehöjden - Ljungby IF	5 - 1 	HT Re-Live
+	Wermdö Trappers - Ambient Underground	2 - 1 	HT Re-Live
+	Järna BK - Scoring Xtreme	5 - 2 	HT Re-Live
+	Norsgatan Kickers - Tjecko-85	4 - 2 	HT Re-Live
+Omgång  12
+2005-01-02 10:00 			
+	Tjecko-85 - Ljungby IF	3 - 2 	HT Re-Live
+	Norsgatan Kickers - Järna BK	8 - 3 	HT Re-Live
+	Scoring Xtreme - Wermdö Trappers	3 - 1 	HT Re-Live
+	Ambient Underground - Åsehöjden	2 - 1 	HT Re-Live
+Omgång  13
+2005-01-09 10:00 			
+	Wermdö Trappers - Norsgatan Kickers	4 - 2 	HT Re-Live
+	Ljungby IF - Ambient Underground	2 - 1 	HT Re-Live
+	Åsehöjden - Scoring Xtreme	4 - 2 	HT Re-Live
+	Tjecko-85 - Järna BK	3 - 0 	HT Re-Live
+Omgång  14
+2005-01-16 10:00 			
+	Scoring Xtreme - Ljungby IF	4 - 0 	HT Re-Live
+	Järna BK - Wermdö Trappers	5 - 1 	HT Re-Live
+	Norsgatan Kickers - Åsehöjden	1 - 3 	HT Re-Live
+	Ambient Underground - Tjecko-85	3 - 1 	HT Re-Live

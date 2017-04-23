@@ -1,0 +1,84 @@
+Omgång  1
+2014-08-10 10:00 			
+	FC Mackan - Söderbröder FC 	5 - 2 	HT Re-Live
+	Skansholms SK - The Stocks 	2 - 0 	HT Re-Live
+	Lee Lakers - Flying Pigs FC 	4 - 0 	HT Re-Live
+	Norsgatan Kickers - Rotorp 	3 - 1 	HT Re-Live
+Omgång  2
+2014-08-17 10:00 			
+	The Stocks - FC Mackan 	3 - 0 	HT Re-Live
+	Söderbröder FC - Norsgatan Kickers 	4 - 0 	HT Re-Live
+	Flying Pigs FC - Skansholms SK 	4 - 0 	HT Re-Live
+	Rotorp - Lee Lakers 	3 - 1 	HT Re-Live
+Omgång  3
+2014-08-24 10:00 			
+	FC Mackan - Rotorp 	3 - 1 	HT Re-Live
+	Skansholms SK - Lee Lakers 	3 - 2 	HT Re-Live
+	The Stocks - Söderbröder FC 	2 - 2 	HT Re-Live
+	Norsgatan Kickers - Flying Pigs FC 	3 - 2 	HT Re-Live
+Omgång  4
+2014-08-31 10:00 			
+	Flying Pigs FC - FC Mackan 	2 - 3 	HT Re-Live
+	Söderbröder FC - Skansholms SK 	2 - 1 	HT Re-Live
+	Lee Lakers - Norsgatan Kickers 	3 - 0 	HT Re-Live
+	Rotorp - The Stocks 	5 - 1 	HT Re-Live
+Omgång  5
+2014-09-07 10:00 			
+	FC Mackan - Norsgatan Kickers 	6 - 1 	HT Re-Live
+	The Stocks - Lee Lakers 	2 - 1 	HT Re-Live
+	Skansholms SK - Rotorp 	8 - 0 	HT Re-Live
+	Söderbröder FC - Flying Pigs FC 	4 - 0 	HT Re-Live
+Omgång  6
+2014-09-14 10:00 			
+	Lee Lakers - FC Mackan 	3 - 2 	HT Re-Live
+	Flying Pigs FC - The Stocks 	2 - 2 	HT Re-Live
+	Norsgatan Kickers - Skansholms SK 	3 - 4 	HT Re-Live
+	Rotorp - Söderbröder FC 	2 - 1 	HT Re-Live
+Omgång  7
+2014-09-21 10:00 			
+	FC Mackan - Skansholms SK 	2 - 1 	HT Re-Live
+	The Stocks - Norsgatan Kickers 	4 - 2 	HT Re-Live
+	Söderbröder FC - Lee Lakers 	6 - 0 	HT Re-Live
+	Flying Pigs FC - Rotorp 	1 - 3 	HT Re-Live
+Omgång  8
+2014-09-28 10:00 			
+	Rotorp - Flying Pigs FC 	2 - 2 	HT Re-Live
+	Norsgatan Kickers - The Stocks 	2 - 2 	HT Re-Live
+	Lee Lakers - Söderbröder FC 	0 - 5 	HT Re-Live
+	Skansholms SK - FC Mackan 	3 - 4 	HT Re-Live
+Omgång  9
+2014-10-05 10:00 			
+	Söderbröder FC - Rotorp 	3 - 5 	HT Re-Live
+	Skansholms SK - Norsgatan Kickers 	0 - 2 	HT Re-Live
+	FC Mackan - Lee Lakers 	4 - 0 	HT Re-Live
+	The Stocks - Flying Pigs FC 	4 - 0 	HT Re-Live
+Omgång  10
+2014-10-12 10:00 			
+	Flying Pigs FC - Söderbröder FC 	3 - 4 	HT Re-Live
+	Rotorp - Skansholms SK 	2 - 1 	HT Re-Live
+	Norsgatan Kickers - FC Mackan 	4 - 1 	HT Re-Live
+	Lee Lakers - The Stocks 	0 - 1 	HT Re-Live
+Omgång  11
+2014-10-19 10:00 			
+	The Stocks - Rotorp 	3 - 3 	HT Re-Live
+	Skansholms SK - Söderbröder FC 	3 - 3 	HT Re-Live
+	Norsgatan Kickers - Lee Lakers 	1 - 1 	HT Re-Live
+	FC Mackan - Flying Pigs FC 	2 - 0 	HT Re-Live
+Omgång  12
+2014-10-26 10:00 			
+	Flying Pigs FC - Norsgatan Kickers 	1 - 2 	HT Re-Live
+	Söderbröder FC - The Stocks 	2 - 4 	HT Re-Live
+	Lee Lakers - Skansholms SK 	3 - 2 	HT Re-Live
+	Rotorp - FC Mackan 	6 - 1 	HT Re-Live
+Omgång  13
+2014-11-02 10:00 			
+	Lee Lakers - Rotorp 	0 - 0 	HT Re-Live
+	Skansholms SK - Flying Pigs FC 	2 - 1 	HT Re-Live
+	Norsgatan Kickers - Söderbröder FC 	5 - 5 	HT Re-Live
+	FC Mackan - The Stocks 	2 - 4 	HT Re-Live
+Omgång  14
+2014-11-09 10:00 			
+	Rotorp - Norsgatan Kickers 	2 - 1 	HT Re-Live
+	Flying Pigs FC - Lee Lakers 	2 - 2 	HT Re-Live
+	Söderbröder FC - FC Mackan 	3 - 1 	HT Re-Live
+	The Stocks - Skansholms SK 	6 - 2 	HT Re-Live

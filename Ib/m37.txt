@@ -1,0 +1,84 @@
+Omgång  1
+2008-10-12 10:00 			
+	Schenströmska BK - BusbyBabes	3 - 2 	HT Re-Live
+	AMTrix - Swedish bubbles	2 - 1 	HT Re-Live
+	Empoli - Trumma på!	8 - 1 	HT Re-Live
+	Flamman IF - Man United $$	2 - 1 	HT Re-Live
+Omgång  2
+2008-10-19 10:00 			
+	Man United $$ - Schenströmska BK	8 - 1 	HT Re-Live
+	Trumma på! - AMTrix	2 - 5 	HT Re-Live
+	BusbyBabes - Empoli	3 - 4 	HT Re-Live
+	Swedish bubbles - Flamman IF	0 - 3 	HT Re-Live
+Omgång  3
+2008-10-26 10:00 			
+	AMTrix - BusbyBabes	1 - 1 	HT Re-Live
+	Flamman IF - Trumma på!	3 - 2 	HT Re-Live
+	Man United $$ - Swedish bubbles	2 - 2 	HT Re-Live
+	Empoli - Schenströmska BK	7 - 0 	HT Re-Live
+Omgång  4
+2008-11-02 10:00 			
+	Schenströmska BK - Swedish bubbles	0 - 6 	HT Re-Live
+	Trumma på! - Man United $$	8 - 1 	HT Re-Live
+	BusbyBabes - Flamman IF	1 - 4 	HT Re-Live
+	Empoli - AMTrix	4 - 2 	HT Re-Live
+Omgång  5
+2008-11-09 10:00 			
+	AMTrix - Schenströmska BK	5 - 0 	HT Re-Live
+	Flamman IF - Empoli	4 - 4 	HT Re-Live
+	Man United $$ - BusbyBabes	2 - 5 	HT Re-Live
+	Swedish bubbles - Trumma på!	3 - 1 	HT Re-Live
+Omgång  6
+2008-11-16 10:00 			
+	Schenströmska BK - Trumma på!	0 - 6 	HT Re-Live
+	BusbyBabes - Swedish bubbles	3 - 0 	HT Re-Live
+	AMTrix - Flamman IF	5 - 2 	HT Re-Live
+	Empoli - Man United $$	9 - 2 	HT Re-Live
+Omgång  7
+2008-11-23 10:00 			
+	Swedish bubbles - Empoli	0 - 6 	HT Re-Live
+	Trumma på! - BusbyBabes	3 - 2 	HT Re-Live
+	Man United $$ - AMTrix	1 - 0 	HT Re-Live
+	Flamman IF - Schenströmska BK	0 - 8 	HT Re-Live
+Omgång  8
+2008-11-30 10:00 			
+	Empoli - Swedish bubbles	5 - 3 	HT Re-Live
+	BusbyBabes - Trumma på!	4 - 2 	HT Re-Live
+	AMTrix - Man United $$	5 - 2 	HT Re-Live
+	Schenströmska BK - Flamman IF	6 - 0 	HT Re-Live
+Omgång  9
+2008-12-07 10:00 			
+	Man United $$ - Empoli	1 - 1 	HT Re-Live
+	Swedish bubbles - BusbyBabes	1 - 1 	HT Re-Live
+	Flamman IF - AMTrix	0 - 11 	HT Re-Live
+	Trumma på! - Schenströmska BK	5 - 0 	HT Re-Live
+Omgång  10
+2008-12-14 10:00 			
+	Trumma på! - Swedish bubbles	2 - 2 	HT Re-Live
+	BusbyBabes - Man United $$	4 - 0 	HT Re-Live
+	Empoli - Flamman IF	15 - 0 	HT Re-Live
+	Schenströmska BK - AMTrix	0 - 6 	HT Re-Live
+Omgång  11
+2008-12-21 10:00 			
+	AMTrix - Empoli	3 - 4 	HT Re-Live
+	Flamman IF - BusbyBabes	0 - 9 	HT Re-Live
+	Man United $$ - Trumma på!	1 - 4 	HT Re-Live
+	Swedish bubbles - Schenströmska BK	3 - 2 	HT Re-Live
+Omgång  12
+2008-12-28 10:00 			
+	Trumma på! - Flamman IF	11 - 0 	HT Re-Live
+	BusbyBabes - AMTrix	4 - 0 	HT Re-Live
+	Schenströmska BK - Empoli	0 - 9 	HT Re-Live
+	Swedish bubbles - Man United $$	2 - 2 	HT Re-Live
+Omgång  13
+2009-01-04 10:00 			
+	AMTrix - Trumma på!	3 - 2 	HT Re-Live
+	Schenströmska BK - Man United $$	1 - 6 	HT Re-Live
+	Empoli - BusbyBabes	5 - 0 	HT Re-Live
+	Flamman IF - Swedish bubbles	0 - 8 	HT Re-Live
+Omgång  14
+2009-01-11 10:00 			
+	Trumma på! - Empoli	6 - 3 	HT Re-Live
+	Man United $$ - Flamman IF	9 - 0 	HT Re-Live
+	Swedish bubbles - AMTrix	0 - 4 	HT Re-Live
+	BusbyBabes - Schenströmska BK	3 - 1 	HT Re-Live

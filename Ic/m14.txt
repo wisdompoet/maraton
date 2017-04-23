@@ -1,0 +1,84 @@
+Omgång  1
+2001-09-23 10:00 			
+	Baloo BK - Dynamo Patricia	4 - 2 	HT Re-Live
+	Swemporri - Ljungans FF	2 - 3 	HT Re-Live
+	Byalaget - SvinArne IF	0 - 3 	HT Re-Live
+	BK Marx - Gothenburg	3 - 2 	HT Re-Live
+Omgång  2
+2001-09-30 10:00 			
+	SvinArne IF - Baloo BK	2 - 0 	HT Re-Live
+	Gothenburg - Swemporri	1 - 1 	HT Re-Live
+	Dynamo Patricia - BK Marx	3 - 0 	HT Re-Live
+	Ljungans FF - Byalaget	3 - 0 	HT Re-Live
+Omgång  3
+2001-10-07 10:00 			
+	Swemporri - Dynamo Patricia	2 - 2 	HT Re-Live
+	Byalaget - Gothenburg	2 - 1 	HT Re-Live
+	SvinArne IF - Ljungans FF	2 - 0 	HT Re-Live
+	BK Marx - Baloo BK	1 - 3 	HT Re-Live
+Omgång  4
+2001-10-14 10:00 			
+	Baloo BK - Ljungans FF	0 - 0 	HT Re-Live
+	Gothenburg - SvinArne IF	0 - 2 	HT Re-Live
+	Dynamo Patricia - Byalaget	4 - 0 	HT Re-Live
+	BK Marx - Swemporri	1 - 2 	HT Re-Live
+Omgång  5
+2001-10-21 10:00 			
+	Swemporri - Baloo BK	1 - 2 	HT Re-Live
+	Byalaget - BK Marx	2 - 2 	HT Re-Live
+	SvinArne IF - Dynamo Patricia	2 - 1 	HT Re-Live
+	Ljungans FF - Gothenburg	4 - 0 	HT Re-Live
+Omgång  6
+2001-10-28 10:00 			
+	Baloo BK - Gothenburg	4 - 1 	HT Re-Live
+	Swemporri - Byalaget	2 - 0 	HT Re-Live
+	Dynamo Patricia - Ljungans FF	1 - 2 	HT Re-Live
+	BK Marx - SvinArne IF	3 - 3 	HT Re-Live
+Omgång  7
+2001-11-04 10:00 			
+	Byalaget - Baloo BK	0 - 1 	HT Re-Live
+	SvinArne IF - Swemporri	4 - 2 	HT Re-Live
+	Gothenburg - Dynamo Patricia	1 - 4 	HT Re-Live
+	Ljungans FF - BK Marx	2 - 0 	HT Re-Live
+Omgång  8
+2001-11-11 10:00 			
+	BK Marx - Ljungans FF	2 - 1 	HT Re-Live
+	Dynamo Patricia - Gothenburg	2 - 1 	HT Re-Live
+	Swemporri - SvinArne IF	3 - 2 	HT Re-Live
+	Baloo BK - Byalaget	2 - 0 	HT Re-Live
+Omgång  9
+2001-11-18 10:00 			
+	SvinArne IF - BK Marx	1 - 2 	HT Re-Live
+	Ljungans FF - Dynamo Patricia	3 - 0 	HT Re-Live
+	Byalaget - Swemporri	3 - 1 	HT Re-Live
+	Gothenburg - Baloo BK	1 - 3 	HT Re-Live
+Omgång  10
+2001-11-25 10:00 			
+	Gothenburg - Ljungans FF	1 - 2 	HT Re-Live
+	Dynamo Patricia - SvinArne IF	4 - 1 	HT Re-Live
+	BK Marx - Byalaget	2 - 2 	HT Re-Live
+	Baloo BK - Swemporri	2 - 2 	HT Re-Live
+Omgång  11
+2001-12-02 10:00 			
+	Swemporri - BK Marx	2 - 3 	HT Re-Live
+	Byalaget - Dynamo Patricia	0 - 3 	HT Re-Live
+	SvinArne IF - Gothenburg	2 - 2 	HT Re-Live
+	Ljungans FF - Baloo BK	1 - 0 	HT Re-Live
+Omgång  12
+2001-12-09 10:00 			
+	Baloo BK - BK Marx	0 - 4 	HT Re-Live
+	Ljungans FF - SvinArne IF	2 - 1 	HT Re-Live
+	Gothenburg - Byalaget	2 - 1 	HT Re-Live
+	Dynamo Patricia - Swemporri	5 - 1 	HT Re-Live
+Omgång  13
+2001-12-16 10:00 			
+	Byalaget - Ljungans FF	0 - 0 	HT Re-Live
+	BK Marx - Dynamo Patricia	4 - 2 	HT Re-Live
+	Swemporri - Gothenburg	2 - 0 	HT Re-Live
+	Baloo BK - SvinArne IF	2 - 3 	HT Re-Live
+Omgång  14
+2001-12-23 10:00 			
+	Gothenburg - BK Marx	1 - 3 	HT Re-Live
+	SvinArne IF - Byalaget	5 - 1 	HT Re-Live
+	Ljungans FF - Swemporri	2 - 0 	HT Re-Live
+	Dynamo Patricia - Baloo BK	2 - 1 	HT Re-Live

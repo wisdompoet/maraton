@@ -1,0 +1,84 @@
+Omgång  1
+2010-04-25 10:00 			
+	Gerilla - FC Mackan	1 - 3 	HT Re-Live
+	BK Ondska - Hestra2000	9 - 0 	HT Re-Live
+	Dynamo Kebab - Team ugly	6 - 1 	HT Re-Live
+	Crazy Apes - Cirkus Brazil Jack	3 - 4 	HT Re-Live
+Omgång  2
+2010-05-02 10:00 			
+	Team ugly - BK Ondska	1 - 0 	HT Re-Live
+	Cirkus Brazil Jack - Gerilla	1 - 0 	HT Re-Live
+	FC Mackan - Dynamo Kebab	4 - 4 	HT Re-Live
+	Hestra2000 - Crazy Apes	0 - 7 	HT Re-Live
+Omgång  3
+2010-05-09 10:00 			
+	Gerilla - Crazy Apes	1 - 0 	HT Re-Live
+	Hestra2000 - Team ugly	1 - 7 	HT Re-Live
+	BK Ondska - FC Mackan	4 - 2 	HT Re-Live
+	Dynamo Kebab - Cirkus Brazil Jack	4 - 2 	HT Re-Live
+Omgång  4
+2010-05-16 10:00 			
+	Gerilla - Dynamo Kebab	4 - 1 	HT Re-Live
+	Cirkus Brazil Jack - BK Ondska	6 - 0 	HT Re-Live
+	Crazy Apes - Team ugly	3 - 1 	HT Re-Live
+	FC Mackan - Hestra2000	6 - 0 	HT Re-Live
+Omgång  5
+2010-05-23 10:00 			
+	Team ugly - FC Mackan	2 - 4 	HT Re-Live
+	Hestra2000 - Cirkus Brazil Jack	0 - 7 	HT Re-Live
+	BK Ondska - Gerilla	1 - 3 	HT Re-Live
+	Dynamo Kebab - Crazy Apes	0 - 3 	HT Re-Live
+Omgång  6
+2010-05-30 10:00 			
+	Gerilla - Hestra2000	9 - 0 	HT Re-Live
+	Cirkus Brazil Jack - Team ugly	5 - 0 	HT Re-Live
+	Crazy Apes - FC Mackan	4 - 0 	HT Re-Live
+	Dynamo Kebab - BK Ondska	7 - 1 	HT Re-Live
+Omgång  7
+2010-06-06 10:00 			
+	Team ugly - Gerilla	1 - 1 	HT Re-Live
+	Hestra2000 - Dynamo Kebab	1 - 10 	HT Re-Live
+	FC Mackan - Cirkus Brazil Jack	1 - 2 	HT Re-Live
+	BK Ondska - Crazy Apes	0 - 3 	HT Re-Live
+Omgång  8
+2010-06-13 10:00 			
+	Dynamo Kebab - Hestra2000	3 - 1 	HT Re-Live
+	Crazy Apes - BK Ondska	5 - 3 	HT Re-Live
+	Cirkus Brazil Jack - FC Mackan	1 - 0 	HT Re-Live
+	Gerilla - Team ugly	3 - 1 	HT Re-Live
+Omgång  9
+2010-06-20 10:00 			
+	BK Ondska - Dynamo Kebab	2 - 6 	HT Re-Live
+	FC Mackan - Crazy Apes	4 - 2 	HT Re-Live
+	Team ugly - Cirkus Brazil Jack	1 - 4 	HT Re-Live
+	Hestra2000 - Gerilla	0 - 4 	HT Re-Live
+Omgång  10
+2010-06-27 10:00 			
+	Gerilla - BK Ondska	2 - 0 	HT Re-Live
+	Crazy Apes - Dynamo Kebab	5 - 0 	HT Re-Live
+	Cirkus Brazil Jack - Hestra2000	6 - 0 	HT Re-Live
+	FC Mackan - Team ugly	4 - 1 	HT Re-Live
+Omgång  11
+2010-07-04 10:00 			
+	BK Ondska - Cirkus Brazil Jack	0 - 5 	HT Re-Live
+	Hestra2000 - FC Mackan	0 - 4 	HT Re-Live
+	Team ugly - Crazy Apes	1 - 3 	HT Re-Live
+	Dynamo Kebab - Gerilla	1 - 3 	HT Re-Live
+Omgång  12
+2010-07-11 10:00 			
+	Cirkus Brazil Jack - Dynamo Kebab	4 - 3 	HT Re-Live
+	FC Mackan - BK Ondska	3 - 2 	HT Re-Live
+	Crazy Apes - Gerilla	4 - 3 	HT Re-Live
+	Team ugly - Hestra2000	9 - 0 	HT Re-Live
+Omgång  13
+2010-07-18 10:00 			
+	Crazy Apes - Hestra2000	7 - 0 	HT Re-Live
+	Dynamo Kebab - FC Mackan	5 - 2 	HT Re-Live
+	Gerilla - Cirkus Brazil Jack	0 - 3 	HT Re-Live
+	BK Ondska - Team ugly	5 - 2 	HT Re-Live
+Omgång  14
+2010-07-25 10:00 			
+	Cirkus Brazil Jack - Crazy Apes	3 - 1 	HT Re-Live
+	Team ugly - Dynamo Kebab	5 - 2 	HT Re-Live
+	Hestra2000 - BK Ondska	0 - 4 	HT Re-Live
+	FC Mackan - Gerilla	3 - 2 	HT Re-Live

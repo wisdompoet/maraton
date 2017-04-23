@@ -1,0 +1,84 @@
+Omgång  1
+2011-11-06 10:00 			
+	Hagfors FC - FC Corvus Corax	4 - 0 	HT Re-Live
+	Ditry deeds - IFK Magpies	2 - 1 	HT Re-Live
+	413 United - Ränneskit IF	2 - 0 	HT Re-Live
+	Goodwon FC - Anderstorp F.C.	3 - 0 	HT Re-Live
+Omgång  2
+2011-11-13 10:00 			
+	Ränneskit IF - Hagfors FC	2 - 4 	HT Re-Live
+	FC Corvus Corax - Goodwon FC	1 - 3 	HT Re-Live
+	Anderstorp F.C. - Ditry deeds	2 - 3 	HT Re-Live
+	IFK Magpies - 413 United	5 - 0 	HT Re-Live
+Omgång  3
+2011-11-20 10:00 			
+	FC Corvus Corax - Anderstorp F.C.	1 - 1 	HT Re-Live
+	Hagfors FC - 413 United	4 - 0 	HT Re-Live
+	Ditry deeds - Ränneskit IF	2 - 0 	HT Re-Live
+	Goodwon FC - IFK Magpies	4 - 2 	HT Re-Live
+Omgång  4
+2011-11-27 10:00 			
+	413 United - Ditry deeds	2 - 5 	HT Re-Live
+	IFK Magpies - FC Corvus Corax	2 - 2 	HT Re-Live
+	Ränneskit IF - Goodwon FC	4 - 1 	HT Re-Live
+	Anderstorp F.C. - Hagfors FC	1 - 2 	HT Re-Live
+Omgång  5
+2011-12-04 10:00 			
+	Anderstorp F.C. - Ränneskit IF	3 - 1 	HT Re-Live
+	FC Corvus Corax - 413 United	2 - 3 	HT Re-Live
+	Hagfors FC - IFK Magpies	3 - 4 	HT Re-Live
+	Goodwon FC - Ditry deeds	2 - 5 	HT Re-Live
+Omgång  6
+2011-12-11 10:00 			
+	IFK Magpies - Anderstorp F.C.	2 - 3 	HT Re-Live
+	Ditry deeds - Hagfors FC	4 - 1 	HT Re-Live
+	413 United - Goodwon FC	6 - 2 	HT Re-Live
+	Ränneskit IF - FC Corvus Corax	6 - 0 	HT Re-Live
+Omgång  7
+2011-12-18 10:00 			
+	Goodwon FC - Hagfors FC	1 - 2 	HT Re-Live
+	FC Corvus Corax - Ditry deeds	0 - 3 	HT Re-Live
+	Anderstorp F.C. - 413 United	3 - 1 	HT Re-Live
+	Ränneskit IF - IFK Magpies	3 - 1 	HT Re-Live
+Omgång  8
+2011-12-25 10:00 			
+	Hagfors FC - Goodwon FC	3 - 0 	HT Re-Live
+	Ditry deeds - FC Corvus Corax	5 - 1 	HT Re-Live
+	413 United - Anderstorp F.C.	3 - 0 	HT Re-Live
+	IFK Magpies - Ränneskit IF	3 - 1 	HT Re-Live
+Omgång  9
+2012-01-01 10:00 			
+	Anderstorp F.C. - IFK Magpies	5 - 0 	HT Re-Live
+	FC Corvus Corax - Ränneskit IF	0 - 3 	HT Re-Live
+	Hagfors FC - Ditry deeds	1 - 7 	HT Re-Live
+	Goodwon FC - 413 United	4 - 1 	HT Re-Live
+Omgång  10
+2012-01-08 10:00 			
+	IFK Magpies - Hagfors FC	1 - 2 	HT Re-Live
+	Ränneskit IF - Anderstorp F.C.	5 - 4 	HT Re-Live
+	Ditry deeds - Goodwon FC	5 - 0 	HT Re-Live
+	413 United - FC Corvus Corax	3 - 1 	HT Re-Live
+Omgång  11
+2012-01-15 10:00 			
+	Ditry deeds - 413 United	6 - 0 	HT Re-Live
+	Goodwon FC - Ränneskit IF	1 - 3 	HT Re-Live
+	FC Corvus Corax - IFK Magpies	0 - 2 	HT Re-Live
+	Hagfors FC - Anderstorp F.C.	0 - 0 	HT Re-Live
+Omgång  12
+2012-01-22 10:00 			
+	Ränneskit IF - Ditry deeds	4 - 1 	HT Re-Live
+	Anderstorp F.C. - FC Corvus Corax	1 - 2 	HT Re-Live
+	413 United - Hagfors FC	4 - 0 	HT Re-Live
+	IFK Magpies - Goodwon FC	4 - 0 	HT Re-Live
+Omgång  13
+2012-01-29 10:00 			
+	Goodwon FC - FC Corvus Corax	3 - 1 	HT Re-Live
+	Hagfors FC - Ränneskit IF	2 - 1 	HT Re-Live
+	Ditry deeds - Anderstorp F.C.	3 - 1 	HT Re-Live
+	413 United - IFK Magpies	5 - 1 	HT Re-Live
+Omgång  14
+2012-02-05 10:00 			
+	Ränneskit IF - 413 United	3 - 0 	HT Re-Live
+	IFK Magpies - Ditry deeds	1 - 3 	HT Re-Live
+	Anderstorp F.C. - Goodwon FC	2 - 1 	HT Re-Live
+	FC Corvus Corax - Hagfors FC	0 - 6 	HT Re-Live

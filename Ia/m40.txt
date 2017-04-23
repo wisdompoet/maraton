@@ -1,0 +1,84 @@
+Omgång  1
+2009-09-13 10:00 			
+	Rednaxela - Solid FK	2 - 0 	HT Re-Live
+	Frölunda killers - Tjugosjö IF	3 - 2 	HT Re-Live
+	Morebeer FC - Fethetens FK	3 - 1 	HT Re-Live
+	Sävast AIF - IFK Ninweborg	0 - 4 	HT Re-Live
+Omgång  2
+2009-09-20 10:00 			
+	Fethetens FK - Sävast AIF	4 - 0 	HT Re-Live
+	Solid FK - Morebeer FC	4 - 4 	HT Re-Live
+	IFK Ninweborg - Frölunda killers	1 - 0 	HT Re-Live
+	Tjugosjö IF - Rednaxela	1 - 1 	HT Re-Live
+Omgång  3
+2009-09-27 10:00 			
+	Frölunda killers - Sävast AIF	3 - 0 	HT Re-Live
+	Fethetens FK - Solid FK	1 - 7 	HT Re-Live
+	Rednaxela - IFK Ninweborg	4 - 1 	HT Re-Live
+	Morebeer FC - Tjugosjö IF	0 - 0 	HT Re-Live
+Omgång  4
+2009-10-04 10:00 			
+	Frölunda killers - Rednaxela	1 - 2 	HT Re-Live
+	Tjugosjö IF - Fethetens FK	2 - 3 	HT Re-Live
+	Sävast AIF - Solid FK	0 - 4 	HT Re-Live
+	IFK Ninweborg - Morebeer FC	1 - 0 	HT Re-Live
+Omgång  5
+2009-10-11 10:00 			
+	Solid FK - Tjugosjö IF	1 - 1 	HT Re-Live
+	Fethetens FK - IFK Ninweborg	1 - 0 	HT Re-Live
+	Rednaxela - Sävast AIF	5 - 0 	HT Re-Live
+	Morebeer FC - Frölunda killers	0 - 1 	HT Re-Live
+Omgång  6
+2009-10-18 10:00 			
+	Frölunda killers - Fethetens FK	4 - 0 	HT Re-Live
+	IFK Ninweborg - Solid FK	1 - 2 	HT Re-Live
+	Rednaxela - Morebeer FC	3 - 0 	HT Re-Live
+	Sävast AIF - Tjugosjö IF	0 - 7 	HT Re-Live
+Omgång  7
+2009-10-25 10:00 			
+	Solid FK - Frölunda killers	2 - 0 	HT Re-Live
+	Tjugosjö IF - IFK Ninweborg	2 - 0 	HT Re-Live
+	Morebeer FC - Sävast AIF	4 - 0 	HT Re-Live
+	Fethetens FK - Rednaxela	3 - 0 	HT Re-Live
+Omgång  8
+2009-11-01 10:00 			
+	Rednaxela - Fethetens FK	8 - 0 	HT Re-Live
+	Frölunda killers - Solid FK	5 - 0 	HT Re-Live
+	Sävast AIF - Morebeer FC	0 - 2 	HT Re-Live
+	IFK Ninweborg - Tjugosjö IF	0 - 0 	HT Re-Live
+Omgång  9
+2009-11-08 10:00 			
+	Tjugosjö IF - Sävast AIF	2 - 0 	HT Re-Live
+	Morebeer FC - Rednaxela	4 - 2 	HT Re-Live
+	Fethetens FK - Frölunda killers	0 - 11 	HT Re-Live
+	Solid FK - IFK Ninweborg	1 - 1 	HT Re-Live
+Omgång  10
+2009-11-15 10:00 			
+	Sävast AIF - Rednaxela	0 - 4 	HT Re-Live
+	Frölunda killers - Morebeer FC	4 - 1 	HT Re-Live
+	IFK Ninweborg - Fethetens FK	11 - 0 	HT Re-Live
+	Tjugosjö IF - Solid FK	0 - 3 	HT Re-Live
+Omgång  11
+2009-11-22 10:00 			
+	Solid FK - Sävast AIF	3 - 0 	HT Re-Live
+	Fethetens FK - Tjugosjö IF	0 - 13 	HT Re-Live
+	Morebeer FC - IFK Ninweborg	4 - 1 	HT Re-Live
+	Rednaxela - Frölunda killers	4 - 1 	HT Re-Live
+Omgång  12
+2009-11-29 10:00 			
+	IFK Ninweborg - Rednaxela	0 - 2 	HT Re-Live
+	Tjugosjö IF - Morebeer FC	4 - 1 	HT Re-Live
+	Solid FK - Fethetens FK	9 - 0 	HT Re-Live
+	Sävast AIF - Frölunda killers	0 - 7 	HT Re-Live
+Omgång  13
+2009-12-06 10:00 			
+	Sävast AIF - Fethetens FK	2 - 0 	HT Re-Live
+	Rednaxela - Tjugosjö IF	2 - 1 	HT Re-Live
+	Frölunda killers - IFK Ninweborg	1 - 1 	HT Re-Live
+	Morebeer FC - Solid FK	2 - 1 	HT Re-Live
+Omgång  14
+2009-12-13 10:00 			
+	Solid FK - Rednaxela	1 - 2 	HT Re-Live
+	IFK Ninweborg - Sävast AIF	2 - 0 	HT Re-Live
+	Fethetens FK - Morebeer FC	0 - 10 	HT Re-Live
+	Tjugosjö IF - Frölunda killers	1 - 1 	HT Re-Live

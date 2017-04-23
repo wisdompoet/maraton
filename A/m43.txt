@@ -1,0 +1,84 @@
+Omgång  1
+2010-08-15 10:00 			
+	Empoli - Bakerkings 	2 - 0 	HT Re-Live
+	BusbyBabes - The Stocks 	1 - 2 	HT Re-Live
+	Goodwon FC - Freddans Angels 	2 - 2 	HT Re-Live
+	Cirkus Brazil Jack - Södra Malmens IF 	2 - 0 	HT Re-Live
+Omgång  2
+2010-08-22 10:00 			
+	The Stocks - Empoli 	3 - 2 	HT Re-Live
+	Bakerkings - Cirkus Brazil Jack 	3 - 2 	HT Re-Live
+	Freddans Angels - BusbyBabes 	2 - 2 	HT Re-Live
+	Södra Malmens IF - Goodwon FC 	3 - 4 	HT Re-Live
+Omgång  3
+2010-08-29 10:00 			
+	Empoli - Södra Malmens IF 	4 - 1 	HT Re-Live
+	BusbyBabes - Goodwon FC 	4 - 2 	HT Re-Live
+	The Stocks - Bakerkings 	1 - 1 	HT Re-Live
+	Cirkus Brazil Jack - Freddans Angels 	4 - 1 	HT Re-Live
+Omgång  4
+2010-09-05 10:00 			
+	Freddans Angels - Empoli 	1 - 3 	HT Re-Live
+	Bakerkings - BusbyBabes 	2 - 2 	HT Re-Live
+	Goodwon FC - Cirkus Brazil Jack 	2 - 1 	HT Re-Live
+	Södra Malmens IF - The Stocks 	4 - 1 	HT Re-Live
+Omgång  5
+2010-09-12 10:00 			
+	Empoli - Cirkus Brazil Jack 	0 - 1 	HT Re-Live
+	The Stocks - Goodwon FC 	2 - 2 	HT Re-Live
+	BusbyBabes - Södra Malmens IF 	3 - 0 	HT Re-Live
+	Bakerkings - Freddans Angels 	3 - 0 	HT Re-Live
+Omgång  6
+2010-09-19 10:00 			
+	Goodwon FC - Empoli 	2 - 1 	HT Re-Live
+	Cirkus Brazil Jack - BusbyBabes 	2 - 0 	HT Re-Live
+	Freddans Angels - The Stocks 	1 - 6 	HT Re-Live
+	Södra Malmens IF - Bakerkings 	1 - 1 	HT Re-Live
+Omgång  7
+2010-09-26 10:00 			
+	Empoli - BusbyBabes 	1 - 2 	HT Re-Live
+	Bakerkings - Goodwon FC 	2 - 1 	HT Re-Live
+	The Stocks - Cirkus Brazil Jack 	0 - 3 	HT Re-Live
+	Freddans Angels - Södra Malmens IF 	0 - 7 	HT Re-Live
+Omgång  8
+2010-10-03 10:00 			
+	Södra Malmens IF - Freddans Angels 	7 - 0 	HT Re-Live
+	Cirkus Brazil Jack - The Stocks 	3 - 3 	HT Re-Live
+	Goodwon FC - Bakerkings 	1 - 0 	HT Re-Live
+	BusbyBabes - Empoli 	2 - 2 	HT Re-Live
+Omgång  9
+2010-10-10 10:00 			
+	Bakerkings - Södra Malmens IF 	5 - 0 	HT Re-Live
+	The Stocks - Freddans Angels 	5 - 1 	HT Re-Live
+	BusbyBabes - Cirkus Brazil Jack 	2 - 2 	HT Re-Live
+	Empoli - Goodwon FC 	6 - 2 	HT Re-Live
+Omgång  10
+2010-10-17 10:00 			
+	Freddans Angels - Bakerkings 	1 - 2 	HT Re-Live
+	Södra Malmens IF - BusbyBabes 	2 - 3 	HT Re-Live
+	Goodwon FC - The Stocks 	3 - 0 	HT Re-Live
+	Cirkus Brazil Jack - Empoli 	1 - 2 	HT Re-Live
+Omgång  11
+2010-10-24 10:00 			
+	The Stocks - Södra Malmens IF 	4 - 1 	HT Re-Live
+	Cirkus Brazil Jack - Goodwon FC 	6 - 0 	HT Re-Live
+	Empoli - Freddans Angels 	6 - 0 	HT Re-Live
+	BusbyBabes - Bakerkings 	3 - 2 	HT Re-Live
+Omgång  12
+2010-10-31 10:00 			
+	Freddans Angels - Cirkus Brazil Jack 	1 - 8 	HT Re-Live
+	Bakerkings - The Stocks 	2 - 0 	HT Re-Live
+	Goodwon FC - BusbyBabes 	1 - 2 	HT Re-Live
+	Södra Malmens IF - Empoli 	3 - 3 	HT Re-Live
+Omgång  13
+2010-11-07 10:00 			
+	Goodwon FC - Södra Malmens IF 	4 - 0 	HT Re-Live
+	BusbyBabes - Freddans Angels 	5 - 0 	HT Re-Live
+	Cirkus Brazil Jack - Bakerkings 	3 - 0 	HT Re-Live
+	Empoli - The Stocks 	5 - 2 	HT Re-Live
+Omgång  14
+2010-11-14 10:00 			
+	Södra Malmens IF - Cirkus Brazil Jack 	0 - 3 	HT Re-Live
+	The Stocks - BusbyBabes 	2 - 2 	HT Re-Live
+	Bakerkings - Empoli 	3 - 3 	HT Re-Live
+	Freddans Angels - Goodwon FC 	0 - 6 	HT Re-Live

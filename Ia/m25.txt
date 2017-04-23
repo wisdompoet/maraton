@@ -1,0 +1,84 @@
+Omgång  1
+2005-02-06 10:00 			
+	Sunne IK - Grimreapers Deathsquad	6 - 2 	HT Re-Live
+	Ponkarna FF - Tyresö Drifters	0 - 1 	HT Re-Live
+	Fjukers - Krillstar	3 - 3 	HT Re-Live
+	Black Ivory - Alpha Lipoic AC	5 - 1 	HT Re-Live
+Omgång  2
+2005-02-13 10:00 			
+	Krillstar - Sunne IK	2 - 2 	HT Re-Live
+	Alpha Lipoic AC - Ponkarna FF	3 - 1 	HT Re-Live
+	Grimreapers Deathsquad - Black Ivory	4 - 0 	HT Re-Live
+	Tyresö Drifters - Fjukers	1 - 2 	HT Re-Live
+Omgång  3
+2005-02-20 10:00 			
+	Ponkarna FF - Grimreapers Deathsquad	5 - 1 	HT Re-Live
+	Fjukers - Alpha Lipoic AC	3 - 1 	HT Re-Live
+	Krillstar - Tyresö Drifters	4 - 0 	HT Re-Live
+	Black Ivory - Sunne IK	2 - 1 	HT Re-Live
+Omgång  4
+2005-02-27 10:00 			
+	Sunne IK - Tyresö Drifters	4 - 1 	HT Re-Live
+	Alpha Lipoic AC - Krillstar	7 - 1 	HT Re-Live
+	Grimreapers Deathsquad - Fjukers	2 - 4 	HT Re-Live
+	Black Ivory - Ponkarna FF	2 - 0 	HT Re-Live
+Omgång  5
+2005-03-06 10:00 			
+	Ponkarna FF - Sunne IK	0 - 5 	HT Re-Live
+	Fjukers - Black Ivory	2 - 2 	HT Re-Live
+	Krillstar - Grimreapers Deathsquad	4 - 3 	HT Re-Live
+	Tyresö Drifters - Alpha Lipoic AC	0 - 0 	HT Re-Live
+Omgång  6
+2005-03-13 10:00 			
+	Sunne IK - Alpha Lipoic AC	4 - 1 	HT Re-Live
+	Ponkarna FF - Fjukers	0 - 4 	HT Re-Live
+	Grimreapers Deathsquad - Tyresö Drifters	0 - 3 	HT Re-Live
+	Black Ivory - Krillstar	1 - 0 	HT Re-Live
+Omgång  7
+2005-03-20 10:00 			
+	Fjukers - Sunne IK	3 - 3 	HT Re-Live
+	Krillstar - Ponkarna FF	3 - 0 	HT Re-Live
+	Alpha Lipoic AC - Grimreapers Deathsquad	4 - 2 	HT Re-Live
+	Tyresö Drifters - Black Ivory	5 - 1 	HT Re-Live
+Omgång  8
+2005-03-27 10:00 			
+	Black Ivory - Tyresö Drifters	2 - 0 	HT Re-Live
+	Grimreapers Deathsquad - Alpha Lipoic AC	3 - 4 	HT Re-Live
+	Ponkarna FF - Krillstar	0 - 6 	HT Re-Live
+	Sunne IK - Fjukers	5 - 4 	HT Re-Live
+Omgång  9
+2005-04-03 10:00 			
+	Krillstar - Black Ivory	5 - 1 	HT Re-Live
+	Tyresö Drifters - Grimreapers Deathsquad	4 - 0 	HT Re-Live
+	Fjukers - Ponkarna FF	1 - 0 	HT Re-Live
+	Alpha Lipoic AC - Sunne IK	1 - 1 	HT Re-Live
+Omgång  10
+2005-04-10 10:00 			
+	Alpha Lipoic AC - Tyresö Drifters	1 - 1 	HT Re-Live
+	Grimreapers Deathsquad - Krillstar	0 - 8 	HT Re-Live
+	Black Ivory - Fjukers	2 - 4 	HT Re-Live
+	Sunne IK - Ponkarna FF	3 - 0 	HT Re-Live
+Omgång  11
+2005-04-17 10:00 			
+	Ponkarna FF - Black Ivory	0 - 5 	HT Re-Live
+	Fjukers - Grimreapers Deathsquad	4 - 1 	HT Re-Live
+	Krillstar - Alpha Lipoic AC	1 - 2 	HT Re-Live
+	Tyresö Drifters - Sunne IK	1 - 1 	HT Re-Live
+Omgång  12
+2005-04-24 10:00 			
+	Sunne IK - Black Ivory	4 - 4 	HT Re-Live
+	Tyresö Drifters - Krillstar	2 - 0 	HT Re-Live
+	Alpha Lipoic AC - Fjukers	5 - 2 	HT Re-Live
+	Grimreapers Deathsquad - Ponkarna FF	2 - 2 	HT Re-Live
+Omgång  13
+2005-05-01 10:00 			
+	Fjukers - Tyresö Drifters	3 - 1 	HT Re-Live
+	Black Ivory - Grimreapers Deathsquad	7 - 1 	HT Re-Live
+	Ponkarna FF - Alpha Lipoic AC	0 - 3 	HT Re-Live
+	Sunne IK - Krillstar	2 - 2 	HT Re-Live
+Omgång  14
+2005-05-08 10:00 			
+	Alpha Lipoic AC - Black Ivory	2 - 1 	HT Re-Live
+	Krillstar - Fjukers	1 - 2 	HT Re-Live
+	Tyresö Drifters - Ponkarna FF	1 - 0 	HT Re-Live
+	Grimreapers Deathsquad - Sunne IK	4 - 1 	HT Re-Live

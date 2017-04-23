@@ -1,0 +1,84 @@
+Omgång  1
+2002-12-15 10:00 			
+	Wermdö Trappers - Åsehöjden	4 - 0 	HT Re-Live
+	Inter Sthlm - Gaddens IF	4 - 2 	HT Re-Live
+	Real Español - Hebbes vänner	4 - 1 	HT Re-Live
+	Juveby IF - AC Weah	3 - 0 	HT Re-Live
+Omgång  2
+2002-12-22 10:00 			
+	Hebbes vänner - Wermdö Trappers	3 - 1 	HT Re-Live
+	AC Weah - Inter Sthlm	1 - 4 	HT Re-Live
+	Åsehöjden - Juveby IF	4 - 0 	HT Re-Live
+	Gaddens IF - Real Español	5 - 2 	HT Re-Live
+Omgång  3
+2002-12-29 10:00 			
+	Inter Sthlm - Åsehöjden	3 - 1 	HT Re-Live
+	Real Español - AC Weah	2 - 1 	HT Re-Live
+	Hebbes vänner - Gaddens IF	3 - 1 	HT Re-Live
+	Juveby IF - Wermdö Trappers	3 - 3 	HT Re-Live
+Omgång  4
+2003-01-05 10:00 			
+	Wermdö Trappers - Gaddens IF	5 - 3 	HT Re-Live
+	AC Weah - Hebbes vänner	4 - 0 	HT Re-Live
+	Åsehöjden - Real Español	3 - 1 	HT Re-Live
+	Juveby IF - Inter Sthlm	1 - 4 	HT Re-Live
+Omgång  5
+2003-01-12 10:00 			
+	Inter Sthlm - Wermdö Trappers	2 - 2 	HT Re-Live
+	Real Español - Juveby IF	1 - 5 	HT Re-Live
+	Hebbes vänner - Åsehöjden	1 - 4 	HT Re-Live
+	Gaddens IF - AC Weah	6 - 1 	HT Re-Live
+Omgång  6
+2003-01-19 10:00 			
+	Wermdö Trappers - AC Weah	4 - 0 	HT Re-Live
+	Inter Sthlm - Real Español	4 - 0 	HT Re-Live
+	Åsehöjden - Gaddens IF	0 - 5 	HT Re-Live
+	Juveby IF - Hebbes vänner	2 - 0 	HT Re-Live
+Omgång  7
+2003-01-26 10:00 			
+	Real Español - Wermdö Trappers	1 - 2 	HT Re-Live
+	Hebbes vänner - Inter Sthlm	1 - 2 	HT Re-Live
+	AC Weah - Åsehöjden	0 - 1 	HT Re-Live
+	Gaddens IF - Juveby IF	2 - 4 	HT Re-Live
+Omgång  8
+2003-02-02 10:00 			
+	Juveby IF - Gaddens IF	2 - 2 	HT Re-Live
+	Åsehöjden - AC Weah	5 - 3 	HT Re-Live
+	Inter Sthlm - Hebbes vänner	1 - 0 	HT Re-Live
+	Wermdö Trappers - Real Español	3 - 4 	HT Re-Live
+Omgång  9
+2003-02-09 10:00 			
+	Hebbes vänner - Juveby IF	2 - 4 	HT Re-Live
+	Gaddens IF - Åsehöjden	2 - 3 	HT Re-Live
+	Real Español - Inter Sthlm	1 - 2 	HT Re-Live
+	AC Weah - Wermdö Trappers	4 - 1 	HT Re-Live
+Omgång  10
+2003-02-16 10:00 			
+	AC Weah - Gaddens IF	4 - 1 	HT Re-Live
+	Åsehöjden - Hebbes vänner	3 - 1 	HT Re-Live
+	Juveby IF - Real Español	3 - 0 	HT Re-Live
+	Wermdö Trappers - Inter Sthlm	4 - 0 	HT Re-Live
+Omgång  11
+2003-02-23 10:00 			
+	Inter Sthlm - Juveby IF	0 - 4 	HT Re-Live
+	Real Español - Åsehöjden	0 - 2 	HT Re-Live
+	Hebbes vänner - AC Weah	2 - 2 	HT Re-Live
+	Gaddens IF - Wermdö Trappers	1 - 5 	HT Re-Live
+Omgång  12
+2003-03-02 10:00 			
+	Wermdö Trappers - Juveby IF	2 - 1 	HT Re-Live
+	Gaddens IF - Hebbes vänner	3 - 2 	HT Re-Live
+	AC Weah - Real Español	5 - 2 	HT Re-Live
+	Åsehöjden - Inter Sthlm	3 - 0 	HT Re-Live
+Omgång  13
+2003-03-09 10:00 			
+	Real Español - Gaddens IF	4 - 4 	HT Re-Live
+	Juveby IF - Åsehöjden	5 - 0 	HT Re-Live
+	Inter Sthlm - AC Weah	1 - 1 	HT Re-Live
+	Wermdö Trappers - Hebbes vänner	1 - 2 	HT Re-Live
+Omgång  14
+2003-03-16 10:00 			
+	AC Weah - Juveby IF	0 - 3 	HT Re-Live
+	Hebbes vänner - Real Español	4 - 0 	HT Re-Live
+	Gaddens IF - Inter Sthlm	0 - 3 	HT Re-Live
+	Åsehöjden - Wermdö Trappers	4 - 0 	HT Re-Live

@@ -1,0 +1,84 @@
+Omgång  1
+2011-03-27 10:00 			
+	ÖSK Ungdom - Angels of Gothenburg	4 - 0 	HT Re-Live
+	Bo-laget - Tidelaget	3 - 5 	HT Re-Live
+	Malmö Coyotes II - Frölunda killers	3 - 1 	HT Re-Live
+	Inter Draggen - Snusmumrikens FK	4 - 1 	HT Re-Live
+Omgång  2
+2011-04-03 10:00 			
+	Tidelaget - ÖSK Ungdom	1 - 3 	HT Re-Live
+	Angels of Gothenburg - Inter Draggen	2 - 3 	HT Re-Live
+	Frölunda killers - Bo-laget	0 - 2 	HT Re-Live
+	Snusmumrikens FK - Malmö Coyotes II	2 - 1 	HT Re-Live
+Omgång  3
+2011-04-10 10:00 			
+	Tidelaget - Angels of Gothenburg	5 - 0 	HT Re-Live
+	Bo-laget - Malmö Coyotes II	3 - 0 	HT Re-Live
+	ÖSK Ungdom - Snusmumrikens FK	4 - 7 	HT Re-Live
+	Inter Draggen - Frölunda killers	9 - 1 	HT Re-Live
+Omgång  4
+2011-04-17 10:00 			
+	Malmö Coyotes II - Inter Draggen	0 - 5 	HT Re-Live
+	Snusmumrikens FK - Tidelaget	4 - 1 	HT Re-Live
+	Frölunda killers - ÖSK Ungdom	1 - 3 	HT Re-Live
+	Angels of Gothenburg - Bo-laget	2 - 3 	HT Re-Live
+Omgång  5
+2011-04-24 10:00 			
+	ÖSK Ungdom - Inter Draggen	1 - 3 	HT Re-Live
+	Tidelaget - Malmö Coyotes II	3 - 1 	HT Re-Live
+	Bo-laget - Snusmumrikens FK	2 - 1 	HT Re-Live
+	Angels of Gothenburg - Frölunda killers	2 - 2 	HT Re-Live
+Omgång  6
+2011-05-01 10:00 			
+	Malmö Coyotes II - ÖSK Ungdom	0 - 1 	HT Re-Live
+	Snusmumrikens FK - Angels of Gothenburg	3 - 0 	HT Re-Live
+	Inter Draggen - Bo-laget	2 - 0 	HT Re-Live
+	Frölunda killers - Tidelaget	2 - 5 	HT Re-Live
+Omgång  7
+2011-05-08 10:00 			
+	Tidelaget - Inter Draggen	2 - 0 	HT Re-Live
+	Frölunda killers - Snusmumrikens FK	0 - 4 	HT Re-Live
+	Angels of Gothenburg - Malmö Coyotes II	1 - 1 	HT Re-Live
+	ÖSK Ungdom - Bo-laget	1 - 1 	HT Re-Live
+Omgång  8
+2011-05-15 10:00 			
+	Malmö Coyotes II - Angels of Gothenburg	2 - 4 	HT Re-Live
+	Inter Draggen - Tidelaget	1 - 1 	HT Re-Live
+	Bo-laget - ÖSK Ungdom	2 - 0 	HT Re-Live
+	Snusmumrikens FK - Frölunda killers	5 - 1 	HT Re-Live
+Omgång  9
+2011-05-22 10:00 			
+	Angels of Gothenburg - Snusmumrikens FK	2 - 3 	HT Re-Live
+	Bo-laget - Inter Draggen	2 - 2 	HT Re-Live
+	ÖSK Ungdom - Malmö Coyotes II	2 - 0 	HT Re-Live
+	Tidelaget - Frölunda killers	3 - 0 	HT Re-Live
+Omgång  10
+2011-05-29 10:00 			
+	Frölunda killers - Angels of Gothenburg	1 - 3 	HT Re-Live
+	Malmö Coyotes II - Tidelaget	0 - 2 	HT Re-Live
+	Snusmumrikens FK - Bo-laget	2 - 3 	HT Re-Live
+	Inter Draggen - ÖSK Ungdom	3 - 0 	HT Re-Live
+Omgång  11
+2011-06-05 10:00 			
+	Inter Draggen - Malmö Coyotes II	0 - 1 	HT Re-Live
+	ÖSK Ungdom - Frölunda killers	3 - 2 	HT Re-Live
+	Bo-laget - Angels of Gothenburg	4 - 0 	HT Re-Live
+	Tidelaget - Snusmumrikens FK	1 - 2 	HT Re-Live
+Omgång  12
+2011-06-12 10:00 			
+	Angels of Gothenburg - Tidelaget	4 - 2 	HT Re-Live
+	Frölunda killers - Inter Draggen	0 - 4 	HT Re-Live
+	Malmö Coyotes II - Bo-laget	0 - 2 	HT Re-Live
+	Snusmumrikens FK - ÖSK Ungdom	1 - 0 	HT Re-Live
+Omgång  13
+2011-06-19 10:00 			
+	Inter Draggen - Angels of Gothenburg	3 - 0 	HT Re-Live
+	ÖSK Ungdom - Tidelaget	1 - 0 	HT Re-Live
+	Malmö Coyotes II - Snusmumrikens FK	1 - 2 	HT Re-Live
+	Bo-laget - Frölunda killers	3 - 2 	HT Re-Live
+Omgång  14
+2011-06-26 10:00 			
+	Snusmumrikens FK - Inter Draggen	2 - 6 	HT Re-Live
+	Frölunda killers - Malmö Coyotes II	2 - 1 	HT Re-Live
+	Tidelaget - Bo-laget	1 - 2 	HT Re-Live
+	Angels of Gothenburg - ÖSK Ungdom	2 - 0 	HT Re-Live

@@ -1,0 +1,84 @@
+Omgång  1
+2004-06-27 10:00 			
+	BK Marx - F.C Keeps	2 - 0 	HT Re-Live
+	Sublime BK - Rosenborg BK	3 - 2 	HT Re-Live
+	Falkenbergs FF - Akalla FC	3 - 1 	HT Re-Live
+	Ass-Kickers - Orminge Wankerz	2 - 0 	HT Re-Live
+Omgång  2
+2004-07-04 10:00 			
+	Akalla FC - BK Marx	2 - 3 	HT Re-Live
+	Orminge Wankerz - Sublime BK	3 - 2 	HT Re-Live
+	F.C Keeps - Ass-Kickers	1 - 3 	HT Re-Live
+	Rosenborg BK - Falkenbergs FF	7 - 2 	HT Re-Live
+Omgång  3
+2004-07-11 10:00 			
+	Sublime BK - F.C Keeps	5 - 2 	HT Re-Live
+	Falkenbergs FF - Orminge Wankerz	2 - 2 	HT Re-Live
+	Akalla FC - Rosenborg BK	2 - 7 	HT Re-Live
+	Ass-Kickers - BK Marx	4 - 0 	HT Re-Live
+Omgång  4
+2004-07-18 10:00 			
+	BK Marx - Rosenborg BK	2 - 3 	HT Re-Live
+	Orminge Wankerz - Akalla FC	8 - 0 	HT Re-Live
+	F.C Keeps - Falkenbergs FF	3 - 3 	HT Re-Live
+	Ass-Kickers - Sublime BK	3 - 3 	HT Re-Live
+Omgång  5
+2004-07-25 10:00 			
+	Sublime BK - BK Marx	2 - 1 	HT Re-Live
+	Falkenbergs FF - Ass-Kickers	3 - 1 	HT Re-Live
+	Akalla FC - F.C Keeps	0 - 9 	HT Re-Live
+	Rosenborg BK - Orminge Wankerz	6 - 2 	HT Re-Live
+Omgång  6
+2004-08-01 10:00 			
+	BK Marx - Orminge Wankerz	1 - 2 	HT Re-Live
+	Sublime BK - Falkenbergs FF	2 - 1 	HT Re-Live
+	F.C Keeps - Rosenborg BK	1 - 4 	HT Re-Live
+	Ass-Kickers - Akalla FC	5 - 0 	HT Re-Live
+Omgång  7
+2004-08-08 10:00 			
+	Falkenbergs FF - BK Marx	4 - 2 	HT Re-Live
+	Akalla FC - Sublime BK	0 - 7 	HT Re-Live
+	Orminge Wankerz - F.C Keeps	4 - 3 	HT Re-Live
+	Rosenborg BK - Ass-Kickers	4 - 1 	HT Re-Live
+Omgång  8
+2004-08-15 10:00 			
+	Ass-Kickers - Rosenborg BK	4 - 2 	HT Re-Live
+	F.C Keeps - Orminge Wankerz	2 - 4 	HT Re-Live
+	Sublime BK - Akalla FC	10 - 0 	HT Re-Live
+	BK Marx - Falkenbergs FF	0 - 2 	HT Re-Live
+Omgång  9
+2004-08-22 10:00 			
+	Akalla FC - Ass-Kickers	0 - 10 	HT Re-Live
+	Rosenborg BK - F.C Keeps	4 - 1 	HT Re-Live
+	Falkenbergs FF - Sublime BK	0 - 1 	HT Re-Live
+	Orminge Wankerz - BK Marx	2 - 2 	HT Re-Live
+Omgång  10
+2004-08-29 10:00 			
+	Orminge Wankerz - Rosenborg BK	3 - 5 	HT Re-Live
+	F.C Keeps - Akalla FC	9 - 0 	HT Re-Live
+	Ass-Kickers - Falkenbergs FF	1 - 3 	HT Re-Live
+	BK Marx - Sublime BK	4 - 2 	HT Re-Live
+Omgång  11
+2004-09-05 10:00 			
+	Sublime BK - Ass-Kickers	4 - 1 	HT Re-Live
+	Falkenbergs FF - F.C Keeps	4 - 2 	HT Re-Live
+	Akalla FC - Orminge Wankerz	1 - 8 	HT Re-Live
+	Rosenborg BK - BK Marx	1 - 4 	HT Re-Live
+Omgång  12
+2004-09-12 10:00 			
+	BK Marx - Ass-Kickers	4 - 1 	HT Re-Live
+	Rosenborg BK - Akalla FC	9 - 0 	HT Re-Live
+	Orminge Wankerz - Falkenbergs FF	0 - 4 	HT Re-Live
+	F.C Keeps - Sublime BK	7 - 3 	HT Re-Live
+Omgång  13
+2004-09-19 10:00 			
+	Falkenbergs FF - Rosenborg BK	4 - 1 	HT Re-Live
+	Ass-Kickers - F.C Keeps	3 - 1 	HT Re-Live
+	Sublime BK - Orminge Wankerz	6 - 0 	HT Re-Live
+	BK Marx - Akalla FC	8 - 0 	HT Re-Live
+Omgång  14
+2004-09-26 10:00 			
+	Orminge Wankerz - Ass-Kickers	2 - 0 	HT Re-Live
+	Akalla FC - Falkenbergs FF	0 - 9 	HT Re-Live
+	Rosenborg BK - Sublime BK	0 - 2 	HT Re-Live
+	F.C Keeps - BK Marx	4 - 0 	HT Re-Live

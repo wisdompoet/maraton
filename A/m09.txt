@@ -1,0 +1,84 @@
+1/9 Omgång 1
+
+  Puacas Änglar - Dynamo Patricia   1 - 0  
+  Mjällbyn - Zigma UTD   4 - 2  
+  EM Tigers - Baloo BK   5 - 0  
+  Sunne IK - IFK Livergården   3 - 0  
+2/9 Omgång 2
+
+  Baloo BK - Mjällbyn   1 - 0  
+  IFK Livergården - Puacas Änglar   0 - 0  
+  Dynamo Patricia - EM Tigers   2 - 2  
+  Zigma UTD - Sunne IK   1 - 3  
+3/9 Omgång 3
+
+  Puacas Änglar - Sunne IK   1 - 4  
+  Zigma UTD - Baloo BK   1 - 1  
+  Mjällbyn - Dynamo Patricia   0 - 1  
+  EM Tigers - IFK Livergården   2 - 5  
+4/9 Omgång 4
+
+  Puacas Änglar - EM Tigers   1 - 7  
+  IFK Livergården - Mjällbyn   2 - 0  
+  Dynamo Patricia - Zigma UTD   2 - 1  
+  Sunne IK - Baloo BK   1 - 0  
+5/9 Omgång 5
+
+  Baloo BK - Dynamo Patricia   2 - 0  
+  Zigma UTD - IFK Livergården   0 - 5  
+  Mjällbyn - Puacas Änglar   1 - 0  
+  EM Tigers - Sunne IK   1 - 3  
+6/9 Omgång 6
+
+  Puacas Änglar - Zigma UTD   6 - 1  
+  IFK Livergården - Baloo BK   2 - 0  
+  EM Tigers - Mjällbyn   3 - 2  
+  Sunne IK - Dynamo Patricia   6 - 0  
+7/9 Omgång 7
+
+  Baloo BK - Puacas Änglar   1 - 0  
+  Dynamo Patricia - IFK Livergården   1 - 1  
+  Zigma UTD - EM Tigers   0 - 5  
+  Mjällbyn - Sunne IK   4 - 2  
+8/9 Omgång 8
+
+ Sunne IK - Mjällbyn   3 - 1  
+  EM Tigers - Zigma UTD   7 - 0  
+  IFK Livergården - Dynamo Patricia   3 - 1  
+  Puacas Änglar - Baloo BK   2 - 1  
+9/9 Omgång 9
+
+  Dynamo Patricia - Sunne IK   1 - 3  
+  Mjällbyn - EM Tigers   2 - 1  
+  Baloo BK - IFK Livergården   2 - 1  
+  Zigma UTD - Puacas Änglar   1 - 0  
+10/9 Omgång 10
+
+ Sunne IK - EM Tigers   5 - 1  
+  Puacas Änglar - Mjällbyn   0 - 0  
+  IFK Livergården - Zigma UTD   2 - 2  
+  Dynamo Patricia - Baloo BK   0 - 0  
+11/9 Omgång 11
+
+  Baloo BK - Sunne IK   1 - 0  
+  Zigma UTD - Dynamo Patricia   1 - 4  
+  Mjällbyn - IFK Livergården   4 - 2  
+  EM Tigers - Puacas Änglar   0 - 0  
+12/9 Omgång 12
+
+  IFK Livergården - EM Tigers   3 - 2  
+  Dynamo Patricia - Mjällbyn   3 - 1  
+  Baloo BK - Zigma UTD   6 - 0  
+  Sunne IK - Puacas Änglar   1 - 0  
+13/9 Omgång 13
+
+ Sunne IK - Zigma UTD   6 - 0  
+  EM Tigers - Dynamo Patricia   2 - 2  
+  Puacas Änglar - IFK Livergården   1 - 3  
+  Mjällbyn - Baloo BK   0 - 0  
+14/9 Omgång 14
+
+  IFK Livergården - Sunne IK   3 - 2  
+  Baloo BK - EM Tigers   1 - 1  
+  Zigma UTD - Mjällbyn   1 - 3  
+  Dynamo Patricia - Puacas Änglar   0 - 0

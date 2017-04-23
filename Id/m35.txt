@@ -1,0 +1,84 @@
+Omgång  1
+2008-03-02 10:00 			
+	Rocco United FC - Crazy Apes	4 - 7 	HT Re-Live
+	Team Molgan - Real Messmör	2 - 0 	HT Re-Live
+	Skansholms SK - Zlatan_BK	3 - 1 	HT Re-Live
+	Hjärnarp GIF - Falken Red Wings	2 - 3 	HT Re-Live
+Omgång  2
+2008-03-09 10:00 			
+	Crazy Apes - Team Molgan	4 - 3 	HT Re-Live
+	Falken Red Wings - Skansholms SK	3 - 2 	HT Re-Live
+	Real Messmör - Hjärnarp GIF	4 - 1 	HT Re-Live
+	Zlatan_BK - Rocco United FC	5 - 1 	HT Re-Live
+Omgång  3
+2008-03-16 10:00 			
+	Team Molgan - Zlatan_BK	3 - 2 	HT Re-Live
+	Rocco United FC - Skansholms SK	3 - 2 	HT Re-Live
+	Hjärnarp GIF - Crazy Apes	3 - 3 	HT Re-Live
+	Falken Red Wings - Real Messmör	3 - 2 	HT Re-Live
+Omgång  4
+2008-03-23 10:00 			
+	Skansholms SK - Real Messmör	7 - 0 	HT Re-Live
+	Crazy Apes - Falken Red Wings	3 - 3 	HT Re-Live
+	Zlatan_BK - Hjärnarp GIF	0 - 6 	HT Re-Live
+	Rocco United FC - Team Molgan	3 - 2 	HT Re-Live
+Omgång  5
+2008-03-30 10:00 			
+	Hjärnarp GIF - Rocco United FC	5 - 1 	HT Re-Live
+	Falken Red Wings - Zlatan_BK	8 - 0 	HT Re-Live
+	Real Messmör - Crazy Apes	1 - 2 	HT Re-Live
+	Team Molgan - Skansholms SK	3 - 4 	HT Re-Live
+Omgång  6
+2008-04-06 10:00 			
+	Rocco United FC - Falken Red Wings	3 - 3 	HT Re-Live
+	Team Molgan - Hjärnarp GIF	6 - 2 	HT Re-Live
+	Zlatan_BK - Real Messmör	0 - 7 	HT Re-Live
+	Skansholms SK - Crazy Apes	7 - 0 	HT Re-Live
+Omgång  7
+2008-04-13 10:00 			
+	Hjärnarp GIF - Skansholms SK	2 - 0 	HT Re-Live
+	Crazy Apes - Zlatan_BK	11 - 0 	HT Re-Live
+	Falken Red Wings - Team Molgan	7 - 1 	HT Re-Live
+	Real Messmör - Rocco United FC	10 - 0 	HT Re-Live
+Omgång  8
+2008-04-20 10:00 			
+	Rocco United FC - Real Messmör	3 - 2 	HT Re-Live
+	Zlatan_BK - Crazy Apes	0 - 11 	HT Re-Live
+	Team Molgan - Falken Red Wings	0 - 5 	HT Re-Live
+	Skansholms SK - Hjärnarp GIF	3 - 2 	HT Re-Live
+Omgång  9
+2008-04-27 10:00 			
+	Falken Red Wings - Rocco United FC	6 - 1 	HT Re-Live
+	Real Messmör - Zlatan_BK	9 - 0 	HT Re-Live
+	Hjärnarp GIF - Team Molgan	6 - 0 	HT Re-Live
+	Crazy Apes - Skansholms SK	4 - 1 	HT Re-Live
+Omgång  10
+2008-05-04 10:00 			
+	Crazy Apes - Real Messmör	3 - 4 	HT Re-Live
+	Zlatan_BK - Falken Red Wings	0 - 9 	HT Re-Live
+	Skansholms SK - Team Molgan	2 - 1 	HT Re-Live
+	Rocco United FC - Hjärnarp GIF	2 - 6 	HT Re-Live
+Omgång  11
+2008-05-11 10:00 			
+	Hjärnarp GIF - Zlatan_BK	8 - 0 	HT Re-Live
+	Real Messmör - Skansholms SK	4 - 1 	HT Re-Live
+	Team Molgan - Rocco United FC	5 - 0 	HT Re-Live
+	Falken Red Wings - Crazy Apes	3 - 4 	HT Re-Live
+Omgång  12
+2008-05-18 10:00 			
+	Skansholms SK - Rocco United FC	6 - 2 	HT Re-Live
+	Crazy Apes - Hjärnarp GIF	3 - 0 	HT Re-Live
+	Real Messmör - Falken Red Wings	0 - 7 	HT Re-Live
+	Zlatan_BK - Team Molgan	0 - 10 	HT Re-Live
+Omgång  13
+2008-05-25 10:00 			
+	Hjärnarp GIF - Real Messmör	2 - 1 	HT Re-Live
+	Team Molgan - Crazy Apes	0 - 2 	HT Re-Live
+	Skansholms SK - Falken Red Wings	1 - 7 	HT Re-Live
+	Rocco United FC - Zlatan_BK	6 - 2 	HT Re-Live
+Omgång  14
+2008-06-01 10:00 			
+	Real Messmör - Team Molgan	3 - 3 	HT Re-Live
+	Crazy Apes - Rocco United FC	1 - 4 	HT Re-Live
+	Falken Red Wings - Hjärnarp GIF	4 - 0 	HT Re-Live
+	Zlatan_BK - Skansholms SK	2 - 6 	HT Re-Live

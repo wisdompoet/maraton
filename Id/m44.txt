@@ -1,0 +1,84 @@
+Omgång  1
+2010-12-05 10:00 			
+	FC Balingsnäs  - Prinskorv FC	3 - 2 	HT Re-Live
+	Sauber scores - BK Wolfram	4 - 0 	HT Re-Live
+	Konspiratörerna - Dynamo Kebab	0 - 10 	HT Re-Live
+	Södra Malmens IF - Crazy Apes	0 - 0 	HT Re-Live
+Omgång  2
+2010-12-12 10:00 			
+	BK Wolfram - FC Balingsnäs	0 - 1 	HT Re-Live
+	Prinskorv FC - Konspiratörerna	7 - 0 	HT Re-Live
+	Crazy Apes - Sauber scores	2 - 0 	HT Re-Live
+	Dynamo Kebab - Södra Malmens IF	5 - 1 	HT Re-Live
+Omgång  3
+2010-12-19 10:00 			
+	Dynamo Kebab - Crazy Apes	3 - 1 	HT Re-Live
+	Sauber scores - Prinskorv FC	5 - 3 	HT Re-Live
+	Konspiratörerna - FC Balingsnäs	0 - 10 	HT Re-Live
+	Södra Malmens IF - BK Wolfram	0 - 5 	HT Re-Live
+Omgång  4
+2010-12-26 10:00 			
+	FC Balingsnäs  - Sauber scores	3 - 1 	HT Re-Live
+	BK Wolfram - Dynamo Kebab	1 - 4 	HT Re-Live
+	Crazy Apes - Konspiratörerna	8 - 0 	HT Re-Live
+	Prinskorv FC - Södra Malmens IF	3 - 1 	HT Re-Live
+Omgång  5
+2011-01-02 10:00 			
+	Dynamo Kebab - FC Balingsnäs	5 - 0 	HT Re-Live
+	Crazy Apes - Prinskorv FC	4 - 2 	HT Re-Live
+	Konspiratörerna - BK Wolfram	0 - 8 	HT Re-Live
+	Södra Malmens IF - Sauber scores	0 - 2 	HT Re-Live
+Omgång  6
+2011-01-09 10:00 			
+	BK Wolfram - Crazy Apes	2 - 1 	HT Re-Live
+	Prinskorv FC - Dynamo Kebab	6 - 1 	HT Re-Live
+	Sauber scores - Konspiratörerna	7 - 0 	HT Re-Live
+	FC Balingsnäs  - Södra Malmens IF	1 - 2 	HT Re-Live
+Omgång  7
+2011-01-16 10:00 			
+	Crazy Apes - FC Balingsnäs	0 - 1 	HT Re-Live
+	Prinskorv FC - BK Wolfram	5 - 1 	HT Re-Live
+	Södra Malmens IF - Konspiratörerna	8 - 0 	HT Re-Live
+	Dynamo Kebab - Sauber scores	4 - 3 	HT Re-Live
+Omgång  8
+2011-01-23 10:00 			
+	Konspiratörerna - Södra Malmens IF	1 - 3 	HT Re-Live
+	FC Balingsnäs  - Crazy Apes	2 - 4 	HT Re-Live
+	BK Wolfram - Prinskorv FC	1 - 2 	HT Re-Live
+	Sauber scores - Dynamo Kebab	2 - 3 	HT Re-Live
+Omgång  9
+2011-01-30 10:00 			
+	Konspiratörerna - Sauber scores	1 - 7 	HT Re-Live
+	Södra Malmens IF - FC Balingsnäs	2 - 3 	HT Re-Live
+	Crazy Apes - BK Wolfram	3 - 1 	HT Re-Live
+	Dynamo Kebab - Prinskorv FC	2 - 3 	HT Re-Live
+Omgång  10
+2011-02-06 10:00 			
+	Sauber scores - Södra Malmens IF	3 - 2 	HT Re-Live
+	FC Balingsnäs  - Dynamo Kebab	3 - 1 	HT Re-Live
+	BK Wolfram - Konspiratörerna	5 - 1 	HT Re-Live
+	Prinskorv FC - Crazy Apes	2 - 1 	HT Re-Live
+Omgång  11
+2011-02-13 10:00 			
+	Södra Malmens IF - Prinskorv FC	0 - 6 	HT Re-Live
+	Konspiratörerna - Crazy Apes	0 - 6 	HT Re-Live
+	Dynamo Kebab - BK Wolfram	5 - 2 	HT Re-Live
+	Sauber scores - FC Balingsnäs	3 - 0 	HT Re-Live
+Omgång  12
+2011-02-20 10:00 			
+	BK Wolfram - Södra Malmens IF	2 - 1 	HT Re-Live
+	FC Balingsnäs  - Konspiratörerna	7 - 0 	HT Re-Live
+	Crazy Apes - Dynamo Kebab	5 - 4 	HT Re-Live
+	Prinskorv FC - Sauber scores	3 - 1 	HT Re-Live
+Omgång  13
+2011-02-27 10:00 			
+	Södra Malmens IF - Dynamo Kebab	1 - 5 	HT Re-Live
+	Sauber scores - Crazy Apes	2 - 0 	HT Re-Live
+	Konspiratörerna - Prinskorv FC	0 - 7 	HT Re-Live
+	FC Balingsnäs  - BK Wolfram	4 - 1 	HT Re-Live
+Omgång  14
+2011-03-06 10:00 			
+	Crazy Apes - Södra Malmens IF	3 - 0 	HT Re-Live
+	Dynamo Kebab - Konspiratörerna	9 - 0 	HT Re-Live
+	Prinskorv FC - FC Balingsnäs	3 - 1 	HT Re-Live
+	BK Wolfram - Sauber scores	0 - 1 	HT Re-Live

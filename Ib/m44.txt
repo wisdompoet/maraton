@@ -1,0 +1,84 @@
+Omgång  1
+2010-12-05 10:00 			
+	Emperors SK - Ambient Underground	2 - 1 	HT Re-Live
+	Freddans Angels - Babylon Boys	0 - 6 	HT Re-Live
+	Lund Vikings - Maximus FF	1 - 2 	HT Re-Live
+	Los Pebbos - Helags FF	3 - 2 	HT Re-Live
+Omgång  2
+2010-12-12 10:00 			
+	Ambient Underground - Freddans Angels	5 - 0 	HT Re-Live
+	Helags FF - Emperors SK	1 - 1 	HT Re-Live
+	Babylon Boys - Lund Vikings	2 - 2 	HT Re-Live
+	Maximus FF - Los Pebbos	1 - 4 	HT Re-Live
+Omgång  3
+2010-12-19 10:00 			
+	Freddans Angels - Maximus FF	0 - 9 	HT Re-Live
+	Emperors SK - Los Pebbos	0 - 0 	HT Re-Live
+	Ambient Underground - Babylon Boys	0 - 3 	HT Re-Live
+	Lund Vikings - Helags FF	2 - 0 	HT Re-Live
+Omgång  4
+2010-12-26 10:00 			
+	Helags FF - Freddans Angels	5 - 0 	HT Re-Live
+	Babylon Boys - Emperors SK	3 - 0 	HT Re-Live
+	Los Pebbos - Lund Vikings	3 - 2 	HT Re-Live
+	Maximus FF - Ambient Underground	2 - 0 	HT Re-Live
+Omgång  5
+2011-01-02 10:00 			
+	Freddans Angels - Lund Vikings	0 - 3 	HT Re-Live
+	Ambient Underground - Los Pebbos	0 - 2 	HT Re-Live
+	Emperors SK - Maximus FF	4 - 0 	HT Re-Live
+	Babylon Boys - Helags FF	1 - 1 	HT Re-Live
+Omgång  6
+2011-01-09 10:00 			
+	Helags FF - Ambient Underground	6 - 1 	HT Re-Live
+	Los Pebbos - Freddans Angels	10 - 0 	HT Re-Live
+	Lund Vikings - Emperors SK	2 - 3 	HT Re-Live
+	Maximus FF - Babylon Boys	1 - 1 	HT Re-Live
+Omgång  7
+2011-01-16 10:00 			
+	Freddans Angels - Emperors SK	0 - 4 	HT Re-Live
+	Helags FF - Maximus FF	1 - 1 	HT Re-Live
+	Ambient Underground - Lund Vikings	0 - 2 	HT Re-Live
+	Babylon Boys - Los Pebbos	0 - 2 	HT Re-Live
+Omgång  8
+2011-01-23 10:00 			
+	Maximus FF - Helags FF	4 - 0 	HT Re-Live
+	Lund Vikings - Ambient Underground	3 - 2 	HT Re-Live
+	Los Pebbos - Babylon Boys	3 - 0 	HT Re-Live
+	Emperors SK - Freddans Angels	5 - 1 	HT Re-Live
+Omgång  9
+2011-01-30 10:00 			
+	Babylon Boys - Maximus FF	1 - 0 	HT Re-Live
+	Ambient Underground - Helags FF	1 - 2 	HT Re-Live
+	Freddans Angels - Los Pebbos	0 - 5 	HT Re-Live
+	Emperors SK - Lund Vikings	2 - 1 	HT Re-Live
+Omgång  10
+2011-02-06 10:00 			
+	Helags FF - Babylon Boys	0 - 2 	HT Re-Live
+	Maximus FF - Emperors SK	3 - 1 	HT Re-Live
+	Los Pebbos - Ambient Underground	5 - 0 	HT Re-Live
+	Lund Vikings - Freddans Angels	2 - 1 	HT Re-Live
+Omgång  11
+2011-02-13 10:00 			
+	Emperors SK - Babylon Boys	3 - 2 	HT Re-Live
+	Ambient Underground - Maximus FF	0 - 5 	HT Re-Live
+	Freddans Angels - Helags FF	0 - 2 	HT Re-Live
+	Lund Vikings - Los Pebbos	1 - 1 	HT Re-Live
+Omgång  12
+2011-02-20 10:00 			
+	Helags FF - Lund Vikings	3 - 1 	HT Re-Live
+	Babylon Boys - Ambient Underground	7 - 0 	HT Re-Live
+	Los Pebbos - Emperors SK	0 - 3 	HT Re-Live
+	Maximus FF - Freddans Angels	4 - 0 	HT Re-Live
+Omgång  13
+2011-02-27 10:00 			
+	Emperors SK - Helags FF	4 - 1 	HT Re-Live
+	Lund Vikings - Babylon Boys	0 - 2 	HT Re-Live
+	Los Pebbos - Maximus FF	3 - 1 	HT Re-Live
+	Freddans Angels - Ambient Underground	5 - 0 	HT Re-Live
+Omgång  14
+2011-03-06 10:00 			
+	Maximus FF - Lund Vikings	2 - 0 	HT Re-Live
+	Helags FF - Los Pebbos	2 - 2 	HT Re-Live
+	Ambient Underground - Emperors SK	0 - 10 	HT Re-Live
+	Babylon Boys - Freddans Angels	4 - 0 	HT Re-Live

@@ -1,0 +1,84 @@
+Omgång  1
+2004-10-17 10:00 			
+	Forest Rovers - Stream Team	3 - 2 	HT Re-Live
+	Mjällbyn - Vagabundos FC	1 - 4 	HT Re-Live
+	Prince Park Rangers - Gladiators	2 - 2 	HT Re-Live
+	Trollibollen BK - Flykälens BK	4 - 3 	HT Re-Live
+Omgång  2
+2004-10-24 10:00 			
+	Gladiators - Forest Rovers	3 - 0 	HT Re-Live
+	Flykälens BK - Mjällbyn	3 - 4 	HT Re-Live
+	Stream Team - Trollibollen BK	6 - 3 	HT Re-Live
+	Vagabundos FC - Prince Park Rangers	1 - 1 	HT Re-Live
+Omgång  3
+2004-10-31 10:00 			
+	Mjällbyn - Stream Team	2 - 3 	HT Re-Live
+	Prince Park Rangers - Flykälens BK	4 - 1 	HT Re-Live
+	Gladiators - Vagabundos FC	5 - 1 	HT Re-Live
+	Trollibollen BK - Forest Rovers	1 - 7 	HT Re-Live
+Omgång  4
+2004-11-07 10:00 			
+	Forest Rovers - Vagabundos FC	6 - 0 	HT Re-Live
+	Flykälens BK - Gladiators	1 - 2 	HT Re-Live
+	Stream Team - Prince Park Rangers	5 - 1 	HT Re-Live
+	Trollibollen BK - Mjällbyn	1 - 5 	HT Re-Live
+Omgång  5
+2004-11-14 10:00 			
+	Mjällbyn - Forest Rovers	6 - 2 	HT Re-Live
+	Prince Park Rangers - Trollibollen BK	6 - 3 	HT Re-Live
+	Gladiators - Stream Team	2 - 3 	HT Re-Live
+	Vagabundos FC - Flykälens BK	2 - 4 	HT Re-Live
+Omgång  6
+2004-11-21 10:00 			
+	Forest Rovers - Flykälens BK	3 - 4 	HT Re-Live
+	Mjällbyn - Prince Park Rangers	6 - 1 	HT Re-Live
+	Stream Team - Vagabundos FC	3 - 2 	HT Re-Live
+	Trollibollen BK - Gladiators	5 - 2 	HT Re-Live
+Omgång  7
+2004-11-28 10:00 			
+	Prince Park Rangers - Forest Rovers	0 - 1 	HT Re-Live
+	Gladiators - Mjällbyn	3 - 3 	HT Re-Live
+	Flykälens BK - Stream Team	5 - 2 	HT Re-Live
+	Vagabundos FC - Trollibollen BK	3 - 0 	HT Re-Live
+Omgång  8
+2004-12-05 10:00 			
+	Trollibollen BK - Vagabundos FC	5 - 1 	HT Re-Live
+	Stream Team - Flykälens BK	4 - 1 	HT Re-Live
+	Mjällbyn - Gladiators	7 - 0 	HT Re-Live
+	Forest Rovers - Prince Park Rangers	3 - 1 	HT Re-Live
+Omgång  9
+2004-12-12 10:00 			
+	Gladiators - Trollibollen BK	2 - 2 	HT Re-Live
+	Vagabundos FC - Stream Team	2 - 4 	HT Re-Live
+	Prince Park Rangers - Mjällbyn	6 - 4 	HT Re-Live
+	Flykälens BK - Forest Rovers	2 - 4 	HT Re-Live
+Omgång  10
+2004-12-19 10:00 			
+	Flykälens BK - Vagabundos FC	4 - 0 	HT Re-Live
+	Stream Team - Gladiators	5 - 0 	HT Re-Live
+	Trollibollen BK - Prince Park Rangers	4 - 1 	HT Re-Live
+	Forest Rovers - Mjällbyn	5 - 3 	HT Re-Live
+Omgång  11
+2004-12-26 10:00 			
+	Mjällbyn - Trollibollen BK	5 - 1 	HT Re-Live
+	Prince Park Rangers - Stream Team	2 - 3 	HT Re-Live
+	Gladiators - Flykälens BK	0 - 2 	HT Re-Live
+	Vagabundos FC - Forest Rovers	0 - 1 	HT Re-Live
+Omgång  12
+2005-01-02 10:00 			
+	Forest Rovers - Trollibollen BK	1 - 2 	HT Re-Live
+	Vagabundos FC - Gladiators	3 - 1 	HT Re-Live
+	Flykälens BK - Prince Park Rangers	5 - 1 	HT Re-Live
+	Stream Team - Mjällbyn	6 - 1 	HT Re-Live
+Omgång  13
+2005-01-09 10:00 			
+	Prince Park Rangers - Vagabundos FC	4 - 1 	HT Re-Live
+	Trollibollen BK - Stream Team	2 - 4 	HT Re-Live
+	Mjällbyn - Flykälens BK	5 - 2 	HT Re-Live
+	Forest Rovers - Gladiators	5 - 2 	HT Re-Live
+Omgång  14
+2005-01-16 10:00 			
+	Flykälens BK - Trollibollen BK	3 - 2 	HT Re-Live
+	Gladiators - Prince Park Rangers	4 - 1 	HT Re-Live
+	Vagabundos FC - Mjällbyn	2 - 6 	HT Re-Live
+	Stream Team - Forest Rovers	3 - 1 	HT Re-Live

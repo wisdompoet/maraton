@@ -1,0 +1,84 @@
+Omgång  1
+2007-04-01 10:00 			
+	Neonic FC - LA Hookers 	1 - 3 	HT Re-Live
+	BK Örnen - Zeta 	1 - 1 	HT Re-Live
+	Skansholms SK - Babylon Boys 	5 - 3 	HT Re-Live
+	Cirkus Brazil Jack - Lokomotiv Lund 	2 - 4 	HT Re-Live
+Omgång  2
+2007-04-08 10:00 			
+	Lokomotiv Lund - Neonic FC 	4 - 3 	HT Re-Live
+	Zeta - Skansholms SK 	7 - 1 	HT Re-Live
+	LA Hookers - BK Örnen 	4 - 2 	HT Re-Live
+	Babylon Boys - Cirkus Brazil Jack 	3 - 3 	HT Re-Live
+Omgång  3
+2007-04-15 10:00 			
+	BK Örnen - Neonic FC 	1 - 2 	HT Re-Live
+	Cirkus Brazil Jack - Zeta 	0 - 4 	HT Re-Live
+	Lokomotiv Lund - Babylon Boys 	6 - 2 	HT Re-Live
+	Skansholms SK - LA Hookers 	1 - 4 	HT Re-Live
+Omgång  4
+2007-04-22 10:00 			
+	Neonic FC - Babylon Boys 	6 - 0 	HT Re-Live
+	LA Hookers - Cirkus Brazil Jack 	2 - 0 	HT Re-Live
+	BK Örnen - Skansholms SK 	4 - 1 	HT Re-Live
+	Zeta - Lokomotiv Lund 	6 - 1 	HT Re-Live
+Omgång  5
+2007-04-29 10:00 			
+	Lokomotiv Lund - LA Hookers 	2 - 3 	HT Re-Live
+	Babylon Boys - Zeta 	2 - 5 	HT Re-Live
+	Skansholms SK - Neonic FC 	2 - 2 	HT Re-Live
+	Cirkus Brazil Jack - BK Örnen 	2 - 0 	HT Re-Live
+Omgång  6
+2007-05-06 10:00 			
+	LA Hookers - Babylon Boys 	1 - 1 	HT Re-Live
+	Skansholms SK - Cirkus Brazil Jack 	2 - 2 	HT Re-Live
+	BK Örnen - Lokomotiv Lund 	5 - 0 	HT Re-Live
+	Neonic FC - Zeta 	4 - 3 	HT Re-Live
+Omgång  7
+2007-05-13 10:00 			
+	Babylon Boys - BK Örnen 	0 - 5 	HT Re-Live
+	Zeta - LA Hookers 	3 - 3 	HT Re-Live
+	Lokomotiv Lund - Skansholms SK 	1 - 3 	HT Re-Live
+	Cirkus Brazil Jack - Neonic FC 	0 - 1 	HT Re-Live
+Omgång  8
+2007-05-20 10:00 			
+	LA Hookers - Zeta 	3 - 2 	HT Re-Live
+	Neonic FC - Cirkus Brazil Jack 	4 - 3 	HT Re-Live
+	Skansholms SK - Lokomotiv Lund 	3 - 1 	HT Re-Live
+	BK Örnen - Babylon Boys 	4 - 1 	HT Re-Live
+Omgång  9
+2007-05-27 10:00 			
+	Cirkus Brazil Jack - Skansholms SK 	0 - 2 	HT Re-Live
+	Babylon Boys - LA Hookers 	0 - 0 	HT Re-Live
+	Lokomotiv Lund - BK Örnen 	3 - 1 	HT Re-Live
+	Zeta - Neonic FC 	0 - 1 	HT Re-Live
+Omgång  10
+2007-06-03 10:00 			
+	Zeta - Babylon Boys 	2 - 3 	HT Re-Live
+	LA Hookers - Lokomotiv Lund 	8 - 0 	HT Re-Live
+	BK Örnen - Cirkus Brazil Jack 	2 - 3 	HT Re-Live
+	Neonic FC - Skansholms SK 	4 - 1 	HT Re-Live
+Omgång  11
+2007-06-10 10:00 			
+	Babylon Boys - Neonic FC 	1 - 3 	HT Re-Live
+	Lokomotiv Lund - Zeta 	1 - 5 	HT Re-Live
+	Skansholms SK - BK Örnen 	5 - 1 	HT Re-Live
+	Cirkus Brazil Jack - LA Hookers 	2 - 3 	HT Re-Live
+Omgång  12
+2007-06-17 10:00 			
+	Zeta - Cirkus Brazil Jack 	4 - 1 	HT Re-Live
+	Neonic FC - BK Örnen 	3 - 4 	HT Re-Live
+	LA Hookers - Skansholms SK 	3 - 2 	HT Re-Live
+	Babylon Boys - Lokomotiv Lund 	4 - 1 	HT Re-Live
+Omgång  13
+2007-06-24 10:00 			
+	Skansholms SK - Zeta 	2 - 0 	HT Re-Live
+	Neonic FC - Lokomotiv Lund 	7 - 1 	HT Re-Live
+	Cirkus Brazil Jack - Babylon Boys 	3 - 0 	HT Re-Live
+	BK Örnen - LA Hookers 	1 - 3 	HT Re-Live
+Omgång  14
+2007-07-01 10:00 			
+	Babylon Boys - Skansholms SK 	0 - 2 	HT Re-Live
+	LA Hookers - Neonic FC 	2 - 0 	HT Re-Live
+	Lokomotiv Lund - Cirkus Brazil Jack 	1 - 1 	HT Re-Live
+	Zeta - BK Örnen 	3 - 1 	HT Re-Live

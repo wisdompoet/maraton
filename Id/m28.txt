@@ -1,0 +1,84 @@
+Omgång  1
+2006-01-08 10:00 			
+	Gäddträsket - PG GoalGetters	0 - 0 	HT Re-Live
+	Mjällbyn - Forest Rovers	2 - 4 	HT Re-Live
+	Naughty Trolls - Titleist Pro	5 - 0 	HT Re-Live
+	Djurgårdens IF - Sluga BK	6 - 0 	HT Re-Live
+Omgång  2
+2006-01-15 10:00 			
+	Titleist Pro - Gäddträsket	0 - 8 	HT Re-Live
+	Sluga BK - Mjällbyn	4 - 2 	HT Re-Live
+	PG GoalGetters - Djurgårdens IF	7 - 1 	HT Re-Live
+	Forest Rovers - Naughty Trolls	3 - 0 	HT Re-Live
+Omgång  3
+2006-01-22 10:00 			
+	Mjällbyn - PG GoalGetters	4 - 1 	HT Re-Live
+	Naughty Trolls - Sluga BK	3 - 2 	HT Re-Live
+	Titleist Pro - Forest Rovers	0 - 4 	HT Re-Live
+	Djurgårdens IF - Gäddträsket	1 - 3 	HT Re-Live
+Omgång  4
+2006-01-29 10:00 			
+	Gäddträsket - Forest Rovers	0 - 3 	HT Re-Live
+	Sluga BK - Titleist Pro	4 - 0 	HT Re-Live
+	PG GoalGetters - Naughty Trolls	3 - 2 	HT Re-Live
+	Djurgårdens IF - Mjällbyn	5 - 3 	HT Re-Live
+Omgång  5
+2006-02-05 10:00 			
+	Mjällbyn - Gäddträsket	5 - 3 	HT Re-Live
+	Naughty Trolls - Djurgårdens IF	4 - 2 	HT Re-Live
+	Titleist Pro - PG GoalGetters	0 - 3 	HT Re-Live
+	Forest Rovers - Sluga BK	4 - 1 	HT Re-Live
+Omgång  6
+2006-02-12 10:00 			
+	Gäddträsket - Sluga BK	3 - 1 	HT Re-Live
+	Mjällbyn - Naughty Trolls	8 - 1 	HT Re-Live
+	PG GoalGetters - Forest Rovers	3 - 2 	HT Re-Live
+	Djurgårdens IF - Titleist Pro	4 - 1 	HT Re-Live
+Omgång  7
+2006-02-19 10:00 			
+	Naughty Trolls - Gäddträsket	0 - 2 	HT Re-Live
+	Titleist Pro - Mjällbyn	1 - 4 	HT Re-Live
+	Sluga BK - PG GoalGetters	3 - 0 	HT Re-Live
+	Forest Rovers - Djurgårdens IF	3 - 3 	HT Re-Live
+Omgång  8
+2006-02-26 10:00 			
+	Djurgårdens IF - Forest Rovers	5 - 0 	HT Re-Live
+	PG GoalGetters - Sluga BK	3 - 1 	HT Re-Live
+	Mjällbyn - Titleist Pro	7 - 2 	HT Re-Live
+	Gäddträsket - Naughty Trolls	4 - 0 	HT Re-Live
+Omgång  9
+2006-03-05 10:00 			
+	Titleist Pro - Djurgårdens IF	0 - 5 	HT Re-Live
+	Forest Rovers - PG GoalGetters	2 - 0 	HT Re-Live
+	Naughty Trolls - Mjällbyn	5 - 2 	HT Re-Live
+	Sluga BK - Gäddträsket	4 - 2 	HT Re-Live
+Omgång  10
+2006-03-12 10:00 			
+	Sluga BK - Forest Rovers	4 - 2 	HT Re-Live
+	PG GoalGetters - Titleist Pro	4 - 0 	HT Re-Live
+	Djurgårdens IF - Naughty Trolls	4 - 3 	HT Re-Live
+	Gäddträsket - Mjällbyn	3 - 2 	HT Re-Live
+Omgång  11
+2006-03-19 10:00 			
+	Mjällbyn - Djurgårdens IF	5 - 4 	HT Re-Live
+	Naughty Trolls - PG GoalGetters	3 - 2 	HT Re-Live
+	Titleist Pro - Sluga BK	0 - 7 	HT Re-Live
+	Forest Rovers - Gäddträsket	1 - 1 	HT Re-Live
+Omgång  12
+2006-03-26 10:00 			
+	Gäddträsket - Djurgårdens IF	3 - 2 	HT Re-Live
+	Forest Rovers - Titleist Pro	7 - 0 	HT Re-Live
+	Sluga BK - Naughty Trolls	2 - 4 	HT Re-Live
+	PG GoalGetters - Mjällbyn	0 - 4 	HT Re-Live
+Omgång  13
+2006-04-02 10:00 			
+	Naughty Trolls - Forest Rovers	2 - 3 	HT Re-Live
+	Djurgårdens IF - PG GoalGetters	4 - 3 	HT Re-Live
+	Mjällbyn - Sluga BK	6 - 1 	HT Re-Live
+	Gäddträsket - Titleist Pro	6 - 0 	HT Re-Live
+Omgång  14
+2006-04-09 10:00 			
+	Sluga BK - Djurgårdens IF	5 - 0 	HT Re-Live
+	Titleist Pro - Naughty Trolls	0 - 6 	HT Re-Live
+	Forest Rovers - Mjällbyn	4 - 3 	HT Re-Live
+	PG GoalGetters - Gäddträsket	1 - 4 	HT Re-Live

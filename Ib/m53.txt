@@ -1,0 +1,84 @@
+Omgång  1
+2013-09-08 10:00 			
+	Söderbröder FC - Nordpolen FF	3 - 1 	HT Re-Live
+	The Romford Pelé FC - IFK Godtemplarna	3 - 2 	HT Re-Live
+	Sionisterna - FC Uberlirarna	1 - 4 	HT Re-Live
+	Port Grimaud FC - Speedyking FK	0 - 0 	HT Re-Live
+Omgång  2
+2013-09-15 10:00 			
+	Nordpolen FF - Sionisterna	2 - 1 	HT Re-Live
+	FC Uberlirarna - The Romford Pelé FC	5 - 1 	HT Re-Live
+	Speedyking FK - Söderbröder FC	2 - 0 	HT Re-Live
+	IFK Godtemplarna - Port Grimaud FC	1 - 4 	HT Re-Live
+Omgång  3
+2013-09-22 10:00 			
+	Nordpolen FF - FC Uberlirarna	1 - 2 	HT Re-Live
+	Sionisterna - IFK Godtemplarna	2 - 0 	HT Re-Live
+	Söderbröder FC - Port Grimaud FC	3 - 0 	HT Re-Live
+	The Romford Pelé FC - Speedyking FK	1 - 0 	HT Re-Live
+Omgång  4
+2013-09-29 10:00 			
+	FC Uberlirarna - Söderbröder FC	4 - 1 	HT Re-Live
+	Port Grimaud FC - The Romford Pelé FC	0 - 2 	HT Re-Live
+	IFK Godtemplarna - Nordpolen FF	1 - 4 	HT Re-Live
+	Speedyking FK - Sionisterna	1 - 6 	HT Re-Live
+Omgång  5
+2013-10-06 10:00 			
+	Nordpolen FF - Port Grimaud FC	2 - 2 	HT Re-Live
+	Sionisterna - The Romford Pelé FC	3 - 1 	HT Re-Live
+	Söderbröder FC - IFK Godtemplarna	3 - 0 	HT Re-Live
+	FC Uberlirarna - Speedyking FK	6 - 1 	HT Re-Live
+Omgång  6
+2013-10-13 10:00 			
+	IFK Godtemplarna - FC Uberlirarna	1 - 4 	HT Re-Live
+	Port Grimaud FC - Sionisterna	1 - 3 	HT Re-Live
+	The Romford Pelé FC - Söderbröder FC	0 - 3 	HT Re-Live
+	Speedyking FK - Nordpolen FF	2 - 1 	HT Re-Live
+Omgång  7
+2013-10-20 10:00 			
+	FC Uberlirarna - Port Grimaud FC	6 - 0 	HT Re-Live
+	Nordpolen FF - The Romford Pelé FC	2 - 1 	HT Re-Live
+	Speedyking FK - IFK Godtemplarna	3 - 0 	HT Re-Live
+	Sionisterna - Söderbröder FC	1 - 3 	HT Re-Live
+Omgång  8
+2013-10-27 10:00 			
+	IFK Godtemplarna - Speedyking FK	5 - 1 	HT Re-Live
+	The Romford Pelé FC - Nordpolen FF	3 - 3 	HT Re-Live
+	Port Grimaud FC - FC Uberlirarna	0 - 1 	HT Re-Live
+	Söderbröder FC - Sionisterna	4 - 4 	HT Re-Live
+Omgång  9
+2013-11-03 10:00 			
+	Nordpolen FF - Speedyking FK	3 - 2 	HT Re-Live
+	Sionisterna - Port Grimaud FC	3 - 3 	HT Re-Live
+	FC Uberlirarna - IFK Godtemplarna	1 - 0 	HT Re-Live
+	Söderbröder FC - The Romford Pelé FC	3 - 1 	HT Re-Live
+Omgång  10
+2013-11-10 10:00 			
+	Port Grimaud FC - Nordpolen FF	1 - 0 	HT Re-Live
+	The Romford Pelé FC - Sionisterna	1 - 2 	HT Re-Live
+	Speedyking FK - FC Uberlirarna	3 - 3 	HT Re-Live
+	IFK Godtemplarna - Söderbröder FC	1 - 3 	HT Re-Live
+Omgång  11
+2013-11-17 10:00 			
+	Nordpolen FF - IFK Godtemplarna	2 - 0 	HT Re-Live
+	The Romford Pelé FC - Port Grimaud FC	4 - 2 	HT Re-Live
+	Söderbröder FC - FC Uberlirarna	3 - 1 	HT Re-Live
+	Sionisterna - Speedyking FK	4 - 0 	HT Re-Live
+Omgång  12
+2013-11-24 10:00 			
+	Port Grimaud FC - Söderbröder FC	1 - 8 	HT Re-Live
+	IFK Godtemplarna - Sionisterna	1 - 1 	HT Re-Live
+	FC Uberlirarna - Nordpolen FF	2 - 2 	HT Re-Live
+	Speedyking FK - The Romford Pelé FC	3 - 2 	HT Re-Live
+Omgång  13
+2013-12-01 10:00 			
+	Port Grimaud FC - IFK Godtemplarna	2 - 1 	HT Re-Live
+	The Romford Pelé FC - FC Uberlirarna	0 - 2 	HT Re-Live
+	Söderbröder FC - Speedyking FK	4 - 1 	HT Re-Live
+	Sionisterna - Nordpolen FF	4 - 2 	HT Re-Live
+Omgång  14
+2013-12-08 10:00 			
+	IFK Godtemplarna - The Romford Pelé FC	2 - 4 	HT Re-Live
+	Speedyking FK - Port Grimaud FC	4 - 3 	HT Re-Live
+	Nordpolen FF - Söderbröder FC	2 - 5 	HT Re-Live
+	FC Uberlirarna - Sionisterna	4 - 1 	HT Re-Live

@@ -1,0 +1,84 @@
+Omgång  1
+2012-10-07 10:00 			
+	Ditry deeds - Picos Verdes 	2 - 1 	
+	Real Karlskrona - Inter Draggen 	1 - 2 	
+	Rommeholen FC - Babylon Boys 	1 - 0 	
+	Massive Attack - Skansholms SK 	2 - 2 	
+Omgång  2
+2012-10-14 10:00 			
+	Inter Draggen - Ditry deeds 	2 - 2 	
+	Picos Verdes - Massive Attack 	4 - 2 	
+	Babylon Boys - Real Karlskrona 	1 - 2 	
+	Skansholms SK - Rommeholen FC 	3 - 3 	
+Omgång  3
+2012-10-21 10:00 			
+	Ditry deeds - Skansholms SK 	5 - 0 	
+	Real Karlskrona - Rommeholen FC 	1 - 2 	
+	Inter Draggen - Picos Verdes 	3 - 1 	
+	Massive Attack - Babylon Boys 	4 - 2 	
+Omgång  4
+2012-10-28 10:00 			
+	Babylon Boys - Ditry deeds 	1 - 0 	
+	Picos Verdes - Real Karlskrona 	3 - 0 	
+	Rommeholen FC - Massive Attack 	5 - 4 	
+	Skansholms SK - Inter Draggen 	3 - 1 	
+Omgång  5
+2012-11-04 10:00 			
+	Ditry deeds - Massive Attack 	4 - 2 	
+	Inter Draggen - Rommeholen FC 	2 - 1 	
+	Real Karlskrona - Skansholms SK 	1 - 4 	
+	Picos Verdes - Babylon Boys 	3 - 2 	
+Omgång  6
+2012-11-11 10:00 			
+	Rommeholen FC - Ditry deeds 	1 - 1 	
+	Massive Attack - Real Karlskrona 	1 - 3 	
+	Babylon Boys - Inter Draggen 	2 - 0 	
+	Skansholms SK - Picos Verdes 	4 - 1 	
+Omgång  7
+2012-11-18 10:00 			
+	Ditry deeds - Real Karlskrona 	5 - 0 	
+	Picos Verdes - Rommeholen FC 	0 - 2 	
+	Inter Draggen - Massive Attack 	3 - 2 	
+	Babylon Boys - Skansholms SK 	2 - 2 	
+Omgång  8
+2012-11-25 10:00 			
+	Skansholms SK - Babylon Boys 	3 - 2 	
+	Massive Attack - Inter Draggen 	1 - 2 	
+	Rommeholen FC - Picos Verdes 	4 - 0 	
+	Real Karlskrona - Ditry deeds 	1 - 2 	
+Omgång  9
+2012-12-02 10:00 			
+	Picos Verdes - Skansholms SK 	3 - 1 	
+	Inter Draggen - Babylon Boys 	1 - 0 	
+	Real Karlskrona - Massive Attack 	1 - 0 	
+	Ditry deeds - Rommeholen FC 	2 - 2 	
+Omgång  10
+2012-12-09 10:00 			
+	Babylon Boys - Picos Verdes 	1 - 3 	
+	Skansholms SK - Real Karlskrona 	5 - 3 	
+	Rommeholen FC - Inter Draggen 	1 - 0 	
+	Massive Attack - Ditry deeds 	3 - 1 	
+Omgång  11
+2012-12-16 10:00 			
+	Inter Draggen - Skansholms SK 	1 - 0 	
+	Massive Attack - Rommeholen FC 	3 - 1 	
+	Real Karlskrona - Picos Verdes 	1 - 1 	
+	Ditry deeds - Babylon Boys 	4 - 1 	
+Omgång  12
+2012-12-23 10:00 			
+	Picos Verdes - Inter Draggen 	4 - 2 	
+	Babylon Boys - Massive Attack 	3 - 1 	
+	Rommeholen FC - Real Karlskrona 	2 - 3 	
+	Skansholms SK - Ditry deeds 	3 - 1 	
+Omgång  13
+2012-12-30 10:00 			
+	Rommeholen FC - Skansholms SK 	1 - 3 	
+	Massive Attack - Picos Verdes 	1 - 4 	
+	Real Karlskrona - Babylon Boys 	3 - 3 	
+	Ditry deeds - Inter Draggen 	3 - 1 	
+Omgång  14
+2013-01-06 10:00  	
+	Babylon Boys - Rommeholen FC 	2 - 0 	
+	Skansholms SK - Massive Attack 	1 - 0 	
+	Inter Draggen - Real Karlskrona 	4 - 0 	
+	Picos Verdes - Ditry deeds 	2 - 1

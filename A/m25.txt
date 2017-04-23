@@ -1,0 +1,84 @@
+Omgång  1
+2005-02-06 10:00 			
+	Gäddträsket - Inter Sthlm 	1 - 5 	HT Re-Live
+	IFK Livergården - EM Tigers 	2 - 1 	HT Re-Live
+	Tjecko-85 - Åshöjdens BK 	2 - 2 	HT Re-Live
+	BK Marx - Stream Team 	4 - 2 	HT Re-Live
+Omgång  2
+2005-02-13 10:00 			
+	Åshöjdens BK - Gäddträsket 	2 - 0 	HT Re-Live
+	Stream Team - IFK Livergården 	0 - 3 	HT Re-Live
+	Inter Sthlm - BK Marx 	5 - 2 	HT Re-Live
+	EM Tigers - Tjecko-85 	4 - 1 	HT Re-Live
+Omgång  3
+2005-02-20 10:00 			
+	IFK Livergården - Inter Sthlm 	1 - 2 	HT Re-Live
+	Tjecko-85 - Stream Team 	0 - 1 	HT Re-Live
+	Åshöjdens BK - EM Tigers 	2 - 3 	HT Re-Live
+	BK Marx - Gäddträsket 	2 - 2 	HT Re-Live
+Omgång  4
+2005-02-27 10:00 			
+	Gäddträsket - EM Tigers 	1 - 2 	HT Re-Live
+	Stream Team - Åshöjdens BK 	4 - 0 	HT Re-Live
+	Inter Sthlm - Tjecko-85 	4 - 0 	HT Re-Live
+	BK Marx - IFK Livergården 	4 - 1 	HT Re-Live
+Omgång  5
+2005-03-06 10:00 			
+	IFK Livergården - Gäddträsket 	1 - 1 	HT Re-Live
+	Tjecko-85 - BK Marx 	1 - 2 	HT Re-Live
+	Åshöjdens BK - Inter Sthlm 	1 - 1 	HT Re-Live
+	EM Tigers - Stream Team 	3 - 2 	HT Re-Live
+Omgång  6
+2005-03-13 10:00 			
+	Gäddträsket - Stream Team 	2 - 2 	HT Re-Live
+	IFK Livergården - Tjecko-85 	3 - 0 	HT Re-Live
+	Inter Sthlm - EM Tigers 	2 - 1 	HT Re-Live
+	BK Marx - Åshöjdens BK 	3 - 1 	HT Re-Live
+Omgång  7
+2005-03-20 10:00 			
+	Tjecko-85 - Gäddträsket 	1 - 4 	HT Re-Live
+	Åshöjdens BK - IFK Livergården 	2 - 4 	HT Re-Live
+	Stream Team - Inter Sthlm 	0 - 3 	HT Re-Live
+	EM Tigers - BK Marx 	6 - 0 	HT Re-Live
+Omgång  8
+2005-03-27 10:00 			
+	BK Marx - EM Tigers 	3 - 2 	HT Re-Live
+	Inter Sthlm - Stream Team 	3 - 0 	HT Re-Live
+	IFK Livergården - Åshöjdens BK 	2 - 2 	HT Re-Live
+	Gäddträsket - Tjecko-85 	6 - 0 	HT Re-Live
+Omgång  9
+2005-04-03 10:00 			
+	Åshöjdens BK - BK Marx 	4 - 2 	HT Re-Live
+	EM Tigers - Inter Sthlm 	1 - 1 	HT Re-Live
+	Tjecko-85 - IFK Livergården 	0 - 3 	HT Re-Live
+	Stream Team - Gäddträsket 	0 - 3 	HT Re-Live
+Omgång  10
+2005-04-10 10:00 			
+	Stream Team - EM Tigers 	7 - 1 	HT Re-Live
+	Inter Sthlm - Åshöjdens BK 	3 - 0 	HT Re-Live
+	BK Marx - Tjecko-85 	3 - 4 	HT Re-Live
+	Gäddträsket - IFK Livergården 	5 - 1 	HT Re-Live
+Omgång  11
+2005-04-17 10:00 			
+	IFK Livergården - BK Marx 	2 - 2 	HT Re-Live
+	Tjecko-85 - Inter Sthlm 	1 - 1 	HT Re-Live
+	Åshöjdens BK - Stream Team 	3 - 3 	HT Re-Live
+	EM Tigers - Gäddträsket 	2 - 0 	HT Re-Live
+Omgång  12
+2005-04-24 10:00 			
+	Gäddträsket - BK Marx 	4 - 1 	HT Re-Live
+	EM Tigers - Åshöjdens BK 	3 - 1 	HT Re-Live
+	Stream Team - Tjecko-85 	2 - 0 	HT Re-Live
+	Inter Sthlm - IFK Livergården 	5 - 2 	HT Re-Live
+Omgång  13
+2005-05-01 10:00 			
+	Tjecko-85 - EM Tigers 	0 - 3 	HT Re-Live
+	BK Marx - Inter Sthlm 	0 - 4 	HT Re-Live
+	IFK Livergården - Stream Team 	5 - 1 	HT Re-Live
+	Gäddträsket - Åshöjdens BK 	3 - 0 	HT Re-Live
+Omgång  14
+2005-05-08 10:00 			
+	Stream Team - BK Marx 	2 - 1 	HT Re-Live
+	Åshöjdens BK - Tjecko-85 	0 - 1 	HT Re-Live
+	EM Tigers - IFK Livergården 	2 - 2 	HT Re-Live
+	Inter Sthlm - Gäddträsket 	5 - 1 	HT Re-Live

@@ -1,0 +1,84 @@
+Omgång  1
+2002-05-05 10:00 			
+	Forest Rovers - Smackers United 	3 - 4 	HT Re-Live
+	Mjällbyn - Gäddträsket 	1 - 2 	HT Re-Live
+	Åsehöjden - Sunne IK 	10 - 0 	HT Re-Live
+	EM Tigers - Starwars 	3 - 1 	HT Re-Live
+Omgång  2
+2002-05-12 10:00 			
+	Sunne IK - Forest Rovers 	0 - 6 	HT Re-Live
+	Starwars - Mjällbyn 	0 - 3 	HT Re-Live
+	Smackers United - EM Tigers 	2 - 0 	HT Re-Live
+	Gäddträsket - Åsehöjden 	4 - 0 	HT Re-Live
+Omgång  3
+2002-05-19 10:00 			
+	Mjällbyn - Smackers United 	3 - 2 	HT Re-Live
+	Åsehöjden - Starwars 	2 - 1 	HT Re-Live
+	Sunne IK - Gäddträsket 	1 - 2 	HT Re-Live
+	EM Tigers - Forest Rovers 	4 - 0 	HT Re-Live
+Omgång  4
+2002-05-26 10:00 			
+	Forest Rovers - Gäddträsket 	1 - 0 	HT Re-Live
+	Starwars - Sunne IK 	3 - 2 	HT Re-Live
+	Smackers United - Åsehöjden 	1 - 0 	HT Re-Live
+	EM Tigers - Mjällbyn 	4 - 1 	HT Re-Live
+Omgång  5
+2002-06-02 10:00 			
+	Mjällbyn - Forest Rovers 	4 - 1 	HT Re-Live
+	Åsehöjden - EM Tigers 	0 - 1 	HT Re-Live
+	Sunne IK - Smackers United 	1 - 2 	HT Re-Live
+	Gäddträsket - Starwars 	1 - 1 	HT Re-Live
+Omgång  6
+2002-06-09 10:00 			
+	Forest Rovers - Starwars 	4 - 1 	HT Re-Live
+	Mjällbyn - Åsehöjden 	3 - 3 	HT Re-Live
+	Smackers United - Gäddträsket 	2 - 3 	HT Re-Live
+	EM Tigers - Sunne IK 	3 - 1 	HT Re-Live
+Omgång  7
+2002-06-16 10:00 			
+	Åsehöjden - Forest Rovers 	3 - 4 	HT Re-Live
+	Sunne IK - Mjällbyn 	2 - 1 	HT Re-Live
+	Starwars - Smackers United 	0 - 2 	HT Re-Live
+	Gäddträsket - EM Tigers 	2 - 0 	HT Re-Live
+Omgång  8
+2002-06-23 10:00 			
+	EM Tigers - Gäddträsket 	2 - 1 	HT Re-Live
+	Smackers United - Starwars 	4 - 1 	HT Re-Live
+	Mjällbyn - Sunne IK 	0 - 7 	HT Re-Live
+	Forest Rovers - Åsehöjden 	3 - 1 	HT Re-Live
+Omgång  9
+2002-06-30 10:00 			
+	Sunne IK - EM Tigers 	2 - 2 	HT Re-Live
+	Gäddträsket - Smackers United 	4 - 2 	HT Re-Live
+	Åsehöjden - Mjällbyn 	1 - 2 	HT Re-Live
+	Starwars - Forest Rovers 	4 - 2 	HT Re-Live
+Omgång  10
+2002-07-07 10:00 			
+	Starwars - Gäddträsket 	1 - 2 	HT Re-Live
+	Smackers United - Sunne IK 	3 - 1 	HT Re-Live
+	EM Tigers - Åsehöjden 	7 - 0 	HT Re-Live
+	Forest Rovers - Mjällbyn 	2 - 3 	HT Re-Live
+Omgång  11
+2002-07-14 10:00 			
+	Mjällbyn - EM Tigers 	0 - 3 	HT Re-Live
+	Åsehöjden - Smackers United 	0 - 2 	HT Re-Live
+	Sunne IK - Starwars 	2 - 0 	HT Re-Live
+	Gäddträsket - Forest Rovers 	4 - 1 	HT Re-Live
+Omgång  12
+2002-07-21 10:00 			
+	Forest Rovers - EM Tigers 	1 - 0 	HT Re-Live
+	Gäddträsket - Sunne IK 	3 - 1 	HT Re-Live
+	Starwars - Åsehöjden 	2 - 0 	HT Re-Live
+	Smackers United - Mjällbyn 	7 - 0 	HT Re-Live
+Omgång  13
+2002-07-28 10:00 			
+	Åsehöjden - Gäddträsket 	0 - 6 	HT Re-Live
+	EM Tigers - Smackers United 	3 - 2 	HT Re-Live
+	Mjällbyn - Starwars 	3 - 1 	HT Re-Live
+	Forest Rovers - Sunne IK 	2 - 1 	HT Re-Live
+Omgång  14
+2002-08-04 10:00 			
+	Starwars - EM Tigers 	5 - 2 	HT Re-Live
+	Sunne IK - Åsehöjden 	3 - 2 	HT Re-Live
+	Gäddträsket - Mjällbyn 	2 - 1 	HT Re-Live
+	Smackers United - Forest Rovers 	5 - 0 	HT Re-Live

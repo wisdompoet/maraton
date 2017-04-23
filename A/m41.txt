@@ -1,0 +1,84 @@
+Omgång  1
+2010-01-03 10:00 			
+	BusbyBabes - Crazy Apes 	2 - 0 	HT Re-Live
+	Norsgatan Kickers - Innat FC 	2 - 0 	HT Re-Live
+	Empoli - Södra Malmens IF 	4 - 0 	HT Re-Live
+	IFK Losers  - Zeta 	1 - 3 	HT Re-Live
+Omgång  2
+2010-01-10 10:00 			
+	Zeta - Norsgatan Kickers 	2 - 2 	HT Re-Live
+	Innat FC - Empoli 	1 - 1 	HT Re-Live
+	Crazy Apes - IFK Losers 	1 - 1 	HT Re-Live
+	Södra Malmens IF - BusbyBabes 	1 - 3 	HT Re-Live
+Omgång  3
+2010-01-17 10:00 			
+	Zeta - Crazy Apes 	4 - 0 	HT Re-Live
+	BusbyBabes - Innat FC 	1 - 1 	HT Re-Live
+	IFK Losers  - Södra Malmens IF 	1 - 1 	HT Re-Live
+	Empoli - Norsgatan Kickers 	2 - 0 	HT Re-Live
+Omgång  4
+2010-01-24 10:00 			
+	Norsgatan Kickers - Crazy Apes 	2 - 0 	HT Re-Live
+	Södra Malmens IF - Zeta 	0 - 1 	HT Re-Live
+	Innat FC - IFK Losers 	2 - 0 	HT Re-Live
+	Empoli - BusbyBabes 	2 - 3 	HT Re-Live
+Omgång  5
+2010-01-31 10:00 			
+	BusbyBabes - Norsgatan Kickers 	3 - 1 	HT Re-Live
+	IFK Losers  - Empoli 	2 - 0 	HT Re-Live
+	Zeta - Innat FC 	0 - 1 	HT Re-Live
+	Crazy Apes - Södra Malmens IF 	2 - 2 	HT Re-Live
+Omgång  6
+2010-02-07 10:00 			
+	BusbyBabes - IFK Losers 	1 - 1 	HT Re-Live
+	Norsgatan Kickers - Södra Malmens IF 	1 - 2 	HT Re-Live
+	Innat FC - Crazy Apes 	3 - 0 	HT Re-Live
+	Empoli - Zeta 	2 - 2 	HT Re-Live
+Omgång  7
+2010-02-14 10:00 			
+	Södra Malmens IF - Innat FC 	0 - 2 	HT Re-Live
+	Crazy Apes - Empoli 	2 - 1 	HT Re-Live
+	Zeta - BusbyBabes 	1 - 1 	HT Re-Live
+	IFK Losers  - Norsgatan Kickers 	2 - 1 	HT Re-Live
+Omgång  8
+2010-02-21 10:00 			
+	Empoli - Crazy Apes 	1 - 4 	HT Re-Live
+	BusbyBabes - Zeta 	1 - 1 	HT Re-Live
+	Innat FC - Södra Malmens IF 	1 - 0 	HT Re-Live
+	Norsgatan Kickers - IFK Losers 	0 - 0 	HT Re-Live
+Omgång  9
+2010-02-28 10:00 			
+	Zeta - Empoli 	3 - 3 	HT Re-Live
+	Crazy Apes - Innat FC 	0 - 0 	HT Re-Live
+	IFK Losers  - BusbyBabes 	1 - 1 	HT Re-Live
+	Södra Malmens IF - Norsgatan Kickers 	0 - 1 	HT Re-Live
+Omgång  10
+2010-03-07 10:00 			
+	Södra Malmens IF - Crazy Apes 	2 - 2 	HT Re-Live
+	Innat FC - Zeta 	0 - 4 	HT Re-Live
+	Norsgatan Kickers - BusbyBabes 	3 - 1 	HT Re-Live
+	Empoli - IFK Losers 	2 - 1 	HT Re-Live
+Omgång  11
+2010-03-14 10:00 			
+	BusbyBabes - Empoli 	3 - 1 	HT Re-Live
+	Zeta - Södra Malmens IF 	3 - 0 	HT Re-Live
+	IFK Losers  - Innat FC 	0 - 3 	HT Re-Live
+	Crazy Apes - Norsgatan Kickers 	2 - 1 	HT Re-Live
+Omgång  12
+2010-03-21 10:00 			
+	Crazy Apes - Zeta 	3 - 1 	HT Re-Live
+	Norsgatan Kickers - Empoli 	0 - 5 	HT Re-Live
+	Södra Malmens IF - IFK Losers 	0 - 2 	HT Re-Live
+	Innat FC - BusbyBabes 	2 - 1 	HT Re-Live
+Omgång  13
+2010-03-28 10:00 			
+	IFK Losers  - Crazy Apes 	1 - 0 	HT Re-Live
+	Empoli - Innat FC 	2 - 0 	HT Re-Live
+	BusbyBabes - Södra Malmens IF 	4 - 1 	HT Re-Live
+	Norsgatan Kickers - Zeta 	1 - 2 	HT Re-Live
+Omgång  14
+2010-04-04 10:00 			
+	Södra Malmens IF - Empoli 	3 - 2 	HT Re-Live
+	Zeta - IFK Losers 	1 - 1 	HT Re-Live
+	Innat FC - Norsgatan Kickers 	1 - 3 	HT Re-Live
+	Crazy Apes - BusbyBabes 	0 - 0 	HT Re-Live

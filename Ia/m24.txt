@@ -1,0 +1,84 @@
+Omgång  1
+2004-10-17 10:00 			
+	Sunne IK - Nätets FF	4 - 0 	HT Re-Live
+	Tyresö Drifters - Starwars	2 - 1 	HT Re-Live
+	Fjukers - Grimreapers Deathsquad	2 - 4 	HT Re-Live
+	Ponkarna FF - IFK FF	2 - 0 	HT Re-Live
+Omgång  2
+2004-10-24 10:00 			
+	Grimreapers Deathsquad - Sunne IK	3 - 3 	HT Re-Live
+	IFK FF - Tyresö Drifters	2 - 1 	HT Re-Live
+	Nätets FF - Ponkarna FF	2 - 5 	HT Re-Live
+	Starwars - Fjukers	4 - 0 	HT Re-Live
+Omgång  3
+2004-10-31 10:00 			
+	Tyresö Drifters - Nätets FF	0 - 4 	HT Re-Live
+	Fjukers - IFK FF	8 - 0 	HT Re-Live
+	Grimreapers Deathsquad - Starwars	4 - 4 	HT Re-Live
+	Ponkarna FF - Sunne IK	3 - 4 	HT Re-Live
+Omgång  4
+2004-11-07 10:00 			
+	Sunne IK - Starwars	5 - 0 	HT Re-Live
+	IFK FF - Grimreapers Deathsquad	2 - 1 	HT Re-Live
+	Nätets FF - Fjukers	0 - 4 	HT Re-Live
+	Ponkarna FF - Tyresö Drifters	2 - 0 	HT Re-Live
+Omgång  5
+2004-11-14 10:00 			
+	Tyresö Drifters - Sunne IK	4 - 0 	HT Re-Live
+	Fjukers - Ponkarna FF	5 - 0 	HT Re-Live
+	Grimreapers Deathsquad - Nätets FF	1 - 1 	HT Re-Live
+	Starwars - IFK FF	1 - 1 	HT Re-Live
+Omgång  6
+2004-11-21 10:00 			
+	Sunne IK - IFK FF	4 - 2 	HT Re-Live
+	Tyresö Drifters - Fjukers	4 - 3 	HT Re-Live
+	Nätets FF - Starwars	5 - 1 	HT Re-Live
+	Ponkarna FF - Grimreapers Deathsquad	3 - 1 	HT Re-Live
+Omgång  7
+2004-11-28 10:00 			
+	Fjukers - Sunne IK	3 - 3 	HT Re-Live
+	Grimreapers Deathsquad - Tyresö Drifters	4 - 1 	HT Re-Live
+	IFK FF - Nätets FF	1 - 6 	HT Re-Live
+	Starwars - Ponkarna FF	1 - 0 	HT Re-Live
+Omgång  8
+2004-12-05 10:00 			
+	Ponkarna FF - Starwars	3 - 0 	HT Re-Live
+	Nätets FF - IFK FF	5 - 0 	HT Re-Live
+	Tyresö Drifters - Grimreapers Deathsquad	2 - 2 	HT Re-Live
+	Sunne IK - Fjukers	5 - 2 	HT Re-Live
+Omgång  9
+2004-12-12 10:00 			
+	Grimreapers Deathsquad - Ponkarna FF	3 - 1 	HT Re-Live
+	Starwars - Nätets FF	1 - 2 	HT Re-Live
+	Fjukers - Tyresö Drifters	2 - 2 	HT Re-Live
+	IFK FF - Sunne IK	0 - 3 	HT Re-Live
+Omgång  10
+2004-12-19 10:00 			
+	IFK FF - Starwars	3 - 1 	HT Re-Live
+	Nätets FF - Grimreapers Deathsquad	0 - 3 	HT Re-Live
+	Ponkarna FF - Fjukers	4 - 1 	HT Re-Live
+	Sunne IK - Tyresö Drifters	1 - 1 	HT Re-Live
+Omgång  11
+2004-12-26 10:00 			
+	Tyresö Drifters - Ponkarna FF	2 - 1 	HT Re-Live
+	Fjukers - Nätets FF	2 - 2 	HT Re-Live
+	Grimreapers Deathsquad - IFK FF	2 - 1 	HT Re-Live
+	Starwars - Sunne IK	0 - 7 	HT Re-Live
+Omgång  12
+2005-01-02 10:00 			
+	Sunne IK - Ponkarna FF	7 - 1 	HT Re-Live
+	Starwars - Grimreapers Deathsquad	2 - 4 	HT Re-Live
+	IFK FF - Fjukers	5 - 1 	HT Re-Live
+	Nätets FF - Tyresö Drifters	2 - 5 	HT Re-Live
+Omgång  13
+2005-01-09 10:00 			
+	Fjukers - Starwars	3 - 2 	HT Re-Live
+	Ponkarna FF - Nätets FF	3 - 0 	HT Re-Live
+	Tyresö Drifters - IFK FF	5 - 0 	HT Re-Live
+	Sunne IK - Grimreapers Deathsquad	3 - 4 	HT Re-Live
+Omgång  14
+2005-01-16 10:00 			
+	IFK FF - Ponkarna FF	2 - 2 	HT Re-Live
+	Grimreapers Deathsquad - Fjukers	0 - 5 	HT Re-Live
+	Starwars - Tyresö Drifters	2 - 0 	HT Re-Live
+	Nätets FF - Sunne IK	0 - 3 	HT Re-Live

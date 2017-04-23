@@ -1,0 +1,84 @@
+Omgång  1
+2002-12-15 10:00 			
+	Svin-Arne BK - FC Morp	1 - 1 	HT Re-Live
+	Dynamo Patricia - BK Marx	4 - 5 	HT Re-Live
+	Sandarna BK - Lazy Boyz	2 - 0 	HT Re-Live
+	Team Ångest - DÖ Långsamt FC	3 - 1 	HT Re-Live
+Omgång  2
+2002-12-22 10:00 			
+	Lazy Boyz - Svin-Arne BK	4 - 0 	HT Re-Live
+	DÖ Långsamt FC - Dynamo Patricia	2 - 5 	HT Re-Live
+	FC Morp - Team Ångest	2 - 2 	HT Re-Live
+	BK Marx - Sandarna BK	0 - 5 	HT Re-Live
+Omgång  3
+2002-12-29 10:00 			
+	Dynamo Patricia - FC Morp	3 - 1 	HT Re-Live
+	Sandarna BK - DÖ Långsamt FC	4 - 2 	HT Re-Live
+	Lazy Boyz - BK Marx	0 - 3 	HT Re-Live
+	Team Ångest - Svin-Arne BK	3 - 4 	HT Re-Live
+Omgång  4
+2003-01-05 10:00 			
+	Svin-Arne BK - BK Marx	3 - 2 	HT Re-Live
+	DÖ Långsamt FC - Lazy Boyz	1 - 1 	HT Re-Live
+	FC Morp - Sandarna BK	2 - 2 	HT Re-Live
+	Team Ångest - Dynamo Patricia	2 - 3 	HT Re-Live
+Omgång  5
+2003-01-12 10:00 			
+	Dynamo Patricia - Svin-Arne BK	3 - 2 	HT Re-Live
+	Sandarna BK - Team Ångest	1 - 3 	HT Re-Live
+	Lazy Boyz - FC Morp	2 - 2 	HT Re-Live
+	BK Marx - DÖ Långsamt FC	3 - 0 	HT Re-Live
+Omgång  6
+2003-01-19 10:00 			
+	Svin-Arne BK - DÖ Långsamt FC	5 - 1 	HT Re-Live
+	Dynamo Patricia - Sandarna BK	4 - 1 	HT Re-Live
+	FC Morp - BK Marx	1 - 2 	HT Re-Live
+	Team Ångest - Lazy Boyz	2 - 5 	HT Re-Live
+Omgång  7
+2003-01-26 10:00 			
+	Sandarna BK - Svin-Arne BK	3 - 1 	HT Re-Live
+	Lazy Boyz - Dynamo Patricia	0 - 6 	HT Re-Live
+	DÖ Långsamt FC - FC Morp	2 - 1 	HT Re-Live
+	BK Marx - Team Ångest	3 - 2 	HT Re-Live
+Omgång  8
+2003-02-02 10:00 			
+	Team Ångest - BK Marx	0 - 5 	HT Re-Live
+	FC Morp - DÖ Långsamt FC	4 - 0 	HT Re-Live
+	Dynamo Patricia - Lazy Boyz	4 - 1 	HT Re-Live
+	Svin-Arne BK - Sandarna BK	2 - 3 	HT Re-Live
+Omgång  9
+2003-02-09 10:00 			
+	Lazy Boyz - Team Ångest	4 - 1 	HT Re-Live
+	BK Marx - FC Morp	0 - 2 	HT Re-Live
+	Sandarna BK - Dynamo Patricia	1 - 3 	HT Re-Live
+	DÖ Långsamt FC - Svin-Arne BK	2 - 4 	HT Re-Live
+Omgång  10
+2003-02-16 10:00 			
+	DÖ Långsamt FC - BK Marx	2 - 3 	HT Re-Live
+	FC Morp - Lazy Boyz	2 - 3 	HT Re-Live
+	Team Ångest - Sandarna BK	1 - 3 	HT Re-Live
+	Svin-Arne BK - Dynamo Patricia	3 - 4 	HT Re-Live
+Omgång  11
+2003-02-23 10:00 			
+	Dynamo Patricia - Team Ångest	3 - 1 	HT Re-Live
+	Sandarna BK - FC Morp	2 - 0 	HT Re-Live
+	Lazy Boyz - DÖ Långsamt FC	2 - 2 	HT Re-Live
+	BK Marx - Svin-Arne BK	4 - 1 	HT Re-Live
+Omgång  12
+2003-03-02 10:00 			
+	Svin-Arne BK - Team Ångest	3 - 0 	HT Re-Live
+	BK Marx - Lazy Boyz	6 - 1 	HT Re-Live
+	DÖ Långsamt FC - Sandarna BK	0 - 2 	HT Re-Live
+	FC Morp - Dynamo Patricia	2 - 5 	HT Re-Live
+Omgång  13
+2003-03-09 10:00 			
+	Sandarna BK - BK Marx	0 - 4 	HT Re-Live
+	Team Ångest - FC Morp	2 - 0 	HT Re-Live
+	Dynamo Patricia - DÖ Långsamt FC	3 - 3 	HT Re-Live
+	Svin-Arne BK - Lazy Boyz	5 - 1 	HT Re-Live
+Omgång  14
+2003-03-16 10:00 			
+	DÖ Långsamt FC - Team Ångest	0 - 3 	HT Re-Live
+	Lazy Boyz - Sandarna BK	2 - 0 	HT Re-Live
+	BK Marx - Dynamo Patricia	2 - 2 	HT Re-Live
+	FC Morp - Svin-Arne BK	2 - 5 	HT Re-Live

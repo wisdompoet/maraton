@@ -1,0 +1,84 @@
+Omgång  1
+2013-01-27 10:00 			
+	Real Karlskrona - FC Mackan	0 - 10 	HT Re-Live
+	Strömsbergs BK - REAL mln	0 - 2 	HT Re-Live
+	Rotorp - FC Balingsnäs	4 - 2 	HT Re-Live
+	Kungsholmen Kickers - FC Phazz	4 - 3 	HT Re-Live
+Omgång  2
+2013-02-03 10:00 			
+	FC Balingsnäs  - Real Karlskrona	6 - 0 	HT Re-Live
+	FC Mackan - Kungsholmen Kickers	3 - 2 	HT Re-Live
+	REAL mln - Rotorp	1 - 3 	HT Re-Live
+	FC Phazz - Strömsbergs BK	3 - 2 	HT Re-Live
+Omgång  3
+2013-02-10 10:00 			
+	FC Balingsnäs  - FC Mackan	4 - 1 	HT Re-Live
+	Kungsholmen Kickers - REAL mln	4 - 1 	HT Re-Live
+	Rotorp - Strömsbergs BK	4 - 1 	HT Re-Live
+	Real Karlskrona - FC Phazz	0 - 11 	HT Re-Live
+Omgång  4
+2013-02-17 10:00 			
+	Strömsbergs BK - Kungsholmen Kickers	0 - 1 	HT Re-Live
+	FC Phazz - FC Balingsnäs	2 - 2 	HT Re-Live
+	FC Mackan - Rotorp	2 - 2 	HT Re-Live
+	REAL mln - Real Karlskrona	3 - 0 	HT Re-Live
+Omgång  5
+2013-02-24 10:00 			
+	FC Balingsnäs  - Strömsbergs BK	4 - 1 	HT Re-Live
+	Rotorp - FC Phazz	0 - 2 	HT Re-Live
+	FC Mackan - REAL mln	8 - 0 	HT Re-Live
+	Real Karlskrona - Kungsholmen Kickers	0 - 9 	HT Re-Live
+Omgång  6
+2013-03-03 10:00 			
+	Kungsholmen Kickers - Rotorp	2 - 1 	HT Re-Live
+	REAL mln - FC Balingsnäs	1 - 2 	HT Re-Live
+	FC Phazz - FC Mackan	4 - 3 	HT Re-Live
+	Strömsbergs BK - Real Karlskrona	6 - 0 	HT Re-Live
+Omgång  7
+2013-03-10 10:00 			
+	Real Karlskrona - Rotorp	1 - 6 	HT Re-Live
+	FC Balingsnäs  - Kungsholmen Kickers	1 - 3 	HT Re-Live
+	FC Mackan - Strömsbergs BK	5 - 0 	HT Re-Live
+	REAL mln - FC Phazz	0 - 2 	HT Re-Live
+Omgång  8
+2013-03-17 10:00 			
+	Rotorp - Real Karlskrona	6 - 0 	HT Re-Live
+	Strömsbergs BK - FC Mackan	0 - 1 	HT Re-Live
+	FC Phazz - REAL mln	3 - 0 	HT Re-Live
+	Kungsholmen Kickers - FC Balingsnäs	2 - 1 	HT Re-Live
+Omgång  9
+2013-03-24 10:00 			
+	Rotorp - Kungsholmen Kickers	1 - 5 	HT Re-Live
+	FC Balingsnäs  - REAL mln	3 - 0 	HT Re-Live
+	FC Mackan - FC Phazz	3 - 1 	HT Re-Live
+	Real Karlskrona - Strömsbergs BK	0 - 5 	HT Re-Live
+Omgång  10
+2013-03-31 10:00 			
+	Strömsbergs BK - FC Balingsnäs	1 - 4 	HT Re-Live
+	Kungsholmen Kickers - Real Karlskrona	5 - 1 	HT Re-Live
+	FC Phazz - Rotorp	7 - 2 	HT Re-Live
+	REAL mln - FC Mackan	1 - 4 	HT Re-Live
+Omgång  11
+2013-04-07 10:00 			
+	FC Balingsnäs  - FC Phazz	1 - 1 	HT Re-Live
+	Rotorp - FC Mackan	3 - 3 	HT Re-Live
+	Real Karlskrona - REAL mln	0 - 4 	HT Re-Live
+	Kungsholmen Kickers - Strömsbergs BK	3 - 2 	HT Re-Live
+Omgång  12
+2013-04-14 10:00 			
+	FC Phazz - Real Karlskrona	9 - 1 	HT Re-Live
+	FC Mackan - FC Balingsnäs	1 - 1 	HT Re-Live
+	Strömsbergs BK - Rotorp	6 - 1 	HT Re-Live
+	REAL mln - Kungsholmen Kickers	1 - 4 	HT Re-Live
+Omgång  13
+2013-04-21 10:00 			
+	Strömsbergs BK - FC Phazz	3 - 2 	HT Re-Live
+	Rotorp - REAL mln	3 - 0 	HT Re-Live
+	Kungsholmen Kickers - FC Mackan	2 - 2 	HT Re-Live
+	Real Karlskrona - FC Balingsnäs	0 - 5 	HT Re-Live
+Omgång  14
+2013-04-28 10:00 			
+	REAL mln - Strömsbergs BK	1 - 2 	HT Re-Live
+	FC Phazz - Kungsholmen Kickers	5 - 1 	HT Re-Live
+	FC Mackan - Real Karlskrona	6 - 0 	HT Re-Live
+	FC Balingsnäs  - Rotorp	7 - 0 	HT Re-Live

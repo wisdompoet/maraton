@@ -1,0 +1,84 @@
+Omgång  1
+2000-10-22 10:00 			
+	Sunne IK - IFK Livergården 	3 - 1 	HT Re-Live
+	EM Tigers - Mjällbyn 	0 - 0 	HT Re-Live
+	IFK FF - Åshöjdens BK 	3 - 3 	HT Re-Live
+	Gäddträsket - Baloo BK 	4 - 1 	HT Re-Live
+Omgång  2
+2000-10-29 10:00 			
+	Åshöjdens BK - Sunne IK 	0 - 1 	HT Re-Live
+	Baloo BK - EM Tigers 	3 - 0 	HT Re-Live
+	IFK Livergården - Gäddträsket 	2 - 2 	HT Re-Live
+	Mjällbyn - IFK FF 	2 - 0 	HT Re-Live
+Omgång  3
+2000-11-05 10:00 			
+	EM Tigers - IFK Livergården 	3 - 2 	HT Re-Live
+	IFK FF - Baloo BK 	1 - 0 	HT Re-Live
+	Åshöjdens BK - Mjällbyn 	0 - 3 	HT Re-Live
+	Gäddträsket - Sunne IK 	2 - 2 	HT Re-Live
+Omgång  4
+2000-11-12 10:00 			
+	Sunne IK - Mjällbyn 	3 - 0 	HT Re-Live
+	Baloo BK - Åshöjdens BK 	3 - 0 	HT Re-Live
+	IFK Livergården - IFK FF 	1 - 1 	HT Re-Live
+	Gäddträsket - EM Tigers 	2 - 0 	HT Re-Live
+Omgång  5
+2000-11-19 10:00 			
+	EM Tigers - Sunne IK 	2 - 0 	HT Re-Live
+	IFK FF - Gäddträsket 	0 - 3 	HT Re-Live
+	Åshöjdens BK - IFK Livergården 	3 - 4 	HT Re-Live
+	Mjällbyn - Baloo BK 	3 - 2 	HT Re-Live
+Omgång  6
+2000-11-26 10:00 			
+	Sunne IK - Baloo BK 	1 - 2 	HT Re-Live
+	EM Tigers - IFK FF 	4 - 1 	HT Re-Live
+	IFK Livergården - Mjällbyn 	3 - 0 	HT Re-Live
+	Gäddträsket - Åshöjdens BK 	1 - 0 	HT Re-Live
+Omgång  7
+2000-12-03 10:00 			
+	IFK FF - Sunne IK 	0 - 4 	HT Re-Live
+	Åshöjdens BK - EM Tigers 	0 - 5 	HT Re-Live
+	Baloo BK - IFK Livergården 	0 - 2 	HT Re-Live
+	Mjällbyn - Gäddträsket 	1 - 6 	HT Re-Live
+Omgång  8
+2000-12-10 10:00 			
+	Gäddträsket - Mjällbyn 	2 - 1 	HT Re-Live
+	IFK Livergården - Baloo BK 	5 - 2 	HT Re-Live
+	EM Tigers - Åshöjdens BK 	3 - 2 	HT Re-Live
+	Sunne IK - IFK FF 	4 - 2 	HT Re-Live
+Omgång  9
+2000-12-17 10:00 			
+	Åshöjdens BK - Gäddträsket 	3 - 2 	HT Re-Live
+	Mjällbyn - IFK Livergården 	3 - 1 	HT Re-Live
+	IFK FF - EM Tigers 	0 - 0 	HT Re-Live
+	Baloo BK - Sunne IK 	1 - 1 	HT Re-Live
+Omgång  10
+2000-12-24 10:00 			
+	Baloo BK - Mjällbyn 	1 - 1 	HT Re-Live
+	IFK Livergården - Åshöjdens BK 	5 - 1 	HT Re-Live
+	Gäddträsket - IFK FF 	5 - 0 	HT Re-Live
+	Sunne IK - EM Tigers 	0 - 0 	HT Re-Live
+Omgång  11
+2000-12-31 10:00 			
+	EM Tigers - Gäddträsket 	0 - 1 	HT Re-Live
+	IFK FF - IFK Livergården 	3 - 2 	HT Re-Live
+	Åshöjdens BK - Baloo BK 	4 - 1 	HT Re-Live
+	Mjällbyn - Sunne IK 	1 - 2 	HT Re-Live
+Omgång  12
+2001-01-07 10:00 			
+	Sunne IK - Gäddträsket 	2 - 1 	HT Re-Live
+	Mjällbyn - Åshöjdens BK 	3 - 0 	HT Re-Live
+	Baloo BK - IFK FF 	0 - 5 	HT Re-Live
+	IFK Livergården - EM Tigers 	1 - 4 	HT Re-Live
+Omgång  13
+2001-01-14 10:00 			
+	IFK FF - Mjällbyn 	0 - 3 	HT Re-Live
+	Gäddträsket - IFK Livergården 	2 - 1 	HT Re-Live
+	EM Tigers - Baloo BK 	4 - 0 	HT Re-Live
+	Sunne IK - Åshöjdens BK 	2 - 0 	HT Re-Live
+Omgång  14
+2001-01-21 10:00 			
+	Baloo BK - Gäddträsket 	2 - 5 	HT Re-Live
+	Åshöjdens BK - IFK FF 	3 - 0 	HT Re-Live
+	Mjällbyn - EM Tigers 	2 - 1 	HT Re-Live
+	IFK Livergården - Sunne IK 	1 - 2 	HT Re-Live

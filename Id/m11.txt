@@ -1,0 +1,84 @@
+Omgång  1
+2000-10-22 10:00 			
+	Kungsbackas Kor - Åsehöjden	2 - 3 	HT Re-Live
+	Kungens IF - Briegels Bestar	3 - 1 	HT Re-Live
+	Starwars - Team Ångest	1 - 2 	HT Re-Live
+	Jimmys Jältar - OAK FC	0 - 0 	HT Re-Live
+Omgång  2
+2000-10-29 10:00 			
+	Team Ångest - Kungsbackas Kor	1 - 2 	HT Re-Live
+	OAK FC - Kungens IF	2 - 1 	HT Re-Live
+	Åsehöjden - Jimmys Jältar	4 - 0 	HT Re-Live
+	Briegels Bestar - Starwars	0 - 0 	HT Re-Live
+Omgång  3
+2000-11-05 10:00 			
+	Kungens IF - Åsehöjden	0 - 0 	HT Re-Live
+	Starwars - OAK FC	2 - 0 	HT Re-Live
+	Team Ångest - Briegels Bestar	1 - 0 	HT Re-Live
+	Jimmys Jältar - Kungsbackas Kor	1 - 1 	HT Re-Live
+Omgång  4
+2000-11-12 10:00 			
+	Kungsbackas Kor - Briegels Bestar	2 - 0 	HT Re-Live
+	OAK FC - Team Ångest	3 - 2 	HT Re-Live
+	Åsehöjden - Starwars	4 - 0 	HT Re-Live
+	Jimmys Jältar - Kungens IF	0 - 6 	HT Re-Live
+Omgång  5
+2000-11-19 10:00 			
+	Kungens IF - Kungsbackas Kor	5 - 0 	HT Re-Live
+	Starwars - Jimmys Jältar	1 - 0 	HT Re-Live
+	Team Ångest - Åsehöjden	1 - 3 	HT Re-Live
+	Briegels Bestar - OAK FC	2 - 1 	HT Re-Live
+Omgång  6
+2000-11-26 10:00 			
+	Kungsbackas Kor - OAK FC	0 - 2 	HT Re-Live
+	Kungens IF - Starwars	1 - 0 	HT Re-Live
+	Åsehöjden - Briegels Bestar	2 - 0 	HT Re-Live
+	Jimmys Jältar - Team Ångest	2 - 1 	HT Re-Live
+Omgång  7
+2000-12-03 10:00 			
+	Starwars - Kungsbackas Kor	1 - 1 	HT Re-Live
+	Team Ångest - Kungens IF	1 - 1 	HT Re-Live
+	OAK FC - Åsehöjden	1 - 5 	HT Re-Live
+	Briegels Bestar - Jimmys Jältar	0 - 0 	HT Re-Live
+Omgång  8
+2000-12-10 10:00 			
+	Jimmys Jältar - Briegels Bestar	0 - 0 	HT Re-Live
+	Åsehöjden - OAK FC	6 - 0 	HT Re-Live
+	Kungens IF - Team Ångest	3 - 0 	HT Re-Live
+	Kungsbackas Kor - Starwars	2 - 0 	HT Re-Live
+Omgång  9
+2000-12-17 10:00 			
+	Team Ångest - Jimmys Jältar	1 - 0 	HT Re-Live
+	Briegels Bestar - Åsehöjden	1 - 1 	HT Re-Live
+	Starwars - Kungens IF	1 - 1 	HT Re-Live
+	OAK FC - Kungsbackas Kor	0 - 1 	HT Re-Live
+Omgång  10
+2000-12-24 10:00 			
+	OAK FC - Briegels Bestar	1 - 1 	HT Re-Live
+	Åsehöjden - Team Ångest	3 - 0 	HT Re-Live
+	Jimmys Jältar - Starwars	1 - 0 	HT Re-Live
+	Kungsbackas Kor - Kungens IF	0 - 0 	HT Re-Live
+Omgång  11
+2000-12-31 10:00 			
+	Kungens IF - Jimmys Jältar	1 - 0 	HT Re-Live
+	Starwars - Åsehöjden	0 - 4 	HT Re-Live
+	Team Ångest - OAK FC	2 - 0 	HT Re-Live
+	Briegels Bestar - Kungsbackas Kor	0 - 3 	HT Re-Live
+Omgång  12
+2001-01-07 10:00 			
+	Kungsbackas Kor - Jimmys Jältar	3 - 0 	HT Re-Live
+	Briegels Bestar - Team Ångest	0 - 1 	HT Re-Live
+	OAK FC - Starwars	1 - 0 	HT Re-Live
+	Åsehöjden - Kungens IF	4 - 0 	HT Re-Live
+Omgång  13
+2001-01-14 10:00 			
+	Starwars - Briegels Bestar	4 - 0 	HT Re-Live
+	Jimmys Jältar - Åsehöjden	0 - 3 	HT Re-Live
+	Kungens IF - OAK FC	2 - 2 	HT Re-Live
+	Kungsbackas Kor - Team Ångest	0 - 3 	HT Re-Live
+Omgång  14
+2001-01-21 10:00 			
+	OAK FC - Jimmys Jältar	1 - 2 	HT Re-Live
+	Team Ångest - Starwars	2 - 0 	HT Re-Live
+	Briegels Bestar - Kungens IF	1 - 2 	HT Re-Live
+	Åsehöjden - Kungsbackas Kor	3 - 0 	HT Re-Live
