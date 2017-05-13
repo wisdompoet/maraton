@@ -1,0 +1,84 @@
+week 1
+2003-11-16
+TAB united - Nosaby IF 3 - 2
+Rusta Hallick - Tibblekamraterna 3 - 0
+Krillstar - Nympho FC 4 - 1
+Klitor IS - Negative Creeps 1 - 1
+week 2
+2003-11-23
+Nympho FC - TAB united 2 - 0
+Negative Creeps - Rusta Hallick 1 - 4
+Nosaby IF - Klitor IS 4 - 0
+Tibblekamraterna - Krillstar 0 - 0
+week 3
+2003-11-30
+Rusta Hallick - Nosaby IF 3 - 0
+Krillstar - Negative Creeps 2 - 5
+Nympho FC - Tibblekamraterna 4 - 0
+Klitor IS - TAB united 0 - 0
+week 4
+2003-12-07
+TAB united - Tibblekamraterna 3 - 0
+Negative Creeps - Nympho FC 3 - 2
+Nosaby IF - Krillstar 3 - 0
+Klitor IS - Rusta Hallick 4 - 0
+week 5
+2003-12-14
+Rusta Hallick - TAB united 1 - 2
+Krillstar - Klitor IS 3 - 2
+Nympho FC - Nosaby IF 0 - 2
+Tibblekamraterna - Negative Creeps 1 - 1
+week 6
+2003-12-21
+TAB united - Negative Creeps 2 - 0
+Rusta Hallick - Krillstar 2 - 0
+Nosaby IF - Tibblekamraterna 1 - 1
+Klitor IS - Nympho FC 0 - 0
+week 7
+2003-12-28
+Krillstar - TAB united 0 - 0
+Nympho FC - Rusta Hallick 1 - 3
+Negative Creeps - Nosaby IF 2 - 3
+Tibblekamraterna - Klitor IS 1 - 4
+week 8
+2004-01-04
+Klitor IS - Tibblekamraterna 0 - 1
+Nosaby IF - Negative Creeps 4 - 2
+Rusta Hallick - Nympho FC 4 - 1
+TAB united - Krillstar 5 - 0
+week 9
+2004-01-11
+Nympho FC - Klitor IS 3 - 1
+Tibblekamraterna - Nosaby IF 2 - 0
+Krillstar - Rusta Hallick 1 - 1
+Negative Creeps - TAB united 3 - 1
+week 10
+2004-01-18
+Negative Creeps - Tibblekamraterna 0 - 2
+Nosaby IF - Nympho FC 3 - 4
+Klitor IS - Krillstar 0 - 3
+TAB united - Rusta Hallick 3 - 4
+week 11
+2004-01-25
+Rusta Hallick - Klitor IS 1 - 3
+Krillstar - Nosaby IF 2 - 1
+Nympho FC - Negative Creeps 1 - 3
+Tibblekamraterna - TAB united 3 - 3
+week 12
+2004-02-01
+TAB united - Klitor IS 4 - 0
+Tibblekamraterna - Nympho FC 1 - 3
+Negative Creeps - Krillstar 5 - 1
+Nosaby IF - Rusta Hallick 0 - 4
+week 13
+2004-02-08
+Krillstar - Tibblekamraterna 1 - 2
+Klitor IS - Nosaby IF 0 - 2
+Rusta Hallick - Negative Creeps 6 - 0
+TAB united - Nympho FC 2 - 0
+week 14
+2004-02-15
+Negative Creeps - Klitor IS 1 - 0
+Nympho FC - Krillstar 0 - 0
+Tibblekamraterna - Rusta Hallick 0 - 3
+Nosaby IF - TAB united 0 - 0

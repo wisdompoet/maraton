@@ -1,85 +1,84 @@
-Omgång 1
-2001-09-23 (1/14)			
-Redboys - Black Lizzard	2 - 3	HT Re-Live
-Puacas Änglar - Klitor IS	3 - 0	HT Re-Live
-Hoseanna - Krilles Kometer	6 - 1	HT Re-Live
-Manchester byxa BK - Uddewalla FC	3 - 0	HT Re-Live
-Omgång 2
-2001-09-30 (2/14)			
-Krilles Kometer - Redboys	4 - 1	HT Re-Live
-Uddewalla FC - Puacas Änglar	1 - 3	HT Re-Live
-Black Lizzard - Manchester byxa BK	0 - 0	HT Re-Live
-Klitor IS - Hoseanna	1 - 4	HT Re-Live
-Omgång 3
-2001-10-07 (3/14)			
-Puacas Änglar - Black Lizzard	1 - 0	HT Re-Live
-Hoseanna - Uddewalla FC	3 - 1	HT Re-Live
-Krilles Kometer - Klitor IS	5 - 1	HT Re-Live
-Manchester byxa BK - Redboys	1 - 2	HT Re-Live
-Omgång 4
-2001-10-14 (4/14)			
-Redboys - Klitor IS	6 - 0	HT Re-Live
-Uddewalla FC - Krilles Kometer	4 - 1	HT Re-Live
-Black Lizzard - Hoseanna	2 - 1	HT Re-Live
-Manchester byxa BK - Puacas Änglar	1 - 0	HT Re-Live
-Omgång 5
-2001-10-21 (5/14)			
-Puacas Änglar - Redboys	2 - 0	HT Re-Live
-Hoseanna - Manchester byxa BK	1 - 1	HT Re-Live
-Krilles Kometer - Black Lizzard	3 - 1	HT Re-Live
-Klitor IS - Uddewalla FC	1 - 5	HT Re-Live
-Omgång 6
-2001-10-28 (6/14)			
-Redboys - Uddewalla FC	3 - 2	HT Re-Live
-Puacas Änglar - Hoseanna	0 - 0	HT Re-Live
-Black Lizzard - Klitor IS	0 - 3	HT Re-Live
-Manchester byxa BK - Krilles Kometer	1 - 0	HT Re-Live
-Omgång 7
-2001-11-04 (7/14)			
-Hoseanna - Redboys	3 - 0	HT Re-Live
-Krilles Kometer - Puacas Änglar	3 - 2	HT Re-Live
-Uddewalla FC - Black Lizzard	3 - 0	HT Re-Live
-Klitor IS - Manchester byxa BK	1 - 2	HT Re-Live
-Omgång 8
-2001-11-11 (8/14)			
-Manchester byxa BK - Klitor IS	1 - 0	HT Re-Live
-Black Lizzard - Uddewalla FC	1 - 2	HT Re-Live
-Puacas Änglar - Krilles Kometer	6 - 0	HT Re-Live
-Redboys - Hoseanna	1 - 2	HT Re-Live
-Omgång 9
-2001-11-18 (9/14)			
-Krilles Kometer - Manchester byxa BK	1 - 4	HT Re-Live
-Klitor IS - Black Lizzard	0 - 1	HT Re-Live
-Hoseanna - Puacas Änglar	3 - 1	HT Re-Live
-Uddewalla FC - Redboys	3 - 1	HT Re-Live
-Omgång 10
-2001-11-25 (10/14)			
-Uddewalla FC - Klitor IS	2 - 1	HT Re-Live
-Black Lizzard - Krilles Kometer	3 - 3	HT Re-Live
-Manchester byxa BK - Hoseanna	1 - 1	HT Re-Live
-Redboys - Puacas Änglar	2 - 2	HT Re-Live
-Omgång 11
-2001-12-02 (11/14)			
-Puacas Änglar - Manchester byxa BK	2 - 0	HT Re-Live
-Hoseanna - Black Lizzard	2 - 1	HT Re-Live
-Krilles Kometer - Uddewalla FC	0 - 4	HT Re-Live
-Klitor IS - Redboys	5 - 0	HT Re-Live
-Omgång 12
-2001-12-09 (12/14)			
-Redboys - Manchester byxa BK	4 - 2	HT Re-Live
-Klitor IS - Krilles Kometer	2 - 0	HT Re-Live
-Uddewalla FC - Hoseanna	2 - 3	HT Re-Live
-Black Lizzard - Puacas Änglar	1 - 1	HT Re-Live
-Omgång 13
-2001-12-16 (13/14)			
-Hoseanna - Klitor IS	1 - 0	HT Re-Live
-Manchester byxa BK - Black Lizzard	0 - 0	HT Re-Live
-Puacas Änglar - Uddewalla FC	1 - 2	HT Re-Live
-Redboys - Krilles Kometer	4 - 3	HT Re-Live
-Omgång 14
-2001-12-23 (14/14)			
-Uddewalla FC - Manchester byxa BK	1 - 2	HT Re-Live
-Krilles Kometer - Hoseanna	5 - 2	HT Re-Live
-Klitor IS - Puacas Änglar	0 - 1	HT Re-Live
-Black Lizzard - Redboys	3 - 1	HT Re-Live
-
+week 1
+2001-09-23
+Redboys - Black Lizzard 2 - 3
+Puacas Ã„nglar - Klitor IS 3 - 0
+Hoseanna - Krilles Kometer 6 - 1
+Manchester byxa BK - Uddewalla FC 3 - 0
+week 2
+2001-09-30
+Krilles Kometer - Redboys 4 - 1
+Uddewalla FC - Puacas Ã„nglar 1 - 3
+Black Lizzard - Manchester byxa BK 0 - 0
+Klitor IS - Hoseanna 1 - 4
+week 3
+2001-10-07
+Puacas Ã„nglar - Black Lizzard 1 - 0
+Hoseanna - Uddewalla FC 3 - 1
+Krilles Kometer - Klitor IS 5 - 1
+Manchester byxa BK - Redboys 1 - 2
+week 4
+2001-10-14
+Redboys - Klitor IS 6 - 0
+Uddewalla FC - Krilles Kometer 4 - 1
+Black Lizzard - Hoseanna 2 - 1
+Manchester byxa BK - Puacas Ã„nglar 1 - 0
+week 5
+2001-10-21
+Puacas Ã„nglar - Redboys 2 - 0
+Hoseanna - Manchester byxa BK 1 - 1
+Krilles Kometer - Black Lizzard 3 - 1
+Klitor IS - Uddewalla FC 1 - 5
+week 6
+2001-10-28
+Redboys - Uddewalla FC 3 - 2
+Puacas Ã„nglar - Hoseanna 0 - 0
+Black Lizzard - Klitor IS 0 - 3
+Manchester byxa BK - Krilles Kometer 1 - 0
+week 7
+2001-11-04
+Hoseanna - Redboys 3 - 0
+Krilles Kometer - Puacas Ã„nglar 3 - 2
+Uddewalla FC - Black Lizzard 3 - 0
+Klitor IS - Manchester byxa BK 1 - 2
+week 8
+2001-11-11
+Manchester byxa BK - Klitor IS 1 - 0
+Black Lizzard - Uddewalla FC 1 - 2
+Puacas Ã„nglar - Krilles Kometer 6 - 0
+Redboys - Hoseanna 1 - 2
+week 9
+2001-11-18
+Krilles Kometer - Manchester byxa BK 1 - 4
+Klitor IS - Black Lizzard 0 - 1
+Hoseanna - Puacas Ã„nglar 3 - 1
+Uddewalla FC - Redboys 3 - 1
+week 10
+2001-11-25
+Uddewalla FC - Klitor IS 2 - 1
+Black Lizzard - Krilles Kometer 3 - 3
+Manchester byxa BK - Hoseanna 1 - 1
+Redboys - Puacas Ã„nglar 2 - 2
+week 11
+2001-12-02
+Puacas Ã„nglar - Manchester byxa BK 2 - 0
+Hoseanna - Black Lizzard 2 - 1
+Krilles Kometer - Uddewalla FC 0 - 4
+Klitor IS - Redboys 5 - 0
+week 12
+2001-12-09
+Redboys - Manchester byxa BK 4 - 2
+Klitor IS - Krilles Kometer 2 - 0
+Uddewalla FC - Hoseanna 2 - 3
+Black Lizzard - Puacas Ã„nglar 1 - 1
+week 13
+2001-12-16
+Hoseanna - Klitor IS 1 - 0
+Manchester byxa BK - Black Lizzard 0 - 0
+Puacas Ã„nglar - Uddewalla FC 1 - 2
+Redboys - Krilles Kometer 4 - 3
+week 14
+2001-12-23
+Uddewalla FC - Manchester byxa BK 1 - 2
+Krilles Kometer - Hoseanna 5 - 2
+Klitor IS - Puacas Ã„nglar 0 - 1
+Black Lizzard - Redboys 3 - 1

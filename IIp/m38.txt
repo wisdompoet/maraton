@@ -1,0 +1,84 @@
+week 1
+2009-02-01
+Kantarellerna - Fethetens FK 3 - 1
+FC Kauntz - MIA 2 - 1
+Källa BK - on_fire 5 - 2
+Konspiratörerna - Forza Leijonhielm 4 - 2
+week 2
+2009-02-08
+on_fire - FC Kauntz 4 - 0
+Fethetens FK - Källa BK 5 - 4
+MIA - Konspiratörerna 5 - 0
+Forza Leijonhielm - Kantarellerna 5 - 0
+week 3
+2009-02-15
+Forza Leijonhielm - MIA 6 - 0
+Konspiratörerna - on_fire 11 - 1
+Källa BK - Kantarellerna 5 - 1
+FC Kauntz - Fethetens FK 1 - 4
+week 4
+2009-02-22
+Kantarellerna - MIA 1 - 2
+on_fire - Forza Leijonhielm 2 - 5
+Fethetens FK - Konspiratörerna 3 - 5
+Källa BK - FC Kauntz 6 - 3
+week 5
+2009-03-01
+FC Kauntz - Kantarellerna 6 - 1
+Konspiratörerna - Källa BK 5 - 4
+Forza Leijonhielm - Fethetens FK 0 - 3
+MIA - on_fire 6 - 2
+week 6
+2009-03-08
+Kantarellerna - on_fire 3 - 2
+Fethetens FK - MIA 5 - 1
+Källa BK - Forza Leijonhielm 4 - 3
+FC Kauntz - Konspiratörerna 2 - 3
+week 7
+2009-03-15
+MIA - Källa BK 1 - 4
+Konspiratörerna - Kantarellerna 4 - 3
+Forza Leijonhielm - FC Kauntz 4 - 0
+on_fire - Fethetens FK 2 - 3
+week 8
+2009-03-22
+Källa BK - MIA 4 - 0
+Kantarellerna - Konspiratörerna 4 - 0
+Fethetens FK - on_fire 9 - 0
+FC Kauntz - Forza Leijonhielm 2 - 6
+week 9
+2009-03-29
+Forza Leijonhielm - Källa BK 3 - 0
+MIA - Fethetens FK 1 - 4
+Konspiratörerna - FC Kauntz 4 - 1
+on_fire - Kantarellerna 1 - 4
+week 10
+2009-04-05
+Fethetens FK - Forza Leijonhielm 4 - 0
+on_fire - MIA 5 - 2
+Källa BK - Konspiratörerna 9 - 1
+Kantarellerna - FC Kauntz 2 - 2
+week 11
+2009-04-12
+FC Kauntz - Källa BK 6 - 3
+Konspiratörerna - Fethetens FK 3 - 4
+Forza Leijonhielm - on_fire 5 - 1
+MIA - Kantarellerna 4 - 2
+week 12
+2009-04-19
+Kantarellerna - Källa BK 3 - 3
+on_fire - Konspiratörerna 5 - 2
+MIA - Forza Leijonhielm 5 - 2
+Fethetens FK - FC Kauntz 7 - 1
+week 13
+2009-04-26
+FC Kauntz - on_fire 6 - 4
+Kantarellerna - Forza Leijonhielm 4 - 3
+Konspiratörerna - MIA 4 - 2
+Källa BK - Fethetens FK 4 - 4
+week 14
+2009-05-03
+on_fire - Källa BK 4 - 2
+Forza Leijonhielm - Konspiratörerna 1 - 3
+MIA - FC Kauntz 2 - 2
+Fethetens FK - Kantarellerna 1 - 0

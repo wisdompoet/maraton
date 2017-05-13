@@ -1,84 +1,84 @@
-Omgång 1
-2006-04-30 (1/29)			
-Olsgårdens IF - Fulham pride	3 - 4	HT Re-Live
-Angels of Gothenburg - Black Ivory	2 - 1	HT Re-Live
-IFK Dalle - Tyresö Drifters	2 - 0	HT Re-Live
-Reelers - Lee Lakers	3 - 4	HT Re-Live
-Omgång 2
-2006-05-07 (2/29)			
-Lee Lakers - IFK Dalle	0 - 2	HT Re-Live
-Black Ivory - Reelers	1 - 0	HT Re-Live
-Fulham pride - Angels of Gothenburg	0 - 4	HT Re-Live
-Tyresö Drifters - Olsgårdens IF	1 - 2	HT Re-Live
-Omgång 3
-2006-05-14 (3/29)			
-Olsgårdens IF - IFK Dalle	5 - 1	HT Re-Live
-Angels of Gothenburg - Tyresö Drifters	0 - 0	HT Re-Live
-Lee Lakers - Black Ivory	2 - 2	HT Re-Live
-Reelers - Fulham pride	2 - 2	HT Re-Live
-Omgång 4
-2006-05-21 (4/29)			
-Olsgårdens IF - Angels of Gothenburg	1 - 4	HT Re-Live
-IFK Dalle - Black Ivory	0 - 1	HT Re-Live
-Fulham pride - Lee Lakers	4 - 1	HT Re-Live
-Tyresö Drifters - Reelers	2 - 0	HT Re-Live
-Omgång 5
-2006-05-28 (5/29)			
-Angels of Gothenburg - IFK Dalle	4 - 2	HT Re-Live
-Reelers - Olsgårdens IF	0 - 1	HT Re-Live
-Lee Lakers - Tyresö Drifters	0 - 0	HT Re-Live
-Black Ivory - Fulham pride	0 - 2	HT Re-Live
-Omgång 6
-2006-06-04 (6/29)			
-Angels of Gothenburg - Reelers	4 - 1	HT Re-Live
-IFK Dalle - Fulham pride	1 - 2	HT Re-Live
-Olsgårdens IF - Lee Lakers	0 - 5	HT Re-Live
-Tyresö Drifters - Black Ivory	2 - 1	HT Re-Live
-Omgång 7
-2006-06-11 (7/29)			
-Fulham pride - Tyresö Drifters	1 - 2	HT Re-Live
-Black Ivory - Olsgårdens IF	1 - 3	HT Re-Live
-Lee Lakers - Angels of Gothenburg	3 - 2	HT Re-Live
-Reelers - IFK Dalle	0 - 3	HT Re-Live
-Omgång 8
-2006-06-18 (8/29)			
-Olsgårdens IF - Black Ivory	4 - 0	HT Re-Live
-Tyresö Drifters - Fulham pride	1 - 0	HT Re-Live
-Angels of Gothenburg - Lee Lakers	2 - 2	HT Re-Live
-IFK Dalle - Reelers	3 - 0	HT Re-Live
-Omgång 9
-2006-06-25 (9/29)			
-Lee Lakers - Olsgårdens IF	0 - 3	HT Re-Live
-Fulham pride - IFK Dalle	0 - 3	HT Re-Live
-Reelers - Angels of Gothenburg	0 - 1	HT Re-Live
-Black Ivory - Tyresö Drifters	0 - 0	HT Re-Live
-Omgång 10
-2006-07-02 (10/29)			
-Fulham pride - Black Ivory	2 - 0	HT Re-Live
-Olsgårdens IF - Reelers	5 - 0	HT Re-Live
-IFK Dalle - Angels of Gothenburg	3 - 1	HT Re-Live
-Tyresö Drifters - Lee Lakers	1 - 2	HT Re-Live
-Omgång 11
-2006-07-09 (11/29)			
-Reelers - Tyresö Drifters	0 - 0	HT Re-Live
-Lee Lakers - Fulham pride	1 - 1	HT Re-Live
-Black Ivory - IFK Dalle	2 - 1	HT Re-Live
-Angels of Gothenburg - Olsgårdens IF	3 - 3	HT Re-Live
-Omgång 12
-2006-07-16 (12/29)			
-IFK Dalle - Olsgårdens IF	3 - 2	HT Re-Live
-Black Ivory - Lee Lakers	2 - 0	HT Re-Live
-Fulham pride - Reelers	5 - 0	HT Re-Live
-Tyresö Drifters - Angels of Gothenburg	3 - 2	HT Re-Live
-Omgång 13
-2006-07-23 (13/29)			
-IFK Dalle - Lee Lakers	2 - 0	HT Re-Live
-Reelers - Black Ivory	0 - 1	HT Re-Live
-Olsgårdens IF - Tyresö Drifters	0 - 0	HT Re-Live
-Angels of Gothenburg - Fulham pride	5 - 2	HT Re-Live
-Omgång 14
-2006-07-30 (14/29)			
-Black Ivory - Angels of Gothenburg	2 - 4	HT Re-Live
-Lee Lakers - Reelers	3 - 2	HT Re-Live
-Tyresö Drifters - IFK Dalle	1 - 4	HT Re-Live
-Fulham pride - Olsgårdens IF	4 - 2	HT Re-Live
+week 1
+2006-04-30
+OlsgÃ¥rdens IF - Fulham pride 3 - 4
+Angels of Gothenburg - Black Ivory 2 - 1
+IFK Dalle - TyresÃ¶ Drifters 2 - 0
+Reelers - Lee Lakers 3 - 4
+week 2
+2006-05-07
+Lee Lakers - IFK Dalle 0 - 2
+Black Ivory - Reelers 1 - 0
+Fulham pride - Angels of Gothenburg 0 - 4
+TyresÃ¶ Drifters - OlsgÃ¥rdens IF 1 - 2
+week 3
+2006-05-14
+OlsgÃ¥rdens IF - IFK Dalle 5 - 1
+Angels of Gothenburg - TyresÃ¶ Drifters 0 - 0
+Lee Lakers - Black Ivory 2 - 2
+Reelers - Fulham pride 2 - 2
+week 4
+2006-05-21
+OlsgÃ¥rdens IF - Angels of Gothenburg 1 - 4
+IFK Dalle - Black Ivory 0 - 1
+Fulham pride - Lee Lakers 4 - 1
+TyresÃ¶ Drifters - Reelers 2 - 0
+week 5
+2006-05-28
+Angels of Gothenburg - IFK Dalle 4 - 2
+Reelers - OlsgÃ¥rdens IF 0 - 1
+Lee Lakers - TyresÃ¶ Drifters 0 - 0
+Black Ivory - Fulham pride 0 - 2
+week 6
+2006-06-04
+Angels of Gothenburg - Reelers 4 - 1
+IFK Dalle - Fulham pride 1 - 2
+OlsgÃ¥rdens IF - Lee Lakers 0 - 5
+TyresÃ¶ Drifters - Black Ivory 2 - 1
+week 7
+2006-06-11
+Fulham pride - TyresÃ¶ Drifters 1 - 2
+Black Ivory - OlsgÃ¥rdens IF 1 - 3
+Lee Lakers - Angels of Gothenburg 3 - 2
+Reelers - IFK Dalle 0 - 3
+week 8
+2006-06-18
+OlsgÃ¥rdens IF - Black Ivory 4 - 0
+TyresÃ¶ Drifters - Fulham pride 1 - 0
+Angels of Gothenburg - Lee Lakers 2 - 2
+IFK Dalle - Reelers 3 - 0
+week 9
+2006-06-25
+Lee Lakers - OlsgÃ¥rdens IF 0 - 3
+Fulham pride - IFK Dalle 0 - 3
+Reelers - Angels of Gothenburg 0 - 1
+Black Ivory - TyresÃ¶ Drifters 0 - 0
+week 10
+2006-07-02
+Fulham pride - Black Ivory 2 - 0
+OlsgÃ¥rdens IF - Reelers 5 - 0
+IFK Dalle - Angels of Gothenburg 3 - 1
+TyresÃ¶ Drifters - Lee Lakers 1 - 2
+week 11
+2006-07-09
+Reelers - TyresÃ¶ Drifters 0 - 0
+Lee Lakers - Fulham pride 1 - 1
+Black Ivory - IFK Dalle 2 - 1
+Angels of Gothenburg - OlsgÃ¥rdens IF 3 - 3
+week 12
+2006-07-16
+IFK Dalle - OlsgÃ¥rdens IF 3 - 2
+Black Ivory - Lee Lakers 2 - 0
+Fulham pride - Reelers 5 - 0
+TyresÃ¶ Drifters - Angels of Gothenburg 3 - 2
+week 13
+2006-07-23
+IFK Dalle - Lee Lakers 2 - 0
+Reelers - Black Ivory 0 - 1
+OlsgÃ¥rdens IF - TyresÃ¶ Drifters 0 - 0
+Angels of Gothenburg - Fulham pride 5 - 2
+week 14
+2006-07-30
+Black Ivory - Angels of Gothenburg 2 - 4
+Lee Lakers - Reelers 3 - 2
+TyresÃ¶ Drifters - IFK Dalle 1 - 4
+Fulham pride - OlsgÃ¥rdens IF 4 - 2

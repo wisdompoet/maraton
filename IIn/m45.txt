@@ -1,0 +1,84 @@
+week 1
+2011-03-27
+Team ugly - Affes Wonderboys 1 - 3
+IFK Kvarnberget - Green Valley FC 2 - 0
+Mellerud Farmers - FC Thad 2 - 1
+Bengan_Bois - Fat Cat FC 0 - 9
+week 2
+2011-04-03
+Fat Cat FC - Mellerud Farmers 3 - 1
+Green Valley FC - Team ugly 1 - 1
+Affes Wonderboys - Bengan_Bois 8 - 0
+FC Thad - IFK Kvarnberget 1 - 0
+week 3
+2011-04-10
+Affes Wonderboys - Fat Cat FC 1 - 4
+Team ugly - IFK Kvarnberget 2 - 1
+Mellerud Farmers - Green Valley FC 0 - 0
+Bengan_Bois - FC Thad 0 - 12
+week 4
+2011-04-17
+IFK Kvarnberget - Mellerud Farmers 2 - 6
+Fat Cat FC - Team ugly 4 - 0
+FC Thad - Affes Wonderboys 3 - 0
+Green Valley FC - Bengan_Bois 7 - 0
+week 5
+2011-04-24
+Fat Cat FC - Green Valley FC 1 - 2
+Affes Wonderboys - IFK Kvarnberget 1 - 1
+Bengan_Bois - Mellerud Farmers 0 - 8
+Team ugly - FC Thad 1 - 3
+week 6
+2011-05-01
+Mellerud Farmers - Team ugly 3 - 2
+IFK Kvarnberget - Bengan_Bois 10 - 0
+Green Valley FC - Affes Wonderboys 3 - 0
+FC Thad - Fat Cat FC 4 - 1
+week 7
+2011-05-08
+Bengan_Bois - Team ugly 0 - 9
+Fat Cat FC - IFK Kvarnberget 4 - 0
+Affes Wonderboys - Mellerud Farmers 5 - 5
+Green Valley FC - FC Thad 2 - 2
+week 8
+2011-05-15
+Mellerud Farmers - Affes Wonderboys 7 - 0
+IFK Kvarnberget - Fat Cat FC 0 - 3
+Team ugly - Bengan_Bois 3 - 0
+FC Thad - Green Valley FC 1 - 0
+week 9
+2011-05-22
+Affes Wonderboys - Green Valley FC 2 - 3
+Team ugly - Mellerud Farmers 4 - 1
+Bengan_Bois - IFK Kvarnberget 0 - 8
+Fat Cat FC - FC Thad 4 - 2
+week 10
+2011-05-29
+IFK Kvarnberget - Affes Wonderboys 4 - 1
+FC Thad - Team ugly 3 - 0
+Green Valley FC - Fat Cat FC 0 - 0
+Mellerud Farmers - Bengan_Bois 9 - 0
+week 11
+2011-06-05
+Team ugly - Fat Cat FC 2 - 1
+Bengan_Bois - Green Valley FC 0 - 9
+Mellerud Farmers - IFK Kvarnberget 3 - 0
+Affes Wonderboys - FC Thad 3 - 7
+week 12
+2011-06-12
+Green Valley FC - Mellerud Farmers 2 - 2
+Fat Cat FC - Affes Wonderboys 8 - 1
+IFK Kvarnberget - Team ugly 1 - 1
+FC Thad - Bengan_Bois 11 - 0
+week 13
+2011-06-19
+IFK Kvarnberget - FC Thad 0 - 3
+Team ugly - Green Valley FC 2 - 2
+Mellerud Farmers - Fat Cat FC 4 - 2
+Bengan_Bois - Affes Wonderboys 1 - 5
+week 14
+2011-06-26
+Fat Cat FC - Bengan_Bois 7 - 0
+FC Thad - Mellerud Farmers 4 - 1
+Affes Wonderboys - Team ugly 2 - 1
+Green Valley FC - IFK Kvarnberget 3 - 2

@@ -1,0 +1,84 @@
+week 1
+2014-11-30
+IFK Topion - Dynamo Topscore 4 - 2
+IFK Bollsparkaren - Wick IT 4 - 4
+IFK Pölsebo - Alet AFC 3 - 1
+Lokomotiv Lökbås - BK Liverpool 3 - 0
+week 2
+2014-12-07
+Wick IT - IFK Topion 2 - 1
+Dynamo Topscore - Lokomotiv Lökbås 6 - 3
+Alet AFC - IFK Bollsparkaren 2 - 2
+BK Liverpool - IFK Pölsebo 1 - 0
+week 3
+2014-12-14
+IFK Topion - BK Liverpool 0 - 1
+IFK Bollsparkaren - IFK Pölsebo 5 - 0
+Lokomotiv Lökbås - Alet AFC 0 - 5
+Wick IT - Dynamo Topscore 3 - 2
+week 4
+2014-12-21
+Dynamo Topscore - IFK Bollsparkaren 2 - 2
+Alet AFC - IFK Topion 2 - 2
+IFK Pölsebo - Lokomotiv Lökbås 2 - 4
+BK Liverpool - Wick IT 2 - 2
+week 5
+2014-12-28
+IFK Bollsparkaren - BK Liverpool 3 - 3
+Wick IT - IFK Pölsebo 0 - 0
+Dynamo Topscore - Alet AFC 4 - 1
+IFK Topion - Lokomotiv Lökbås 6 - 0
+week 6
+2015-01-04
+Alet AFC - Wick IT 1 - 3
+BK Liverpool - Dynamo Topscore 5 - 3
+Lokomotiv Lökbås - IFK Bollsparkaren 0 - 5
+IFK Pölsebo - IFK Topion 2 - 3
+week 7
+2015-01-11
+Alet AFC - BK Liverpool 2 - 1
+IFK Topion - IFK Bollsparkaren 2 - 1
+Wick IT - Lokomotiv Lökbås 5 - 1
+Dynamo Topscore - IFK Pölsebo 2 - 0
+week 8
+2015-01-18
+IFK Bollsparkaren - IFK Topion 1 - 2
+Lokomotiv Lökbås - Wick IT 1 - 2
+BK Liverpool - Alet AFC 0 - 3
+IFK Pölsebo - Dynamo Topscore 1 - 1
+week 9
+2015-01-25
+Dynamo Topscore - BK Liverpool 4 - 0
+IFK Bollsparkaren - Lokomotiv Lökbås 3 - 0
+Wick IT - Alet AFC 2 - 1
+IFK Topion - IFK Pölsebo 5 - 2
+week 10
+2015-02-01
+Alet AFC - Dynamo Topscore 4 - 1
+BK Liverpool - IFK Bollsparkaren 2 - 0
+Lokomotiv Lökbås - IFK Topion 0 - 2
+IFK Pölsebo - Wick IT 1 - 3
+week 11
+2015-02-08
+Wick IT - BK Liverpool 2 - 3
+Lokomotiv Lökbås - IFK Pölsebo 2 - 2
+IFK Bollsparkaren - Dynamo Topscore 4 - 1
+IFK Topion - Alet AFC 5 - 0
+week 12
+2015-02-15
+Dynamo Topscore - Wick IT 2 - 3
+Alet AFC - Lokomotiv Lökbås 6 - 1
+IFK Pölsebo - IFK Bollsparkaren 1 - 3
+BK Liverpool - IFK Topion 2 - 3
+week 13
+2015-02-22
+IFK Pölsebo - BK Liverpool 2 - 1
+IFK Bollsparkaren - Alet AFC 1 - 1
+Lokomotiv Lökbås - Dynamo Topscore 4 - 3
+IFK Topion - Wick IT 2 - 2
+week 14
+2015-03-01
+BK Liverpool - Lokomotiv Lökbås 1 - 0
+Wick IT - IFK Bollsparkaren 0 - 4
+Dynamo Topscore - IFK Topion 1 - 2
+Alet AFC - IFK Pölsebo 5 - 2

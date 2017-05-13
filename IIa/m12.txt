@@ -1,84 +1,84 @@
-Omgång 1
-2001-02-11 (1/12) 			
-	Starwars - Hebbes vänner 	2 - 0 	HT Re-Live
-	IFK Svanen - Frispel 	1 - 0 	HT Re-Live
-	FC Luton - Panos Mörtviken FC 	1 - 2 	HT Re-Live
-	Los Skrattos - Norsgatan Kickers 	0 - 1 	HT Re-Live
-Omgång 2
-2001-02-18 (2/12) 			
-	Panos Mörtviken FC - Starwars 	1 - 2 	HT Re-Live
-	Norsgatan Kickers - IFK Svanen 	0 - 0 	HT Re-Live
-	Hebbes vänner - Los Skrattos 	3 - 0 	HT Re-Live
-	Frispel - FC Luton 	3 - 1 	HT Re-Live
-Omgång 3
-2001-02-25 (3/12) 			
-	IFK Svanen - Hebbes vänner 	2 - 1 	HT Re-Live
-	FC Luton - Norsgatan Kickers 	0 - 2 	HT Re-Live
-	Panos Mörtviken FC - Frispel 	4 - 2 	HT Re-Live
-	Los Skrattos - Starwars 	0 - 0 	HT Re-Live
-Omgång 4
-2001-03-04 (4/12) 			
-	Starwars - Frispel 	1 - 1 	HT Re-Live
-	Norsgatan Kickers - Panos Mörtviken FC 	3 - 1 	HT Re-Live
-	Hebbes vänner - FC Luton 	4 - 0 	HT Re-Live
-	Los Skrattos - IFK Svanen 	0 - 1 	HT Re-Live
-Omgång 5
-2001-03-11 (5/12) 			
-	IFK Svanen - Starwars 	1 - 0 	HT Re-Live
-	FC Luton - Los Skrattos 	1 - 2 	HT Re-Live
-	Panos Mörtviken FC - Hebbes vänner 	1 - 2 	HT Re-Live
-	Frispel - Norsgatan Kickers 	2 - 2 	HT Re-Live
-Omgång 6
-2001-03-18 (6/12) 			
-	Starwars - Norsgatan Kickers 	0 - 1 	HT Re-Live
-	IFK Svanen - FC Luton 	3 - 0 	HT Re-Live
-	Hebbes vänner - Frispel 	1 - 1 	HT Re-Live
-	Los Skrattos - Panos Mörtviken FC 	1 - 1 	HT Re-Live
-Omgång 7
-2001-03-25 (7/12) 			
-	FC Luton - Starwars 	0 - 3 	HT Re-Live
-	Panos Mörtviken FC - IFK Svanen 	1 - 4 	HT Re-Live
-	Norsgatan Kickers - Hebbes vänner 	2 - 1 	HT Re-Live
-	Frispel - Los Skrattos 	1 - 1 	HT Re-Live
-Omgång 8
-2001-04-01 (8/12) 			
-	Los Skrattos - Frispel 	0 - 0 	HT Re-Live
-	Hebbes vänner - Norsgatan Kickers 	8 - 0 	HT Re-Live
-	IFK Svanen - Panos Mörtviken FC 	4 - 0 	HT Re-Live
-	Starwars - FC Luton 	0 - 0 	HT Re-Live
-Omgång 9
-2001-04-08 (9/12) 			
-	Panos Mörtviken FC - Los Skrattos 	2 - 0 	HT Re-Live
-	Frispel - Hebbes vänner 	2 - 2 	HT Re-Live
-	FC Luton - IFK Svanen 	0 - 2 	HT Re-Live
-	Norsgatan Kickers - Starwars 	0 - 0 	HT Re-Live
-Omgång 10
-2001-04-15 (10/12) 			
-	Norsgatan Kickers - Frispel 	0 - 0 	HT Re-Live
-	Hebbes vänner - Panos Mörtviken FC 	4 - 0 	HT Re-Live
-	Los Skrattos - FC Luton 	0 - 0 	HT Re-Live
-	Starwars - IFK Svanen 	0 - 1 	HT Re-Live
-Omgång 11
-2001-04-22 (11/12) 			
-	IFK Svanen - Los Skrattos 	1 - 0 	HT Re-Live
-	FC Luton - Hebbes vänner 	0 - 3 	HT Re-Live
-	Panos Mörtviken FC - Norsgatan Kickers 	1 - 2 	HT Re-Live
-	Frispel - Starwars 	1 - 1 	HT Re-Live
-Omgång 12
-2001-04-29 (12/12) 			
-	Starwars - Los Skrattos 	4 - 0 	HT Re-Live
-	Frispel - Panos Mörtviken FC 	2 - 2 	HT Re-Live
-	Norsgatan Kickers - FC Luton 	1 - 0 	HT Re-Live
-	Hebbes vänner - IFK Svanen 	1 - 0 	HT Re-Live
-Omgång 13
-2001-05-06 (13/12) 			
-	FC Luton - Frispel 	0 - 2 	HT Re-Live
-	Los Skrattos - Hebbes vänner 	1 - 0 	HT Re-Live
-	IFK Svanen - Norsgatan Kickers 	2 - 2 	HT Re-Live
-	Starwars - Panos Mörtviken FC 	6 - 0 	HT Re-Live
-Omgång 14
-2001-05-13 (14/12) 			
-	Norsgatan Kickers - Los Skrattos 	1 - 1 	HT Re-Live
-	Panos Mörtviken FC - FC Luton 	2 - 0 	HT Re-Live
-	Frispel - IFK Svanen 	1 - 0 	HT Re-Live
-	Hebbes vänner - Starwars 	0 - 4 	HT Re-Live
+week 1
+2001-02-11
+Starwars - Hebbes vänner 2 - 0
+IFK Svanen - Frispel 1 - 0
+FC Luton - Panos Mörtviken FC 1 - 2
+Los Skrattos - Norsgatan Kickers 0 - 1
+week 2
+2001-02-18
+Panos Mörtviken FC - Starwars 1 - 2
+Norsgatan Kickers - IFK Svanen 0 - 0
+Hebbes vänner - Los Skrattos 3 - 0
+Frispel - FC Luton 3 - 1
+week 3
+2001-02-25
+IFK Svanen - Hebbes vänner 2 - 1
+FC Luton - Norsgatan Kickers 0 - 2
+Panos Mörtviken FC - Frispel 4 - 2
+Los Skrattos - Starwars 0 - 0
+week 4
+2001-03-04
+Starwars - Frispel 1 - 1
+Norsgatan Kickers - Panos Mörtviken FC 3 - 1
+Hebbes vänner - FC Luton 4 - 0
+Los Skrattos - IFK Svanen 0 - 1
+week 5
+2001-03-11
+IFK Svanen - Starwars 1 - 0
+FC Luton - Los Skrattos 1 - 2
+Panos Mörtviken FC - Hebbes vänner 1 - 2
+Frispel - Norsgatan Kickers 2 - 2
+week 6
+2001-03-18
+Starwars - Norsgatan Kickers 0 - 1
+IFK Svanen - FC Luton 3 - 0
+Hebbes vänner - Frispel 1 - 1
+Los Skrattos - Panos Mörtviken FC 1 - 1
+week 7
+2001-03-25
+FC Luton - Starwars 0 - 3
+Panos Mörtviken FC - IFK Svanen 1 - 4
+Norsgatan Kickers - Hebbes vänner 2 - 1
+Frispel - Los Skrattos 1 - 1
+week 8
+2001-04-01
+Los Skrattos - Frispel 0 - 0
+Hebbes vänner - Norsgatan Kickers 8 - 0
+IFK Svanen - Panos Mörtviken FC 4 - 0
+Starwars - FC Luton 0 - 0
+week 9
+2001-04-08
+Panos Mörtviken FC - Los Skrattos 2 - 0
+Frispel - Hebbes vänner 2 - 2
+FC Luton - IFK Svanen 0 - 2
+Norsgatan Kickers - Starwars 0 - 0
+week 10
+2001-04-15
+Norsgatan Kickers - Frispel 0 - 0
+Hebbes vänner - Panos Mörtviken FC 4 - 0
+Los Skrattos - FC Luton 0 - 0
+Starwars - IFK Svanen 0 - 1
+week 11
+2001-04-22
+IFK Svanen - Los Skrattos 1 - 0
+FC Luton - Hebbes vänner 0 - 3
+Panos Mörtviken FC - Norsgatan Kickers 1 - 2
+Frispel - Starwars 1 - 1
+week 12
+2001-04-29
+Starwars - Los Skrattos 4 - 0
+Frispel - Panos Mörtviken FC 2 - 2
+Norsgatan Kickers - FC Luton 1 - 0
+Hebbes vänner - IFK Svanen 1 - 0
+week 13
+2001-05-06
+FC Luton - Frispel 0 - 2
+Los Skrattos - Hebbes vänner 1 - 0
+IFK Svanen - Norsgatan Kickers 2 - 2
+Starwars - Panos Mörtviken FC 6 - 0
+week 14
+2001-05-13
+Norsgatan Kickers - Los Skrattos 1 - 1
+Panos Mörtviken FC - FC Luton 2 - 0
+Frispel - IFK Svanen 1 - 0
+Hebbes vänner - Starwars 0 - 4

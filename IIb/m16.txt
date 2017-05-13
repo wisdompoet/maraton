@@ -1,0 +1,84 @@
+week 1
+2002-05-05
+Baloo BK - FC Morp 1 - 2
+Vasastan Moguls - Topeka Gators 1 - 3
+Gallagher Gunners - Gubbängen IF 1 - 4
+Evaryd - Lirarnas FK 1 - 2
+week 2
+2002-05-12
+Gubbängen IF - Baloo BK 0 - 1
+Lirarnas FK - Vasastan Moguls 0 - 2
+FC Morp - Evaryd 0 - 1
+Topeka Gators - Gallagher Gunners 4 - 0
+week 3
+2002-05-19
+Vasastan Moguls - FC Morp 0 - 0
+Gallagher Gunners - Lirarnas FK 1 - 3
+Gubbängen IF - Topeka Gators 1 - 1
+Evaryd - Baloo BK 1 - 0
+week 4
+2002-05-26
+Baloo BK - Topeka Gators 3 - 3
+Lirarnas FK - Gubbängen IF 0 - 3
+FC Morp - Gallagher Gunners 2 - 1
+Evaryd - Vasastan Moguls 3 - 1
+week 5
+2002-06-02
+Vasastan Moguls - Baloo BK 4 - 0
+Gallagher Gunners - Evaryd 2 - 4
+Gubbängen IF - FC Morp 1 - 0
+Topeka Gators - Lirarnas FK 5 - 0
+week 6
+2002-06-09
+Baloo BK - Lirarnas FK 3 - 0
+Vasastan Moguls - Gallagher Gunners 3 - 2
+FC Morp - Topeka Gators 2 - 0
+Evaryd - Gubbängen IF 2 - 0
+week 7
+2002-06-16
+Gallagher Gunners - Baloo BK 0 - 4
+Gubbängen IF - Vasastan Moguls 4 - 0
+Lirarnas FK - FC Morp 0 - 2
+Topeka Gators - Evaryd 0 - 3
+week 8
+2002-06-23
+Evaryd - Topeka Gators 2 - 2
+FC Morp - Lirarnas FK 4 - 0
+Vasastan Moguls - Gubbängen IF 2 - 0
+Baloo BK - Gallagher Gunners 2 - 2
+week 9
+2002-06-30
+Gubbängen IF - Evaryd 3 - 1
+Topeka Gators - FC Morp 0 - 4
+Gallagher Gunners - Vasastan Moguls 1 - 3
+Lirarnas FK - Baloo BK 0 - 1
+week 10
+2002-07-07
+Lirarnas FK - Topeka Gators 0 - 3
+FC Morp - Gubbängen IF 3 - 1
+Evaryd - Gallagher Gunners 4 - 1
+Baloo BK - Vasastan Moguls 0 - 2
+week 11
+2002-07-14
+Vasastan Moguls - Evaryd 0 - 1
+Gallagher Gunners - FC Morp 0 - 1
+Gubbängen IF - Lirarnas FK 4 - 0
+Topeka Gators - Baloo BK 2 - 0
+week 12
+2002-07-21
+Baloo BK - Evaryd 1 - 3
+Topeka Gators - Gubbängen IF 2 - 1
+Lirarnas FK - Gallagher Gunners 0 - 2
+FC Morp - Vasastan Moguls 5 - 0
+week 13
+2002-07-28
+Gallagher Gunners - Topeka Gators 0 - 4
+Evaryd - FC Morp 1 - 6
+Vasastan Moguls - Lirarnas FK 4 - 1
+Baloo BK - Gubbängen IF 3 - 3
+week 14
+2002-08-04
+Lirarnas FK - Evaryd 1 - 4
+Gubbängen IF - Gallagher Gunners 2 - 1
+Topeka Gators - Vasastan Moguls 1 - 0
+FC Morp - Baloo BK 4 - 0

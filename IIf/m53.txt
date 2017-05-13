@@ -1,87 +1,84 @@
-Omgång 1
-2013-09-08 (1/53)			
-Frölunda killers - AMTrix	2 - 1	HT Re-Live
-TBG - Mackans Gåsapågar	2 - 3	HT Re-Live
-Scoring Xtreme - Fjommens FF	2 - 0	HT Re-Live
-AIK - Barkarby XL	3 - 0	HT Re-Live
-Omgång 2
-2013-09-15 (2/53)			
-Mackans Gåsapågar - Scoring Xtreme	4 - 0	HT Re-Live
-Fjommens FF - AIK	3 - 2	HT Re-Live
-Barkarby XL - Frölunda killers	2 - 1	HT Re-Live
-AMTrix - TBG	5 - 0	HT Re-Live
-Omgång 3
-2013-09-22 (3/53)			
-Barkarby XL - AMTrix	1 - 3	HT Re-Live
-Frölunda killers - Mackans Gåsapågar	1 - 3	HT Re-Live
-TBG - Fjommens FF	3 - 1	HT Re-Live
-AIK - Scoring Xtreme	3 - 5	HT Re-Live
-Omgång 4
-2013-09-29 (4/53)			
-Mackans Gåsapågar - Barkarby XL	1 - 3	HT Re-Live
-AMTrix - AIK	4 - 0	HT Re-Live
-Fjommens FF - Frölunda killers	2 - 3	HT Re-Live
-Scoring Xtreme - TBG	1 - 1	HT Re-Live
-Omgång 5
-2013-10-06 (5/53)			
-Frölunda killers - TBG	1 - 0	HT Re-Live
-AMTrix - Fjommens FF	4 - 1	HT Re-Live
-AIK - Mackans Gåsapågar	4 - 1	HT Re-Live
-Barkarby XL - Scoring Xtreme	0 - 3	HT Re-Live
-Omgång 6
-2013-10-13 (6/53)			
-Mackans Gåsapågar - AMTrix	1 - 1	HT Re-Live
-Fjommens FF - Barkarby XL	1 - 0	HT Re-Live
-TBG - AIK	3 - 2	HT Re-Live
-Scoring Xtreme - Frölunda killers	4 - 1	HT Re-Live
-Omgång 7
-2013-10-20 (7/53)			
-Barkarby XL - TBG	1 - 1	HT Re-Live
-Fjommens FF - Mackans Gåsapågar	5 - 1	HT Re-Live
-AMTrix - Scoring Xtreme	0 - 0	HT Re-Live
-Frölunda killers - AIK	2 - 2	HT Re-Live
-Omgång 8
-2013-10-27 (8/53)			
-AIK - Frölunda killers	3 - 1	HT Re-Live
-TBG - Barkarby XL	2 - 0	HT Re-Live
-Scoring Xtreme - AMTrix	2 - 0	HT Re-Live
-Mackans Gåsapågar - Fjommens FF	5 - 0	HT Re-Live
-Omgång 9
-2013-11-03 (9/53)			
-Frölunda killers - Scoring Xtreme	3 - 2	HT Re-Live
-AMTrix - Mackans Gåsapågar	3 - 4	HT Re-Live
-Barkarby XL - Fjommens FF	1 - 1	HT Re-Live
-AIK - TBG	2 - 3	HT Re-Live
-Omgång 10
-2013-11-10 (10/53)			
-TBG - Frölunda killers	2 - 4	HT Re-Live
-Mackans Gåsapågar - AIK	4 - 2	HT Re-Live
-Scoring Xtreme - Barkarby XL	3 - 0	HT Re-Live
-Fjommens FF - AMTrix	0 - 4	HT Re-Live
-Omgång 11
-2013-11-17 (11/53)			
-Barkarby XL - Mackans Gåsapågar	3 - 0	HT Re-Live
-TBG - Scoring Xtreme	0 - 6	HT Re-Live
-AIK - AMTrix	0 - 0	HT Re-Live
-Frölunda killers - Fjommens FF	2 - 0	HT Re-Live
-Omgång 12
-2013-11-24 (12/53)			
-Fjommens FF - TBG	5 - 0	HT Re-Live
-Mackans Gåsapågar - Frölunda killers	3 - 2	HT Re-Live
-AMTrix - Barkarby XL	1 - 0	HT Re-Live
-Scoring Xtreme - AIK	4 - 1	HT Re-Live
-Omgång 13
-2013-12-01 (13/53)			
-Frölunda killers - Barkarby XL	3 - 0	HT Re-Live
-TBG - AMTrix	0 - 7	HT Re-Live
-AIK - Fjommens FF	5 - 2	HT Re-Live
-Scoring Xtreme - Mackans Gåsapågar	5 - 0	HT Re-Live
-Omgång 14
-2013-12-08 (14/53)			
-Barkarby XL - AIK	0 - 2	HT Re-Live
-Mackans Gåsapågar - TBG	7 - 0	HT Re-Live
-AMTrix - Frölunda killers	4 - 3	HT Re-Live
-Fjommens FF - Scoring Xtreme	2 - 2	HT Re-Live
-
-
-
+week 1
+2013-09-08
+FrÃ¶lunda killers - AMTrix 2 - 1
+TBG - Mackans GÃ¥sapÃ¥gar 2 - 3
+Scoring Xtreme - Fjommens FF 2 - 0
+AIK - Barkarby XL 3 - 0
+week 2
+2013-09-15
+Mackans GÃ¥sapÃ¥gar - Scoring Xtreme 4 - 0
+Fjommens FF - AIK 3 - 2
+Barkarby XL - FrÃ¶lunda killers 2 - 1
+AMTrix - TBG 5 - 0
+week 3
+2013-09-22
+Barkarby XL - AMTrix 1 - 3
+FrÃ¶lunda killers - Mackans GÃ¥sapÃ¥gar 1 - 3
+TBG - Fjommens FF 3 - 1
+AIK - Scoring Xtreme 3 - 5
+week 4
+2013-09-29
+Mackans GÃ¥sapÃ¥gar - Barkarby XL 1 - 3
+AMTrix - AIK 4 - 0
+Fjommens FF - FrÃ¶lunda killers 2 - 3
+Scoring Xtreme - TBG 1 - 1
+week 5
+2013-10-06
+FrÃ¶lunda killers - TBG 1 - 0
+AMTrix - Fjommens FF 4 - 1
+AIK - Mackans GÃ¥sapÃ¥gar 4 - 1
+Barkarby XL - Scoring Xtreme 0 - 3
+week 6
+2013-10-13
+Mackans GÃ¥sapÃ¥gar - AMTrix 1 - 1
+Fjommens FF - Barkarby XL 1 - 0
+TBG - AIK 3 - 2
+Scoring Xtreme - FrÃ¶lunda killers 4 - 1
+week 7
+2013-10-20
+Fjommens FF - Mackans GÃ¥sapÃ¥gar 5 - 1
+AMTrix - Scoring Xtreme 0 - 0
+FrÃ¶lunda killers - AIK 2 - 2
+Barkarby XL - TBG 1 - 1
+week 8
+2013-10-27
+AIK - FrÃ¶lunda killers 3 - 1
+TBG - Barkarby XL 2 - 0
+Scoring Xtreme - AMTrix 2 - 0
+Mackans GÃ¥sapÃ¥gar - Fjommens FF 5 - 0
+week 9
+2013-11-03
+FrÃ¶lunda killers - Scoring Xtreme 3 - 2
+AMTrix - Mackans GÃ¥sapÃ¥gar 3 - 4
+Barkarby XL - Fjommens FF 1 - 1
+AIK - TBG 2 - 3
+week 10
+2013-11-10
+TBG - FrÃ¶lunda killers 2 - 4
+Mackans GÃ¥sapÃ¥gar - AIK 4 - 2
+Scoring Xtreme - Barkarby XL 3 - 0
+Fjommens FF - AMTrix 0 - 4
+week 11
+2013-11-17
+FrÃ¶lunda killers - Fjommens FF 2 - 0
+AIK - AMTrix 0 - 0
+TBG - Scoring Xtreme 0 - 6
+Barkarby XL - Mackans GÃ¥sapÃ¥gar 3 - 0
+week 12
+2013-11-24
+Scoring Xtreme - AIK 4 - 1
+AMTrix - Barkarby XL 1 - 0
+Mackans GÃ¥sapÃ¥gar - FrÃ¶lunda killers 3 - 2
+Fjommens FF - TBG 5 - 0
+week 13
+2013-12-01
+Scoring Xtreme - Mackans GÃ¥sapÃ¥gar 5 - 0
+AIK - Fjommens FF 5 - 2
+TBG - AMTrix 0 - 7
+FrÃ¶lunda killers - Barkarby XL 3 - 0
+week 14
+2013-12-08
+Fjommens FF - Scoring Xtreme 2 - 2
+AMTrix - FrÃ¶lunda killers 4 - 3
+Mackans GÃ¥sapÃ¥gar - TBG 7 - 0
+Barkarby XL - AIK 0 - 2

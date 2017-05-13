@@ -1,0 +1,84 @@
+week 1
+2009-02-01
+Red Dreamteam - Bk Törnen 2 - 4
+IFK Bratthammar - Britneys grabbar 7 - 1
+Evertonia FC - IFK Barca FC 2 - 1
+Estö BK - Universidad Catolica 8 - 0
+week 2
+2009-02-08
+IFK Barca FC - Estö BK 3 - 2
+Bk Törnen - Evertonia FC 3 - 0
+Universidad Catolica - IFK Bratthammar 0 - 4
+Britneys grabbar - Red Dreamteam 4 - 1
+week 3
+2009-02-15
+Evertonia FC - Red Dreamteam 3 - 3
+IFK Bratthammar - IFK Barca FC 3 - 3
+Estö BK - Bk Törnen 3 - 4
+Britneys grabbar - Universidad Catolica 4 - 0
+week 4
+2009-02-22
+Red Dreamteam - Universidad Catolica 9 - 0
+IFK Barca FC - Britneys grabbar 2 - 2
+Bk Törnen - IFK Bratthammar 6 - 1
+Evertonia FC - Estö BK 1 - 1
+week 5
+2009-03-01
+Estö BK - Red Dreamteam 4 - 2
+Universidad Catolica - IFK Barca FC 0 - 10
+Britneys grabbar - Bk Törnen 4 - 0
+IFK Bratthammar - Evertonia FC 1 - 2
+week 6
+2009-03-08
+Red Dreamteam - IFK Barca FC 3 - 7
+Estö BK - IFK Bratthammar 3 - 0
+Bk Törnen - Universidad Catolica 7 - 0
+Evertonia FC - Britneys grabbar 0 - 2
+week 7
+2009-03-15
+Britneys grabbar - Estö BK 2 - 5
+IFK Barca FC - Bk Törnen 6 - 2
+Universidad Catolica - Evertonia FC 0 - 6
+IFK Bratthammar - Red Dreamteam 5 - 1
+week 8
+2009-03-22
+Evertonia FC - Universidad Catolica 7 - 0
+Bk Törnen - IFK Barca FC 4 - 2
+Estö BK - Britneys grabbar 7 - 2
+Red Dreamteam - IFK Bratthammar 4 - 0
+week 9
+2009-03-29
+IFK Bratthammar - Estö BK 2 - 3
+Britneys grabbar - Evertonia FC 2 - 0
+IFK Barca FC - Red Dreamteam 6 - 0
+Universidad Catolica - Bk Törnen 1 - 5
+week 10
+2009-04-05
+Evertonia FC - IFK Bratthammar 2 - 1
+Bk Törnen - Britneys grabbar 4 - 1
+Red Dreamteam - Estö BK 3 - 3
+IFK Barca FC - Universidad Catolica 7 - 0
+week 11
+2009-04-12
+Estö BK - Evertonia FC 3 - 2
+Britneys grabbar - IFK Barca FC 2 - 5
+IFK Bratthammar - Bk Törnen 3 - 0
+Universidad Catolica - Red Dreamteam 1 - 3
+week 12
+2009-04-19
+Red Dreamteam - Evertonia FC 3 - 1
+Bk Törnen - Estö BK 0 - 5
+IFK Barca FC - IFK Bratthammar 5 - 3
+Universidad Catolica - Britneys grabbar 1 - 2
+week 13
+2009-04-26
+Estö BK - IFK Barca FC 1 - 1
+Evertonia FC - Bk Törnen 3 - 1
+IFK Bratthammar - Universidad Catolica 9 - 0
+Red Dreamteam - Britneys grabbar 4 - 1
+week 14
+2009-05-03
+IFK Barca FC - Evertonia FC 2 - 0
+Britneys grabbar - IFK Bratthammar 1 - 2
+Universidad Catolica - Estö BK 1 - 9
+Bk Törnen - Red Dreamteam 4 - 1

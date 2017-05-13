@@ -1,84 +1,84 @@
-Omgång 1
-2002-05-05 (1/16)			
-Brunkongarnas FF - Ljungby IF	2 - 2	HT Re-Live
-Blackbårn - Hoseanna	4 - 4	HT Re-Live
-Puacas Änglar - Travnissarnas FK	2 - 1	HT Re-Live
-Knivsta Soccer - Fallnafors IF	3 - 4	HT Re-Live
-Omgång 2
-2002-05-12 (2/16)			
-Travnissarnas FK - Brunkongarnas FF	2 - 1	HT Re-Live
-Fallnafors IF - Blackbårn	6 - 2	HT Re-Live
-Ljungby IF - Knivsta Soccer	1 - 1	HT Re-Live
-Hoseanna - Puacas Änglar	3 - 1	HT Re-Live
-Omgång 3
-2002-05-19 (3/16)			
-Blackbårn - Ljungby IF	0 - 1	HT Re-Live
-Puacas Änglar - Fallnafors IF	2 - 0	HT Re-Live
-Travnissarnas FK - Hoseanna	2 - 2	HT Re-Live
-Knivsta Soccer - Brunkongarnas FF	1 - 2	HT Re-Live
-Omgång 4
-2002-05-26 (4/16)			
-Brunkongarnas FF - Hoseanna	4 - 0	HT Re-Live
-Fallnafors IF - Travnissarnas FK	1 - 2	HT Re-Live
-Ljungby IF - Puacas Änglar	1 - 1	HT Re-Live
-Knivsta Soccer - Blackbårn	3 - 2	HT Re-Live
-Omgång 5
-2002-06-02 (5/16)			
-Blackbårn - Brunkongarnas FF	1 - 3	HT Re-Live
-Puacas Änglar - Knivsta Soccer	3 - 0	HT Re-Live
-Travnissarnas FK - Ljungby IF	2 - 1	HT Re-Live
-Hoseanna - Fallnafors IF	4 - 0	HT Re-Live
-Omgång 6
-2002-06-09 (6/16)			
-Brunkongarnas FF - Fallnafors IF	0 - 0	HT Re-Live
-Blackbårn - Puacas Änglar	3 - 2	HT Re-Live
-Ljungby IF - Hoseanna	3 - 2	HT Re-Live
-Knivsta Soccer - Travnissarnas FK	1 - 0	HT Re-Live
-Omgång 7
-2002-06-16 (7/16)			
-Puacas Änglar - Brunkongarnas FF	0 - 0	HT Re-Live
-Travnissarnas FK - Blackbårn	2 - 1	HT Re-Live
-Fallnafors IF - Ljungby IF	0 - 1	HT Re-Live
-Hoseanna - Knivsta Soccer	6 - 0	HT Re-Live
-Omgång 8
-2002-06-23 (8/16)			
-Knivsta Soccer - Hoseanna	2 - 2	HT Re-Live
-Ljungby IF - Fallnafors IF	0 - 1	HT Re-Live
-Blackbårn - Travnissarnas FK	1 - 1	HT Re-Live
-Brunkongarnas FF - Puacas Änglar	4 - 0	HT Re-Live
-Omgång 9
-2002-06-30 (9/16)			
-Travnissarnas FK - Knivsta Soccer	4 - 0	HT Re-Live
-Hoseanna - Ljungby IF	2 - 3	HT Re-Live
-Puacas Änglar - Blackbårn	1 - 4	HT Re-Live
-Fallnafors IF - Brunkongarnas FF	2 - 0	HT Re-Live
-Omgång 10
-2002-07-07 (10/16)			
-Fallnafors IF - Hoseanna	4 - 0	HT Re-Live
-Ljungby IF - Travnissarnas FK	2 - 0	HT Re-Live
-Knivsta Soccer - Puacas Änglar	2 - 3	HT Re-Live
-Brunkongarnas FF - Blackbårn	3 - 2	HT Re-Live
-Omgång 11
-2002-07-14 (11/16)			
-Blackbårn - Knivsta Soccer	1 - 1	HT Re-Live
-Puacas Änglar - Ljungby IF	2 - 3	HT Re-Live
-Travnissarnas FK - Fallnafors IF	2 - 0	HT Re-Live
-Hoseanna - Brunkongarnas FF	4 - 3	HT Re-Live
-Omgång 12
-2002-07-21 (12/16)			
-Brunkongarnas FF - Knivsta Soccer	0 - 0	HT Re-Live
-Hoseanna - Travnissarnas FK	1 - 0	HT Re-Live
-Fallnafors IF - Puacas Änglar	5 - 0	HT Re-Live
-Ljungby IF - Blackbårn	1 - 2	HT Re-Live
-Omgång 13
-2002-07-28 (13/16)			
-Puacas Änglar - Hoseanna	0 - 4	HT Re-Live
-Knivsta Soccer - Ljungby IF	0 - 1	HT Re-Live
-Blackbårn - Fallnafors IF	1 - 3	HT Re-Live
-Brunkongarnas FF - Travnissarnas FK	1 - 3	HT Re-Live
-Omgång 14
-2002-08-04 (14/16)			
-Fallnafors IF - Knivsta Soccer	4 - 1	HT Re-Live
-Travnissarnas FK - Puacas Änglar	0 - 0	HT Re-Live
-Hoseanna - Blackbårn	1 - 2	HT Re-Live
-Ljungby IF - Brunkongarnas FF	1 - 1	HT Re-Live
+week 1
+2002-05-05
+Brunkongarnas FF - Ljungby IF 2 - 2
+BlackbÃ¥rn - Hoseanna 4 - 4
+Puacas Ã„nglar - Travnissarnas FK 2 - 1
+Knivsta Soccer - Fallnafors IF 3 - 4
+week 2
+2002-05-12
+Travnissarnas FK - Brunkongarnas FF 2 - 1
+Fallnafors IF - BlackbÃ¥rn 6 - 2
+Ljungby IF - Knivsta Soccer 1 - 1
+Hoseanna - Puacas Ã„nglar 3 - 1
+week 3
+2002-05-19
+BlackbÃ¥rn - Ljungby IF 0 - 1
+Puacas Ã„nglar - Fallnafors IF 2 - 0
+Travnissarnas FK - Hoseanna 2 - 2
+Knivsta Soccer - Brunkongarnas FF 1 - 2
+week 4
+2002-05-26
+Brunkongarnas FF - Hoseanna 4 - 0
+Fallnafors IF - Travnissarnas FK 1 - 2
+Ljungby IF - Puacas Ã„nglar 1 - 1
+Knivsta Soccer - BlackbÃ¥rn 3 - 2
+week 5
+2002-06-02
+BlackbÃ¥rn - Brunkongarnas FF 1 - 3
+Puacas Ã„nglar - Knivsta Soccer 3 - 0
+Travnissarnas FK - Ljungby IF 2 - 1
+Hoseanna - Fallnafors IF 4 - 0
+week 6
+2002-06-09
+Brunkongarnas FF - Fallnafors IF 0 - 0
+BlackbÃ¥rn - Puacas Ã„nglar 3 - 2
+Ljungby IF - Hoseanna 3 - 2
+Knivsta Soccer - Travnissarnas FK 1 - 0
+week 7
+2002-06-16
+Puacas Ã„nglar - Brunkongarnas FF 0 - 0
+Travnissarnas FK - BlackbÃ¥rn 2 - 1
+Fallnafors IF - Ljungby IF 0 - 1
+Hoseanna - Knivsta Soccer 6 - 0
+week 8
+2002-06-23
+Knivsta Soccer - Hoseanna 2 - 2
+Ljungby IF - Fallnafors IF 0 - 1
+BlackbÃ¥rn - Travnissarnas FK 1 - 1
+Brunkongarnas FF - Puacas Ã„nglar 4 - 0
+week 9
+2002-06-30
+Travnissarnas FK - Knivsta Soccer 4 - 0
+Hoseanna - Ljungby IF 2 - 3
+Puacas Ã„nglar - BlackbÃ¥rn 1 - 4
+Fallnafors IF - Brunkongarnas FF 2 - 0
+week 10
+2002-07-07
+Fallnafors IF - Hoseanna 4 - 0
+Ljungby IF - Travnissarnas FK 2 - 0
+Knivsta Soccer - Puacas Ã„nglar 2 - 3
+Brunkongarnas FF - BlackbÃ¥rn 3 - 2
+week 11
+2002-07-14
+BlackbÃ¥rn - Knivsta Soccer 1 - 1
+Puacas Ã„nglar - Ljungby IF 2 - 3
+Travnissarnas FK - Fallnafors IF 2 - 0
+Hoseanna - Brunkongarnas FF 4 - 3
+week 12
+2002-07-21
+Brunkongarnas FF - Knivsta Soccer 0 - 0
+Hoseanna - Travnissarnas FK 1 - 0
+Fallnafors IF - Puacas Ã„nglar 5 - 0
+Ljungby IF - BlackbÃ¥rn 1 - 2
+week 13
+2002-07-28
+Puacas Ã„nglar - Hoseanna 0 - 4
+Knivsta Soccer - Ljungby IF 0 - 1
+BlackbÃ¥rn - Fallnafors IF 1 - 3
+Brunkongarnas FF - Travnissarnas FK 1 - 3
+week 14
+2002-08-04
+Fallnafors IF - Knivsta Soccer 4 - 1
+Travnissarnas FK - Puacas Ã„nglar 0 - 0
+Hoseanna - BlackbÃ¥rn 1 - 2
+Ljungby IF - Brunkongarnas FF 1 - 1

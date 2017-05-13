@@ -1,0 +1,84 @@
+week 1
+2010-01-03
+IFK Ninweborg - BK Rapp 2 - 2
+Ove Rangers - Punanny FC 3 - 0
+Gerilla - FC Thad 6 - 0
+Konspiratörerna - BK Villafranca 3 - 3
+week 2
+2010-01-10
+Punanny FC - IFK Ninweborg 8 - 0
+BK Villafranca - Gerilla 1 - 5
+BK Rapp - Konspiratörerna 3 - 1
+FC Thad - Ove Rangers 3 - 1
+week 3
+2010-01-17
+Ove Rangers - BK Villafranca 1 - 1
+Punanny FC - FC Thad 1 - 2
+Gerilla - BK Rapp 4 - 1
+Konspiratörerna - IFK Ninweborg 8 - 0
+week 4
+2010-01-24
+Konspiratörerna - Gerilla 1 - 3
+IFK Ninweborg - FC Thad 3 - 2
+BK Villafranca - Punanny FC 6 - 0
+BK Rapp - Ove Rangers 2 - 1
+week 5
+2010-01-31
+FC Thad - BK Villafranca 1 - 5
+Gerilla - IFK Ninweborg 10 - 0
+Ove Rangers - Konspiratörerna 1 - 0
+Punanny FC - BK Rapp 0 - 4
+week 6
+2010-02-07
+IFK Ninweborg - BK Villafranca 1 - 8
+Gerilla - Ove Rangers 4 - 1
+BK Rapp - FC Thad 4 - 0
+Konspiratörerna - Punanny FC 4 - 0
+week 7
+2010-02-14
+Ove Rangers - IFK Ninweborg 5 - 1
+BK Villafranca - BK Rapp 2 - 3
+Punanny FC - Gerilla 2 - 2
+FC Thad - Konspiratörerna 0 - 1
+week 8
+2010-02-21
+BK Rapp - BK Villafranca 0 - 2
+IFK Ninweborg - Ove Rangers 1 - 0
+Gerilla - Punanny FC 7 - 1
+Konspiratörerna - FC Thad 5 - 0
+week 9
+2010-02-28
+FC Thad - BK Rapp 3 - 2
+Ove Rangers - Gerilla 0 - 3
+BK Villafranca - IFK Ninweborg 4 - 2
+Punanny FC - Konspiratörerna 0 - 3
+week 10
+2010-03-07
+BK Villafranca - FC Thad 5 - 0
+BK Rapp - Punanny FC 2 - 0
+IFK Ninweborg - Gerilla 1 - 5
+Konspiratörerna - Ove Rangers 3 - 0
+week 11
+2010-03-14
+Punanny FC - BK Villafranca 2 - 2
+Ove Rangers - BK Rapp 0 - 3
+FC Thad - IFK Ninweborg 0 - 0
+Gerilla - Konspiratörerna 5 - 0
+week 12
+2010-03-21
+IFK Ninweborg - Konspiratörerna 4 - 1
+FC Thad - Punanny FC 3 - 0
+BK Villafranca - Ove Rangers 3 - 2
+BK Rapp - Gerilla 3 - 2
+week 13
+2010-03-28
+Ove Rangers - FC Thad 2 - 1
+Gerilla - BK Villafranca 4 - 0
+IFK Ninweborg - Punanny FC 5 - 0
+Konspiratörerna - BK Rapp 3 - 2
+week 14
+2010-04-04
+BK Villafranca - Konspiratörerna 2 - 2
+Punanny FC - Ove Rangers 2 - 0
+FC Thad - Gerilla 2 - 3
+BK Rapp - IFK Ninweborg 3 - 1

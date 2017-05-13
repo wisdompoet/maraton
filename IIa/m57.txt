@@ -1,84 +1,84 @@
-Omgång 1
-2014-11-30 (1/57) 			
-	Shearer's Delight - Kardoz Boys 	3 - 1 	HT Re-Live
-	Söders GoIF - Relel FC 	1 - 2 	HT Re-Live
-	Lilltroll FC - Angels of Gothenburg 	0 - 2 	HT Re-Live
-	Höghammars Gif - FC Skäggetorp 	3 - 1 	HT Re-Live
-Omgång 2
-2014-12-07 (2/57) 			
-	Kardoz Boys - Höghammars Gif 	2 - 2 	HT Re-Live
-	Angels of Gothenburg - Söders GoIF 	3 - 1 	HT Re-Live
-	FC Skäggetorp - Lilltroll FC 	4 - 0 	HT Re-Live
-	Relel FC - Shearer's Delight 	3 - 0 	HT Re-Live
-Omgång 3
-2014-12-14 (3/57) 			
-	Lilltroll FC - Relel FC 	2 - 4 	HT Re-Live
-	FC Skäggetorp - Angels of Gothenburg 	1 - 0 	HT Re-Live
-	Söders GoIF - Kardoz Boys 	3 - 3 	HT Re-Live
-	Höghammars Gif - Shearer's Delight 	1 - 0 	HT Re-Live
-Omgång 4
-2014-12-21 (4/57) 			
-	Angels of Gothenburg - Höghammars Gif 	1 - 1 	HT Re-Live
-	Kardoz Boys - Lilltroll FC 	2 - 1 	HT Re-Live
-	Shearer's Delight - Söders GoIF 	0 - 5 	HT Re-Live
-	Relel FC - FC Skäggetorp 	2 - 3 	HT Re-Live
-Omgång 5
-2014-12-28 (5/57) 			
-	Lilltroll FC - Söders GoIF 	1 - 2 	HT Re-Live
-	FC Skäggetorp - Shearer's Delight 	4 - 0 	HT Re-Live
-	Höghammars Gif - Relel FC 	1 - 1 	HT Re-Live
-	Angels of Gothenburg - Kardoz Boys 	3 - 1 	HT Re-Live
-Omgång 6
-2015-01-04 (6/57) 			
-	Shearer's Delight - Lilltroll FC 	3 - 1 	HT Re-Live
-	Söders GoIF - Höghammars Gif 	3 - 1 	HT Re-Live
-	Kardoz Boys - FC Skäggetorp 	2 - 1 	HT Re-Live
-	Relel FC - Angels of Gothenburg 	4 - 1 	HT Re-Live
-Omgång 7
-2015-01-11 (7/57) 			
-	Angels of Gothenburg - Shearer's Delight 	3 - 0 	HT Re-Live
-	Lilltroll FC - Höghammars Gif 	0 - 4 	HT Re-Live
-	Kardoz Boys - Relel FC 	4 - 3 	HT Re-Live
-	FC Skäggetorp - Söders GoIF 	4 - 0 	HT Re-Live
-Omgång 8
-2015-01-18 (8/57) 			
-	Relel FC - Kardoz Boys 	1 - 0 	HT Re-Live
-	Shearer's Delight - Angels of Gothenburg 	0 - 4 	HT Re-Live
-	Höghammars Gif - Lilltroll FC 	2 - 1 	HT Re-Live
-	Söders GoIF - FC Skäggetorp 	2 - 2 	HT Re-Live
-Omgång 9
-2015-01-25 (9/57) 			
-	Angels of Gothenburg - Relel FC 	4 - 0 	HT Re-Live
-	FC Skäggetorp - Kardoz Boys 	1 - 2 	HT Re-Live
-	Höghammars Gif - Söders GoIF 	4 - 0 	HT Re-Live
-	Lilltroll FC - Shearer's Delight 	0 - 2 	HT Re-Live
-Omgång 10
-2015-02-01 (10/57) 			
-	Relel FC - Höghammars Gif 	2 - 3 	HT Re-Live
-	Söders GoIF - Lilltroll FC 	3 - 0 	HT Re-Live
-	Kardoz Boys - Angels of Gothenburg 	4 - 4 	HT Re-Live
-	Shearer's Delight - FC Skäggetorp 	1 - 1 	HT Re-Live
-Omgång 11
-2015-02-08 (11/57) 			
-	Höghammars Gif - Angels of Gothenburg 	2 - 1 	HT Re-Live
-	Söders GoIF - Shearer's Delight 	1 - 1 	HT Re-Live
-	FC Skäggetorp - Relel FC 	3 - 2 	HT Re-Live
-	Lilltroll FC - Kardoz Boys 	0 - 5 	HT Re-Live
-Omgång 12
-2015-02-15 (12/57) 			
-	Relel FC - Lilltroll FC 	3 - 0 	HT Re-Live
-	Shearer's Delight - Höghammars Gif 	2 - 1 	HT Re-Live
-	Angels of Gothenburg - FC Skäggetorp 	2 - 1 	HT Re-Live
-	Kardoz Boys - Söders GoIF 	2 - 4 	HT Re-Live
-Omgång 13
-2015-02-22 (13/57) 			
-	Shearer's Delight - Relel FC 	2 - 0 	HT Re-Live
-	Söders GoIF - Angels of Gothenburg 	2 - 3 	HT Re-Live
-	Lilltroll FC - FC Skäggetorp 	0 - 1 	HT Re-Live
-	Höghammars Gif - Kardoz Boys 	5 - 2 	HT Re-Live
-Omgång 14
-2015-03-01 (14/57) 			
-	Relel FC - Söders GoIF 	1 - 2 	HT Re-Live
-	Kardoz Boys - Shearer's Delight 	2 - 2 	HT Re-Live
-	FC Skäggetorp - Höghammars Gif 	1 - 2 	HT Re-Live
-	Angels of Gothenburg - Lilltroll FC 	1 - 0 	HT Re-Live
+week 1
+2014-11-30
+Shearer's Delight - Kardoz Boys 3 - 1
+Söders GoIF - Relel FC 1 - 2
+Lilltroll FC - Angels of Gothenburg 0 - 2
+Höghammars Gif - FC Skäggetorp 3 - 1
+week 2
+2014-12-07
+Kardoz Boys - Höghammars Gif 2 - 2
+Angels of Gothenburg - Söders GoIF 3 - 1
+FC Skäggetorp - Lilltroll FC 4 - 0
+Relel FC - Shearer's Delight 3 - 0
+week 3
+2014-12-14
+Lilltroll FC - Relel FC 2 - 4
+FC Skäggetorp - Angels of Gothenburg 1 - 0
+Söders GoIF - Kardoz Boys 3 - 3
+Höghammars Gif - Shearer's Delight 1 - 0
+week 4
+2014-12-21
+Angels of Gothenburg - Höghammars Gif 1 - 1
+Kardoz Boys - Lilltroll FC 2 - 1
+Shearer's Delight - Söders GoIF 0 - 5
+Relel FC - FC Skäggetorp 2 - 3
+week 5
+2014-12-28
+Lilltroll FC - Söders GoIF 1 - 2
+FC Skäggetorp - Shearer's Delight 4 - 0
+Höghammars Gif - Relel FC 1 - 1
+Angels of Gothenburg - Kardoz Boys 3 - 1
+week 6
+2015-01-04
+Shearer's Delight - Lilltroll FC 3 - 1
+Söders GoIF - Höghammars Gif 3 - 1
+Kardoz Boys - FC Skäggetorp 2 - 1
+Relel FC - Angels of Gothenburg 4 - 1
+week 7
+2015-01-11
+Angels of Gothenburg - Shearer's Delight 3 - 0
+Lilltroll FC - Höghammars Gif 0 - 4
+Kardoz Boys - Relel FC 4 - 3
+FC Skäggetorp - Söders GoIF 4 - 0
+week 8
+2015-01-18
+Relel FC - Kardoz Boys 1 - 0
+Shearer's Delight - Angels of Gothenburg 0 - 4
+Höghammars Gif - Lilltroll FC 2 - 1
+Söders GoIF - FC Skäggetorp 2 - 2
+week 9
+2015-01-25
+Angels of Gothenburg - Relel FC 4 - 0
+FC Skäggetorp - Kardoz Boys 1 - 2
+Höghammars Gif - Söders GoIF 4 - 0
+Lilltroll FC - Shearer's Delight 0 - 2
+week 10
+2015-02-01
+Relel FC - Höghammars Gif 2 - 3
+Söders GoIF - Lilltroll FC 3 - 0
+Kardoz Boys - Angels of Gothenburg 4 - 4
+Shearer's Delight - FC Skäggetorp 1 - 1
+week 11
+2015-02-08
+Höghammars Gif - Angels of Gothenburg 2 - 1
+Söders GoIF - Shearer's Delight 1 - 1
+FC Skäggetorp - Relel FC 3 - 2
+Lilltroll FC - Kardoz Boys 0 - 5
+week 12
+2015-02-15
+Relel FC - Lilltroll FC 3 - 0
+Shearer's Delight - Höghammars Gif 2 - 1
+Angels of Gothenburg - FC Skäggetorp 2 - 1
+Kardoz Boys - Söders GoIF 2 - 4
+week 13
+2015-02-22
+Shearer's Delight - Relel FC 2 - 0
+Söders GoIF - Angels of Gothenburg 2 - 3
+Lilltroll FC - FC Skäggetorp 0 - 1
+Höghammars Gif - Kardoz Boys 5 - 2
+week 14
+2015-03-01
+Relel FC - Söders GoIF 1 - 2
+Kardoz Boys - Shearer's Delight 2 - 2
+FC Skäggetorp - Höghammars Gif 1 - 2
+Angels of Gothenburg - Lilltroll FC 1 - 0

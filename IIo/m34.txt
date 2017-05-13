@@ -1,0 +1,84 @@
+week 1
+2007-11-11
+Hoddle - Aplared FC 3 - 3
+Stenbeck Strikers - Verba Arma Nostra 4 - 0
+Oriole United - Dun Cannobaen 0 - 7
+Bengan_Bois - IFK Snespark 3 - 2
+week 2
+2007-11-18
+Aplared FC - Bengan_Bois 2 - 2
+IFK Snespark - Oriole United 6 - 0
+Dun Cannobaen - Stenbeck Strikers 1 - 2
+Verba Arma Nostra - Hoddle 3 - 4
+week 3
+2007-11-25
+IFK Snespark - Aplared FC 3 - 0
+Hoddle - Dun Cannobaen 0 - 2
+Stenbeck Strikers - Oriole United 8 - 0
+Bengan_Bois - Verba Arma Nostra 1 - 5
+week 4
+2007-12-02
+Oriole United - Aplared FC 0 - 8
+Stenbeck Strikers - Hoddle 6 - 1
+Dun Cannobaen - Bengan_Bois 1 - 1
+Verba Arma Nostra - IFK Snespark 1 - 4
+week 5
+2007-12-09
+Hoddle - Oriole United 7 - 0
+Bengan_Bois - Stenbeck Strikers 1 - 2
+IFK Snespark - Dun Cannobaen 5 - 0
+Aplared FC - Verba Arma Nostra 4 - 0
+week 6
+2007-12-16
+Dun Cannobaen - Aplared FC 0 - 3
+Stenbeck Strikers - IFK Snespark 1 - 2
+Oriole United - Verba Arma Nostra 0 - 10
+Hoddle - Bengan_Bois 2 - 0
+week 7
+2007-12-23
+Verba Arma Nostra - Dun Cannobaen 4 - 3
+Aplared FC - Stenbeck Strikers 2 - 2
+Bengan_Bois - Oriole United 8 - 0
+IFK Snespark - Hoddle 6 - 0
+week 8
+2007-12-30
+Stenbeck Strikers - Aplared FC 0 - 2
+Dun Cannobaen - Verba Arma Nostra 2 - 0
+Hoddle - IFK Snespark 1 - 4
+Oriole United - Bengan_Bois 0 - 10
+week 9
+2008-01-06
+IFK Snespark - Stenbeck Strikers 2 - 0
+Bengan_Bois - Hoddle 4 - 1
+Aplared FC - Dun Cannobaen 3 - 2
+Verba Arma Nostra - Oriole United 7 - 0
+week 10
+2008-01-13
+Verba Arma Nostra - Aplared FC 1 - 2
+Dun Cannobaen - IFK Snespark 1 - 5
+Stenbeck Strikers - Bengan_Bois 0 - 5
+Oriole United - Hoddle 0 - 8
+week 11
+2008-01-20
+Hoddle - Stenbeck Strikers 2 - 5
+Bengan_Bois - Dun Cannobaen 2 - 2
+IFK Snespark - Verba Arma Nostra 9 - 1
+Aplared FC - Oriole United 10 - 0
+week 12
+2008-01-27
+Oriole United - Stenbeck Strikers 0 - 9
+Dun Cannobaen - Hoddle 0 - 2
+Aplared FC - IFK Snespark 1 - 0
+Verba Arma Nostra - Bengan_Bois 1 - 6
+week 13
+2008-02-03
+Hoddle - Verba Arma Nostra 5 - 2
+Stenbeck Strikers - Dun Cannobaen 0 - 0
+Bengan_Bois - Aplared FC 0 - 0
+Oriole United - IFK Snespark 0 - 9
+week 14
+2008-02-10
+Aplared FC - Hoddle 5 - 0
+Dun Cannobaen - Oriole United 12 - 0
+IFK Snespark - Bengan_Bois 5 - 0
+Verba Arma Nostra - Stenbeck Strikers 2 - 0

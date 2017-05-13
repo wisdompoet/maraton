@@ -1,0 +1,84 @@
+week 1
+2013-12-29
+FK Sarajevo BiH - IFK Öregrund 3 - 0
+IFK Godtemplarna - Emperors SK 1 - 1
+Smuts & CO - Verkovare FF 1 - 3
+Strömsbergs BK - Grangeus Grisfarm 4 - 0
+week 2
+2014-01-05
+Verkovare FF - IFK Godtemplarna 2 - 0
+Emperors SK - FK Sarajevo BiH 1 - 1
+Grangeus Grisfarm - Smuts & CO 0 - 3
+IFK Öregrund - Strömsbergs BK 2 - 2
+week 3
+2014-01-12
+IFK Godtemplarna - IFK Öregrund 4 - 2
+Verkovare FF - Emperors SK 2 - 2
+Smuts & CO - Strömsbergs BK 3 - 0
+FK Sarajevo BiH - Grangeus Grisfarm 3 - 0
+week 4
+2014-01-19
+IFK Öregrund - Verkovare FF 0 - 1
+Grangeus Grisfarm - IFK Godtemplarna 2 - 2
+Strömsbergs BK - FK Sarajevo BiH 3 - 2
+Emperors SK - Smuts & CO 5 - 2
+week 5
+2014-01-26
+Emperors SK - Grangeus Grisfarm 3 - 2
+Smuts & CO - IFK Öregrund 4 - 2
+Verkovare FF - Strömsbergs BK 1 - 0
+IFK Godtemplarna - FK Sarajevo BiH 3 - 3
+week 6
+2014-02-02
+IFK Öregrund - Emperors SK 2 - 3
+Grangeus Grisfarm - Verkovare FF 0 - 4
+Strömsbergs BK - IFK Godtemplarna 3 - 3
+FK Sarajevo BiH - Smuts & CO 2 - 2
+week 7
+2014-02-09
+Grangeus Grisfarm - IFK Öregrund 1 - 4
+Emperors SK - Strömsbergs BK 2 - 2
+Verkovare FF - FK Sarajevo BiH 1 - 1
+IFK Godtemplarna - Smuts & CO 1 - 3
+week 8
+2014-02-16
+Smuts & CO - IFK Godtemplarna 5 - 2
+IFK Öregrund - Grangeus Grisfarm 6 - 3
+FK Sarajevo BiH - Verkovare FF 1 - 2
+Strömsbergs BK - Emperors SK 2 - 4
+week 9
+2014-02-23
+IFK Godtemplarna - Strömsbergs BK 1 - 1
+Smuts & CO - FK Sarajevo BiH 3 - 0
+Verkovare FF - Grangeus Grisfarm 2 - 0
+Emperors SK - IFK Öregrund 4 - 2
+week 10
+2014-03-02
+FK Sarajevo BiH - IFK Godtemplarna 1 - 0
+IFK Öregrund - Smuts & CO 2 - 6
+Grangeus Grisfarm - Emperors SK 0 - 6
+Strömsbergs BK - Verkovare FF 0 - 1
+week 11
+2014-03-09
+Smuts & CO - Emperors SK 1 - 4
+IFK Godtemplarna - Grangeus Grisfarm 5 - 0
+FK Sarajevo BiH - Strömsbergs BK 3 - 1
+Verkovare FF - IFK Öregrund 3 - 0
+week 12
+2014-03-16
+Emperors SK - Verkovare FF 2 - 1
+Strömsbergs BK - Smuts & CO 4 - 1
+IFK Öregrund - IFK Godtemplarna 3 - 3
+Grangeus Grisfarm - FK Sarajevo BiH 2 - 3
+week 13
+2014-03-23
+FK Sarajevo BiH - Emperors SK 1 - 3
+IFK Godtemplarna - Verkovare FF 1 - 2
+Strömsbergs BK - IFK Öregrund 3 - 2
+Smuts & CO - Grangeus Grisfarm 3 - 0
+week 14
+2014-03-30
+Grangeus Grisfarm - Strömsbergs BK 2 - 2
+Verkovare FF - Smuts & CO 1 - 4
+Emperors SK - IFK Godtemplarna 2 - 1
+IFK Öregrund - FK Sarajevo BiH 2 - 2

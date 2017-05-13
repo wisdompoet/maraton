@@ -1,0 +1,84 @@
+week 1
+2010-12-05
+Team ugly - Ränneskit IF 3 - 0
+IFK Kvarnberget - Blaikens IF 3 - 0
+Affes Wonderboys - Styx SK 5 - 1
+Fat Cat FC - Wombats FC 8 - 0
+week 2
+2010-12-12
+Ränneskit IF - Affes Wonderboys 3 - 3
+Blaikens IF - Team ugly 3 - 1
+Wombats FC - IFK Kvarnberget 4 - 4
+Styx SK - Fat Cat FC 4 - 1
+week 3
+2010-12-19
+Team ugly - Styx SK 6 - 0
+IFK Kvarnberget - Fat Cat FC 0 - 4
+Blaikens IF - Ränneskit IF 2 - 2
+Affes Wonderboys - Wombats FC 5 - 0
+week 4
+2010-12-26
+Ränneskit IF - IFK Kvarnberget 3 - 0
+Fat Cat FC - Affes Wonderboys 7 - 3
+Styx SK - Blaikens IF 2 - 1
+Wombats FC - Team ugly 3 - 4
+week 5
+2011-01-02
+Team ugly - Affes Wonderboys 4 - 2
+Blaikens IF - Fat Cat FC 4 - 4
+IFK Kvarnberget - Styx SK 3 - 1
+Ränneskit IF - Wombats FC 6 - 0
+week 6
+2011-01-09
+Wombats FC - Blaikens IF 3 - 3
+Affes Wonderboys - IFK Kvarnberget 3 - 1
+Styx SK - Ränneskit IF 2 - 4
+Fat Cat FC - Team ugly 3 - 3
+week 7
+2011-01-16
+Ränneskit IF - Fat Cat FC 1 - 1
+Blaikens IF - Affes Wonderboys 5 - 2
+Team ugly - IFK Kvarnberget 0 - 1
+Wombats FC - Styx SK 6 - 1
+week 8
+2011-01-23
+Styx SK - Wombats FC 5 - 0
+Affes Wonderboys - Blaikens IF 2 - 0
+Fat Cat FC - Ränneskit IF 2 - 3
+IFK Kvarnberget - Team ugly 1 - 2
+week 9
+2011-01-30
+Ränneskit IF - Styx SK 2 - 1
+Blaikens IF - Wombats FC 5 - 0
+IFK Kvarnberget - Affes Wonderboys 2 - 3
+Team ugly - Fat Cat FC 3 - 4
+week 10
+2011-02-06
+Wombats FC - Ränneskit IF 1 - 4
+Styx SK - IFK Kvarnberget 2 - 3
+Fat Cat FC - Blaikens IF 5 - 2
+Affes Wonderboys - Team ugly 2 - 0
+week 11
+2011-02-13
+IFK Kvarnberget - Ränneskit IF 0 - 3
+Team ugly - Wombats FC 6 - 1
+Blaikens IF - Styx SK 2 - 0
+Affes Wonderboys - Fat Cat FC 1 - 1
+week 12
+2011-02-20
+Wombats FC - Affes Wonderboys 3 - 1
+Fat Cat FC - IFK Kvarnberget 5 - 3
+Ränneskit IF - Blaikens IF 3 - 0
+Styx SK - Team ugly 2 - 0
+week 13
+2011-02-27
+Affes Wonderboys - Ränneskit IF 0 - 2
+IFK Kvarnberget - Wombats FC 4 - 1
+Team ugly - Blaikens IF 2 - 1
+Fat Cat FC - Styx SK 3 - 1
+week 14
+2011-03-06
+Styx SK - Affes Wonderboys 1 - 1
+Wombats FC - Fat Cat FC 1 - 5
+Blaikens IF - IFK Kvarnberget 0 - 3
+Ränneskit IF - Team ugly 5 - 0

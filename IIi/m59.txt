@@ -1,0 +1,84 @@
+week 1
+2015-07-12
+Knattarna BK - Järbo IF 1 - 1
+AIK - Kinnared Fk 4 - 1
+The Stars - Gamlestans Giganter 5 - 3
+Gårda BK - Los Pebbos 1 - 0
+week 2
+2015-07-19
+Kinnared Fk - The Stars 1 - 6
+Gamlestans Giganter - Knattarna BK 4 - 1
+Los Pebbos - AIK 2 - 3
+Järbo IF - Gårda BK 2 - 3
+week 3
+2015-07-26
+Kinnared Fk - Gamlestans Giganter 0 - 2
+The Stars - Järbo IF 4 - 1
+AIK - Gårda BK 5 - 0
+Knattarna BK - Los Pebbos 3 - 1
+week 4
+2015-08-02
+Los Pebbos - The Stars 3 - 2
+Gårda BK - Knattarna BK 1 - 2
+Gamlestans Giganter - AIK 4 - 2
+Järbo IF - Kinnared Fk 2 - 3
+week 5
+2015-08-09
+AIK - Järbo IF 5 - 1
+Kinnared Fk - Gårda BK 3 - 3
+The Stars - Knattarna BK 2 - 3
+Gamlestans Giganter - Los Pebbos 3 - 1
+week 6
+2015-08-16
+Knattarna BK - AIK 4 - 2
+Järbo IF - Gamlestans Giganter 1 - 4
+Gårda BK - The Stars 2 - 4
+Los Pebbos - Kinnared Fk 0 - 2
+week 7
+2015-08-23
+Los Pebbos - Järbo IF 1 - 3
+The Stars - AIK 2 - 2
+Kinnared Fk - Knattarna BK 3 - 1
+Gamlestans Giganter - Gårda BK 2 - 0
+week 8
+2015-08-30
+Gårda BK - Gamlestans Giganter 2 - 1
+Knattarna BK - Kinnared Fk 1 - 1
+AIK - The Stars 0 - 3
+Järbo IF - Los Pebbos 0 - 10
+week 9
+2015-09-06
+Kinnared Fk - Los Pebbos 3 - 1
+The Stars - Gårda BK 3 - 1
+Gamlestans Giganter - Järbo IF 10 - 0
+AIK - Knattarna BK 2 - 1
+week 10
+2015-09-13
+Knattarna BK - The Stars 3 - 2
+Gårda BK - Kinnared Fk 2 - 1
+Los Pebbos - Gamlestans Giganter 5 - 1
+Järbo IF - AIK 0 - 12
+week 11
+2015-09-20
+Kinnared Fk - Järbo IF 10 - 0
+The Stars - Los Pebbos 2 - 2
+Knattarna BK - Gårda BK 3 - 0
+AIK - Gamlestans Giganter 3 - 2
+week 12
+2015-09-27
+Los Pebbos - Knattarna BK 3 - 1
+Gamlestans Giganter - Kinnared Fk 2 - 3
+Järbo IF - The Stars 0 - 12
+Gårda BK - AIK 3 - 0
+week 13
+2015-10-04
+Gårda BK - Järbo IF 8 - 0
+AIK - Los Pebbos 7 - 3
+Knattarna BK - Gamlestans Giganter 4 - 1
+The Stars - Kinnared Fk 2 - 0
+week 14
+2015-10-11
+Los Pebbos - Gårda BK 5 - 4
+Järbo IF - Knattarna BK 0 - 11
+Kinnared Fk - AIK 1 - 4
+Gamlestans Giganter - The Stars 0 - 4

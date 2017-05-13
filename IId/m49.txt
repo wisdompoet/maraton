@@ -1,0 +1,84 @@
+week 1
+2012-06-17
+BK Stolpträff - Tåfjutt FF 0 - 1
+FC Volrat - BOTT FC 2 - 1
+Vagled RedFox - AC_Campoine 0 - 5
+Maråker Flyers - Göingeplan United 4 - 1
+week 2
+2012-06-24
+AC_Campoine - FC Volrat 2 - 6
+BOTT FC - BK Stolpträff 2 - 0
+Göingeplan United - Vagled RedFox 3 - 0
+Tåfjutt FF - Maråker Flyers 0 - 2
+week 3
+2012-07-01
+FC Volrat - Vagled RedFox 3 - 0
+BOTT FC - Tåfjutt FF 2 - 0
+Maråker Flyers - AC_Campoine 4 - 2
+BK Stolpträff - Göingeplan United 0 - 0
+week 4
+2012-07-08
+Vagled RedFox - Maråker Flyers 0 - 1
+Tåfjutt FF - FC Volrat 2 - 2
+Göingeplan United - BOTT FC 2 - 0
+AC_Campoine - BK Stolpträff 4 - 0
+week 5
+2012-07-15
+BOTT FC - Vagled RedFox 3 - 1
+BK Stolpträff - Maråker Flyers 2 - 2
+FC Volrat - Göingeplan United 3 - 1
+Tåfjutt FF - AC_Campoine 0 - 1
+week 6
+2012-07-22
+Maråker Flyers - FC Volrat 0 - 4
+Vagled RedFox - BK Stolpträff 1 - 1
+Göingeplan United - Tåfjutt FF 1 - 0
+AC_Campoine - BOTT FC 4 - 1
+week 7
+2012-07-29
+BOTT FC - Maråker Flyers 3 - 3
+Tåfjutt FF - Vagled RedFox 3 - 3
+BK Stolpträff - FC Volrat 1 - 2
+AC_Campoine - Göingeplan United 2 - 0
+week 8
+2012-08-05
+Göingeplan United - AC_Campoine 0 - 3
+FC Volrat - BK Stolpträff 5 - 2
+Vagled RedFox - Tåfjutt FF 0 - 1
+Maråker Flyers - BOTT FC 3 - 0
+week 9
+2012-08-12
+FC Volrat - Maråker Flyers 4 - 0
+Tåfjutt FF - Göingeplan United 0 - 1
+BK Stolpträff - Vagled RedFox 2 - 1
+BOTT FC - AC_Campoine 3 - 5
+week 10
+2012-08-19
+Göingeplan United - FC Volrat 0 - 2
+AC_Campoine - Tåfjutt FF 3 - 1
+Vagled RedFox - BOTT FC 3 - 4
+Maråker Flyers - BK Stolpträff 1 - 3
+week 11
+2012-08-26
+BOTT FC - Göingeplan United 4 - 2
+Maråker Flyers - Vagled RedFox 4 - 2
+BK Stolpträff - AC_Campoine 2 - 3
+FC Volrat - Tåfjutt FF 3 - 1
+week 12
+2012-09-02
+Vagled RedFox - FC Volrat 1 - 3
+Göingeplan United - BK Stolpträff 2 - 1
+AC_Campoine - Maråker Flyers 5 - 0
+Tåfjutt FF - BOTT FC 0 - 0
+week 13
+2012-09-09
+Maråker Flyers - Tåfjutt FF 1 - 2
+Vagled RedFox - Göingeplan United 1 - 4
+FC Volrat - AC_Campoine 3 - 1
+BK Stolpträff - BOTT FC 1 - 0
+week 14
+2012-09-16
+Tåfjutt FF - BK Stolpträff 3 - 0
+BOTT FC - FC Volrat 0 - 2
+Göingeplan United - Maråker Flyers 3 - 0
+AC_Campoine - Vagled RedFox 4 - 0

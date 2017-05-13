@@ -1,85 +1,84 @@
-Omgång 1
-2015-07-12 (1/59)			
-The Stocks - Hagfors FC	5 - 0	HT Re-Live
-BK Flash - AC Sätra Äng	2 - 3	HT Re-Live
-IFK Wella - IFK Pölsebo	2 - 3	HT Re-Live
-Röda älgarna - Khayelitsha	3 - 2	HT Re-Live
-Omgång 2
-2015-07-19 (2/59)			
-AC Sätra Äng - The Stocks	4 - 3	HT Re-Live
-IFK Pölsebo - BK Flash	1 - 2	HT Re-Live
-Khayelitsha - IFK Wella	2 - 1	HT Re-Live
-Hagfors FC - Röda älgarna	5 - 2	HT Re-Live
-Omgång 3
-2015-07-26 (3/59)			
-Röda älgarna - IFK Pölsebo	1 - 1	HT Re-Live
-The Stocks - Khayelitsha	4 - 4	HT Re-Live
-BK Flash - IFK Wella	5 - 1	HT Re-Live
-AC Sätra Äng - Hagfors FC	2 - 1	HT Re-Live
-Omgång 4
-2015-08-02 (4/59)			
-IFK Pölsebo - The Stocks	2 - 6	HT Re-Live
-IFK Wella - Röda älgarna	1 - 2	HT Re-Live
-Hagfors FC - BK Flash	4 - 6	HT Re-Live
-Khayelitsha - AC Sätra Äng	2 - 0	HT Re-Live
-Omgång 5
-2015-08-09 (5/59)			
-The Stocks - Röda älgarna	5 - 0	HT Re-Live
-AC Sätra Äng - IFK Wella	6 - 0	HT Re-Live
-Hagfors FC - IFK Pölsebo	4 - 4	HT Re-Live
-BK Flash - Khayelitsha	3 - 1	HT Re-Live
-Omgång 6
-2015-08-16 (6/59)			
-IFK Pölsebo - AC Sätra Äng	3 - 1	HT Re-Live
-Röda älgarna - BK Flash	2 - 4	HT Re-Live
-Khayelitsha - Hagfors FC	5 - 3	HT Re-Live
-IFK Wella - The Stocks	0 - 3	HT Re-Live
-Omgång 7
-2015-08-23 (7/59)			
-Hagfors FC - IFK Wella	5 - 2	HT Re-Live
-AC Sätra Äng - Röda älgarna	1 - 0	HT Re-Live
-IFK Pölsebo - Khayelitsha	0 - 3	HT Re-Live
-The Stocks - BK Flash	6 - 0	HT Re-Live
-Omgång 8
-2015-08-30 (8/59)			
-Khayelitsha - IFK Pölsebo	5 - 2	HT Re-Live
-IFK Wella - Hagfors FC	4 - 0	HT Re-Live
-Röda älgarna - AC Sätra Äng	3 - 1	HT Re-Live
-BK Flash - The Stocks	1 - 3	HT Re-Live
-Omgång 9
-2015-09-06 (9/59)			
-Hagfors FC - Khayelitsha	0 - 2	HT Re-Live
-The Stocks - IFK Wella	7 - 1	HT Re-Live
-AC Sätra Äng - IFK Pölsebo	3 - 1	HT Re-Live
-BK Flash - Röda älgarna	0 - 3	HT Re-Live
-Omgång 10
-2015-09-13 (10/59)			
-Röda älgarna - The Stocks	1 - 4	HT Re-Live
-IFK Pölsebo - Hagfors FC	4 - 2	HT Re-Live
-IFK Wella - AC Sätra Äng	3 - 0	HT Re-Live
-Khayelitsha - BK Flash	3 - 0	HT Re-Live
-Omgång 11
-2015-09-20 (11/59)			
-AC Sätra Äng - Khayelitsha	2 - 2	HT Re-Live
-Röda älgarna - IFK Wella	5 - 2	HT Re-Live
-The Stocks - IFK Pölsebo	7 - 0	HT Re-Live
-BK Flash - Hagfors FC	4 - 0	HT Re-Live
-Omgång 12
-2015-09-27 (12/59)			
-Hagfors FC - AC Sätra Äng	0 - 3	HT Re-Live
-IFK Wella - BK Flash	0 - 7	HT Re-Live
-IFK Pölsebo - Röda älgarna	3 - 6	HT Re-Live
-Khayelitsha - The Stocks	1 - 3	HT Re-Live
-Omgång 13
-2015-10-04 (13/59)			
-IFK Wella - Khayelitsha	0 - 7	HT Re-Live
-BK Flash - IFK Pölsebo	6 - 3	HT Re-Live
-The Stocks - AC Sätra Äng	1 - 2	HT Re-Live
-Röda älgarna - Hagfors FC	3 - 0	HT Re-Live
-Omgång 14
-2015-10-11 (14/59)			
-Khayelitsha - Röda älgarna	3 - 0	HT Re-Live
-AC Sätra Äng - BK Flash	0 - 1	HT Re-Live
-IFK Pölsebo - IFK Wella	5 - 0	HT Re-Live
-Hagfors FC - The Stocks	0 - 2	HT Re-Live
-
+week 1
+2015-07-12
+The Stocks - Hagfors FC 5 - 0
+BK Flash - AC SÃ¤tra Ã„ng 2 - 3
+IFK Wella - IFK PÃ¶lsebo 2 - 3
+RÃ¶da Ã¤lgarna - Khayelitsha 3 - 2
+week 2
+2015-07-19
+AC SÃ¤tra Ã„ng - The Stocks 4 - 3
+IFK PÃ¶lsebo - BK Flash 1 - 2
+Khayelitsha - IFK Wella 2 - 1
+Hagfors FC - RÃ¶da Ã¤lgarna 5 - 2
+week 3
+2015-07-26
+RÃ¶da Ã¤lgarna - IFK PÃ¶lsebo 1 - 1
+The Stocks - Khayelitsha 4 - 4
+BK Flash - IFK Wella 5 - 1
+AC SÃ¤tra Ã„ng - Hagfors FC 2 - 1
+week 4
+2015-08-02
+IFK PÃ¶lsebo - The Stocks 2 - 6
+IFK Wella - RÃ¶da Ã¤lgarna 1 - 2
+Hagfors FC - BK Flash 4 - 6
+Khayelitsha - AC SÃ¤tra Ã„ng 2 - 0
+week 5
+2015-08-09
+The Stocks - RÃ¶da Ã¤lgarna 5 - 0
+AC SÃ¤tra Ã„ng - IFK Wella 6 - 0
+Hagfors FC - IFK PÃ¶lsebo 4 - 4
+BK Flash - Khayelitsha 3 - 1
+week 6
+2015-08-16
+IFK PÃ¶lsebo - AC SÃ¤tra Ã„ng 3 - 1
+RÃ¶da Ã¤lgarna - BK Flash 2 - 4
+Khayelitsha - Hagfors FC 5 - 3
+IFK Wella - The Stocks 0 - 3
+week 7
+2015-08-23
+Hagfors FC - IFK Wella 5 - 2
+AC SÃ¤tra Ã„ng - RÃ¶da Ã¤lgarna 1 - 0
+IFK PÃ¶lsebo - Khayelitsha 0 - 3
+The Stocks - BK Flash 6 - 0
+week 8
+2015-08-30
+Khayelitsha - IFK PÃ¶lsebo 5 - 2
+IFK Wella - Hagfors FC 4 - 0
+RÃ¶da Ã¤lgarna - AC SÃ¤tra Ã„ng 3 - 1
+BK Flash - The Stocks 1 - 3
+week 9
+2015-09-06
+Hagfors FC - Khayelitsha 0 - 2
+The Stocks - IFK Wella 7 - 1
+AC SÃ¤tra Ã„ng - IFK PÃ¶lsebo 3 - 1
+BK Flash - RÃ¶da Ã¤lgarna 0 - 3
+week 10
+2015-09-13
+RÃ¶da Ã¤lgarna - The Stocks 1 - 4
+IFK PÃ¶lsebo - Hagfors FC 4 - 2
+IFK Wella - AC SÃ¤tra Ã„ng 3 - 0
+Khayelitsha - BK Flash 3 - 0
+week 11
+2015-09-20
+AC SÃ¤tra Ã„ng - Khayelitsha 2 - 2
+RÃ¶da Ã¤lgarna - IFK Wella 5 - 2
+The Stocks - IFK PÃ¶lsebo 7 - 0
+BK Flash - Hagfors FC 4 - 0
+week 12
+2015-09-27
+Hagfors FC - AC SÃ¤tra Ã„ng 0 - 3
+IFK Wella - BK Flash 0 - 7
+IFK PÃ¶lsebo - RÃ¶da Ã¤lgarna 3 - 6
+Khayelitsha - The Stocks 1 - 3
+week 13
+2015-10-04
+IFK Wella - Khayelitsha 0 - 7
+BK Flash - IFK PÃ¶lsebo 6 - 3
+The Stocks - AC SÃ¤tra Ã„ng 1 - 2
+RÃ¶da Ã¤lgarna - Hagfors FC 3 - 0
+week 14
+2015-10-11
+Khayelitsha - RÃ¶da Ã¤lgarna 3 - 0
+AC SÃ¤tra Ã„ng - BK Flash 0 - 1
+IFK PÃ¶lsebo - IFK Wella 5 - 0
+Hagfors FC - The Stocks 0 - 2

@@ -1,0 +1,84 @@
+week 1
+2014-04-20
+Konstanz Spring FC - BajenFanz 0 - 4
+Odens FC - Port Grimaud FC 0 - 0
+Seb IF - Sockerknarkarna 3 - 2
+Bakerkings - El Pollo Diablo 6 - 2
+week 2
+2014-04-27
+BajenFanz - Seb IF 4 - 1
+Port Grimaud FC - Konstanz Spring FC 2 - 0
+El Pollo Diablo - Odens FC 0 - 0
+Sockerknarkarna - Bakerkings 4 - 1
+week 3
+2014-05-04
+Port Grimaud FC - BajenFanz 9 - 0
+Konstanz Spring FC - Sockerknarkarna 1 - 1
+Odens FC - Bakerkings 0 - 1
+Seb IF - El Pollo Diablo 2 - 2
+week 4
+2014-05-11
+El Pollo Diablo - Konstanz Spring FC 1 - 1
+Bakerkings - Seb IF 4 - 4
+Sockerknarkarna - Port Grimaud FC 2 - 3
+BajenFanz - Odens FC 0 - 5
+week 5
+2014-05-18
+Konstanz Spring FC - Seb IF 1 - 4
+Port Grimaud FC - Bakerkings 3 - 0
+BajenFanz - El Pollo Diablo 0 - 5
+Odens FC - Sockerknarkarna 1 - 1
+week 6
+2014-05-25
+Bakerkings - Konstanz Spring FC 2 - 0
+Seb IF - Odens FC 5 - 1
+Sockerknarkarna - BajenFanz 7 - 0
+El Pollo Diablo - Port Grimaud FC 0 - 3
+week 7
+2014-06-01
+Konstanz Spring FC - Odens FC 1 - 2
+BajenFanz - Bakerkings 0 - 9
+Port Grimaud FC - Seb IF 5 - 1
+El Pollo Diablo - Sockerknarkarna 0 - 3
+week 8
+2014-06-08
+Seb IF - Port Grimaud FC 5 - 4
+Odens FC - Konstanz Spring FC 1 - 2
+Sockerknarkarna - El Pollo Diablo 5 - 1
+Bakerkings - BajenFanz 13 - 0
+week 9
+2014-06-15
+BajenFanz - Sockerknarkarna 0 - 8
+Port Grimaud FC - El Pollo Diablo 3 - 1
+Odens FC - Seb IF 5 - 3
+Konstanz Spring FC - Bakerkings 1 - 1
+week 10
+2014-06-22
+El Pollo Diablo - BajenFanz 9 - 0
+Sockerknarkarna - Odens FC 4 - 1
+Bakerkings - Port Grimaud FC 0 - 3
+Seb IF - Konstanz Spring FC 5 - 1
+week 11
+2014-06-29
+Odens FC - BajenFanz 11 - 0
+Konstanz Spring FC - El Pollo Diablo 2 - 1
+Seb IF - Bakerkings 5 - 1
+Port Grimaud FC - Sockerknarkarna 3 - 2
+week 12
+2014-07-06
+El Pollo Diablo - Seb IF 2 - 5
+Bakerkings - Odens FC 3 - 3
+BajenFanz - Port Grimaud FC 0 - 9
+Sockerknarkarna - Konstanz Spring FC 3 - 0
+week 13
+2014-07-13
+Bakerkings - Sockerknarkarna 2 - 2
+Odens FC - El Pollo Diablo 4 - 4
+Seb IF - BajenFanz 10 - 0
+Konstanz Spring FC - Port Grimaud FC 3 - 2
+week 14
+2014-07-20
+Port Grimaud FC - Odens FC 2 - 4
+El Pollo Diablo - Bakerkings 0 - 3
+BajenFanz - Konstanz Spring FC 0 - 8
+Sockerknarkarna - Seb IF 4 - 4

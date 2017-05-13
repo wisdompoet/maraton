@@ -1,0 +1,84 @@
+week 1
+2006-04-30
+Seb IF - Onsjö 3 - 3
+LAKERS - GEIF Söndsvall 2 - 0
+Dosa Sanusa - Arvidsjaur BK 0 - 4
+Annelunds IF - Oriole United 4 - 5
+week 2
+2006-05-07
+GEIF Söndsvall - Dosa Sanusa 3 - 2
+Onsjö - Annelunds IF 4 - 2
+Arvidsjaur BK - Seb IF 4 - 2
+Oriole United - LAKERS 5 - 0
+week 3
+2006-05-14
+LAKERS - Onsjö 4 - 0
+Seb IF - Dosa Sanusa 7 - 0
+Annelunds IF - Arvidsjaur BK 1 - 3
+GEIF Söndsvall - Oriole United 5 - 2
+week 4
+2006-05-21
+Onsjö - GEIF Söndsvall 0 - 3
+Arvidsjaur BK - LAKERS 0 - 5
+Seb IF - Annelunds IF 4 - 2
+Dosa Sanusa - Oriole United 2 - 4
+week 5
+2006-05-28
+Annelunds IF - Dosa Sanusa 4 - 1
+LAKERS - Seb IF 4 - 1
+Oriole United - Onsjö 5 - 0
+GEIF Söndsvall - Arvidsjaur BK 0 - 6
+week 6
+2006-06-04
+Annelunds IF - LAKERS 3 - 4
+Arvidsjaur BK - Oriole United 6 - 1
+Dosa Sanusa - Onsjö 4 - 2
+Seb IF - GEIF Söndsvall 3 - 1
+week 7
+2006-06-11
+Onsjö - Arvidsjaur BK 1 - 2
+Oriole United - Seb IF 6 - 1
+GEIF Söndsvall - Annelunds IF 0 - 4
+LAKERS - Dosa Sanusa 6 - 0
+week 8
+2006-06-18
+Seb IF - Oriole United 3 - 3
+Arvidsjaur BK - Onsjö 4 - 1
+Annelunds IF - GEIF Söndsvall 4 - 0
+Dosa Sanusa - LAKERS 1 - 8
+week 9
+2006-06-25
+GEIF Söndsvall - Seb IF 1 - 1
+LAKERS - Annelunds IF 2 - 1
+Onsjö - Dosa Sanusa 5 - 3
+Oriole United - Arvidsjaur BK 0 - 3
+week 10
+2006-07-02
+Dosa Sanusa - Annelunds IF 0 - 4
+Onsjö - Oriole United 6 - 1
+Arvidsjaur BK - GEIF Söndsvall 3 - 0
+Seb IF - LAKERS 3 - 1
+week 11
+2006-07-09
+Annelunds IF - Seb IF 1 - 2
+GEIF Söndsvall - Onsjö 2 - 1
+Oriole United - Dosa Sanusa 6 - 1
+LAKERS - Arvidsjaur BK 1 - 4
+week 12
+2006-07-16
+Oriole United - GEIF Söndsvall 3 - 0
+Dosa Sanusa - Seb IF 0 - 5
+Onsjö - LAKERS 4 - 3
+Arvidsjaur BK - Annelunds IF 4 - 0
+week 13
+2006-07-23
+Annelunds IF - Onsjö 3 - 1
+Seb IF - Arvidsjaur BK 1 - 3
+Dosa Sanusa - GEIF Söndsvall 3 - 1
+LAKERS - Oriole United 4 - 2
+week 14
+2006-07-30
+Onsjö - Seb IF 1 - 2
+GEIF Söndsvall - LAKERS 3 - 2
+Oriole United - Annelunds IF 2 - 1
+Arvidsjaur BK - Dosa Sanusa 8 - 0

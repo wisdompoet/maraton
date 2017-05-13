@@ -1,0 +1,84 @@
+week 1
+2002-05-05
+Frövipojkarna - TAB united 2 - 1
+Rusta Hallick - bk ivar 3 - 0
+Frank`z Bröder - Rubicon 0 - 3
+Valium Vikings - Los Skrattos 1 - 1
+week 2
+2002-05-12
+Rubicon - Frövipojkarna 3 - 1
+Los Skrattos - Rusta Hallick 3 - 0
+TAB united - Valium Vikings 0 - 6
+bk ivar - Frank`z Bröder 2 - 1
+week 3
+2002-05-19
+Rusta Hallick - TAB united 1 - 1
+Frank`z Bröder - Los Skrattos 2 - 1
+Rubicon - bk ivar 8 - 0
+Valium Vikings - Frövipojkarna 9 - 0
+week 4
+2002-05-26
+Frövipojkarna - bk ivar 1 - 3
+Los Skrattos - Rubicon 2 - 1
+TAB united - Frank`z Bröder 2 - 0
+Valium Vikings - Rusta Hallick 5 - 0
+week 5
+2002-06-02
+Rusta Hallick - Frövipojkarna 2 - 0
+Frank`z Bröder - Valium Vikings 3 - 3
+Rubicon - TAB united 1 - 1
+bk ivar - Los Skrattos 0 - 4
+week 6
+2002-06-09
+Frövipojkarna - Los Skrattos 2 - 2
+Rusta Hallick - Frank`z Bröder 4 - 0
+TAB united - bk ivar 4 - 1
+Valium Vikings - Rubicon 0 - 3
+week 7
+2002-06-16
+Frank`z Bröder - Frövipojkarna 1 - 3
+Rubicon - Rusta Hallick 2 - 2
+Los Skrattos - TAB united 0 - 1
+bk ivar - Valium Vikings 0 - 8
+week 8
+2002-06-23
+Valium Vikings - bk ivar 8 - 0
+TAB united - Los Skrattos 1 - 2
+Rusta Hallick - Rubicon 3 - 0
+Frövipojkarna - Frank`z Bröder 1 - 4
+week 9
+2002-06-30
+Rubicon - Valium Vikings 2 - 0
+bk ivar - TAB united 0 - 6
+Frank`z Bröder - Rusta Hallick 1 - 1
+Los Skrattos - Frövipojkarna 6 - 1
+week 10
+2002-07-07
+Los Skrattos - bk ivar 7 - 1
+TAB united - Rubicon 2 - 2
+Valium Vikings - Frank`z Bröder 2 - 1
+Frövipojkarna - Rusta Hallick 2 - 4
+week 11
+2002-07-14
+Rusta Hallick - Valium Vikings 2 - 1
+Frank`z Bröder - TAB united 1 - 1
+Rubicon - Los Skrattos 3 - 0
+bk ivar - Frövipojkarna 1 - 8
+week 12
+2002-07-21
+Frövipojkarna - Valium Vikings 4 - 3
+bk ivar - Rubicon 0 - 8
+Los Skrattos - Frank`z Bröder 1 - 0
+TAB united - Rusta Hallick 3 - 0
+week 13
+2002-07-28
+Frank`z Bröder - bk ivar 8 - 0
+Valium Vikings - TAB united 1 - 4
+Rusta Hallick - Los Skrattos 4 - 1
+Frövipojkarna - Rubicon 1 - 3
+week 14
+2002-08-04
+Los Skrattos - Valium Vikings 0 - 3
+Rubicon - Frank`z Bröder 0 - 1
+bk ivar - Rusta Hallick 0 - 6
+TAB united - Frövipojkarna 1 - 1

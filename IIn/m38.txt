@@ -1,0 +1,84 @@
+week 1
+2009-02-01
+Feglirarna - Sigtuna IF 1 - 3
+Glaskulans IF - Tjugosjö IF 5 - 0
+FC Thad - iC_WOLF 3 - 0
+IFK Losers  - Punanny FC 2 - 1
+week 2
+2009-02-08
+iC_WOLF - IFK Losers  0 - 4
+Punanny FC - Glaskulans IF 3 - 2
+Tjugosjö IF - Feglirarna 3 - 2
+Sigtuna IF - FC Thad 2 - 0
+week 3
+2009-02-15
+Feglirarna - Punanny FC 6 - 3
+FC Thad - Tjugosjö IF 3 - 5
+iC_WOLF - Sigtuna IF 3 - 3
+Glaskulans IF - IFK Losers  3 - 2
+week 4
+2009-02-22
+IFK Losers  - Sigtuna IF 5 - 2
+Tjugosjö IF - iC_WOLF 4 - 0
+Punanny FC - FC Thad 2 - 1
+Glaskulans IF - Feglirarna 2 - 1
+week 5
+2009-03-01
+Feglirarna - IFK Losers  1 - 4
+FC Thad - Glaskulans IF 4 - 2
+iC_WOLF - Punanny FC 3 - 1
+Sigtuna IF - Tjugosjö IF 5 - 2
+week 6
+2009-03-08
+Feglirarna - FC Thad 2 - 2
+IFK Losers  - Tjugosjö IF 8 - 1
+Punanny FC - Sigtuna IF 3 - 1
+Glaskulans IF - iC_WOLF 2 - 2
+week 7
+2009-03-15
+FC Thad - IFK Losers  1 - 4
+Tjugosjö IF - Punanny FC 2 - 1
+Sigtuna IF - Glaskulans IF 5 - 3
+iC_WOLF - Feglirarna 0 - 1
+week 8
+2009-03-22
+Punanny FC - Tjugosjö IF 4 - 0
+Glaskulans IF - Sigtuna IF 4 - 1
+Feglirarna - iC_WOLF 0 - 10
+IFK Losers  - FC Thad 4 - 0
+week 9
+2009-03-29
+Sigtuna IF - Punanny FC 1 - 4
+FC Thad - Feglirarna 9 - 0
+iC_WOLF - Glaskulans IF 2 - 3
+Tjugosjö IF - IFK Losers  1 - 2
+week 10
+2009-04-05
+Glaskulans IF - FC Thad 2 - 0
+IFK Losers  - Feglirarna 10 - 0
+Tjugosjö IF - Sigtuna IF 4 - 1
+Punanny FC - iC_WOLF 3 - 1
+week 11
+2009-04-12
+iC_WOLF - Tjugosjö IF 5 - 1
+FC Thad - Punanny FC 4 - 3
+Sigtuna IF - IFK Losers  0 - 5
+Feglirarna - Glaskulans IF 0 - 11
+week 12
+2009-04-19
+IFK Losers  - Glaskulans IF 4 - 3
+Tjugosjö IF - FC Thad 1 - 2
+Sigtuna IF - iC_WOLF 3 - 2
+Punanny FC - Feglirarna 10 - 0
+week 13
+2009-04-26
+FC Thad - Sigtuna IF 1 - 5
+Glaskulans IF - Punanny FC 3 - 2
+Feglirarna - Tjugosjö IF 0 - 11
+IFK Losers  - iC_WOLF 3 - 1
+week 14
+2009-05-03
+iC_WOLF - FC Thad 0 - 2
+Tjugosjö IF - Glaskulans IF 3 - 1
+Punanny FC - IFK Losers  2 - 2
+Sigtuna IF - Feglirarna 10 - 0

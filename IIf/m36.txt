@@ -1,84 +1,84 @@
-Omgång 1
-2008-06-22 (1/36)			
-A.I.F. - Bjarke BoIS	2 - 1	HT Re-Live
-NGOIF - Sundals Ryrs IF	4 - 0	HT Re-Live
-Black Ivory - ChapmanS BK	11 - 0	HT Re-Live
-BK Flash - FC Corvus Corax	3 - 1	HT Re-Live
-Omgång 2
-2008-06-29 (2/36)			
-ChapmanS BK - NGOIF	0 - 7	HT Re-Live
-Sundals Ryrs IF - BK Flash	1 - 4	HT Re-Live
-Bjarke BoIS - Black Ivory	2 - 0	HT Re-Live
-FC Corvus Corax - A.I.F.	4 - 2	HT Re-Live
-Omgång 3
-2008-07-06 (3/36)			
-Bjarke BoIS - FC Corvus Corax	2 - 3	HT Re-Live
-BK Flash - ChapmanS BK	6 - 0	HT Re-Live
-NGOIF - Black Ivory	4 - 0	HT Re-Live
-A.I.F. - Sundals Ryrs IF	4 - 2	HT Re-Live
-Omgång 4
-2008-07-13 (4/36)			
-NGOIF - BK Flash	2 - 0	HT Re-Live
-Black Ivory - FC Corvus Corax	0 - 3	HT Re-Live
-Sundals Ryrs IF - Bjarke BoIS	4 - 4	HT Re-Live
-ChapmanS BK - A.I.F.	0 - 9	HT Re-Live
-Omgång 5
-2008-07-20 (5/36)			
-BK Flash - Black Ivory	4 - 0	HT Re-Live
-A.I.F. - NGOIF	5 - 0	HT Re-Live
-FC Corvus Corax - Sundals Ryrs IF	4 - 1	HT Re-Live
-Bjarke BoIS - ChapmanS BK	9 - 0	HT Re-Live
-Omgång 6
-2008-07-27 (6/36)			
-Black Ivory - Sundals Ryrs IF	0 - 4	HT Re-Live
-BK Flash - A.I.F.	4 - 0	HT Re-Live
-ChapmanS BK - FC Corvus Corax	0 - 3	HT Re-Live
-NGOIF - Bjarke BoIS	1 - 4	HT Re-Live
-Omgång 7
-2008-08-03 (7/36)			
-Bjarke BoIS - BK Flash	1 - 4	HT Re-Live
-Sundals Ryrs IF - ChapmanS BK	11 - 0	HT Re-Live
-FC Corvus Corax - NGOIF	4 - 1	HT Re-Live
-A.I.F. - Black Ivory	2 - 1	HT Re-Live
-Omgång 8
-2008-08-10 (8/36)			
-BK Flash - Bjarke BoIS	4 - 0	HT Re-Live
-ChapmanS BK - Sundals Ryrs IF	1 - 6	HT Re-Live
-NGOIF - FC Corvus Corax	2 - 0	HT Re-Live
-Black Ivory - A.I.F.	0 - 2	HT Re-Live
-Omgång 9
-2008-08-17 (9/36)			
-Bjarke BoIS - NGOIF	3 - 2	HT Re-Live
-FC Corvus Corax - ChapmanS BK	9 - 0	HT Re-Live
-A.I.F. - BK Flash	3 - 2	HT Re-Live
-Sundals Ryrs IF - Black Ivory	2 - 1	HT Re-Live
-Omgång 10
-2008-08-24 (10/36)			
-Sundals Ryrs IF - FC Corvus Corax	2 - 5	HT Re-Live
-ChapmanS BK - Bjarke BoIS	0 - 7	HT Re-Live
-NGOIF - A.I.F.	3 - 0	HT Re-Live
-Black Ivory - BK Flash	0 - 5	HT Re-Live
-Omgång 11
-2008-08-31 (11/36)			
-BK Flash - NGOIF	4 - 1	HT Re-Live
-A.I.F. - ChapmanS BK	8 - 0	HT Re-Live
-Bjarke BoIS - Sundals Ryrs IF	5 - 3	HT Re-Live
-FC Corvus Corax - Black Ivory	2 - 0	HT Re-Live
-Omgång 12
-2008-09-07 (12/36)			
-Black Ivory - NGOIF	0 - 2	HT Re-Live
-Sundals Ryrs IF - A.I.F.	2 - 1	HT Re-Live
-FC Corvus Corax - Bjarke BoIS	2 - 1	HT Re-Live
-ChapmanS BK - BK Flash	0 - 9	HT Re-Live
-Omgång 13
-2008-09-14 (13/36)			
-A.I.F. - FC Corvus Corax	2 - 4	HT Re-Live
-NGOIF - ChapmanS BK	10 - 0	HT Re-Live
-BK Flash - Sundals Ryrs IF	2 - 2	HT Re-Live
-Black Ivory - Bjarke BoIS	0 - 3	HT Re-Live
-Omgång 14
-2008-09-21 (14/36)			
-Bjarke BoIS - A.I.F.	2 - 5	HT Re-Live
-Sundals Ryrs IF - NGOIF	0 - 2	HT Re-Live
-FC Corvus Corax - BK Flash	4 - 1	HT Re-Live
-ChapmanS BK - Black Ivory	0 - 6	HT Re-Live
+week 1
+2008-06-22
+A.I.F. - Bjarke BoIS 2 - 1
+NGOIF - Sundals Ryrs IF 4 - 0
+Black Ivory - ChapmanS BK 11 - 0
+BK Flash - FC Corvus Corax 3 - 1
+week 2
+2008-06-29
+ChapmanS BK - NGOIF 0 - 7
+Sundals Ryrs IF - BK Flash 1 - 4
+Bjarke BoIS - Black Ivory 2 - 0
+FC Corvus Corax - A.I.F. 4 - 2
+week 3
+2008-07-06
+Bjarke BoIS - FC Corvus Corax 2 - 3
+BK Flash - ChapmanS BK 6 - 0
+NGOIF - Black Ivory 4 - 0
+A.I.F. - Sundals Ryrs IF 4 - 2
+week 4
+2008-07-13
+NGOIF - BK Flash 2 - 0
+Black Ivory - FC Corvus Corax 0 - 3
+Sundals Ryrs IF - Bjarke BoIS 4 - 4
+ChapmanS BK - A.I.F. 0 - 9
+week 5
+2008-07-20
+BK Flash - Black Ivory 4 - 0
+A.I.F. - NGOIF 5 - 0
+FC Corvus Corax - Sundals Ryrs IF 4 - 1
+Bjarke BoIS - ChapmanS BK 9 - 0
+week 6
+2008-07-27
+Black Ivory - Sundals Ryrs IF 0 - 4
+BK Flash - A.I.F. 4 - 0
+ChapmanS BK - FC Corvus Corax 0 - 3
+NGOIF - Bjarke BoIS 1 - 4
+week 7
+2008-08-03
+Bjarke BoIS - BK Flash 1 - 4
+Sundals Ryrs IF - ChapmanS BK 11 - 0
+FC Corvus Corax - NGOIF 4 - 1
+A.I.F. - Black Ivory 2 - 1
+week 8
+2008-08-10
+BK Flash - Bjarke BoIS 4 - 0
+ChapmanS BK - Sundals Ryrs IF 1 - 6
+NGOIF - FC Corvus Corax 2 - 0
+Black Ivory - A.I.F. 0 - 2
+week 9
+2008-08-17
+Bjarke BoIS - NGOIF 3 - 2
+FC Corvus Corax - ChapmanS BK 9 - 0
+A.I.F. - BK Flash 3 - 2
+Sundals Ryrs IF - Black Ivory 2 - 1
+week 10
+2008-08-24
+Sundals Ryrs IF - FC Corvus Corax 2 - 5
+ChapmanS BK - Bjarke BoIS 0 - 7
+NGOIF - A.I.F. 3 - 0
+Black Ivory - BK Flash 0 - 5
+week 11
+2008-08-31
+BK Flash - NGOIF 4 - 1
+A.I.F. - ChapmanS BK 8 - 0
+Bjarke BoIS - Sundals Ryrs IF 5 - 3
+FC Corvus Corax - Black Ivory 2 - 0
+week 12
+2008-09-07
+Black Ivory - NGOIF 0 - 2
+Sundals Ryrs IF - A.I.F. 2 - 1
+FC Corvus Corax - Bjarke BoIS 2 - 1
+ChapmanS BK - BK Flash 0 - 9
+week 13
+2008-09-14
+A.I.F. - FC Corvus Corax 2 - 4
+NGOIF - ChapmanS BK 10 - 0
+BK Flash - Sundals Ryrs IF 2 - 2
+Black Ivory - Bjarke BoIS 0 - 3
+week 14
+2008-09-21
+Bjarke BoIS - A.I.F. 2 - 5
+Sundals Ryrs IF - NGOIF 0 - 2
+FC Corvus Corax - BK Flash 4 - 1
+ChapmanS BK - Black Ivory 0 - 6

@@ -1,0 +1,84 @@
+week 1
+2012-02-26
+Skansholms SK - BK Angus 4 - 0
+Moulinsart - Harolds Heroes 2 - 2
+Tidelaget - Kattafan United 2 - 0
+Mellerud Farmers - bonk IS 3 - 0
+week 2
+2012-03-04
+bonk IS - Moulinsart 3 - 0
+Harolds Heroes - Tidelaget 4 - 1
+Kattafan United - Skansholms SK 2 - 5
+BK Angus - Mellerud Farmers 3 - 5
+week 3
+2012-03-11
+Harolds Heroes - Kattafan United 3 - 4
+Tidelaget - BK Angus 5 - 1
+Skansholms SK - bonk IS 4 - 0
+Moulinsart - Mellerud Farmers 4 - 1
+week 4
+2012-03-18
+BK Angus - Harolds Heroes 3 - 1
+bonk IS - Tidelaget 0 - 2
+Mellerud Farmers - Skansholms SK 0 - 3
+Kattafan United - Moulinsart 3 - 2
+week 5
+2012-03-25
+Kattafan United - bonk IS 1 - 1
+Moulinsart - BK Angus 2 - 3
+Harolds Heroes - Mellerud Farmers 4 - 4
+Tidelaget - Skansholms SK 0 - 3
+week 6
+2012-04-01
+Mellerud Farmers - Tidelaget 0 - 3
+Skansholms SK - Moulinsart 4 - 0
+bonk IS - Harolds Heroes 4 - 2
+BK Angus - Kattafan United 2 - 1
+week 7
+2012-04-08
+Tidelaget - Moulinsart 4 - 0
+Kattafan United - Mellerud Farmers 3 - 2
+Harolds Heroes - Skansholms SK 1 - 3
+bonk IS - BK Angus 1 - 2
+week 8
+2012-04-15
+BK Angus - bonk IS 3 - 1
+Skansholms SK - Harolds Heroes 3 - 0
+Mellerud Farmers - Kattafan United 0 - 1
+Moulinsart - Tidelaget 0 - 1
+week 9
+2012-04-22
+Kattafan United - BK Angus 4 - 1
+Tidelaget - Mellerud Farmers 3 - 0
+Harolds Heroes - bonk IS 1 - 2
+Moulinsart - Skansholms SK 1 - 0
+week 10
+2012-04-29
+bonk IS - Kattafan United 3 - 1
+BK Angus - Moulinsart 2 - 0
+Mellerud Farmers - Harolds Heroes 3 - 3
+Skansholms SK - Tidelaget 5 - 1
+week 11
+2012-05-06
+Harolds Heroes - BK Angus 1 - 3
+Moulinsart - Kattafan United 1 - 0
+Skansholms SK - Mellerud Farmers 4 - 2
+Tidelaget - bonk IS 4 - 0
+week 12
+2012-05-13
+bonk IS - Skansholms SK 4 - 2
+Kattafan United - Harolds Heroes 0 - 7
+BK Angus - Tidelaget 1 - 3
+Mellerud Farmers - Moulinsart 4 - 0
+week 13
+2012-05-20
+Mellerud Farmers - BK Angus 3 - 2
+Moulinsart - bonk IS 3 - 1
+Skansholms SK - Kattafan United 8 - 1
+Tidelaget - Harolds Heroes 1 - 1
+week 14
+2012-05-27
+BK Angus - Skansholms SK 0 - 3
+bonk IS - Mellerud Farmers 2 - 2
+Harolds Heroes - Moulinsart 2 - 4
+Kattafan United - Tidelaget 1 - 3

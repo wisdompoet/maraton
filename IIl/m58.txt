@@ -1,0 +1,84 @@
+week 1
+2015-03-22
+Arvika IF - Bossedog 1 - 10
+Glumslövs BK - BOTT FC 2 - 3
+inget av lagen - IK Beard 3 - 2
+Z:s Tigrar - Bergnäsets AIK 2 - 6
+week 2
+2015-03-29
+BOTT FC - Arvika IF 7 - 0
+IK Beard - Glumslövs BK 3 - 2
+Bergnäsets AIK - inget av lagen 4 - 2
+Bossedog - Z:s Tigrar 8 - 0
+week 3
+2015-04-05
+Glumslövs BK - inget av lagen 2 - 2
+Arvika IF - Bergnäsets AIK 1 - 7
+BOTT FC - Bossedog 4 - 3
+Z:s Tigrar - IK Beard 2 - 1
+week 4
+2015-04-12
+IK Beard - Arvika IF 7 - 0
+inget av lagen - Z:s Tigrar 3 - 1
+Bossedog - Glumslövs BK 3 - 1
+Bergnäsets AIK - BOTT FC 4 - 0
+week 5
+2015-04-19
+Arvika IF - Z:s Tigrar 0 - 4
+BOTT FC - inget av lagen 6 - 1
+Glumslövs BK - Bergnäsets AIK 7 - 1
+Bossedog - IK Beard 5 - 1
+week 6
+2015-04-26
+Z:s Tigrar - Glumslövs BK 2 - 4
+IK Beard - BOTT FC 3 - 2
+Bergnäsets AIK - Bossedog 0 - 3
+inget av lagen - Arvika IF 8 - 0
+week 7
+2015-05-03
+BOTT FC - Z:s Tigrar 7 - 1
+Arvika IF - Glumslövs BK 0 - 5
+Bossedog - inget av lagen 4 - 1
+IK Beard - Bergnäsets AIK 1 - 3
+week 8
+2015-05-10
+Bergnäsets AIK - IK Beard 3 - 2
+inget av lagen - Bossedog 2 - 4
+Z:s Tigrar - BOTT FC 2 - 2
+Glumslövs BK - Arvika IF 5 - 0
+week 9
+2015-05-17
+Bossedog - Bergnäsets AIK 1 - 0
+BOTT FC - IK Beard 2 - 2
+Arvika IF - inget av lagen 0 - 5
+Glumslövs BK - Z:s Tigrar 1 - 2
+week 10
+2015-05-24
+IK Beard - Bossedog 4 - 2
+Bergnäsets AIK - Glumslövs BK 3 - 1
+inget av lagen - BOTT FC 3 - 5
+Z:s Tigrar - Arvika IF 4 - 0
+week 11
+2015-05-31
+Glumslövs BK - Bossedog 0 - 4
+BOTT FC - Bergnäsets AIK 4 - 4
+Z:s Tigrar - inget av lagen 2 - 0
+Arvika IF - IK Beard 0 - 4
+week 12
+2015-06-07
+Bossedog - BOTT FC 3 - 3
+IK Beard - Z:s Tigrar 5 - 0
+Bergnäsets AIK - Arvika IF 8 - 0
+inget av lagen - Glumslövs BK 5 - 0
+week 13
+2015-06-14
+Glumslövs BK - IK Beard 2 - 2
+inget av lagen - Bergnäsets AIK 2 - 2
+Z:s Tigrar - Bossedog 1 - 5
+Arvika IF - BOTT FC 0 - 6
+week 14
+2015-06-21
+BOTT FC - Glumslövs BK 8 - 1
+Bergnäsets AIK - Z:s Tigrar 3 - 1
+Bossedog - Arvika IF 5 - 1
+IK Beard - inget av lagen 5 - 1

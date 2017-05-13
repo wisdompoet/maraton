@@ -1,0 +1,84 @@
+week 1
+2013-05-19
+NyFF - BK Birka 2 - 2
+inget av lagen - Jossans Grabbar 0 - 0
+Korporationen - Birchtar Ballers 3 - 3
+Lindvallen - Playboys Us 8 - 0
+week 2
+2013-05-26
+Jossans Grabbar - NyFF 2 - 1
+Playboys Us - inget av lagen 0 - 5
+BK Birka - Korporationen 3 - 1
+Birchtar Ballers - Lindvallen 1 - 0
+week 3
+2013-06-02
+NyFF - Birchtar Ballers 3 - 2
+Jossans Grabbar - BK Birka 0 - 2
+Korporationen - Playboys Us 8 - 0
+inget av lagen - Lindvallen 4 - 1
+week 4
+2013-06-09
+Playboys Us - NyFF 0 - 9
+BK Birka - inget av lagen 4 - 3
+Lindvallen - Korporationen 2 - 5
+Birchtar Ballers - Jossans Grabbar 4 - 1
+week 5
+2013-06-16
+Jossans Grabbar - Lindvallen 2 - 2
+inget av lagen - Birchtar Ballers 4 - 2
+NyFF - Korporationen 2 - 4
+BK Birka - Playboys Us 6 - 0
+week 6
+2013-06-23
+Lindvallen - NyFF 1 - 1
+Korporationen - inget av lagen 6 - 1
+Playboys Us - Jossans Grabbar 0 - 5
+Birchtar Ballers - BK Birka 2 - 2
+week 7
+2013-06-30
+NyFF - inget av lagen 3 - 0
+BK Birka - Lindvallen 0 - 0
+Jossans Grabbar - Korporationen 3 - 2
+Playboys Us - Birchtar Ballers 0 - 6
+week 8
+2013-07-07
+Birchtar Ballers - Playboys Us 8 - 0
+Korporationen - Jossans Grabbar 5 - 0
+Lindvallen - BK Birka 1 - 2
+inget av lagen - NyFF 3 - 2
+week 9
+2013-07-14
+BK Birka - Birchtar Ballers 0 - 4
+Jossans Grabbar - Playboys Us 8 - 0
+inget av lagen - Korporationen 2 - 5
+NyFF - Lindvallen 0 - 10
+week 10
+2013-07-21
+Playboys Us - BK Birka 0 - 7
+Birchtar Ballers - inget av lagen 2 - 2
+Lindvallen - Jossans Grabbar 3 - 1
+Korporationen - NyFF 11 - 0
+week 11
+2013-07-28
+Jossans Grabbar - Birchtar Ballers 0 - 1
+Korporationen - Lindvallen 5 - 0
+inget av lagen - BK Birka 3 - 3
+NyFF - Playboys Us 0 - 5
+week 12
+2013-08-04
+Playboys Us - Korporationen 1 - 8
+BK Birka - Jossans Grabbar 1 - 2
+Lindvallen - inget av lagen 2 - 3
+Birchtar Ballers - NyFF 11 - 0
+week 13
+2013-08-11
+Lindvallen - Birchtar Ballers 0 - 2
+Korporationen - BK Birka 3 - 1
+NyFF - Jossans Grabbar 0 - 8
+inget av lagen - Playboys Us 8 - 0
+week 14
+2013-08-18
+Birchtar Ballers - Korporationen 1 - 5
+Playboys Us - Lindvallen 2 - 1
+BK Birka - NyFF 8 - 0
+Jossans Grabbar - inget av lagen 3 - 1

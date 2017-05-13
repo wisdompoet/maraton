@@ -1,84 +1,84 @@
-Omgång 1
-2014-04-20 (1/55) 			
-	Dallas Superstars - Höghammars Gif 	0 - 0 	HT Re-Live
-	Bearpool FC - BK Swissmad 	4 - 2 	HT Re-Live
-	Manana - Tampes United 	3 - 3 	HT Re-Live
-	Scoring Xtreme - Kardoz Boys 	1 - 2 	HT Re-Live
-Omgång 2
-2014-04-27 (2/55) 			
-	Höghammars Gif - Bearpool FC 	3 - 0 	HT Re-Live
-	Kardoz Boys - Dallas Superstars 	4 - 2 	HT Re-Live
-	Tampes United - Scoring Xtreme 	3 - 0 	HT Re-Live
-	BK Swissmad - Manana 	1 - 3 	HT Re-Live
-Omgång 3
-2014-05-04 (3/55) 			
-	Manana - Bearpool FC 	2 - 1 	HT Re-Live
-	Tampes United - Kardoz Boys 	4 - 1 	HT Re-Live
-	Dallas Superstars - BK Swissmad 	4 - 1 	HT Re-Live
-	Scoring Xtreme - Höghammars Gif 	4 - 2 	HT Re-Live
-Omgång 4
-2014-05-11 (4/55) 			
-	Bearpool FC - Dallas Superstars 	7 - 2 	HT Re-Live
-	Höghammars Gif - Tampes United 	2 - 5 	HT Re-Live
-	Kardoz Boys - Manana 	3 - 2 	HT Re-Live
-	BK Swissmad - Scoring Xtreme 	5 - 2 	HT Re-Live
-Omgång 5
-2014-05-18 (5/55) 			
-	Manana - Höghammars Gif 	3 - 1 	HT Re-Live
-	Kardoz Boys - BK Swissmad 	2 - 0 	HT Re-Live
-	Tampes United - Bearpool FC 	3 - 0 	HT Re-Live
-	Scoring Xtreme - Dallas Superstars 	2 - 5 	HT Re-Live
-Omgång 6
-2014-05-25 (6/55) 			
-	Dallas Superstars - Manana 	1 - 1 	HT Re-Live
-	Höghammars Gif - Kardoz Boys 	6 - 2 	HT Re-Live
-	BK Swissmad - Tampes United 	2 - 7 	HT Re-Live
-	Bearpool FC - Scoring Xtreme 	2 - 3 	HT Re-Live
-Omgång 7
-2014-06-01 (7/55) 			
-	BK Swissmad - Höghammars Gif 	2 - 1 	HT Re-Live
-	Tampes United - Dallas Superstars 	5 - 1 	HT Re-Live
-	Kardoz Boys - Bearpool FC 	1 - 2 	HT Re-Live
-	Scoring Xtreme - Manana 	0 - 1 	HT Re-Live
-Omgång 8
-2014-06-08 (8/55) 			
-	Bearpool FC - Kardoz Boys 	4 - 1 	HT Re-Live
-	Manana - Scoring Xtreme 	3 - 1 	HT Re-Live
-	Höghammars Gif - BK Swissmad 	4 - 3 	HT Re-Live
-	Dallas Superstars - Tampes United 	2 - 5 	HT Re-Live
-Omgång 9
-2014-06-15 (9/55) 			
-	Manana - Dallas Superstars 	5 - 0 	HT Re-Live
-	Tampes United - BK Swissmad 	3 - 0 	HT Re-Live
-	Scoring Xtreme - Bearpool FC 	0 - 1 	HT Re-Live
-	Kardoz Boys - Höghammars Gif 	2 - 2 	HT Re-Live
-Omgång 10
-2014-06-22 (10/55) 			
-	BK Swissmad - Kardoz Boys 	3 - 2 	HT Re-Live
-	Dallas Superstars - Scoring Xtreme 	7 - 1 	HT Re-Live
-	Höghammars Gif - Manana 	2 - 1 	HT Re-Live
-	Bearpool FC - Tampes United 	0 - 1 	HT Re-Live
-Omgång 11
-2014-06-29 (11/55) 			
-	Scoring Xtreme - BK Swissmad 	1 - 3 	HT Re-Live
-	Dallas Superstars - Bearpool FC 	1 - 5 	HT Re-Live
-	Tampes United - Höghammars Gif 	4 - 0 	HT Re-Live
-	Manana - Kardoz Boys 	2 - 0 	HT Re-Live
-Omgång 12
-2014-07-06 (12/55) 			
-	BK Swissmad - Dallas Superstars 	2 - 2 	HT Re-Live
-	Höghammars Gif - Scoring Xtreme 	2 - 0 	HT Re-Live
-	Bearpool FC - Manana 	3 - 1 	HT Re-Live
-	Kardoz Boys - Tampes United 	4 - 1 	HT Re-Live
-Omgång 13
-2014-07-13 (13/55) 			
-	Scoring Xtreme - Tampes United 	0 - 8 	HT Re-Live
-	Bearpool FC - Höghammars Gif 	2 - 0 	HT Re-Live
-	Dallas Superstars - Kardoz Boys 	5 - 3 	HT Re-Live
-	Manana - BK Swissmad 	1 - 1 	HT Re-Live
-Omgång 14
-2014-07-20 (14/55) 			
-	BK Swissmad - Bearpool FC 	4 - 1 	HT Re-Live
-	Tampes United - Manana 	2 - 4 	HT Re-Live
-	Kardoz Boys - Scoring Xtreme 	5 - 0 	HT Re-Live
-	Höghammars Gif - Dallas Superstars 	4 - 1 	HT Re-Live
+week 1
+2014-04-20
+Scoring Xtreme - Kardoz Boys 1 - 2
+Manana - Tampes United 3 - 3
+Bearpool FC - BK Swissmad 4 - 2
+Dallas Superstars - Höghammars Gif 0 - 0
+week 2
+2014-04-27
+BK Swissmad - Manana 1 - 3
+Tampes United - Scoring Xtreme 3 - 0
+Kardoz Boys - Dallas Superstars 4 - 2
+Höghammars Gif - Bearpool FC 3 - 0
+week 3
+2014-05-04
+Scoring Xtreme - Höghammars Gif 4 - 2
+Dallas Superstars - BK Swissmad 4 - 1
+Tampes United - Kardoz Boys 4 - 1
+Manana - Bearpool FC 2 - 1
+week 4
+2014-05-11
+BK Swissmad - Scoring Xtreme 5 - 2
+Kardoz Boys - Manana 3 - 2
+Höghammars Gif - Tampes United 2 - 5
+Bearpool FC - Dallas Superstars 7 - 2
+week 5
+2014-05-18
+Scoring Xtreme - Dallas Superstars 2 - 5
+Tampes United - Bearpool FC 3 - 0
+Manana - Höghammars Gif 3 - 1
+Kardoz Boys - BK Swissmad 2 - 0
+week 6
+2014-05-25
+Dallas Superstars - Manana 1 - 1
+Höghammars Gif - Kardoz Boys 6 - 2
+BK Swissmad - Tampes United 2 - 7
+Bearpool FC - Scoring Xtreme 2 - 3
+week 7
+2014-06-01
+BK Swissmad - Höghammars Gif 2 - 1
+Tampes United - Dallas Superstars 5 - 1
+Kardoz Boys - Bearpool FC 1 - 2
+Scoring Xtreme - Manana 0 - 1
+week 8
+2014-06-08
+Bearpool FC - Kardoz Boys 4 - 1
+Manana - Scoring Xtreme 3 - 1
+Höghammars Gif - BK Swissmad 4 - 3
+Dallas Superstars - Tampes United 2 - 5
+week 9
+2014-06-15
+Tampes United - BK Swissmad 3 - 0
+Scoring Xtreme - Bearpool FC 0 - 1
+Kardoz Boys - Höghammars Gif 2 - 2
+Manana - Dallas Superstars 5 - 0
+week 10
+2014-06-22
+Bearpool FC - Tampes United 0 - 1
+Höghammars Gif - Manana 2 - 1
+Dallas Superstars - Scoring Xtreme 7 - 1
+BK Swissmad - Kardoz Boys 3 - 2
+week 11
+2014-06-29
+Manana - Kardoz Boys 2 - 0
+Tampes United - Höghammars Gif 4 - 0
+Dallas Superstars - Bearpool FC 1 - 5
+Scoring Xtreme - BK Swissmad 1 - 3
+week 12
+2014-07-06
+Kardoz Boys - Tampes United 4 - 1
+Bearpool FC - Manana 3 - 1
+Höghammars Gif - Scoring Xtreme 2 - 0
+BK Swissmad - Dallas Superstars 2 - 2
+week 13
+2014-07-13
+Manana - BK Swissmad 1 - 1
+Dallas Superstars - Kardoz Boys 5 - 3
+Bearpool FC - Höghammars Gif 2 - 0
+Scoring Xtreme - Tampes United 0 - 8
+week 14
+2014-07-20
+Höghammars Gif - Dallas Superstars 4 - 1
+Kardoz Boys - Scoring Xtreme 5 - 0
+Tampes United - Manana 2 - 4
+BK Swissmad - Bearpool FC 4 - 1

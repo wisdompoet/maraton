@@ -1,0 +1,84 @@
+week 1
+2004-10-17
+Krilles Kometer - Team Falcon Export 3 - 2
+Jäderfors SK - TAB united 2 - 0
+IFK Svanen - Krillstar 2 - 4
+team_ekos - Titleist Pro 7 - 2
+week 2
+2004-10-24
+Krillstar - Krilles Kometer 1 - 3
+Titleist Pro - Jäderfors SK 4 - 2
+Team Falcon Export - team_ekos 1 - 4
+TAB united - IFK Svanen 2 - 1
+week 3
+2004-10-31
+Jäderfors SK - Team Falcon Export 1 - 3
+IFK Svanen - Titleist Pro 1 - 3
+Krillstar - TAB united 5 - 0
+team_ekos - Krilles Kometer 2 - 1
+week 4
+2004-11-07
+Krilles Kometer - TAB united 2 - 1
+Titleist Pro - Krillstar 0 - 4
+Team Falcon Export - IFK Svanen 2 - 1
+team_ekos - Jäderfors SK 6 - 2
+week 5
+2004-11-14
+Jäderfors SK - Krilles Kometer 0 - 5
+IFK Svanen - team_ekos 3 - 3
+Krillstar - Team Falcon Export 5 - 2
+TAB united - Titleist Pro 1 - 4
+week 6
+2004-11-21
+Krilles Kometer - Titleist Pro 1 - 2
+Jäderfors SK - IFK Svanen 3 - 2
+Team Falcon Export - TAB united 4 - 2
+team_ekos - Krillstar 2 - 5
+week 7
+2004-11-28
+IFK Svanen - Krilles Kometer 4 - 0
+Krillstar - Jäderfors SK 3 - 0
+Titleist Pro - Team Falcon Export 4 - 0
+TAB united - team_ekos 6 - 0
+week 8
+2004-12-05
+team_ekos - TAB united 3 - 0
+Team Falcon Export - Titleist Pro 2 - 1
+Jäderfors SK - Krillstar 0 - 3
+Krilles Kometer - IFK Svanen 1 - 1
+week 9
+2004-12-12
+Krillstar - team_ekos 5 - 2
+TAB united - Team Falcon Export 6 - 0
+IFK Svanen - Jäderfors SK 1 - 0
+Titleist Pro - Krilles Kometer 1 - 0
+week 10
+2004-12-19
+Titleist Pro - TAB united 5 - 3
+Team Falcon Export - Krillstar 6 - 3
+team_ekos - IFK Svanen 1 - 4
+Krilles Kometer - Jäderfors SK 3 - 1
+week 11
+2004-12-26
+Jäderfors SK - team_ekos 1 - 3
+IFK Svanen - Team Falcon Export 4 - 5
+Krillstar - Titleist Pro 2 - 2
+TAB united - Krilles Kometer 4 - 0
+week 12
+2005-01-02
+Krilles Kometer - team_ekos 0 - 3
+TAB united - Krillstar 3 - 2
+Titleist Pro - IFK Svanen 1 - 1
+Team Falcon Export - Jäderfors SK 5 - 0
+week 13
+2005-01-09
+IFK Svanen - TAB united 2 - 1
+team_ekos - Team Falcon Export 2 - 3
+Jäderfors SK - Titleist Pro 5 - 2
+Krilles Kometer - Krillstar 1 - 4
+week 14
+2005-01-16
+Titleist Pro - team_ekos 0 - 7
+Krillstar - IFK Svanen 4 - 0
+TAB united - Jäderfors SK 3 - 1
+Team Falcon Export - Krilles Kometer 4 - 2

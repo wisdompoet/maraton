@@ -1,0 +1,84 @@
+week 1
+2006-04-30
+Stream Team - KOMA 0 - 2
+Shishkebab BK - Orrefors IF 2 - 4
+MacGyver - Rubblarp Redemption 2 - 2
+Gefle IF - Follorna FC 2 - 2
+week 2
+2006-05-07
+Follorna FC - Shishkebab BK 0 - 4
+Orrefors IF - Stream Team 3 - 2
+Rubblarp Redemption - Gefle IF 3 - 1
+KOMA - MacGyver 4 - 2
+week 3
+2006-05-14
+Shishkebab BK - Rubblarp Redemption 1 - 1
+Orrefors IF - Follorna FC 8 - 1
+Gefle IF - KOMA 1 - 1
+MacGyver - Stream Team 5 - 2
+week 4
+2006-05-21
+Rubblarp Redemption - Orrefors IF 2 - 1
+KOMA - Shishkebab BK 3 - 4
+MacGyver - Gefle IF 3 - 0
+Stream Team - Follorna FC 2 - 2
+week 5
+2006-05-28
+Shishkebab BK - MacGyver 1 - 2
+Gefle IF - Stream Team 4 - 1
+Orrefors IF - KOMA 2 - 0
+Follorna FC - Rubblarp Redemption 1 - 5
+week 6
+2006-06-04
+Gefle IF - Shishkebab BK 5 - 0
+Stream Team - Rubblarp Redemption 1 - 3
+KOMA - Follorna FC 3 - 0
+MacGyver - Orrefors IF 3 - 2
+week 7
+2006-06-11
+Rubblarp Redemption - KOMA 4 - 3
+Orrefors IF - Gefle IF 1 - 3
+Follorna FC - MacGyver 0 - 1
+Shishkebab BK - Stream Team 4 - 1
+week 8
+2006-06-18
+Stream Team - Shishkebab BK 0 - 2
+Gefle IF - Orrefors IF 5 - 0
+MacGyver - Follorna FC 2 - 4
+KOMA - Rubblarp Redemption 3 - 1
+week 9
+2006-06-25
+Orrefors IF - MacGyver 4 - 1
+Shishkebab BK - Gefle IF 5 - 3
+Rubblarp Redemption - Stream Team 1 - 2
+Follorna FC - KOMA 2 - 1
+week 10
+2006-07-02
+Rubblarp Redemption - Follorna FC 2 - 0
+Stream Team - Gefle IF 0 - 3
+KOMA - Orrefors IF 5 - 1
+MacGyver - Shishkebab BK 6 - 1
+week 11
+2006-07-09
+Gefle IF - MacGyver 5 - 3
+Shishkebab BK - KOMA 2 - 0
+Orrefors IF - Rubblarp Redemption 1 - 2
+Follorna FC - Stream Team 2 - 2
+week 12
+2006-07-16
+Stream Team - MacGyver 0 - 3
+Rubblarp Redemption - Shishkebab BK 4 - 1
+Follorna FC - Orrefors IF 5 - 2
+KOMA - Gefle IF 0 - 2
+week 13
+2006-07-23
+Shishkebab BK - Follorna FC 1 - 1
+Gefle IF - Rubblarp Redemption 1 - 1
+Stream Team - Orrefors IF 3 - 4
+MacGyver - KOMA 4 - 0
+week 14
+2006-07-30
+Rubblarp Redemption - MacGyver 1 - 4
+Orrefors IF - Shishkebab BK 4 - 4
+Follorna FC - Gefle IF 4 - 1
+KOMA - Stream Team 3 - 0

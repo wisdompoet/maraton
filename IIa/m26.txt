@@ -1,84 +1,84 @@
-Omgång 1
-2005-05-29 (1/26) 			
-	Norsgatan Kickers - Bärsans SK 	0 - 4 	HT Re-Live
-	FC Flowsta - Gaddens IF 	1 - 2 	HT Re-Live
-	Hawkwing FF - Incentus FC 	4 - 1 	HT Re-Live
-	Skansholms SK - aragorn warriors 	5 - 0 	HT Re-Live
-Omgång 2
-2005-06-05 (2/26) 			
-	Incentus FC - Norsgatan Kickers 	4 - 0 	HT Re-Live
-	aragorn warriors - FC Flowsta 	5 - 1 	HT Re-Live
-	Bärsans SK - Skansholms SK 	2 - 2 	HT Re-Live
-	Gaddens IF - Hawkwing FF 	3 - 4 	HT Re-Live
-Omgång 3
-2005-06-12 (3/26) 			
-	FC Flowsta - Bärsans SK 	3 - 3 	HT Re-Live
-	Hawkwing FF - aragorn warriors 	3 - 5 	HT Re-Live
-	Incentus FC - Gaddens IF 	3 - 1 	HT Re-Live
-	Skansholms SK - Norsgatan Kickers 	7 - 0 	HT Re-Live
-Omgång 4
-2005-06-19 (4/26) 			
-	Norsgatan Kickers - Gaddens IF 	0 - 7 	HT Re-Live
-	aragorn warriors - Incentus FC 	5 - 2 	HT Re-Live
-	Bärsans SK - Hawkwing FF 	3 - 4 	HT Re-Live
-	Skansholms SK - FC Flowsta 	5 - 1 	HT Re-Live
-Omgång 5
-2005-06-26 (5/26) 			
-	FC Flowsta - Norsgatan Kickers 	5 - 0 	HT Re-Live
-	Hawkwing FF - Skansholms SK 	4 - 3 	HT Re-Live
-	Incentus FC - Bärsans SK 	4 - 1 	HT Re-Live
-	Gaddens IF - aragorn warriors 	1 - 4 	HT Re-Live
-Omgång 6
-2005-07-03 (6/26) 			
-	Norsgatan Kickers - aragorn warriors 	0 - 5 	HT Re-Live
-	FC Flowsta - Hawkwing FF 	3 - 5 	HT Re-Live
-	Bärsans SK - Gaddens IF 	3 - 1 	HT Re-Live
-	Skansholms SK - Incentus FC 	4 - 0 	HT Re-Live
-Omgång 7
-2005-07-10 (7/26) 			
-	Hawkwing FF - Norsgatan Kickers 	6 - 0 	HT Re-Live
-	Incentus FC - FC Flowsta 	2 - 3 	HT Re-Live
-	aragorn warriors - Bärsans SK 	3 - 2 	HT Re-Live
-	Gaddens IF - Skansholms SK 	0 - 3 	HT Re-Live
-Omgång 8
-2005-07-17 (8/26) 			
-	Skansholms SK - Gaddens IF 	4 - 2 	HT Re-Live
-	Bärsans SK - aragorn warriors 	4 - 3 	HT Re-Live
-	FC Flowsta - Incentus FC 	2 - 0 	HT Re-Live
-	Norsgatan Kickers - Hawkwing FF 	0 - 7 	HT Re-Live
-Omgång 9
-2005-07-24 (9/26) 			
-	Incentus FC - Skansholms SK 	0 - 5 	HT Re-Live
-	Gaddens IF - Bärsans SK 	3 - 3 	HT Re-Live
-	Hawkwing FF - FC Flowsta 	1 - 1 	HT Re-Live
-	aragorn warriors - Norsgatan Kickers 	3 - 0 	HT Re-Live
-Omgång 10
-2005-07-31 (10/26) 			
-	aragorn warriors - Gaddens IF 	5 - 0 	HT Re-Live
-	Bärsans SK - Incentus FC 	1 - 2 	HT Re-Live
-	Skansholms SK - Hawkwing FF 	8 - 2 	HT Re-Live
-	Norsgatan Kickers - FC Flowsta 	0 - 3 	HT Re-Live
-Omgång 11
-2005-08-07 (11/26) 			
-	FC Flowsta - Skansholms SK 	0 - 3 	HT Re-Live
-	Hawkwing FF - Bärsans SK 	2 - 3 	HT Re-Live
-	Incentus FC - aragorn warriors 	1 - 4 	HT Re-Live
-	Gaddens IF - Norsgatan Kickers 	3 - 0 	HT Re-Live
-Omgång 12
-2005-08-14 (12/26) 			
-	Norsgatan Kickers - Skansholms SK 	0 - 3 	HT Re-Live
-	Gaddens IF - Incentus FC 	0 - 1 	HT Re-Live
-	aragorn warriors - Hawkwing FF 	3 - 5 	HT Re-Live
-	Bärsans SK - FC Flowsta 	6 - 1 	HT Re-Live
-Omgång 13
-2005-08-21 (13/26) 			
-	Hawkwing FF - Gaddens IF 	2 - 4 	HT Re-Live
-	Skansholms SK - Bärsans SK 	2 - 0 	HT Re-Live
-	FC Flowsta - aragorn warriors 	2 - 4 	HT Re-Live
-	Norsgatan Kickers - Incentus FC 	0 - 2 	HT Re-Live
-Omgång 14
-2005-08-28 (14/26) 			
-	aragorn warriors - Skansholms SK 	2 - 0 	HT Re-Live
-	Incentus FC - Hawkwing FF 	1 - 4 	HT Re-Live
-	Gaddens IF - FC Flowsta 	5 - 1 	HT Re-Live
-	Bärsans SK - Norsgatan Kickers 	4 - 0 	HT Re-Live
+week 1
+2005-05-29
+Norsgatan Kickers - Bärsans SK 0 - 4
+FC Flowsta - Gaddens IF 1 - 2
+Hawkwing FF - Incentus FC 4 - 1
+Skansholms SK - aragorn warriors 5 - 0
+week 2
+2005-06-05
+Incentus FC - Norsgatan Kickers 4 - 0
+aragorn warriors - FC Flowsta 5 - 1
+Bärsans SK - Skansholms SK 2 - 2
+Gaddens IF - Hawkwing FF 3 - 4
+week 3
+2005-06-12
+FC Flowsta - Bärsans SK 3 - 3
+Hawkwing FF - aragorn warriors 3 - 5
+Incentus FC - Gaddens IF 3 - 1
+Skansholms SK - Norsgatan Kickers 7 - 0
+week 4
+2005-06-19
+Norsgatan Kickers - Gaddens IF 0 - 7
+aragorn warriors - Incentus FC 5 - 2
+Bärsans SK - Hawkwing FF 3 - 4
+Skansholms SK - FC Flowsta 5 - 1
+week 5
+2005-06-26
+FC Flowsta - Norsgatan Kickers 5 - 0
+Hawkwing FF - Skansholms SK 4 - 3
+Incentus FC - Bärsans SK 4 - 1
+Gaddens IF - aragorn warriors 1 - 4
+week 6
+2005-07-03
+Norsgatan Kickers - aragorn warriors 0 - 5
+FC Flowsta - Hawkwing FF 3 - 5
+Bärsans SK - Gaddens IF 3 - 1
+Skansholms SK - Incentus FC 4 - 0
+week 7
+2005-07-10
+Hawkwing FF - Norsgatan Kickers 6 - 0
+Incentus FC - FC Flowsta 2 - 3
+aragorn warriors - Bärsans SK 3 - 2
+Gaddens IF - Skansholms SK 0 - 3
+week 8
+2005-07-17
+Skansholms SK - Gaddens IF 4 - 2
+Bärsans SK - aragorn warriors 4 - 3
+FC Flowsta - Incentus FC 2 - 0
+Norsgatan Kickers - Hawkwing FF 0 - 7
+week 9
+2005-07-24
+Incentus FC - Skansholms SK 0 - 5
+Gaddens IF - Bärsans SK 3 - 3
+Hawkwing FF - FC Flowsta 1 - 1
+aragorn warriors - Norsgatan Kickers 3 - 0
+week 10
+2005-07-31
+aragorn warriors - Gaddens IF 5 - 0
+Bärsans SK - Incentus FC 1 - 2
+Skansholms SK - Hawkwing FF 8 - 2
+Norsgatan Kickers - FC Flowsta 0 - 3
+week 11
+2005-08-07
+FC Flowsta - Skansholms SK 0 - 3
+Hawkwing FF - Bärsans SK 2 - 3
+Incentus FC - aragorn warriors 1 - 4
+Gaddens IF - Norsgatan Kickers 3 - 0
+week 12
+2005-08-14
+Norsgatan Kickers - Skansholms SK 0 - 3
+Gaddens IF - Incentus FC 0 - 1
+aragorn warriors - Hawkwing FF 3 - 5
+Bärsans SK - FC Flowsta 6 - 1
+week 13
+2005-08-21
+Hawkwing FF - Gaddens IF 2 - 4
+Skansholms SK - Bärsans SK 2 - 0
+FC Flowsta - aragorn warriors 2 - 4
+Norsgatan Kickers - Incentus FC 0 - 2
+week 14
+2005-08-28
+aragorn warriors - Skansholms SK 2 - 0
+Incentus FC - Hawkwing FF 1 - 4
+Gaddens IF - FC Flowsta 5 - 1
+Bärsans SK - Norsgatan Kickers 4 - 0

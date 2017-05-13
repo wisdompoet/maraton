@@ -1,0 +1,84 @@
+week 1
+2002-01-13
+Thrash City - Ponsbach HK 1 - 2
+Kungsbackas Kor - Halifax United 2 - 3
+IFK Bolaget - Akalla FC 2 - 0
+Första Femman FF - Loo Loosers FC 4 - 1
+week 2
+2002-01-20
+Akalla FC - Thrash City 1 - 3
+Loo Loosers FC - Kungsbackas Kor 2 - 2
+Ponsbach HK - Första Femman FF 1 - 0
+Halifax United - IFK Bolaget 0 - 0
+week 3
+2002-01-27
+Kungsbackas Kor - Ponsbach HK 1 - 4
+IFK Bolaget - Loo Loosers FC 5 - 0
+Akalla FC - Halifax United 2 - 2
+Första Femman FF - Thrash City 1 - 1
+week 4
+2002-02-03
+Thrash City - Halifax United 2 - 1
+Loo Loosers FC - Akalla FC 2 - 1
+Ponsbach HK - IFK Bolaget 1 - 2
+Första Femman FF - Kungsbackas Kor 1 - 0
+week 5
+2002-02-10
+Kungsbackas Kor - Thrash City 1 - 1
+IFK Bolaget - Första Femman FF 1 - 1
+Akalla FC - Ponsbach HK 1 - 2
+Halifax United - Loo Loosers FC 2 - 0
+week 6
+2002-02-17
+Thrash City - Loo Loosers FC 1 - 4
+Kungsbackas Kor - IFK Bolaget 0 - 1
+Ponsbach HK - Halifax United 2 - 2
+Första Femman FF - Akalla FC 4 - 0
+week 7
+2002-02-24
+IFK Bolaget - Thrash City 1 - 2
+Akalla FC - Kungsbackas Kor 3 - 2
+Loo Loosers FC - Ponsbach HK 0 - 3
+Halifax United - Första Femman FF 1 - 2
+week 8
+2002-03-03
+Första Femman FF - Halifax United 3 - 2
+Ponsbach HK - Loo Loosers FC 3 - 0
+Kungsbackas Kor - Akalla FC 1 - 2
+Thrash City - IFK Bolaget 4 - 0
+week 9
+2002-03-10
+Akalla FC - Första Femman FF 3 - 3
+Halifax United - Ponsbach HK 0 - 3
+IFK Bolaget - Kungsbackas Kor 1 - 0
+Loo Loosers FC - Thrash City 2 - 2
+week 10
+2002-03-17
+Loo Loosers FC - Halifax United 2 - 0
+Ponsbach HK - Akalla FC 3 - 0
+Första Femman FF - IFK Bolaget 2 - 1
+Thrash City - Kungsbackas Kor 2 - 0
+week 11
+2002-03-24
+Kungsbackas Kor - Första Femman FF 2 - 2
+IFK Bolaget - Ponsbach HK 1 - 1
+Akalla FC - Loo Loosers FC 1 - 1
+Halifax United - Thrash City 2 - 3
+week 12
+2002-03-31
+Thrash City - Första Femman FF 4 - 1
+Halifax United - Akalla FC 4 - 1
+Loo Loosers FC - IFK Bolaget 2 - 1
+Ponsbach HK - Kungsbackas Kor 0 - 0
+week 13
+2002-04-07
+IFK Bolaget - Halifax United 3 - 0
+Första Femman FF - Ponsbach HK 2 - 1
+Kungsbackas Kor - Loo Loosers FC 2 - 2
+Thrash City - Akalla FC 4 - 3
+week 14
+2002-04-14
+Loo Loosers FC - Första Femman FF 3 - 0
+Akalla FC - IFK Bolaget 2 - 0
+Halifax United - Kungsbackas Kor 0 - 1
+Ponsbach HK - Thrash City 2 - 0

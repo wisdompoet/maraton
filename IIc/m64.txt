@@ -1,0 +1,84 @@
+week 1
+2017-01-22
+Holmen Bois - FC Flexibo 8 - 0
+Lokomotiv Höjden - Förenad Mustasch 1 - 3
+El Pollo Diablo - FC Möllan 0 - 2
+Råslätt United - IFK Dahlgren 0 - 5
+week 2
+2017-01-29
+Förenad Mustasch - Holmen Bois 3 - 0
+FC Möllan - Lokomotiv Höjden 3 - 0
+FC Flexibo - Råslätt United 0 - 6
+IFK Dahlgren - El Pollo Diablo 2 - 2
+week 3
+2017-02-05
+Holmen Bois - IFK Dahlgren 5 - 3
+Råslätt United - FC Möllan 1 - 3
+Förenad Mustasch - FC Flexibo 7 - 0
+Lokomotiv Höjden - El Pollo Diablo 4 - 2
+week 4
+2017-02-12
+FC Flexibo - Lokomotiv Höjden 0 - 7
+El Pollo Diablo - Råslätt United 4 - 1
+IFK Dahlgren - Förenad Mustasch 3 - 2
+FC Möllan - Holmen Bois 2 - 5
+week 5
+2017-02-19
+Holmen Bois - Råslätt United 4 - 0
+Förenad Mustasch - El Pollo Diablo 4 - 0
+Lokomotiv Höjden - IFK Dahlgren 2 - 2
+FC Flexibo - FC Möllan 0 - 5
+week 6
+2017-02-26
+El Pollo Diablo - Holmen Bois 0 - 3
+Råslätt United - Lokomotiv Höjden 3 - 1
+FC Möllan - Förenad Mustasch 0 - 3
+IFK Dahlgren - FC Flexibo 8 - 0
+week 7
+2017-03-05
+Holmen Bois - Lokomotiv Höjden 6 - 2
+FC Flexibo - El Pollo Diablo 0 - 5
+Förenad Mustasch - Råslätt United 6 - 2
+FC Möllan - IFK Dahlgren 1 - 4
+week 8
+2017-03-12
+IFK Dahlgren - FC Möllan 6 - 0
+Lokomotiv Höjden - Holmen Bois 1 - 2
+El Pollo Diablo - FC Flexibo 8 - 1
+Råslätt United - Förenad Mustasch 1 - 3
+week 9
+2017-03-19
+Lokomotiv Höjden - Råslätt United 2 - 2
+FC Flexibo - IFK Dahlgren 1 - 5
+Holmen Bois - El Pollo Diablo 0 - 0
+Förenad Mustasch - FC Möllan 6 - 0
+week 10
+2017-03-26
+FC Möllan - FC Flexibo 7 - 0
+El Pollo Diablo - Förenad Mustasch 5 - 0
+IFK Dahlgren - Lokomotiv Höjden 4 - 1
+Råslätt United - Holmen Bois 1 - 0
+week 11
+2017-04-02
+Råslätt United - El Pollo Diablo 3 - 1
+Förenad Mustasch - IFK Dahlgren 1 - 3
+Lokomotiv Höjden - FC Flexibo 9 - 0
+Holmen Bois - FC Möllan 7 - 1
+week 12
+2017-04-09
+FC Flexibo - Förenad Mustasch 0 - 9
+IFK Dahlgren - Holmen Bois 2 - 3
+FC Möllan - Råslätt United 0 - 5
+El Pollo Diablo - Lokomotiv Höjden 0 - 4
+week 13
+2017-04-16
+El Pollo Diablo - IFK Dahlgren 1 - 1
+Lokomotiv Höjden - FC Möllan 5 - 1
+Råslätt United - FC Flexibo 9 - 0
+Holmen Bois - Förenad Mustasch 1 - 2
+week 14
+2017-04-23
+IFK Dahlgren - Råslätt United 4 - 1
+FC Möllan - El Pollo Diablo 0 - 6
+FC Flexibo - Holmen Bois 0 - 9
+Förenad Mustasch - Lokomotiv Höjden 5 - 0

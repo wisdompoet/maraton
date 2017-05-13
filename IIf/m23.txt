@@ -1,84 +1,84 @@
-Omgång 1
-2004-06-27 (1/23)			
-Reelers - Cuba B.K	6 - 1	HT Re-Live
-Vildmarken Utd - BorrensFK	5 - 0	HT Re-Live
-Arsenal FF - Foton IK	2 - 1	HT Re-Live
-Svearikes Finaste - Elbow Rangers	6 - 0	HT Re-Live
-Omgång 2
-2004-07-04 (2/23)			
-Foton IK - Reelers	0 - 4	HT Re-Live
-Elbow Rangers - Vildmarken Utd	1 - 5	HT Re-Live
-Cuba B.K - Svearikes Finaste	2 - 7	HT Re-Live
-BorrensFK - Arsenal FF	3 - 0	HT Re-Live
-Omgång 3
-2004-07-11 (3/23)			
-Vildmarken Utd - Cuba B.K	5 - 1	HT Re-Live
-Arsenal FF - Elbow Rangers	1 - 2	HT Re-Live
-Foton IK - BorrensFK	1 - 1	HT Re-Live
-Svearikes Finaste - Reelers	1 - 2	HT Re-Live
-Omgång 4
-2004-07-18 (4/23)			
-Reelers - BorrensFK	2 - 0	HT Re-Live
-Elbow Rangers - Foton IK	1 - 0	HT Re-Live
-Cuba B.K - Arsenal FF	4 - 2	HT Re-Live
-Svearikes Finaste - Vildmarken Utd	3 - 4	HT Re-Live
-Omgång 5
-2004-07-25 (5/23)			
-Vildmarken Utd - Reelers	4 - 1	HT Re-Live
-Arsenal FF - Svearikes Finaste	3 - 5	HT Re-Live
-Foton IK - Cuba B.K	2 - 1	HT Re-Live
-BorrensFK - Elbow Rangers	1 - 1	HT Re-Live
-Omgång 6
-2004-08-01 (6/23)			
-Reelers - Elbow Rangers	1 - 1	HT Re-Live
-Vildmarken Utd - Arsenal FF	3 - 1	HT Re-Live
-Cuba B.K - BorrensFK	3 - 1	HT Re-Live
-Svearikes Finaste - Foton IK	4 - 2	HT Re-Live
-Omgång 7
-2004-08-08 (7/23)			
-Arsenal FF - Reelers	1 - 2	HT Re-Live
-Foton IK - Vildmarken Utd	3 - 2	HT Re-Live
-Elbow Rangers - Cuba B.K	2 - 1	HT Re-Live
-BorrensFK - Svearikes Finaste	0 - 5	HT Re-Live
-Omgång 8
-2004-08-15 (8/23)			
-Svearikes Finaste - BorrensFK	6 - 1	HT Re-Live
-Cuba B.K - Elbow Rangers	5 - 2	HT Re-Live
-Vildmarken Utd - Foton IK	4 - 0	HT Re-Live
-Reelers - Arsenal FF	6 - 0	HT Re-Live
-Omgång 9
-2004-08-22 (9/23)			
-Foton IK - Svearikes Finaste	3 - 2	HT Re-Live
-BorrensFK - Cuba B.K	4 - 1	HT Re-Live
-Arsenal FF - Vildmarken Utd	2 - 2	HT Re-Live
-Elbow Rangers - Reelers	1 - 3	HT Re-Live
-Omgång 10
-2004-08-29 (10/23)			
-Elbow Rangers - BorrensFK	2 - 3	HT Re-Live
-Cuba B.K - Foton IK	3 - 2	HT Re-Live
-Svearikes Finaste - Arsenal FF	3 - 1	HT Re-Live
-Reelers - Vildmarken Utd	2 - 1	HT Re-Live
-Omgång 11
-2004-09-05 (11/23)			
-Vildmarken Utd - Svearikes Finaste	5 - 1	HT Re-Live
-Arsenal FF - Cuba B.K	2 - 2	HT Re-Live
-Foton IK - Elbow Rangers	0 - 2	HT Re-Live
-BorrensFK - Reelers	1 - 1	HT Re-Live
-Omgång 12
-2004-09-12 (12/23)			
-Reelers - Svearikes Finaste	1 - 3	HT Re-Live
-BorrensFK - Foton IK	1 - 0	HT Re-Live
-Elbow Rangers - Arsenal FF	5 - 1	HT Re-Live
-Cuba B.K - Vildmarken Utd	2 - 4	HT Re-Live
-Omgång 13
-2004-09-19 (13/23)			
-Arsenal FF - BorrensFK	1 - 4	HT Re-Live
-Svearikes Finaste - Cuba B.K	4 - 2	HT Re-Live
-Vildmarken Utd - Elbow Rangers	3 - 2	HT Re-Live
-Reelers - Foton IK	2 - 0	HT Re-Live
-Omgång 14
-2004-09-26 (14/23)			
-Elbow Rangers - Svearikes Finaste	2 - 2	HT Re-Live
-Foton IK - Arsenal FF	2 - 0	HT Re-Live
-BorrensFK - Vildmarken Utd	0 - 6	HT Re-Live
-Cuba B.K - Reelers	5 - 2	HT Re-Live
+week 1
+2004-06-27
+Reelers - Cuba B.K 6 - 1
+Vildmarken Utd - BorrensFK 5 - 0
+Arsenal FF - Foton IK 2 - 1
+Svearikes Finaste - Elbow Rangers 6 - 0
+week 2
+2004-07-04
+Foton IK - Reelers 0 - 4
+Elbow Rangers - Vildmarken Utd 1 - 5
+Cuba B.K - Svearikes Finaste 2 - 7
+BorrensFK - Arsenal FF 3 - 0
+week 3
+2004-07-11
+Vildmarken Utd - Cuba B.K 5 - 1
+Arsenal FF - Elbow Rangers 1 - 2
+Foton IK - BorrensFK 1 - 1
+Svearikes Finaste - Reelers 1 - 2
+week 4
+2004-07-18
+Reelers - BorrensFK 2 - 0
+Elbow Rangers - Foton IK 1 - 0
+Cuba B.K - Arsenal FF 4 - 2
+Svearikes Finaste - Vildmarken Utd 3 - 4
+week 5
+2004-07-25
+Vildmarken Utd - Reelers 4 - 1
+Arsenal FF - Svearikes Finaste 3 - 5
+Foton IK - Cuba B.K 2 - 1
+BorrensFK - Elbow Rangers 1 - 1
+week 6
+2004-08-01
+Reelers - Elbow Rangers 1 - 1
+Vildmarken Utd - Arsenal FF 3 - 1
+Cuba B.K - BorrensFK 3 - 1
+Svearikes Finaste - Foton IK 4 - 2
+week 7
+2004-08-08
+Arsenal FF - Reelers 1 - 2
+Foton IK - Vildmarken Utd 3 - 2
+Elbow Rangers - Cuba B.K 2 - 1
+BorrensFK - Svearikes Finaste 0 - 5
+week 8
+2004-08-15
+Svearikes Finaste - BorrensFK 6 - 1
+Cuba B.K - Elbow Rangers 5 - 2
+Vildmarken Utd - Foton IK 4 - 0
+Reelers - Arsenal FF 6 - 0
+week 9
+2004-08-22
+Foton IK - Svearikes Finaste 3 - 2
+BorrensFK - Cuba B.K 4 - 1
+Arsenal FF - Vildmarken Utd 2 - 2
+Elbow Rangers - Reelers 1 - 3
+week 10
+2004-08-29
+Elbow Rangers - BorrensFK 2 - 3
+Cuba B.K - Foton IK 3 - 2
+Svearikes Finaste - Arsenal FF 3 - 1
+Reelers - Vildmarken Utd 2 - 1
+week 11
+2004-09-05
+Vildmarken Utd - Svearikes Finaste 5 - 1
+Arsenal FF - Cuba B.K 2 - 2
+Foton IK - Elbow Rangers 0 - 2
+BorrensFK - Reelers 1 - 1
+week 12
+2004-09-12
+Reelers - Svearikes Finaste 1 - 3
+BorrensFK - Foton IK 1 - 0
+Elbow Rangers - Arsenal FF 5 - 1
+Cuba B.K - Vildmarken Utd 2 - 4
+week 13
+2004-09-19
+Arsenal FF - BorrensFK 1 - 4
+Svearikes Finaste - Cuba B.K 4 - 2
+Vildmarken Utd - Elbow Rangers 3 - 2
+Reelers - Foton IK 2 - 0
+week 14
+2004-09-26
+Elbow Rangers - Svearikes Finaste 2 - 2
+Foton IK - Arsenal FF 2 - 0
+BorrensFK - Vildmarken Utd 0 - 6
+Cuba B.K - Reelers 5 - 2

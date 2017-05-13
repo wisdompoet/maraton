@@ -1,0 +1,84 @@
+week 1
+2001-02-11
+Inter Sthlm - Quatro Staggione AC 1 - 2
+Frostavallen Foreigners - IK Dreas 0 - 1
+Blackbårn - Pumuckel BK 6 - 1
+bk ivar - Team ABC 4 - 2
+week 2
+2001-02-18
+Pumuckel BK - Inter Sthlm 1 - 1
+Team ABC - Frostavallen Foreigners 1 - 1
+Quatro Staggione AC - bk ivar 2 - 0
+IK Dreas - Blackbårn 1 - 0
+week 3
+2001-02-25
+Frostavallen Foreigners - Quatro Staggione AC 0 - 0
+Blackbårn - Team ABC 3 - 1
+Pumuckel BK - IK Dreas 0 - 1
+bk ivar - Inter Sthlm 0 - 4
+week 4
+2001-03-04
+Inter Sthlm - IK Dreas 2 - 0
+Team ABC - Pumuckel BK 2 - 0
+Quatro Staggione AC - Blackbårn 3 - 1
+bk ivar - Frostavallen Foreigners 0 - 0
+week 5
+2001-03-11
+Frostavallen Foreigners - Inter Sthlm 2 - 1
+Blackbårn - bk ivar 4 - 0
+Pumuckel BK - Quatro Staggione AC 1 - 4
+IK Dreas - Team ABC 5 - 2
+week 6
+2001-03-18
+Inter Sthlm - Team ABC 2 - 0
+Frostavallen Foreigners - Blackbårn 3 - 1
+Quatro Staggione AC - IK Dreas 5 - 0
+bk ivar - Pumuckel BK 1 - 2
+week 7
+2001-03-25
+Blackbårn - Inter Sthlm 3 - 4
+Pumuckel BK - Frostavallen Foreigners 3 - 0
+Team ABC - Quatro Staggione AC 1 - 2
+IK Dreas - bk ivar 4 - 0
+week 8
+2001-04-01
+bk ivar - IK Dreas 1 - 1
+Quatro Staggione AC - Team ABC 3 - 2
+Frostavallen Foreigners - Pumuckel BK 0 - 0
+Inter Sthlm - Blackbårn 5 - 0
+week 9
+2001-04-08
+Pumuckel BK - bk ivar 1 - 1
+IK Dreas - Quatro Staggione AC 2 - 1
+Blackbårn - Frostavallen Foreigners 2 - 1
+Team ABC - Inter Sthlm 2 - 4
+week 10
+2001-04-15
+Team ABC - IK Dreas 0 - 0
+Quatro Staggione AC - Pumuckel BK 4 - 0
+bk ivar - Blackbårn 2 - 4
+Inter Sthlm - Frostavallen Foreigners 2 - 0
+week 11
+2001-04-22
+Frostavallen Foreigners - bk ivar 2 - 0
+Blackbårn - Quatro Staggione AC 1 - 1
+Pumuckel BK - Team ABC 1 - 1
+IK Dreas - Inter Sthlm 1 - 2
+week 12
+2001-04-29
+Inter Sthlm - bk ivar 7 - 0
+IK Dreas - Pumuckel BK 1 - 0
+Team ABC - Blackbårn 3 - 0
+Quatro Staggione AC - Frostavallen Foreigners 3 - 1
+week 13
+2001-05-06
+Blackbårn - IK Dreas 7 - 0
+bk ivar - Quatro Staggione AC 2 - 2
+Frostavallen Foreigners - Team ABC 2 - 0
+Inter Sthlm - Pumuckel BK 4 - 0
+week 14
+2001-05-13
+Team ABC - bk ivar 1 - 2
+Pumuckel BK - Blackbårn 1 - 6
+IK Dreas - Frostavallen Foreigners 0 - 0
+Quatro Staggione AC - Inter Sthlm 1 - 1

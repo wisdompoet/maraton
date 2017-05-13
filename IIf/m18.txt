@@ -1,84 +1,84 @@
-Omgång 1
-2002-12-15 (1/18)			
-Brunkongarnas FF - Blackbårn	5 - 0	HT Re-Live
-Hoseanna - Källstorps FF	1 - 4	HT Re-Live
-Travnissarnas FK - Barbas Barbarer FC	0 - 4	HT Re-Live
-Foton IK - Western Warriors	1 - 1	HT Re-Live
-Omgång 2
-2002-12-22 (2/18)			
-Barbas Barbarer FC - Brunkongarnas FF	1 - 1	HT Re-Live
-Western Warriors - Hoseanna	2 - 1	HT Re-Live
-Blackbårn - Foton IK	2 - 1	HT Re-Live
-Källstorps FF - Travnissarnas FK	3 - 2	HT Re-Live
-Omgång 3
-2002-12-29 (3/18)			
-Hoseanna - Blackbårn	3 - 1	HT Re-Live
-Travnissarnas FK - Western Warriors	4 - 1	HT Re-Live
-Barbas Barbarer FC - Källstorps FF	4 - 0	HT Re-Live
-Foton IK - Brunkongarnas FF	2 - 4	HT Re-Live
-Omgång 4
-2003-01-05 (4/18)			
-Brunkongarnas FF - Källstorps FF	2 - 1	HT Re-Live
-Western Warriors - Barbas Barbarer FC	2 - 5	HT Re-Live
-Blackbårn - Travnissarnas FK	2 - 1	HT Re-Live
-Foton IK - Hoseanna	3 - 4	HT Re-Live
-Omgång 5
-2003-01-12 (5/18)			
-Hoseanna - Brunkongarnas FF	2 - 6	HT Re-Live
-Travnissarnas FK - Foton IK	1 - 1	HT Re-Live
-Barbas Barbarer FC - Blackbårn	5 - 1	HT Re-Live
-Källstorps FF - Western Warriors	2 - 0	HT Re-Live
-Omgång 6
-2003-01-19 (6/18)			
-Brunkongarnas FF - Western Warriors	5 - 0	HT Re-Live
-Hoseanna - Travnissarnas FK	2 - 1	HT Re-Live
-Blackbårn - Källstorps FF	0 - 0	HT Re-Live
-Foton IK - Barbas Barbarer FC	1 - 4	HT Re-Live
-Omgång 7
-2003-01-26 (7/18)			
-Travnissarnas FK - Brunkongarnas FF	0 - 2	HT Re-Live
-Barbas Barbarer FC - Hoseanna	3 - 2	HT Re-Live
-Western Warriors - Blackbårn	3 - 1	HT Re-Live
-Källstorps FF - Foton IK	6 - 2	HT Re-Live
-Omgång 8
-2003-02-02 (8/18)			
-Foton IK - Källstorps FF	4 - 0	HT Re-Live
-Blackbårn - Western Warriors	0 - 3	HT Re-Live
-Hoseanna - Barbas Barbarer FC	4 - 1	HT Re-Live
-Brunkongarnas FF - Travnissarnas FK	3 - 0	HT Re-Live
-Omgång 9
-2003-02-09 (9/18)			
-Barbas Barbarer FC - Foton IK	4 - 2	HT Re-Live
-Källstorps FF - Blackbårn	1 - 1	HT Re-Live
-Travnissarnas FK - Hoseanna	2 - 3	HT Re-Live
-Western Warriors - Brunkongarnas FF	0 - 5	HT Re-Live
-Omgång 10
-2003-02-16 (10/18)			
-Western Warriors - Källstorps FF	3 - 2	HT Re-Live
-Blackbårn - Barbas Barbarer FC	0 - 3	HT Re-Live
-Foton IK - Travnissarnas FK	1 - 1	HT Re-Live
-Brunkongarnas FF - Hoseanna	6 - 2	HT Re-Live
-Omgång 11
-2003-02-23 (11/18)			
-Hoseanna - Foton IK	5 - 3	HT Re-Live
-Travnissarnas FK - Blackbårn	0 - 0	HT Re-Live
-Barbas Barbarer FC - Western Warriors	5 - 0	HT Re-Live
-Källstorps FF - Brunkongarnas FF	1 - 1	HT Re-Live
-Omgång 12
-2003-03-02 (12/18)			
-Brunkongarnas FF - Foton IK	3 - 1	HT Re-Live
-Källstorps FF - Barbas Barbarer FC	1 - 2	HT Re-Live
-Western Warriors - Travnissarnas FK	0 - 1	HT Re-Live
-Blackbårn - Hoseanna	0 - 5	HT Re-Live
-Omgång 13
-2003-03-09 (13/18)			
-Travnissarnas FK - Källstorps FF	0 - 0	HT Re-Live
-Foton IK - Blackbårn	5 - 0	HT Re-Live
-Hoseanna - Western Warriors	4 - 2	HT Re-Live
-Brunkongarnas FF - Barbas Barbarer FC	5 - 0	HT Re-Live
-Omgång 14
-2003-03-16 (14/18)			
-Western Warriors - Foton IK	0 - 5	HT Re-Live
-Barbas Barbarer FC - Travnissarnas FK	1 - 1	HT Re-Live
-Källstorps FF - Hoseanna	4 - 5	HT Re-Live
-Blackbårn - Brunkongarnas FF	0 - 3	HT Re-Live
+week 1
+2002-12-15
+Brunkongarnas FF - BlackbÃ¥rn 5 - 0
+Hoseanna - KÃ¤llstorps FF 1 - 4
+Travnissarnas FK - Barbas Barbarer FC 0 - 4
+Foton IK - Western Warriors 1 - 1
+week 2
+2002-12-22
+Barbas Barbarer FC - Brunkongarnas FF 1 - 1
+Western Warriors - Hoseanna 2 - 1
+BlackbÃ¥rn - Foton IK 2 - 1
+KÃ¤llstorps FF - Travnissarnas FK 3 - 2
+week 3
+2002-12-29
+Hoseanna - BlackbÃ¥rn 3 - 1
+Travnissarnas FK - Western Warriors 4 - 1
+Barbas Barbarer FC - KÃ¤llstorps FF 4 - 0
+Foton IK - Brunkongarnas FF 2 - 4
+week 4
+2003-01-05
+Brunkongarnas FF - KÃ¤llstorps FF 2 - 1
+Western Warriors - Barbas Barbarer FC 2 - 5
+BlackbÃ¥rn - Travnissarnas FK 2 - 1
+Foton IK - Hoseanna 3 - 4
+week 5
+2003-01-12
+Hoseanna - Brunkongarnas FF 2 - 6
+Travnissarnas FK - Foton IK 1 - 1
+Barbas Barbarer FC - BlackbÃ¥rn 5 - 1
+KÃ¤llstorps FF - Western Warriors 2 - 0
+week 6
+2003-01-19
+Brunkongarnas FF - Western Warriors 5 - 0
+Hoseanna - Travnissarnas FK 2 - 1
+BlackbÃ¥rn - KÃ¤llstorps FF 0 - 0
+Foton IK - Barbas Barbarer FC 1 - 4
+week 7
+2003-01-26
+Travnissarnas FK - Brunkongarnas FF 0 - 2
+Barbas Barbarer FC - Hoseanna 3 - 2
+Western Warriors - BlackbÃ¥rn 3 - 1
+KÃ¤llstorps FF - Foton IK 6 - 2
+week 8
+2003-02-02
+Foton IK - KÃ¤llstorps FF 4 - 0
+BlackbÃ¥rn - Western Warriors 0 - 3
+Hoseanna - Barbas Barbarer FC 4 - 1
+Brunkongarnas FF - Travnissarnas FK 3 - 0
+week 9
+2003-02-09
+Barbas Barbarer FC - Foton IK 4 - 2
+KÃ¤llstorps FF - BlackbÃ¥rn 1 - 1
+Travnissarnas FK - Hoseanna 2 - 3
+Western Warriors - Brunkongarnas FF 0 - 5
+week 10
+2003-02-16
+Western Warriors - KÃ¤llstorps FF 3 - 2
+BlackbÃ¥rn - Barbas Barbarer FC 0 - 3
+Foton IK - Travnissarnas FK 1 - 1
+Brunkongarnas FF - Hoseanna 6 - 2
+week 11
+2003-02-23
+Hoseanna - Foton IK 5 - 3
+Travnissarnas FK - BlackbÃ¥rn 0 - 0
+Barbas Barbarer FC - Western Warriors 5 - 0
+KÃ¤llstorps FF - Brunkongarnas FF 1 - 1
+week 12
+2003-03-02
+Brunkongarnas FF - Foton IK 3 - 1
+KÃ¤llstorps FF - Barbas Barbarer FC 1 - 2
+Western Warriors - Travnissarnas FK 0 - 1
+BlackbÃ¥rn - Hoseanna 0 - 5
+week 13
+2003-03-09
+Travnissarnas FK - KÃ¤llstorps FF 0 - 0
+Foton IK - BlackbÃ¥rn 5 - 0
+Hoseanna - Western Warriors 4 - 2
+Brunkongarnas FF - Barbas Barbarer FC 5 - 0
+week 14
+2003-03-16
+Western Warriors - Foton IK 0 - 5
+Barbas Barbarer FC - Travnissarnas FK 1 - 1
+KÃ¤llstorps FF - Hoseanna 4 - 5
+BlackbÃ¥rn - Brunkongarnas FF 0 - 3

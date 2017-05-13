@@ -1,86 +1,84 @@
-Omgång 1
-2012-06-17 (1/49)			
-Wheelsbridge Wanderers - REAL mln	3 - 1	HT Re-Live
-Los Pebbos - Frölunda killers	1 - 2	HT Re-Live
-Järbo IF - Svanskog BK	4 - 1	HT Re-Live
-Residensets BK - Green Valley FC	4 - 0	HT Re-Live
-Omgång 2
-2012-06-24 (2/49)			
-REAL mln - Los Pebbos	2 - 0	HT Re-Live
-Svanskog BK - Wheelsbridge Wanderers	5 - 2	HT Re-Live
-Green Valley FC - Järbo IF	2 - 1	HT Re-Live
-Frölunda killers - Residensets BK	7 - 1	HT Re-Live
-Omgång 3
-2012-07-01 (3/49)			
-Residensets BK - Svanskog BK	1 - 3	HT Re-Live
-Wheelsbridge Wanderers - Järbo IF	1 - 0	HT Re-Live
-REAL mln - Frölunda killers	4 - 4	HT Re-Live
-Los Pebbos - Green Valley FC	3 - 1	HT Re-Live
-Omgång 4
-2012-07-08 (4/49)			
-Svanskog BK - Los Pebbos	2 - 0	HT Re-Live
-Järbo IF - Residensets BK	5 - 2	HT Re-Live
-Green Valley FC - REAL mln	2 - 1	HT Re-Live
-Frölunda killers - Wheelsbridge Wanderers	1 - 1	HT Re-Live
-Omgång 5
-2012-07-15 (5/49)			
-REAL mln - Järbo IF	4 - 2	HT Re-Live
-Los Pebbos - Residensets BK	3 - 1	HT Re-Live
-Wheelsbridge Wanderers - Green Valley FC	3 - 1	HT Re-Live
-Frölunda killers - Svanskog BK	3 - 3	HT Re-Live
-Omgång 6
-2012-07-22 (6/49)			
-Järbo IF - Los Pebbos	1 - 4	HT Re-Live
-Svanskog BK - REAL mln	4 - 1	HT Re-Live
-Green Valley FC - Frölunda killers	2 - 1	HT Re-Live
-Residensets BK - Wheelsbridge Wanderers	1 - 3	HT Re-Live
-Omgång 7
-2012-07-29 (7/49)			
-Frölunda killers - Järbo IF	2 - 1	HT Re-Live
-Svanskog BK - Green Valley FC	2 - 2	HT Re-Live
-REAL mln - Residensets BK	1 - 1	HT Re-Live
-Los Pebbos - Wheelsbridge Wanderers	3 - 1	HT Re-Live
-Omgång 8
-2012-08-05 (8/49)			
-Järbo IF - Frölunda killers	0 - 1	HT Re-Live
-Residensets BK - REAL mln	4 - 4	HT Re-Live
-Wheelsbridge Wanderers - Los Pebbos	1 - 2	HT Re-Live
-Green Valley FC - Svanskog BK	2 - 1	HT Re-Live
-Omgång 9
-2012-08-12 (9/49)			
-Frölunda killers - Green Valley FC	4 - 0	HT Re-Live
-REAL mln - Svanskog BK	3 - 2	HT Re-Live
-Los Pebbos - Järbo IF	3 - 1	HT Re-Live
-Wheelsbridge Wanderers - Residensets BK	7 - 1	HT Re-Live
-Omgång 10
-2012-08-19 (10/49)			
-Svanskog BK - Frölunda killers	3 - 2	HT Re-Live
-Green Valley FC - Wheelsbridge Wanderers	2 - 2	HT Re-Live
-Järbo IF - REAL mln	2 - 3	HT Re-Live
-Residensets BK - Los Pebbos	1 - 4	HT Re-Live
-Omgång 11
-2012-08-26 (11/49)			
-Residensets BK - Järbo IF	0 - 2	HT Re-Live
-Wheelsbridge Wanderers - Frölunda killers	4 - 0	HT Re-Live
-Los Pebbos - Svanskog BK	4 - 1	HT Re-Live
-REAL mln - Green Valley FC	3 - 3	HT Re-Live
-Omgång 12
-2012-09-02 (12/49)			
-Järbo IF - Wheelsbridge Wanderers	2 - 1	HT Re-Live
-Green Valley FC - Los Pebbos	1 - 1	HT Re-Live
-Frölunda killers - REAL mln	2 - 3	HT Re-Live
-Svanskog BK - Residensets BK	6 - 2	HT Re-Live
-Omgång 13
-2012-09-09 (13/49)			
-Los Pebbos - REAL mln	4 - 2	HT Re-Live
-Wheelsbridge Wanderers - Svanskog BK	3 - 4	HT Re-Live
-Residensets BK - Frölunda killers	0 - 5	HT Re-Live
-Järbo IF - Green Valley FC	5 - 1	HT Re-Live
-Omgång 14
-2012-09-16 (14/49)			
-REAL mln - Wheelsbridge Wanderers	2 - 4	HT Re-Live
-Frölunda killers - Los Pebbos	2 - 3	HT Re-Live
-Svanskog BK - Järbo IF	2 - 1	HT Re-Live
-Green Valley FC - Residensets BK	5 - 2	HT Re-Live
-
-
+week 1
+2012-06-17
+Wheelsbridge Wanderers - REAL mln 3 - 1
+Los Pebbos - FrÃ¶lunda killers 1 - 2
+JÃ¤rbo IF - Svanskog BK 4 - 1
+Residensets BK - Green Valley FC 4 - 0
+week 2
+2012-06-24
+REAL mln - Los Pebbos 2 - 0
+Svanskog BK - Wheelsbridge Wanderers 5 - 2
+Green Valley FC - JÃ¤rbo IF 2 - 1
+FrÃ¶lunda killers - Residensets BK 7 - 1
+week 3
+2012-07-01
+Residensets BK - Svanskog BK 1 - 3
+Wheelsbridge Wanderers - JÃ¤rbo IF 1 - 0
+REAL mln - FrÃ¶lunda killers 4 - 4
+Los Pebbos - Green Valley FC 3 - 1
+week 4
+2012-07-08
+Svanskog BK - Los Pebbos 2 - 0
+JÃ¤rbo IF - Residensets BK 5 - 2
+Green Valley FC - REAL mln 2 - 1
+FrÃ¶lunda killers - Wheelsbridge Wanderers 1 - 1
+week 5
+2012-07-15
+REAL mln - JÃ¤rbo IF 4 - 2
+Los Pebbos - Residensets BK 3 - 1
+Wheelsbridge Wanderers - Green Valley FC 3 - 1
+FrÃ¶lunda killers - Svanskog BK 3 - 3
+week 6
+2012-07-22
+JÃ¤rbo IF - Los Pebbos 1 - 4
+Svanskog BK - REAL mln 4 - 1
+Green Valley FC - FrÃ¶lunda killers 2 - 1
+Residensets BK - Wheelsbridge Wanderers 1 - 3
+week 7
+2012-07-29
+FrÃ¶lunda killers - JÃ¤rbo IF 2 - 1
+Svanskog BK - Green Valley FC 2 - 2
+REAL mln - Residensets BK 1 - 1
+Los Pebbos - Wheelsbridge Wanderers 3 - 1
+week 8
+2012-08-05
+JÃ¤rbo IF - FrÃ¶lunda killers 0 - 1
+Residensets BK - REAL mln 4 - 4
+Wheelsbridge Wanderers - Los Pebbos 1 - 2
+Green Valley FC - Svanskog BK 2 - 1
+week 9
+2012-08-12
+FrÃ¶lunda killers - Green Valley FC 4 - 0
+REAL mln - Svanskog BK 3 - 2
+Los Pebbos - JÃ¤rbo IF 3 - 1
+Wheelsbridge Wanderers - Residensets BK 7 - 1
+week 10
+2012-08-19
+Svanskog BK - FrÃ¶lunda killers 3 - 2
+Green Valley FC - Wheelsbridge Wanderers 2 - 2
+JÃ¤rbo IF - REAL mln 2 - 3
+Residensets BK - Los Pebbos 1 - 4
+week 11
+2012-08-26
+Residensets BK - JÃ¤rbo IF 0 - 2
+Wheelsbridge Wanderers - FrÃ¶lunda killers 4 - 0
+Los Pebbos - Svanskog BK 4 - 1
+REAL mln - Green Valley FC 3 - 3
+week 12
+2012-09-02
+JÃ¤rbo IF - Wheelsbridge Wanderers 2 - 1
+Green Valley FC - Los Pebbos 1 - 1
+FrÃ¶lunda killers - REAL mln 2 - 3
+Svanskog BK - Residensets BK 6 - 2
+week 13
+2012-09-09
+Los Pebbos - REAL mln 4 - 2
+Wheelsbridge Wanderers - Svanskog BK 3 - 4
+Residensets BK - FrÃ¶lunda killers 0 - 5
+JÃ¤rbo IF - Green Valley FC 5 - 1
+week 14
+2012-09-16
+REAL mln - Wheelsbridge Wanderers 2 - 4
+FrÃ¶lunda killers - Los Pebbos 2 - 3
+Svanskog BK - JÃ¤rbo IF 2 - 1
+Green Valley FC - Residensets BK 5 - 2

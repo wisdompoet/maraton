@@ -1,0 +1,84 @@
+week 1
+2004-03-07
+AC Weah - NK Hajduk 3 - 4
+Charlton FC - Chocolate Synthesizers 1 - 0
+Kaiser FC - Tobys United 2 - 2
+Belgian Blue - Xerxes 2 - 0
+week 2
+2004-03-14
+Tobys United - AC Weah 0 - 4
+Xerxes - Charlton FC 3 - 0
+NK Hajduk - Belgian Blue 2 - 1
+Chocolate Synthesizers - Kaiser FC 3 - 1
+week 3
+2004-03-21
+Charlton FC - NK Hajduk 3 - 2
+Kaiser FC - Xerxes 2 - 1
+Tobys United - Chocolate Synthesizers 3 - 2
+Belgian Blue - AC Weah 1 - 3
+week 4
+2004-03-28
+AC Weah - Chocolate Synthesizers 6 - 2
+Xerxes - Tobys United 3 - 1
+NK Hajduk - Kaiser FC 3 - 1
+Belgian Blue - Charlton FC 1 - 0
+week 5
+2004-04-04
+Charlton FC - AC Weah 1 - 3
+Kaiser FC - Belgian Blue 1 - 3
+Tobys United - NK Hajduk 1 - 1
+Chocolate Synthesizers - Xerxes 2 - 0
+week 6
+2004-04-11
+AC Weah - Xerxes 4 - 3
+Charlton FC - Kaiser FC 4 - 0
+NK Hajduk - Chocolate Synthesizers 6 - 0
+Belgian Blue - Tobys United 2 - 0
+week 7
+2004-04-18
+Kaiser FC - AC Weah 4 - 3
+Tobys United - Charlton FC 2 - 1
+Xerxes - NK Hajduk 1 - 3
+Chocolate Synthesizers - Belgian Blue 2 - 0
+week 8
+2004-04-25
+Belgian Blue - Chocolate Synthesizers 3 - 0
+NK Hajduk - Xerxes 1 - 0
+Charlton FC - Tobys United 4 - 0
+AC Weah - Kaiser FC 0 - 6
+week 9
+2004-05-02
+Tobys United - Belgian Blue 2 - 4
+Chocolate Synthesizers - NK Hajduk 3 - 0
+Kaiser FC - Charlton FC 3 - 1
+Xerxes - AC Weah 4 - 0
+week 10
+2004-05-09
+Xerxes - Chocolate Synthesizers 1 - 5
+NK Hajduk - Tobys United 4 - 1
+Belgian Blue - Kaiser FC 5 - 1
+AC Weah - Charlton FC 0 - 5
+week 11
+2004-05-16
+Charlton FC - Belgian Blue 2 - 1
+Kaiser FC - NK Hajduk 2 - 1
+Tobys United - Xerxes 3 - 0
+Chocolate Synthesizers - AC Weah 10 - 0
+week 12
+2004-05-23
+AC Weah - Belgian Blue 0 - 10
+Chocolate Synthesizers - Tobys United 2 - 0
+Xerxes - Kaiser FC 8 - 0
+NK Hajduk - Charlton FC 2 - 1
+week 13
+2004-05-30
+Kaiser FC - Chocolate Synthesizers 2 - 0
+Belgian Blue - NK Hajduk 2 - 1
+Charlton FC - Xerxes 1 - 0
+AC Weah - Tobys United 0 - 10
+week 14
+2004-06-06
+Xerxes - Belgian Blue 1 - 2
+Tobys United - Kaiser FC 3 - 1
+Chocolate Synthesizers - Charlton FC 1 - 1
+NK Hajduk - AC Weah 9 - 0

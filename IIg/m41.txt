@@ -1,0 +1,84 @@
+week 1
+2010-01-03
+Fethetens FK - Bo-laget 0 - 9
+Södermalm City - Abyssinian Avengers 2 - 4
+FC Roddelona - Trotters F.C. 3 - 2
+FC Anfield - Lokomotiv Defensive 3 - 1
+week 2
+2010-01-10
+Trotters F.C. - Södermalm City 4 - 1
+Abyssinian Avengers - FC Anfield 4 - 1
+Lokomotiv Defensive - Fethetens FK 9 - 0
+Bo-laget - FC Roddelona 4 - 0
+week 3
+2010-01-17
+Södermalm City - Bo-laget 0 - 8
+FC Anfield - Trotters F.C. 1 - 3
+FC Roddelona - Fethetens FK 7 - 0
+Lokomotiv Defensive - Abyssinian Avengers 1 - 0
+week 4
+2010-01-24
+Fethetens FK - Abyssinian Avengers 0 - 6
+Trotters F.C. - Lokomotiv Defensive 2 - 2
+Bo-laget - FC Anfield 6 - 2
+FC Roddelona - Södermalm City 4 - 3
+week 5
+2010-01-31
+Södermalm City - Fethetens FK 10 - 0
+FC Anfield - FC Roddelona 4 - 3
+Lokomotiv Defensive - Bo-laget 2 - 4
+Abyssinian Avengers - Trotters F.C. 4 - 0
+week 6
+2010-02-07
+Fethetens FK - Trotters F.C. 0 - 9
+FC Roddelona - Lokomotiv Defensive 3 - 0
+Södermalm City - FC Anfield 3 - 1
+Bo-laget - Abyssinian Avengers 6 - 2
+week 7
+2010-02-14
+FC Anfield - Fethetens FK 8 - 0
+Lokomotiv Defensive - Södermalm City 1 - 3
+Trotters F.C. - Bo-laget 1 - 3
+Abyssinian Avengers - FC Roddelona 3 - 1
+week 8
+2010-02-21
+Bo-laget - Trotters F.C. 2 - 3
+Södermalm City - Lokomotiv Defensive 5 - 1
+FC Roddelona - Abyssinian Avengers 2 - 1
+Fethetens FK - FC Anfield 0 - 9
+week 9
+2010-02-28
+FC Anfield - Södermalm City 1 - 6
+Trotters F.C. - Fethetens FK 9 - 0
+Abyssinian Avengers - Bo-laget 1 - 2
+Lokomotiv Defensive - FC Roddelona 2 - 3
+week 10
+2010-03-07
+Trotters F.C. - Abyssinian Avengers 2 - 0
+Bo-laget - Lokomotiv Defensive 5 - 0
+FC Roddelona - FC Anfield 6 - 1
+Fethetens FK - Södermalm City 0 - 9
+week 11
+2010-03-14
+Södermalm City - FC Roddelona 3 - 3
+FC Anfield - Bo-laget 1 - 4
+Lokomotiv Defensive - Trotters F.C. 2 - 3
+Abyssinian Avengers - Fethetens FK 9 - 0
+week 12
+2010-03-21
+Fethetens FK - FC Roddelona 0 - 10
+Abyssinian Avengers - Lokomotiv Defensive 3 - 0
+Trotters F.C. - FC Anfield 2 - 1
+Bo-laget - Södermalm City 4 - 1
+week 13
+2010-03-28
+Fethetens FK - Lokomotiv Defensive 0 - 4
+FC Roddelona - Bo-laget 1 - 4
+Södermalm City - Trotters F.C. 5 - 0
+FC Anfield - Abyssinian Avengers 1 - 5
+week 14
+2010-04-04
+Trotters F.C. - FC Roddelona 1 - 1
+Abyssinian Avengers - Södermalm City 2 - 3
+Lokomotiv Defensive - FC Anfield 5 - 0
+Bo-laget - Fethetens FK 10 - 0

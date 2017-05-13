@@ -1,0 +1,84 @@
+week 1
+2011-07-17
+MacGyver - FC Carpenacci 4 - 1
+Xpander - FBKkrossen 0 - 1
+fc rimoraj - Hagreda SK 0 - 2
+Bloom County FC - Allvaret 6 - 3
+week 2
+2011-07-24
+FBKkrossen - Bloom County FC 3 - 3
+FC Carpenacci - Xpander 1 - 4
+Allvaret - fc rimoraj 2 - 2
+Hagreda SK - MacGyver 1 - 1
+week 3
+2011-07-31
+Hagreda SK - FC Carpenacci 2 - 0
+fc rimoraj - Bloom County FC 5 - 1
+MacGyver - FBKkrossen 3 - 1
+Xpander - Allvaret 3 - 0
+week 4
+2011-08-07
+Allvaret - MacGyver 1 - 3
+FC Carpenacci - fc rimoraj 1 - 0
+Bloom County FC - Xpander 0 - 4
+FBKkrossen - Hagreda SK 3 - 2
+week 5
+2011-08-14
+MacGyver - Xpander 4 - 1
+fc rimoraj - FBKkrossen 0 - 5
+Hagreda SK - Bloom County FC 1 - 2
+FC Carpenacci - Allvaret 2 - 1
+week 6
+2011-08-21
+Bloom County FC - MacGyver 1 - 1
+Xpander - fc rimoraj 4 - 1
+FBKkrossen - FC Carpenacci 7 - 1
+Allvaret - Hagreda SK 1 - 0
+week 7
+2011-08-28
+FC Carpenacci - Bloom County FC 0 - 1
+Allvaret - FBKkrossen 2 - 1
+Hagreda SK - Xpander 3 - 5
+MacGyver - fc rimoraj 4 - 2
+week 8
+2011-09-04
+Xpander - Hagreda SK 2 - 3
+Bloom County FC - FC Carpenacci 3 - 1
+fc rimoraj - MacGyver 3 - 2
+FBKkrossen - Allvaret 0 - 1
+week 9
+2011-09-11
+Hagreda SK - Allvaret 0 - 2
+FC Carpenacci - FBKkrossen 1 - 3
+fc rimoraj - Xpander 0 - 2
+MacGyver - Bloom County FC 1 - 2
+week 10
+2011-09-18
+Allvaret - FC Carpenacci 4 - 1
+FBKkrossen - fc rimoraj 5 - 1
+Bloom County FC - Hagreda SK 2 - 2
+Xpander - MacGyver 2 - 2
+week 11
+2011-09-25
+fc rimoraj - FC Carpenacci 2 - 1
+Hagreda SK - FBKkrossen 1 - 5
+Xpander - Bloom County FC 2 - 2
+MacGyver - Allvaret 2 - 0
+week 12
+2011-10-02
+Allvaret - Xpander 1 - 0
+FC Carpenacci - Hagreda SK 1 - 3
+Bloom County FC - fc rimoraj 4 - 1
+FBKkrossen - MacGyver 4 - 1
+week 13
+2011-10-09
+fc rimoraj - Allvaret 1 - 1
+Bloom County FC - FBKkrossen 4 - 2
+Xpander - FC Carpenacci 3 - 0
+MacGyver - Hagreda SK 4 - 1
+week 14
+2011-10-16
+FBKkrossen - Xpander 0 - 1
+Allvaret - Bloom County FC 0 - 1
+Hagreda SK - fc rimoraj 1 - 0
+FC Carpenacci - MacGyver 0 - 3

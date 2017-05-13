@@ -1,0 +1,84 @@
+week 1
+2014-11-30
+Dallas Superstars - Estö BK 5 - 1
+Ak Bärs Banan - BGSK 6 - 2
+Glaskulans IF - JJ Eddy 4 - 1
+San Marinos Nationalgarde - Speedyking FK 8 - 0
+week 2
+2014-12-07
+Estö BK - Glaskulans IF 0 - 5
+JJ Eddy - San Marinos Nationalgarde 5 - 4
+Speedyking FK - Ak Bärs Banan 0 - 11
+BGSK - Dallas Superstars 4 - 1
+week 3
+2014-12-14
+Ak Bärs Banan - Estö BK 5 - 0
+San Marinos Nationalgarde - Glaskulans IF 4 - 2
+Speedyking FK - BGSK 0 - 8
+Dallas Superstars - JJ Eddy 5 - 1
+week 4
+2014-12-21
+BGSK - San Marinos Nationalgarde 4 - 1
+Glaskulans IF - Dallas Superstars 6 - 0
+Estö BK - Speedyking FK 10 - 0
+JJ Eddy - Ak Bärs Banan 3 - 4
+week 5
+2014-12-28
+Speedyking FK - Glaskulans IF 0 - 10
+San Marinos Nationalgarde - Estö BK 2 - 2
+Ak Bärs Banan - Dallas Superstars 5 - 1
+BGSK - JJ Eddy 4 - 3
+week 6
+2015-01-04
+JJ Eddy - Speedyking FK 11 - 0
+Estö BK - BGSK 2 - 3
+Glaskulans IF - Ak Bärs Banan 1 - 1
+Dallas Superstars - San Marinos Nationalgarde 0 - 5
+week 7
+2015-01-11
+Ak Bärs Banan - San Marinos Nationalgarde 5 - 1
+Speedyking FK - Dallas Superstars 0 - 5
+JJ Eddy - Estö BK 3 - 1
+BGSK - Glaskulans IF 0 - 4
+week 8
+2015-01-18
+Glaskulans IF - BGSK 3 - 0
+Dallas Superstars - Speedyking FK 9 - 1
+San Marinos Nationalgarde - Ak Bärs Banan 2 - 3
+Estö BK - JJ Eddy 2 - 0
+week 9
+2015-01-25
+BGSK - Estö BK 6 - 1
+Speedyking FK - JJ Eddy 0 - 10
+San Marinos Nationalgarde - Dallas Superstars 8 - 0
+Ak Bärs Banan - Glaskulans IF 1 - 2
+week 10
+2015-02-01
+JJ Eddy - BGSK 1 - 7
+Estö BK - San Marinos Nationalgarde 0 - 9
+Glaskulans IF - Speedyking FK 11 - 0
+Dallas Superstars - Ak Bärs Banan 0 - 8
+week 11
+2015-02-08
+San Marinos Nationalgarde - BGSK 5 - 1
+Dallas Superstars - Glaskulans IF 0 - 8
+Speedyking FK - Estö BK 0 - 12
+Ak Bärs Banan - JJ Eddy 11 - 0
+week 12
+2015-02-15
+JJ Eddy - Dallas Superstars 4 - 0
+BGSK - Speedyking FK 11 - 0
+Glaskulans IF - San Marinos Nationalgarde 6 - 1
+Estö BK - Ak Bärs Banan 3 - 2
+week 13
+2015-02-22
+Ak Bärs Banan - Speedyking FK 12 - 0
+Dallas Superstars - BGSK 0 - 7
+Glaskulans IF - Estö BK 6 - 0
+San Marinos Nationalgarde - JJ Eddy 9 - 0
+week 14
+2015-03-01
+Estö BK - Dallas Superstars 10 - 0
+JJ Eddy - Glaskulans IF 1 - 10
+Speedyking FK - San Marinos Nationalgarde 0 - 10
+BGSK - Ak Bärs Banan 2 - 0

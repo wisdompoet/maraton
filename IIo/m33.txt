@@ -1,0 +1,84 @@
+week 1
+2007-07-22
+Aplared FC - Bengan_Bois 5 - 3
+Ambient Underground - IFK BK IBK 8 - 0
+BK Tuvan - IFK Snespark 2 - 1
+Hoddle - Dun Cannobaen 1 - 2
+week 2
+2007-07-29
+Bengan_Bois - BK Tuvan 2 - 2
+IFK BK IBK - Hoddle 3 - 2
+IFK Snespark - Ambient Underground 1 - 3
+Dun Cannobaen - Aplared FC 2 - 0
+week 3
+2007-08-05
+Ambient Underground - BK Tuvan 6 - 0
+Aplared FC - IFK BK IBK 4 - 1
+Hoddle - IFK Snespark 4 - 0
+Bengan_Bois - Dun Cannobaen 4 - 1
+week 4
+2007-08-12
+Ambient Underground - Hoddle 3 - 2
+IFK BK IBK - Bengan_Bois 0 - 3
+BK Tuvan - Dun Cannobaen 1 - 4
+IFK Snespark - Aplared FC 2 - 6
+week 5
+2007-08-19
+Aplared FC - Ambient Underground 1 - 3
+Dun Cannobaen - IFK BK IBK 7 - 0
+Bengan_Bois - IFK Snespark 7 - 0
+Hoddle - BK Tuvan 6 - 1
+week 6
+2007-08-26
+BK Tuvan - IFK BK IBK 2 - 0
+IFK Snespark - Dun Cannobaen 0 - 2
+Ambient Underground - Bengan_Bois 7 - 0
+Hoddle - Aplared FC 4 - 1
+week 7
+2007-09-02
+Bengan_Bois - Hoddle 3 - 3
+IFK BK IBK - IFK Snespark 3 - 1
+Dun Cannobaen - Ambient Underground 0 - 0
+Aplared FC - BK Tuvan 5 - 2
+week 8
+2007-09-09
+IFK Snespark - IFK BK IBK 4 - 0
+Hoddle - Bengan_Bois 3 - 2
+Ambient Underground - Dun Cannobaen 1 - 0
+BK Tuvan - Aplared FC 2 - 3
+week 9
+2007-09-16
+IFK BK IBK - BK Tuvan 2 - 1
+Dun Cannobaen - IFK Snespark 5 - 2
+Aplared FC - Hoddle 1 - 2
+Bengan_Bois - Ambient Underground 2 - 2
+week 10
+2007-09-23
+Ambient Underground - Aplared FC 5 - 0
+IFK BK IBK - Dun Cannobaen 0 - 3
+BK Tuvan - Hoddle 3 - 1
+IFK Snespark - Bengan_Bois 6 - 1
+week 11
+2007-09-30
+Hoddle - Ambient Underground 1 - 6
+Dun Cannobaen - BK Tuvan 3 - 2
+Aplared FC - IFK Snespark 2 - 0
+Bengan_Bois - IFK BK IBK 5 - 3
+week 12
+2007-10-07
+BK Tuvan - Ambient Underground 0 - 5
+IFK BK IBK - Aplared FC 3 - 2
+Dun Cannobaen - Bengan_Bois 6 - 1
+IFK Snespark - Hoddle 7 - 2
+week 13
+2007-10-14
+Aplared FC - Dun Cannobaen 0 - 0
+Ambient Underground - IFK Snespark 1 - 1
+Hoddle - IFK BK IBK 3 - 0
+BK Tuvan - Bengan_Bois 4 - 1
+week 14
+2007-10-21
+Bengan_Bois - Aplared FC 1 - 1
+Dun Cannobaen - Hoddle 1 - 1
+IFK Snespark - BK Tuvan 7 - 1
+IFK BK IBK - Ambient Underground 0 - 2

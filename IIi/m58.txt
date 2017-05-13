@@ -1,0 +1,84 @@
+week 1
+2015-03-22
+Kinnared Fk - Gårda BK 4 - 0
+Andarna BK - AIK 0 - 8
+Spader Dam - BK Wikland 4 - 0
+Gamlestans Giganter - Västertorps A-lag 5 - 0
+week 2
+2015-03-29
+AIK - Spader Dam 3 - 2
+Västertorps A-lag - Andarna BK 0 - 5
+Gårda BK - Gamlestans Giganter 2 - 3
+BK Wikland - Kinnared Fk 1 - 4
+week 3
+2015-04-05
+Andarna BK - BK Wikland 0 - 6
+Gamlestans Giganter - Kinnared Fk 3 - 0
+Västertorps A-lag - AIK 0 - 5
+Spader Dam - Gårda BK 5 - 3
+week 4
+2015-04-12
+AIK - Gamlestans Giganter 2 - 3
+Gårda BK - Andarna BK 7 - 0
+Kinnared Fk - Spader Dam 4 - 3
+BK Wikland - Västertorps A-lag 5 - 0
+week 5
+2015-04-19
+Gamlestans Giganter - BK Wikland 2 - 0
+Andarna BK - Spader Dam 0 - 4
+Västertorps A-lag - Kinnared Fk 0 - 5
+AIK - Gårda BK 3 - 2
+week 6
+2015-04-26
+Gårda BK - Västertorps A-lag 5 - 0
+BK Wikland - AIK 2 - 6
+Kinnared Fk - Andarna BK 7 - 0
+Spader Dam - Gamlestans Giganter 6 - 5
+week 7
+2015-05-03
+Andarna BK - Gamlestans Giganter 0 - 6
+Västertorps A-lag - Spader Dam 0 - 5
+AIK - Kinnared Fk 2 - 5
+Gårda BK - BK Wikland 1 - 0
+week 8
+2015-05-10
+BK Wikland - Gårda BK 3 - 0
+Spader Dam - Västertorps A-lag 11 - 0
+Gamlestans Giganter - Andarna BK 6 - 0
+Kinnared Fk - AIK 1 - 3
+week 9
+2015-05-17
+AIK - BK Wikland 3 - 0
+Västertorps A-lag - Gårda BK 0 - 9
+Gamlestans Giganter - Spader Dam 0 - 3
+Andarna BK - Kinnared Fk 0 - 7
+week 10
+2015-05-24
+BK Wikland - Gamlestans Giganter 2 - 4
+Gårda BK - AIK 4 - 1
+Spader Dam - Andarna BK 5 - 0
+Kinnared Fk - Västertorps A-lag 10 - 1
+week 11
+2015-05-31
+Västertorps A-lag - BK Wikland 0 - 10
+Spader Dam - Kinnared Fk 5 - 0
+Andarna BK - Gårda BK 0 - 8
+Gamlestans Giganter - AIK 0 - 5
+week 12
+2015-06-07
+Kinnared Fk - Gamlestans Giganter 1 - 3
+BK Wikland - Andarna BK 7 - 0
+AIK - Västertorps A-lag 10 - 0
+Gårda BK - Spader Dam 2 - 4
+week 13
+2015-06-14
+Kinnared Fk - BK Wikland 4 - 0
+Gamlestans Giganter - Gårda BK 1 - 1
+Spader Dam - AIK 7 - 1
+Andarna BK - Västertorps A-lag 5 - 0
+week 14
+2015-06-21
+Gårda BK - Kinnared Fk 1 - 2
+Västertorps A-lag - Gamlestans Giganter 0 - 9
+AIK - Andarna BK 7 - 1
+BK Wikland - Spader Dam 0 - 3

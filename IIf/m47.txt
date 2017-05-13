@@ -1,86 +1,84 @@
-Omgång 1
-2011-11-06 (1/47)			
-Frölunda killers - Slick Vic	9 - 1	HT Re-Live
-Klocktornets Järnkaminer - Svanskog BK	4 - 3	HT Re-Live
-Elvis AIK - Frontiers	1 - 2	HT Re-Live
-Los Pebbos - Södra Rovers	2 - 0	HT Re-Live
-Omgång 2
-2011-11-13 (2/47)			
-Slick Vic - Los Pebbos	1 - 7	HT Re-Live
-Frontiers - Klocktornets Järnkaminer	6 - 2	HT Re-Live
-Svanskog BK - Frölunda killers	2 - 1	HT Re-Live
-Södra Rovers - Elvis AIK	2 - 3	HT Re-Live
-Omgång 3
-2011-11-20 (3/47)			
-Los Pebbos - Frontiers	2 - 1	HT Re-Live
-Frölunda killers - Klocktornets Järnkaminer	5 - 1	HT Re-Live
-Slick Vic - Södra Rovers	2 - 7	HT Re-Live
-Elvis AIK - Svanskog BK	4 - 3	HT Re-Live
-Omgång 4
-2011-11-27 (4/47)			
-Svanskog BK - Los Pebbos	3 - 1	HT Re-Live
-Södra Rovers - Frölunda killers	1 - 1	HT Re-Live
-Klocktornets Järnkaminer - Elvis AIK	3 - 1	HT Re-Live
-Frontiers - Slick Vic	8 - 1	HT Re-Live
-Omgång 5
-2011-12-04 (5/47)			
-Södra Rovers - Svanskog BK	5 - 2	HT Re-Live
-Frölunda killers - Frontiers	1 - 2	HT Re-Live
-Los Pebbos - Elvis AIK	3 - 2	HT Re-Live
-Slick Vic - Klocktornets Järnkaminer	1 - 5	HT Re-Live
-Omgång 6
-2011-12-11 (6/47)			
-Klocktornets Järnkaminer - Los Pebbos	3 - 0	HT Re-Live
-Elvis AIK - Frölunda killers	3 - 0	HT Re-Live
-Svanskog BK - Slick Vic	6 - 0	HT Re-Live
-Frontiers - Södra Rovers	3 - 4	HT Re-Live
-Omgång 7
-2011-12-18 (7/47)			
-Södra Rovers - Klocktornets Järnkaminer	5 - 2	HT Re-Live
-Los Pebbos - Frölunda killers	5 - 0	HT Re-Live
-Svanskog BK - Frontiers	5 - 2	HT Re-Live
-Slick Vic - Elvis AIK	1 - 3	HT Re-Live
-Omgång 8
-2011-12-25 (8/47)			
-Elvis AIK - Slick Vic	7 - 0	HT Re-Live
-Klocktornets Järnkaminer - Södra Rovers	3 - 2	HT Re-Live
-Frölunda killers - Los Pebbos	1 - 4	HT Re-Live
-Frontiers - Svanskog BK	1 - 3	HT Re-Live
-Omgång 9
-2012-01-01 (9/47)			
-Södra Rovers - Frontiers	6 - 0	HT Re-Live
-Slick Vic - Svanskog BK	1 - 3	HT Re-Live
-Los Pebbos - Klocktornets Järnkaminer	4 - 2	HT Re-Live
-Frölunda killers - Elvis AIK	2 - 2	HT Re-Live
-Omgång 10
-2012-01-08 (10/47)			
-Frontiers - Frölunda killers	1 - 3	HT Re-Live
-Klocktornets Järnkaminer - Slick Vic	4 - 2	HT Re-Live
-Elvis AIK - Los Pebbos	0 - 2	HT Re-Live
-Svanskog BK - Södra Rovers	5 - 1	HT Re-Live
-Omgång 11
-2012-01-15 (11/47)			
-Slick Vic - Frontiers	1 - 1	HT Re-Live
-Elvis AIK - Klocktornets Järnkaminer	4 - 0	HT Re-Live
-Frölunda killers - Södra Rovers	3 - 1	HT Re-Live
-Los Pebbos - Svanskog BK	3 - 2	HT Re-Live
-Omgång 12
-2012-01-22 (12/47)			
-Svanskog BK - Elvis AIK	4 - 4	HT Re-Live
-Södra Rovers - Slick Vic	6 - 0	HT Re-Live
-Frontiers - Los Pebbos	2 - 2	HT Re-Live
-Klocktornets Järnkaminer - Frölunda killers	2 - 4	HT Re-Live
-Omgång 13
-2012-01-29 (13/47)			
-Los Pebbos - Slick Vic	3 - 0	HT Re-Live
-Klocktornets Järnkaminer - Frontiers	3 - 2	HT Re-Live
-Frölunda killers - Svanskog BK	3 - 2	HT Re-Live
-Elvis AIK - Södra Rovers	3 - 2	HT Re-Live
-Omgång 14
-2012-02-05 (14/47)			
-Frontiers - Elvis AIK	2 - 0	HT Re-Live
-Svanskog BK - Klocktornets Järnkaminer	6 - 1	HT Re-Live
-Slick Vic - Frölunda killers	0 - 7	HT Re-Live
-Södra Rovers - Los Pebbos	4 - 4	HT Re-Live
-
-
+week 1
+2011-11-06
+FrÃ¶lunda killers - Slick Vic 9 - 1
+Klocktornets JÃ¤rnkaminer - Svanskog BK 4 - 3
+Elvis AIK - Frontiers 1 - 2
+Los Pebbos - SÃ¶dra Rovers 2 - 0
+week 2
+2011-11-13
+Slick Vic - Los Pebbos 1 - 7
+Frontiers - Klocktornets JÃ¤rnkaminer 6 - 2
+Svanskog BK - FrÃ¶lunda killers 2 - 1
+SÃ¶dra Rovers - Elvis AIK 2 - 3
+week 3
+2011-11-20
+Los Pebbos - Frontiers 2 - 1
+FrÃ¶lunda killers - Klocktornets JÃ¤rnkaminer 5 - 1
+Slick Vic - SÃ¶dra Rovers 2 - 7
+Elvis AIK - Svanskog BK 4 - 3
+week 4
+2011-11-27
+Svanskog BK - Los Pebbos 3 - 1
+SÃ¶dra Rovers - FrÃ¶lunda killers 1 - 1
+Klocktornets JÃ¤rnkaminer - Elvis AIK 3 - 1
+Frontiers - Slick Vic 8 - 1
+week 5
+2011-12-04
+SÃ¶dra Rovers - Svanskog BK 5 - 2
+FrÃ¶lunda killers - Frontiers 1 - 2
+Los Pebbos - Elvis AIK 3 - 2
+Slick Vic - Klocktornets JÃ¤rnkaminer 1 - 5
+week 6
+2011-12-11
+Klocktornets JÃ¤rnkaminer - Los Pebbos 3 - 0
+Elvis AIK - FrÃ¶lunda killers 3 - 0
+Svanskog BK - Slick Vic 6 - 0
+Frontiers - SÃ¶dra Rovers 3 - 4
+week 7
+2011-12-18
+SÃ¶dra Rovers - Klocktornets JÃ¤rnkaminer 5 - 2
+Los Pebbos - FrÃ¶lunda killers 5 - 0
+Svanskog BK - Frontiers 5 - 2
+Slick Vic - Elvis AIK 1 - 3
+week 8
+2011-12-25
+Elvis AIK - Slick Vic 7 - 0
+Klocktornets JÃ¤rnkaminer - SÃ¶dra Rovers 3 - 2
+FrÃ¶lunda killers - Los Pebbos 1 - 4
+Frontiers - Svanskog BK 1 - 3
+week 9
+2012-01-01
+SÃ¶dra Rovers - Frontiers 6 - 0
+Slick Vic - Svanskog BK 1 - 3
+Los Pebbos - Klocktornets JÃ¤rnkaminer 4 - 2
+FrÃ¶lunda killers - Elvis AIK 2 - 2
+week 10
+2012-01-08
+Frontiers - FrÃ¶lunda killers 1 - 3
+Klocktornets JÃ¤rnkaminer - Slick Vic 4 - 2
+Elvis AIK - Los Pebbos 0 - 2
+Svanskog BK - SÃ¶dra Rovers 5 - 1
+week 11
+2012-01-15
+Slick Vic - Frontiers 1 - 1
+Elvis AIK - Klocktornets JÃ¤rnkaminer 4 - 0
+FrÃ¶lunda killers - SÃ¶dra Rovers 3 - 1
+Los Pebbos - Svanskog BK 3 - 2
+week 12
+2012-01-22
+Svanskog BK - Elvis AIK 4 - 4
+SÃ¶dra Rovers - Slick Vic 6 - 0
+Frontiers - Los Pebbos 2 - 2
+Klocktornets JÃ¤rnkaminer - FrÃ¶lunda killers 2 - 4
+week 13
+2012-01-29
+Los Pebbos - Slick Vic 3 - 0
+Klocktornets JÃ¤rnkaminer - Frontiers 3 - 2
+FrÃ¶lunda killers - Svanskog BK 3 - 2
+Elvis AIK - SÃ¶dra Rovers 3 - 2
+week 14
+2012-02-05
+Frontiers - Elvis AIK 2 - 0
+Svanskog BK - Klocktornets JÃ¤rnkaminer 6 - 1
+Slick Vic - FrÃ¶lunda killers 0 - 7
+SÃ¶dra Rovers - Los Pebbos 4 - 4

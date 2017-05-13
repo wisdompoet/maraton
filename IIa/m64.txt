@@ -1,84 +1,84 @@
-Omgång 1
-2017-01-22 (1/64) 			
-	Mollusk SK - Gus79 United 	5 - 2 	HT Re-Live
-	Kinnared Fk - Angels of Gothenburg 	1 - 2 	HT Re-Live
-	Brattforce - Ränneskit IF 	5 - 0 	HT Re-Live
-	Jediriddarna - BK Rapp 	3 - 1 	HT Re-Live
-Omgång 2
-2017-01-29 (2/64) 			
-	Angels of Gothenburg - Mollusk SK 	3 - 3 	HT Re-Live
-	Gus79 United - Jediriddarna 	5 - 0 	HT Re-Live
-	BK Rapp - Brattforce 	2 - 3 	HT Re-Live
-	Ränneskit IF - Kinnared Fk 	0 - 5 	HT Re-Live
-Omgång 3
-2017-02-05 (3/64) 			
-	Kinnared Fk - Brattforce 	2 - 0 	HT Re-Live
-	Angels of Gothenburg - Gus79 United 	4 - 4 	HT Re-Live
-	Jediriddarna - Ränneskit IF 	5 - 0 	HT Re-Live
-	Mollusk SK - BK Rapp 	3 - 0 	HT Re-Live
-Omgång 4
-2017-02-12 (4/64) 			
-	Ränneskit IF - Mollusk SK 	0 - 5 	HT Re-Live
-	Gus79 United - Kinnared Fk 	5 - 3 	HT Re-Live
-	Brattforce - Jediriddarna 	3 - 2 	HT Re-Live
-	BK Rapp - Angels of Gothenburg 	1 - 4 	HT Re-Live
-Omgång 5
-2017-02-19 (5/64) 			
-	Mollusk SK - Jediriddarna 	1 - 8 	HT Re-Live
-	Angels of Gothenburg - Brattforce 	2 - 0 	HT Re-Live
-	Kinnared Fk - BK Rapp 	1 - 1 	HT Re-Live
-	Gus79 United - Ränneskit IF 	5 - 0 	HT Re-Live
-Omgång 6
-2017-02-26 (6/64) 			
-	Brattforce - Mollusk SK 	8 - 0 	HT Re-Live
-	Jediriddarna - Kinnared Fk 	3 - 2 	HT Re-Live
-	BK Rapp - Gus79 United 	3 - 6 	HT Re-Live
-	Ränneskit IF - Angels of Gothenburg 	0 - 5 	HT Re-Live
-Omgång 7
-2017-03-05 (7/64) 			
-	Mollusk SK - Kinnared Fk 	0 - 7 	HT Re-Live
-	Gus79 United - Brattforce 	4 - 0 	HT Re-Live
-	Angels of Gothenburg - Jediriddarna 	2 - 0 	HT Re-Live
-	Ränneskit IF - BK Rapp 	0 - 5 	HT Re-Live
-Omgång 8
-2017-03-12 (8/64) 			
-	BK Rapp - Ränneskit IF 	10 - 0 	HT Re-Live
-	Jediriddarna - Angels of Gothenburg 	4 - 0 	HT Re-Live
-	Kinnared Fk - Mollusk SK 	6 - 0 	HT Re-Live
-	Brattforce - Gus79 United 	5 - 1 	HT Re-Live
-Omgång 9
-2017-03-19 (9/64) 			
-	Gus79 United - BK Rapp 	3 - 1 	HT Re-Live
-	Kinnared Fk - Jediriddarna 	0 - 3 	HT Re-Live
-	Angels of Gothenburg - Ränneskit IF 	10 - 0 	HT Re-Live
-	Mollusk SK - Brattforce 	0 - 7 	HT Re-Live
-Omgång 10
-2017-03-26 (10/64) 			
-	BK Rapp - Kinnared Fk 	1 - 3 	HT Re-Live
-	Ränneskit IF - Gus79 United 	0 - 9 	HT Re-Live
-	Brattforce - Angels of Gothenburg 	5 - 1 	HT Re-Live
-	Jediriddarna - Mollusk SK 	9 - 0 	HT Re-Live
-Omgång 11
-2017-04-02 (11/64) 			
-	Angels of Gothenburg - BK Rapp 	3 - 1 	HT Re-Live
-	Jediriddarna - Brattforce 	6 - 2 	HT Re-Live
-	Mollusk SK - Ränneskit IF 	7 - 0 	HT Re-Live
-	Kinnared Fk - Gus79 United 	2 - 1 	HT Re-Live
-Omgång 12
-2017-04-09 (12/64) 			
-	Brattforce - Kinnared Fk 	2 - 1 	HT Re-Live
-	Ränneskit IF - Jediriddarna 	0 - 6 	HT Re-Live
-	Gus79 United - Angels of Gothenburg 	3 - 0 	HT Re-Live
-	BK Rapp - Mollusk SK 	6 - 0 	HT Re-Live
-Omgång 13
-2017-04-16 (13/64) 			
-	Brattforce - BK Rapp 	3 - 2 	HT Re-Live
-	Kinnared Fk - Ränneskit IF 	8 - 0 	HT Re-Live
-	Jediriddarna - Gus79 United 	4 - 7 	HT Re-Live
-	Mollusk SK - Angels of Gothenburg 	0 - 10 	HT Re-Live
-Omgång 14
-2017-04-23 (14/64) 			
-	BK Rapp - Jediriddarna 	3 - 0 	HT Re-Live
-	Ränneskit IF - Brattforce 	0 - 13 	HT Re-Live
-	Angels of Gothenburg - Kinnared Fk 	4 - 2 	HT Re-Live
-	Gus79 United - Mollusk SK 	11 - 0 	HT Re-Live
+week 1
+2017-01-22
+Mollusk SK - Gus79 United 5 - 2
+Kinnared Fk - Angels of Gothenburg 1 - 2
+Brattforce - Ränneskit IF 5 - 0
+Jediriddarna - BK Rapp 3 - 1
+week 2
+2017-01-29
+Angels of Gothenburg - Mollusk SK 3 - 3
+Gus79 United - Jediriddarna 5 - 0
+BK Rapp - Brattforce 2 - 3
+Ränneskit IF - Kinnared Fk 0 - 5
+week 3
+2017-02-05
+Kinnared Fk - Brattforce 2 - 0
+Angels of Gothenburg - Gus79 United 4 - 4
+Jediriddarna - Ränneskit IF 5 - 0
+Mollusk SK - BK Rapp 3 - 0
+week 4
+2017-02-12
+Ränneskit IF - Mollusk SK 0 - 5
+Gus79 United - Kinnared Fk 5 - 3
+Brattforce - Jediriddarna 3 - 2
+BK Rapp - Angels of Gothenburg 1 - 4
+week 5
+2017-02-19
+Mollusk SK - Jediriddarna 1 - 8
+Angels of Gothenburg - Brattforce 2 - 0
+Kinnared Fk - BK Rapp 1 - 1
+Gus79 United - Ränneskit IF 5 - 0
+week 6
+2017-02-26
+Brattforce - Mollusk SK 8 - 0
+Jediriddarna - Kinnared Fk 3 - 2
+BK Rapp - Gus79 United 3 - 6
+Ränneskit IF - Angels of Gothenburg 0 - 5
+week 7
+2017-03-05
+Mollusk SK - Kinnared Fk 0 - 7
+Gus79 United - Brattforce 4 - 0
+Angels of Gothenburg - Jediriddarna 2 - 0
+Ränneskit IF - BK Rapp 0 - 5
+week 8
+2017-03-12
+BK Rapp - Ränneskit IF 10 - 0
+Jediriddarna - Angels of Gothenburg 4 - 0
+Kinnared Fk - Mollusk SK 6 - 0
+Brattforce - Gus79 United 5 - 1
+week 9
+2017-03-19
+Gus79 United - BK Rapp 3 - 1
+Kinnared Fk - Jediriddarna 0 - 3
+Angels of Gothenburg - Ränneskit IF 10 - 0
+Mollusk SK - Brattforce 0 - 7
+week 10
+2017-03-26
+BK Rapp - Kinnared Fk 1 - 3
+Ränneskit IF - Gus79 United 0 - 9
+Brattforce - Angels of Gothenburg 5 - 1
+Jediriddarna - Mollusk SK 9 - 0
+week 11
+2017-04-02
+Angels of Gothenburg - BK Rapp 3 - 1
+Jediriddarna - Brattforce 6 - 2
+Mollusk SK - Ränneskit IF 7 - 0
+Kinnared Fk - Gus79 United 2 - 1
+week 12
+2017-04-09
+Brattforce - Kinnared Fk 2 - 1
+Ränneskit IF - Jediriddarna 0 - 6
+Gus79 United - Angels of Gothenburg 3 - 0
+BK Rapp - Mollusk SK 6 - 0
+week 13
+2017-04-16
+Brattforce - BK Rapp 3 - 2
+Kinnared Fk - Ränneskit IF 8 - 0
+Jediriddarna - Gus79 United 4 - 7
+Mollusk SK - Angels of Gothenburg 0 - 10
+week 14
+2017-04-23
+BK Rapp - Jediriddarna 3 - 0
+Ränneskit IF - Brattforce 0 - 13
+Angels of Gothenburg - Kinnared Fk 4 - 2
+Gus79 United - Mollusk SK 11 - 0

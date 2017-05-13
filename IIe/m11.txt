@@ -1,0 +1,84 @@
+week 1
+2000-10-22
+Stream Team - Real Español 5 - 0
+Kingdom Raiders - Talangen Stars 2 - 0
+Score FC - Halifax United 1 - 0
+Röda Armén - Hofors AIF 0 - 0
+week 2
+2000-10-29
+Halifax United - Stream Team 0 - 1
+Hofors AIF - Kingdom Raiders 1 - 1
+Real Español - Röda Armén 2 - 1
+Talangen Stars - Score FC 4 - 2
+week 3
+2000-11-05
+Kingdom Raiders - Real Español 5 - 1
+Score FC - Hofors AIF 2 - 0
+Halifax United - Talangen Stars 0 - 5
+Röda Armén - Stream Team 0 - 2
+week 4
+2000-11-12
+Stream Team - Talangen Stars 2 - 1
+Hofors AIF - Halifax United 4 - 0
+Real Español - Score FC 3 - 1
+Röda Armén - Kingdom Raiders 2 - 1
+week 5
+2000-11-19
+Kingdom Raiders - Stream Team 1 - 2
+Score FC - Brotherhood of Gnorf 0 - 0
+Halifax United - Real Español 1 - 4
+Talangen Stars - Hofors AIF 0 - 0
+week 6
+2000-11-26
+Stream Team - Hofors AIF 5 - 0
+Kingdom Raiders - Score FC 2 - 0
+Real Español - Talangen Stars 2 - 2
+Brotherhood of Gnorf - Halifax United 0 - 0
+week 7
+2000-12-03
+Score FC - Stream Team 3 - 1
+Halifax United - Kingdom Raiders 0 - 3
+Hofors AIF - Real Español 2 - 2
+Talangen Stars - Brotherhood of Gnorf 4 - 0
+week 8
+2000-12-10
+Brotherhood of Gnorf - Talangen Stars 0 - 0
+Real Español - Hofors AIF 1 - 0
+Kingdom Raiders - Halifax United 3 - 0
+Stream Team - Score FC 3 - 1
+week 9
+2000-12-17
+Halifax United - Brotherhood of Gnorf 0 - 1
+Talangen Stars - Real Español 5 - 0
+Score FC - Kingdom Raiders 0 - 2
+Hofors AIF - Stream Team 2 - 0
+week 10
+2000-12-24
+Hofors AIF - Talangen Stars 0 - 2
+Real Español - Halifax United 4 - 0
+Brotherhood of Gnorf - Score FC 2 - 1
+Stream Team - Kingdom Raiders 0 - 3
+week 11
+2000-12-31
+Kingdom Raiders - Brotherhood of Gnorf 3 - 1
+Score FC - Real Español 4 - 0
+Halifax United - Hofors AIF 0 - 1
+Talangen Stars - Stream Team 0 - 0
+week 12
+2001-01-07
+Stream Team - Brotherhood of Gnorf 1 - 0
+Talangen Stars - Halifax United 5 - 0
+Hofors AIF - Score FC 1 - 1
+Real Español - Kingdom Raiders 1 - 2
+week 13
+2001-01-14
+Score FC - Talangen Stars 0 - 5
+Brotherhood of Gnorf - Real Español 2 - 0
+Kingdom Raiders - Hofors AIF 5 - 0
+Stream Team - Halifax United 2 - 0
+week 14
+2001-01-21
+Hofors AIF - Brotherhood of Gnorf 0 - 0
+Halifax United - Score FC 0 - 2
+Talangen Stars - Kingdom Raiders 2 - 0
+Real Español - Stream Team 0 - 2

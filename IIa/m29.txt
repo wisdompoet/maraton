@@ -1,84 +1,84 @@
-Omgång 1
-2006-04-30 (1/29) 			
-	Hawkwing FF - Ondpors BK 	3 - 3 	HT Re-Live
-	NET Stars - dynamo bäckis 	2 - 2 	HT Re-Live
-	Östersund FK - Bärsans SK 	3 - 6 	HT Re-Live
-	Lokomotiv Bustad - Vissefjärda Trashers 	1 - 9 	HT Re-Live
-Omgång 2
-2006-05-07 (2/29) 			
-	Bärsans SK - Lokomotiv Bustad 	9 - 1 	HT Re-Live
-	Ondpors BK - NET Stars 	5 - 1 	HT Re-Live
-	dynamo bäckis - Östersund FK 	5 - 1 	HT Re-Live
-	Vissefjärda Trashers  - Hawkwing FF 	2 - 3 	HT Re-Live
-Omgång 3
-2006-05-14 (3/29) 			
-	Östersund FK - Ondpors BK 	3 - 2 	HT Re-Live
-	Vissefjärda Trashers  - Bärsans SK 	0 - 3 	HT Re-Live
-	NET Stars - Hawkwing FF 	3 - 2 	HT Re-Live
-	Lokomotiv Bustad - dynamo bäckis 	2 - 6 	HT Re-Live
-Omgång 4
-2006-05-21 (4/29) 			
-	Hawkwing FF - Bärsans SK 	4 - 3 	HT Re-Live
-	dynamo bäckis - Vissefjärda Trashers 	2 - 2 	HT Re-Live
-	Ondpors BK - Lokomotiv Bustad 	9 - 1 	HT Re-Live
-	NET Stars - Östersund FK 	6 - 0 	HT Re-Live
-Omgång 5
-2006-05-28 (5/29) 			
-	Östersund FK - Hawkwing FF 	4 - 2 	HT Re-Live
-	Lokomotiv Bustad - NET Stars 	5 - 0 	HT Re-Live
-	Bärsans SK - dynamo bäckis 	2 - 0 	HT Re-Live
-	Vissefjärda Trashers  - Ondpors BK 	3 - 1 	HT Re-Live
-Omgång 6
-2006-06-04 (6/29) 			
-	Hawkwing FF - dynamo bäckis 	4 - 1 	HT Re-Live
-	Östersund FK - Lokomotiv Bustad 	9 - 0 	HT Re-Live
-	NET Stars - Vissefjärda Trashers 	9 - 0 	HT Re-Live
-	Ondpors BK - Bärsans SK 	1 - 2 	HT Re-Live
-Omgång 7
-2006-06-11 (7/29) 			
-	Vissefjärda Trashers  - Östersund FK 	4 - 2 	HT Re-Live
-	dynamo bäckis - Ondpors BK 	0 - 3 	HT Re-Live
-	Bärsans SK - NET Stars 	1 - 1 	HT Re-Live
-	Lokomotiv Bustad - Hawkwing FF 	0 - 10 	HT Re-Live
-Omgång 8
-2006-06-18 (8/29) 			
-	NET Stars - Bärsans SK 	3 - 3 	HT Re-Live
-	Ondpors BK - dynamo bäckis 	2 - 0 	HT Re-Live
-	Östersund FK - Vissefjärda Trashers 	6 - 0 	HT Re-Live
-	Hawkwing FF - Lokomotiv Bustad 	9 - 1 	HT Re-Live
-Omgång 9
-2006-06-25 (9/29) 			
-	Vissefjärda Trashers  - NET Stars 	4 - 3 	HT Re-Live
-	dynamo bäckis - Hawkwing FF 	1 - 1 	HT Re-Live
-	Bärsans SK - Ondpors BK 	0 - 1 	HT Re-Live
-	Lokomotiv Bustad - Östersund FK 	0 - 12 	HT Re-Live
-Omgång 10
-2006-07-02 (10/29) 			
-	Ondpors BK - Vissefjärda Trashers 	8 - 0 	HT Re-Live
-	dynamo bäckis - Bärsans SK 	1 - 1 	HT Re-Live
-	NET Stars - Lokomotiv Bustad 	10 - 0 	HT Re-Live
-	Hawkwing FF - Östersund FK 	3 - 2 	HT Re-Live
-Omgång 11
-2006-07-09 (11/29) 			
-	Östersund FK - NET Stars 	5 - 3 	HT Re-Live
-	Vissefjärda Trashers  - dynamo bäckis 	1 - 0 	HT Re-Live
-	Lokomotiv Bustad - Ondpors BK 	0 - 8 	HT Re-Live
-	Bärsans SK - Hawkwing FF 	1 - 3 	HT Re-Live
-Omgång 12
-2006-07-16 (12/29) 			
-	Hawkwing FF - NET Stars 	3 - 2 	HT Re-Live
-	Ondpors BK - Östersund FK 	5 - 1 	HT Re-Live
-	dynamo bäckis - Lokomotiv Bustad 	10 - 0 	HT Re-Live
-	Bärsans SK - Vissefjärda Trashers 	2 - 2 	HT Re-Live
-Omgång 13
-2006-07-23 (13/29) 			
-	NET Stars - Ondpors BK 	0 - 2 	HT Re-Live
-	Östersund FK - dynamo bäckis 	4 - 3 	HT Re-Live
-	Hawkwing FF - Vissefjärda Trashers 	2 - 1 	HT Re-Live
-	Lokomotiv Bustad - Bärsans SK 	0 - 8 	HT Re-Live
-Omgång 14
-2006-07-30 (14/29) 			
-	Vissefjärda Trashers  - Lokomotiv Bustad 	5 - 0 	HT Re-Live
-	Bärsans SK - Östersund FK 	6 - 3 	HT Re-Live
-	Ondpors BK - Hawkwing FF 	2 - 0 	HT Re-Live
-	dynamo bäckis - NET Stars 	3 - 1 	HT Re-Live
+week 1
+2006-04-30
+Hawkwing FF - Ondpors BK 3 - 3
+NET Stars - dynamo bäckis 2 - 2
+Östersund FK - Bärsans SK 3 - 6
+Lokomotiv Bustad - Vissefjärda Trashers  1 - 9
+week 2
+2006-05-07
+Bärsans SK - Lokomotiv Bustad 9 - 1
+Ondpors BK - NET Stars 5 - 1
+dynamo bäckis - Östersund FK 5 - 1
+Vissefjärda Trashers  - Hawkwing FF 2 - 3
+week 3
+2006-05-14
+Östersund FK - Ondpors BK 3 - 2
+Vissefjärda Trashers  - Bärsans SK 0 - 3
+NET Stars - Hawkwing FF 3 - 2
+Lokomotiv Bustad - dynamo bäckis 2 - 6
+week 4
+2006-05-21
+Hawkwing FF - Bärsans SK 4 - 3
+dynamo bäckis - Vissefjärda Trashers  2 - 2
+Ondpors BK - Lokomotiv Bustad 9 - 1
+NET Stars - Östersund FK 6 - 0
+week 5
+2006-05-28
+Östersund FK - Hawkwing FF 4 - 2
+Lokomotiv Bustad - NET Stars 5 - 0
+Bärsans SK - dynamo bäckis 2 - 0
+Vissefjärda Trashers  - Ondpors BK 3 - 1
+week 6
+2006-06-04
+Hawkwing FF - dynamo bäckis 4 - 1
+Östersund FK - Lokomotiv Bustad 9 - 0
+NET Stars - Vissefjärda Trashers  9 - 0
+Ondpors BK - Bärsans SK 1 - 2
+week 7
+2006-06-11
+Vissefjärda Trashers  - Östersund FK 4 - 2
+dynamo bäckis - Ondpors BK 0 - 3
+Bärsans SK - NET Stars 1 - 1
+Lokomotiv Bustad - Hawkwing FF 0 - 10
+week 8
+2006-06-18
+NET Stars - Bärsans SK 3 - 3
+Ondpors BK - dynamo bäckis 2 - 0
+Östersund FK - Vissefjärda Trashers  6 - 0
+Hawkwing FF - Lokomotiv Bustad 9 - 1
+week 9
+2006-06-25
+Vissefjärda Trashers  - NET Stars 4 - 3
+dynamo bäckis - Hawkwing FF 1 - 1
+Bärsans SK - Ondpors BK 0 - 1
+Lokomotiv Bustad - Östersund FK 0 - 12
+week 10
+2006-07-02
+Ondpors BK - Vissefjärda Trashers  8 - 0
+dynamo bäckis - Bärsans SK 1 - 1
+NET Stars - Lokomotiv Bustad 10 - 0
+Hawkwing FF - Östersund FK 3 - 2
+week 11
+2006-07-09
+Östersund FK - NET Stars 5 - 3
+Vissefjärda Trashers  - dynamo bäckis 1 - 0
+Lokomotiv Bustad - Ondpors BK 0 - 8
+Bärsans SK - Hawkwing FF 1 - 3
+week 12
+2006-07-16
+Hawkwing FF - NET Stars 3 - 2
+Ondpors BK - Östersund FK 5 - 1
+dynamo bäckis - Lokomotiv Bustad 10 - 0
+Bärsans SK - Vissefjärda Trashers  2 - 2
+week 13
+2006-07-23
+NET Stars - Ondpors BK 0 - 2
+Östersund FK - dynamo bäckis 4 - 3
+Hawkwing FF - Vissefjärda Trashers  2 - 1
+Lokomotiv Bustad - Bärsans SK 0 - 8
+week 14
+2006-07-30
+Vissefjärda Trashers  - Lokomotiv Bustad 5 - 0
+Bärsans SK - Östersund FK 6 - 3
+Ondpors BK - Hawkwing FF 2 - 0
+dynamo bäckis - NET Stars 3 - 1

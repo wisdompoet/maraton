@@ -1,0 +1,84 @@
+week 1
+2002-01-13
+Skalbolaget - BuggSoft OS 3 - 1
+Helsingborg Trashers - Camarillo Pro SC 1 - 1
+Malmö Angels FC - Jajax Jokers 2 - 2
+Bernt I Boas BK - Torsås tappra tigrar 4 - 2
+week 2
+2002-01-20
+Jajax Jokers - Skalbolaget 1 - 1
+Torsås tappra tigrar - Helsingborg Trashers 0 - 4
+BuggSoft OS - Bernt I Boas BK 5 - 1
+Camarillo Pro SC - Malmö Angels FC 2 - 1
+week 3
+2002-01-27
+Helsingborg Trashers - BuggSoft OS 1 - 0
+Malmö Angels FC - Torsås tappra tigrar 0 - 3
+Jajax Jokers - Camarillo Pro SC 0 - 2
+Bernt I Boas BK - Skalbolaget 2 - 4
+week 4
+2002-02-03
+Skalbolaget - Camarillo Pro SC 1 - 0
+Torsås tappra tigrar - Jajax Jokers 1 - 0
+BuggSoft OS - Malmö Angels FC 2 - 1
+Bernt I Boas BK - Helsingborg Trashers 1 - 3
+week 5
+2002-02-10
+Helsingborg Trashers - Skalbolaget 0 - 0
+Malmö Angels FC - Bernt I Boas BK 2 - 3
+Jajax Jokers - BuggSoft OS 0 - 5
+Camarillo Pro SC - Torsås tappra tigrar 1 - 0
+week 6
+2002-02-17
+Skalbolaget - Torsås tappra tigrar 0 - 3
+Helsingborg Trashers - Malmö Angels FC 3 - 2
+BuggSoft OS - Camarillo Pro SC 2 - 0
+Bernt I Boas BK - Jajax Jokers 2 - 1
+week 7
+2002-02-24
+Malmö Angels FC - Skalbolaget 1 - 3
+Jajax Jokers - Helsingborg Trashers 0 - 1
+Torsås tappra tigrar - BuggSoft OS 3 - 0
+Camarillo Pro SC - Bernt I Boas BK 1 - 3
+week 8
+2002-03-03
+Bernt I Boas BK - Camarillo Pro SC 3 - 1
+BuggSoft OS - Torsås tappra tigrar 4 - 0
+Helsingborg Trashers - Jajax Jokers 3 - 0
+Skalbolaget - Malmö Angels FC 6 - 0
+week 9
+2002-03-10
+Jajax Jokers - Bernt I Boas BK 0 - 3
+Camarillo Pro SC - BuggSoft OS 1 - 2
+Malmö Angels FC - Helsingborg Trashers 1 - 2
+Torsås tappra tigrar - Skalbolaget 0 - 2
+week 10
+2002-03-17
+Torsås tappra tigrar - Camarillo Pro SC 1 - 0
+BuggSoft OS - Jajax Jokers 6 - 0
+Bernt I Boas BK - Malmö Angels FC 3 - 0
+Skalbolaget - Helsingborg Trashers 5 - 0
+week 11
+2002-03-24
+Helsingborg Trashers - Bernt I Boas BK 1 - 7
+Malmö Angels FC - BuggSoft OS 2 - 3
+Jajax Jokers - Torsås tappra tigrar 1 - 2
+Camarillo Pro SC - Skalbolaget 2 - 2
+week 12
+2002-03-31
+Skalbolaget - Bernt I Boas BK 2 - 1
+Camarillo Pro SC - Jajax Jokers 0 - 1
+Torsås tappra tigrar - Malmö Angels FC 0 - 1
+BuggSoft OS - Helsingborg Trashers 2 - 0
+week 13
+2002-04-07
+Malmö Angels FC - Camarillo Pro SC 4 - 0
+Bernt I Boas BK - BuggSoft OS 3 - 0
+Helsingborg Trashers - Torsås tappra tigrar 1 - 0
+Skalbolaget - Jajax Jokers 2 - 1
+week 14
+2002-04-14
+Torsås tappra tigrar - Bernt I Boas BK 0 - 1
+Jajax Jokers - Malmö Angels FC 1 - 2
+Camarillo Pro SC - Helsingborg Trashers 4 - 1
+BuggSoft OS - Skalbolaget 1 - 0

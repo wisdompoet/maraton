@@ -1,0 +1,84 @@
+week 1
+2008-03-02
+U.K. Subs - Odens FC 3 - 4
+Byggkompaniet - AC Turbonegro 3 - 3
+Bajenvrak - Red Dreamteam 4 - 1
+Torpa Warriors - Slackers United 7 - 2
+week 2
+2008-03-09
+Red Dreamteam - Byggkompaniet 5 - 2
+Odens FC - Torpa Warriors 0 - 4
+AC Turbonegro - U.K. Subs 6 - 2
+Slackers United - Bajenvrak 6 - 1
+week 3
+2008-03-16
+Odens FC - AC Turbonegro 3 - 4
+Byggkompaniet - Slackers United 3 - 4
+U.K. Subs - Red Dreamteam 1 - 3
+Bajenvrak - Torpa Warriors 1 - 0
+week 4
+2008-03-23
+Red Dreamteam - Odens FC 6 - 1
+Torpa Warriors - AC Turbonegro 5 - 2
+Slackers United - U.K. Subs 4 - 2
+Bajenvrak - Byggkompaniet 2 - 3
+week 5
+2008-03-30
+AC Turbonegro - Red Dreamteam 2 - 2
+Odens FC - Slackers United 1 - 6
+U.K. Subs - Bajenvrak 2 - 3
+Byggkompaniet - Torpa Warriors 1 - 3
+week 6
+2008-04-06
+Bajenvrak - Odens FC 3 - 4
+Byggkompaniet - U.K. Subs 1 - 5
+Slackers United - AC Turbonegro 8 - 0
+Torpa Warriors - Red Dreamteam 2 - 2
+week 7
+2008-04-13
+U.K. Subs - Torpa Warriors 3 - 1
+Odens FC - Byggkompaniet 2 - 3
+AC Turbonegro - Bajenvrak 2 - 1
+Red Dreamteam - Slackers United 5 - 2
+week 8
+2008-04-20
+Torpa Warriors - U.K. Subs 4 - 1
+Slackers United - Red Dreamteam 0 - 3
+Byggkompaniet - Odens FC 7 - 1
+Bajenvrak - AC Turbonegro 3 - 2
+week 9
+2008-04-27
+AC Turbonegro - Slackers United 3 - 2
+Red Dreamteam - Torpa Warriors 3 - 2
+U.K. Subs - Byggkompaniet 2 - 5
+Odens FC - Bajenvrak 1 - 3
+week 10
+2008-05-04
+Red Dreamteam - AC Turbonegro 3 - 0
+Bajenvrak - U.K. Subs 3 - 2
+Slackers United - Odens FC 11 - 0
+Torpa Warriors - Byggkompaniet 3 - 0
+week 11
+2008-05-11
+U.K. Subs - Slackers United 1 - 2
+AC Turbonegro - Torpa Warriors 1 - 2
+Odens FC - Red Dreamteam 0 - 7
+Byggkompaniet - Bajenvrak 2 - 3
+week 12
+2008-05-18
+AC Turbonegro - Odens FC 3 - 2
+Slackers United - Byggkompaniet 4 - 2
+Torpa Warriors - Bajenvrak 3 - 2
+Red Dreamteam - U.K. Subs 4 - 1
+week 13
+2008-05-25
+Byggkompaniet - Red Dreamteam 0 - 6
+Bajenvrak - Slackers United 6 - 3
+U.K. Subs - AC Turbonegro 2 - 3
+Torpa Warriors - Odens FC 6 - 1
+week 14
+2008-06-01
+AC Turbonegro - Byggkompaniet 3 - 1
+Odens FC - U.K. Subs 0 - 7
+Red Dreamteam - Bajenvrak 3 - 0
+Slackers United - Torpa Warriors 3 - 2

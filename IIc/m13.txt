@@ -1,0 +1,84 @@
+week 1
+2001-06-03
+FK Roof - Helsingborg Trashers 3 - 0
+BuggSoft OS - Nidelven DF 1 - 0
+Skalbolaget - Gårdsstånga Rockets 2 - 0
+Kungsholmens BK - Malmö Angels FC 2 - 4
+week 2
+2001-06-10
+Gårdsstånga Rockets - FK Roof 1 - 1
+Malmö Angels FC - BuggSoft OS 2 - 1
+Helsingborg Trashers - Kungsholmens BK 4 - 1
+Nidelven DF - Skalbolaget 3 - 1
+week 3
+2001-06-17
+BuggSoft OS - Helsingborg Trashers 0 - 1
+Skalbolaget - Malmö Angels FC 5 - 0
+Gårdsstånga Rockets - Nidelven DF 2 - 2
+Kungsholmens BK - FK Roof 0 - 3
+week 4
+2001-06-24
+FK Roof - Nidelven DF 1 - 1
+Malmö Angels FC - Gårdsstånga Rockets 4 - 1
+Helsingborg Trashers - Skalbolaget 0 - 1
+Kungsholmens BK - BuggSoft OS 0 - 0
+week 5
+2001-07-01
+BuggSoft OS - FK Roof 3 - 0
+Skalbolaget - Kungsholmens BK 6 - 0
+Gårdsstånga Rockets - Helsingborg Trashers 0 - 2
+Nidelven DF - Malmö Angels FC 1 - 1
+week 6
+2001-07-08
+FK Roof - Malmö Angels FC 5 - 1
+BuggSoft OS - Skalbolaget 1 - 0
+Helsingborg Trashers - Nidelven DF 4 - 1
+Kungsholmens BK - Gårdsstånga Rockets 0 - 2
+week 7
+2001-07-15
+Skalbolaget - FK Roof 2 - 0
+Gårdsstånga Rockets - BuggSoft OS 1 - 0
+Malmö Angels FC - Helsingborg Trashers 0 - 4
+Nidelven DF - Kungsholmens BK 1 - 0
+week 8
+2001-07-22
+Kungsholmens BK - Nidelven DF 3 - 1
+Helsingborg Trashers - Malmö Angels FC 3 - 5
+BuggSoft OS - Gårdsstånga Rockets 1 - 1
+FK Roof - Skalbolaget 2 - 0
+week 9
+2001-07-29
+Gårdsstånga Rockets - Kungsholmens BK 0 - 0
+Nidelven DF - Helsingborg Trashers 2 - 1
+Skalbolaget - BuggSoft OS 1 - 0
+Malmö Angels FC - FK Roof 6 - 0
+week 10
+2001-08-05
+Malmö Angels FC - Nidelven DF 5 - 0
+Helsingborg Trashers - Gårdsstånga Rockets 3 - 1
+Kungsholmens BK - Skalbolaget 2 - 0
+FK Roof - BuggSoft OS 2 - 2
+week 11
+2001-08-12
+BuggSoft OS - Kungsholmens BK 4 - 0
+Skalbolaget - Helsingborg Trashers 3 - 0
+Gårdsstånga Rockets - Malmö Angels FC 2 - 4
+Nidelven DF - FK Roof 3 - 1
+week 12
+2001-08-19
+FK Roof - Kungsholmens BK 2 - 0
+Nidelven DF - Gårdsstånga Rockets 3 - 0
+Malmö Angels FC - Skalbolaget 1 - 3
+Helsingborg Trashers - BuggSoft OS 0 - 4
+week 13
+2001-08-26
+Skalbolaget - Nidelven DF 3 - 0
+Kungsholmens BK - Helsingborg Trashers 0 - 0
+BuggSoft OS - Malmö Angels FC 1 - 0
+FK Roof - Gårdsstånga Rockets 7 - 0
+week 14
+2001-09-02
+Malmö Angels FC - Kungsholmens BK 5 - 0
+Gårdsstånga Rockets - Skalbolaget 0 - 1
+Nidelven DF - BuggSoft OS 1 - 2
+Helsingborg Trashers - FK Roof 2 - 3

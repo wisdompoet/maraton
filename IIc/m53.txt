@@ -1,0 +1,84 @@
+week 1
+2013-09-08
+Ursvikingarnas BK - Husker United 4 - 0
+Inter Draggen - BK Legolas 0 - 6
+AS Rotary - FC Thad 5 - 1
+tjong if - Hausmüll 5 - 0
+week 2
+2013-09-15
+FC Thad - Inter Draggen 7 - 0
+Husker United - tjong if 5 - 4
+BK Legolas - Ursvikingarnas BK 2 - 0
+Hausmüll - AS Rotary 0 - 4
+week 3
+2013-09-22
+AS Rotary - tjong if 8 - 0
+Inter Draggen - Husker United 0 - 3
+FC Thad - BK Legolas 2 - 4
+Ursvikingarnas BK - Hausmüll 3 - 1
+week 4
+2013-09-29
+Hausmüll - Inter Draggen 4 - 0
+tjong if - Ursvikingarnas BK 0 - 9
+Husker United - FC Thad 2 - 1
+BK Legolas - AS Rotary 2 - 3
+week 5
+2013-10-06
+FC Thad - tjong if 5 - 0
+Inter Draggen - Ursvikingarnas BK 0 - 7
+AS Rotary - Husker United 5 - 0
+BK Legolas - Hausmüll 0 - 1
+week 6
+2013-10-13
+tjong if - Inter Draggen 3 - 0
+Hausmüll - FC Thad 0 - 4
+Husker United - BK Legolas 2 - 2
+Ursvikingarnas BK - AS Rotary 1 - 4
+week 7
+2013-10-20
+BK Legolas - tjong if 8 - 0
+FC Thad - Ursvikingarnas BK 2 - 1
+Hausmüll - Husker United 0 - 3
+Inter Draggen - AS Rotary 0 - 8
+week 8
+2013-10-27
+Ursvikingarnas BK - FC Thad 3 - 1
+tjong if - BK Legolas 0 - 6
+AS Rotary - Inter Draggen 7 - 0
+Husker United - Hausmüll 3 - 1
+week 9
+2013-11-03
+BK Legolas - Husker United 2 - 2
+AS Rotary - Ursvikingarnas BK 2 - 0
+Inter Draggen - tjong if 0 - 4
+FC Thad - Hausmüll 2 - 0
+week 10
+2013-11-10
+Hausmüll - BK Legolas 1 - 5
+tjong if - FC Thad 3 - 5
+Ursvikingarnas BK - Inter Draggen 9 - 0
+Husker United - AS Rotary 0 - 2
+week 11
+2013-11-17
+FC Thad - Husker United 4 - 1
+Ursvikingarnas BK - tjong if 8 - 0
+AS Rotary - BK Legolas 1 - 0
+Inter Draggen - Hausmüll 0 - 7
+week 12
+2013-11-24
+BK Legolas - FC Thad 3 - 2
+Hausmüll - Ursvikingarnas BK 1 - 4
+tjong if - AS Rotary 0 - 8
+Husker United - Inter Draggen 8 - 0
+week 13
+2013-12-01
+tjong if - Husker United 0 - 4
+AS Rotary - Hausmüll 4 - 2
+Ursvikingarnas BK - BK Legolas 5 - 1
+Inter Draggen - FC Thad 0 - 8
+week 14
+2013-12-08
+Husker United - Ursvikingarnas BK 4 - 3
+Hausmüll - tjong if 6 - 0
+FC Thad - AS Rotary 0 - 1
+BK Legolas - Inter Draggen 9 - 1

@@ -1,0 +1,84 @@
+week 1
+2014-11-30
+FK Joker - De Riktigt Ruttna 4 - 4
+Segmon BK - Tokyo FF 4 - 3
+Sillarna IK - Them old fellas 3 - 2
+Filles Boys - Hookipa BK 3 - 1
+week 2
+2014-12-07
+Tokyo FF - FK Joker 0 - 3
+Them old fellas - Segmon BK 1 - 5
+Hookipa BK - Sillarna IK 1 - 1
+De Riktigt Ruttna - Filles Boys 4 - 0
+week 3
+2014-12-14
+Tokyo FF - De Riktigt Ruttna 2 - 2
+Filles Boys - Them old fellas 3 - 2
+Segmon BK - Sillarna IK 6 - 0
+FK Joker - Hookipa BK 3 - 1
+week 4
+2014-12-21
+Them old fellas - FK Joker 1 - 5
+De Riktigt Ruttna - Segmon BK 2 - 4
+Sillarna IK - Filles Boys 0 - 0
+Hookipa BK - Tokyo FF 0 - 1
+week 5
+2014-12-28
+Tokyo FF - Sillarna IK 9 - 0
+De Riktigt Ruttna - Them old fellas 5 - 0
+FK Joker - Filles Boys 4 - 0
+Segmon BK - Hookipa BK 1 - 2
+week 6
+2015-01-04
+Hookipa BK - De Riktigt Ruttna 0 - 2
+Them old fellas - Tokyo FF 2 - 3
+Filles Boys - Segmon BK 0 - 2
+Sillarna IK - FK Joker 0 - 4
+week 7
+2015-01-11
+FK Joker - Segmon BK 1 - 4
+Tokyo FF - Filles Boys 1 - 2
+Them old fellas - Hookipa BK 2 - 1
+De Riktigt Ruttna - Sillarna IK 5 - 0
+week 8
+2015-01-18
+Sillarna IK - De Riktigt Ruttna 0 - 3
+Segmon BK - FK Joker 3 - 0
+Filles Boys - Tokyo FF 1 - 5
+Hookipa BK - Them old fellas 3 - 1
+week 9
+2015-01-25
+De Riktigt Ruttna - Hookipa BK 4 - 1
+FK Joker - Sillarna IK 4 - 0
+Tokyo FF - Them old fellas 5 - 3
+Segmon BK - Filles Boys 5 - 2
+week 10
+2015-02-01
+Sillarna IK - Tokyo FF 4 - 2
+Filles Boys - FK Joker 4 - 1
+Hookipa BK - Segmon BK 0 - 1
+Them old fellas - De Riktigt Ruttna 3 - 3
+week 11
+2015-02-08
+Segmon BK - De Riktigt Ruttna 4 - 0
+Tokyo FF - Hookipa BK 2 - 1
+Filles Boys - Sillarna IK 0 - 2
+FK Joker - Them old fellas 5 - 4
+week 12
+2015-02-15
+Them old fellas - Filles Boys 7 - 1
+De Riktigt Ruttna - Tokyo FF 4 - 3
+Hookipa BK - FK Joker 2 - 3
+Sillarna IK - Segmon BK 0 - 3
+week 13
+2015-02-22
+Filles Boys - De Riktigt Ruttna 3 - 2
+Segmon BK - Them old fellas 5 - 1
+FK Joker - Tokyo FF 3 - 0
+Sillarna IK - Hookipa BK 0 - 2
+week 14
+2015-03-01
+Hookipa BK - Filles Boys 2 - 1
+De Riktigt Ruttna - FK Joker 3 - 3
+Tokyo FF - Segmon BK 0 - 2
+Them old fellas - Sillarna IK 6 - 1

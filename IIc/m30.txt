@@ -1,0 +1,84 @@
+week 1
+2006-08-20
+Left Wing FC - Svin-Arne BK 2 - 1
+team_ekos - Nackas Trixare 0 - 5
+Real Fikus - Menlösa IF 0 - 2
+Bilagan Boys - Råröta BK 3 - 2
+week 2
+2006-08-27
+Menlösa IF - team_ekos 5 - 0
+Råröta BK - Left Wing FC 0 - 4
+Svin-Arne BK - Real Fikus 2 - 2
+Nackas Trixare - Bilagan Boys 1 - 3
+week 3
+2006-09-03
+Left Wing FC - Nackas Trixare 0 - 0
+Real Fikus - Råröta BK 5 - 2
+Menlösa IF - Svin-Arne BK 2 - 0
+Bilagan Boys - team_ekos 5 - 0
+week 4
+2006-09-10
+team_ekos - Svin-Arne BK 0 - 5
+Bilagan Boys - Left Wing FC 5 - 1
+Råröta BK - Menlösa IF 0 - 2
+Nackas Trixare - Real Fikus 5 - 0
+week 5
+2006-09-17
+Real Fikus - Bilagan Boys 4 - 3
+Svin-Arne BK - Råröta BK 4 - 0
+Left Wing FC - team_ekos 5 - 0
+Menlösa IF - Nackas Trixare 1 - 4
+week 6
+2006-09-24
+team_ekos - Råröta BK 0 - 5
+Left Wing FC - Real Fikus 2 - 1
+Nackas Trixare - Svin-Arne BK 2 - 2
+Bilagan Boys - Menlösa IF 3 - 2
+week 7
+2006-10-01
+Real Fikus - team_ekos 5 - 0
+Menlösa IF - Left Wing FC 1 - 0
+Råröta BK - Nackas Trixare 2 - 3
+Svin-Arne BK - Bilagan Boys 5 - 1
+week 8
+2006-10-08
+Bilagan Boys - Svin-Arne BK 4 - 2
+Nackas Trixare - Råröta BK 2 - 3
+team_ekos - Real Fikus 0 - 5
+Left Wing FC - Menlösa IF 1 - 0
+week 9
+2006-10-15
+Svin-Arne BK - Nackas Trixare 4 - 1
+Menlösa IF - Bilagan Boys 1 - 3
+Real Fikus - Left Wing FC 0 - 3
+Råröta BK - team_ekos 5 - 0
+week 10
+2006-10-22
+Råröta BK - Svin-Arne BK 5 - 1
+Nackas Trixare - Menlösa IF 5 - 3
+team_ekos - Left Wing FC 0 - 5
+Bilagan Boys - Real Fikus 4 - 0
+week 11
+2006-10-29
+Menlösa IF - Råröta BK 0 - 2
+Left Wing FC - Bilagan Boys 2 - 0
+Real Fikus - Nackas Trixare 0 - 2
+Svin-Arne BK - team_ekos 5 - 0
+week 12
+2006-11-05
+Svin-Arne BK - Menlösa IF 4 - 1
+Råröta BK - Real Fikus 3 - 0
+team_ekos - Bilagan Boys 0 - 5
+Nackas Trixare - Left Wing FC 3 - 1
+week 13
+2006-11-12
+team_ekos - Menlösa IF 0 - 5
+Real Fikus - Svin-Arne BK 1 - 5
+Bilagan Boys - Nackas Trixare 2 - 5
+Left Wing FC - Råröta BK 0 - 2
+week 14
+2006-11-19
+Råröta BK - Bilagan Boys 0 - 2
+Svin-Arne BK - Left Wing FC 2 - 0
+Nackas Trixare - team_ekos 5 - 0
+Menlösa IF - Real Fikus 0 - 2

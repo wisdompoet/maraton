@@ -1,86 +1,84 @@
-Omgång 1
-2012-02-26 (1/48)			
-Klocktornets Järnkaminer - REAL mln	2 - 6	HT Re-Live
-Los Pebbos - Svanskog BK	3 - 1	HT Re-Live
-Frölunda killers - Elvis AIK	6 - 1	HT Re-Live
-Wheelsbridge Wanderers - Järbo IF	3 - 1	HT Re-Live
-Omgång 2
-2012-03-04 (2/48)			
-Elvis AIK - Los Pebbos	0 - 5	HT Re-Live
-REAL mln - Frölunda killers	1 - 0	HT Re-Live
-Svanskog BK - Wheelsbridge Wanderers	1 - 3	HT Re-Live
-Järbo IF - Klocktornets Järnkaminer	6 - 1	HT Re-Live
-Omgång 3
-2012-03-11 (3/48)			
-Los Pebbos - Järbo IF	4 - 0	HT Re-Live
-Frölunda killers - Klocktornets Järnkaminer	4 - 2	HT Re-Live
-Elvis AIK - Svanskog BK	2 - 2	HT Re-Live
-Wheelsbridge Wanderers - REAL mln	5 - 1	HT Re-Live
-Omgång 4
-2012-03-18 (4/48)			
-REAL mln - Los Pebbos	0 - 0	HT Re-Live
-Svanskog BK - Frölunda killers	3 - 3	HT Re-Live
-Klocktornets Järnkaminer - Wheelsbridge Wanderers	3 - 2	HT Re-Live
-Järbo IF - Elvis AIK	5 - 4	HT Re-Live
-Omgång 5
-2012-03-25 (5/48)			
-Frölunda killers - Järbo IF	3 - 0	HT Re-Live
-Elvis AIK - Klocktornets Järnkaminer	4 - 1	HT Re-Live
-Los Pebbos - Wheelsbridge Wanderers	0 - 2	HT Re-Live
-Svanskog BK - REAL mln	1 - 4	HT Re-Live
-Omgång 6
-2012-04-01 (6/48)			
-Klocktornets Järnkaminer - Los Pebbos	2 - 3	HT Re-Live
-Wheelsbridge Wanderers - Frölunda killers	2 - 4	HT Re-Live
-REAL mln - Elvis AIK	5 - 0	HT Re-Live
-Järbo IF - Svanskog BK	2 - 3	HT Re-Live
-Omgång 7
-2012-04-08 (7/48)			
-Los Pebbos - Frölunda killers	1 - 1	HT Re-Live
-Svanskog BK - Klocktornets Järnkaminer	4 - 3	HT Re-Live
-REAL mln - Järbo IF	2 - 1	HT Re-Live
-Elvis AIK - Wheelsbridge Wanderers	1 - 4	HT Re-Live
-Omgång 8
-2012-04-15 (8/48)			
-Järbo IF - REAL mln	3 - 2	HT Re-Live
-Wheelsbridge Wanderers - Elvis AIK	4 - 3	HT Re-Live
-Klocktornets Järnkaminer - Svanskog BK	1 - 6	HT Re-Live
-Frölunda killers - Los Pebbos	2 - 1	HT Re-Live
-Omgång 9
-2012-04-22 (9/48)			
-Svanskog BK - Järbo IF	6 - 3	HT Re-Live
-Elvis AIK - REAL mln	1 - 4	HT Re-Live
-Frölunda killers - Wheelsbridge Wanderers	2 - 1	HT Re-Live
-Los Pebbos - Klocktornets Järnkaminer	6 - 3	HT Re-Live
-Omgång 10
-2012-04-29 (10/48)			
-REAL mln - Svanskog BK	0 - 1	HT Re-Live
-Wheelsbridge Wanderers - Los Pebbos	2 - 1	HT Re-Live
-Klocktornets Järnkaminer - Elvis AIK	3 - 5	HT Re-Live
-Järbo IF - Frölunda killers	4 - 0	HT Re-Live
-Omgång 11
-2012-05-06 (11/48)			
-Frölunda killers - Svanskog BK	5 - 0	HT Re-Live
-Los Pebbos - REAL mln	2 - 1	HT Re-Live
-Wheelsbridge Wanderers - Klocktornets Järnkaminer	5 - 1	HT Re-Live
-Elvis AIK - Järbo IF	2 - 4	HT Re-Live
-Omgång 12
-2012-05-13 (12/48)			
-Svanskog BK - Elvis AIK	3 - 0	HT Re-Live
-REAL mln - Wheelsbridge Wanderers	2 - 2	HT Re-Live
-Klocktornets Järnkaminer - Frölunda killers	0 - 3	HT Re-Live
-Järbo IF - Los Pebbos	3 - 4	HT Re-Live
-Omgång 13
-2012-05-20 (13/48)			
-Los Pebbos - Elvis AIK	3 - 0	HT Re-Live
-Klocktornets Järnkaminer - Järbo IF	1 - 2	HT Re-Live
-Frölunda killers - REAL mln	0 - 1	HT Re-Live
-Wheelsbridge Wanderers - Svanskog BK	2 - 1	HT Re-Live
-Omgång 14
-2012-05-27 (14/48)			
-Svanskog BK - Los Pebbos	0 - 2	HT Re-Live
-Järbo IF - Wheelsbridge Wanderers	2 - 1	HT Re-Live
-Elvis AIK - Frölunda killers	0 - 1	HT Re-Live
-REAL mln - Klocktornets Järnkaminer	5 - 1	HT Re-Live
-
-
+week 1
+2012-02-26
+Klocktornets JÃ¤rnkaminer - REAL mln 2 - 6
+Los Pebbos - Svanskog BK 3 - 1
+FrÃ¶lunda killers - Elvis AIK 6 - 1
+Wheelsbridge Wanderers - JÃ¤rbo IF 3 - 1
+week 2
+2012-03-04
+Elvis AIK - Los Pebbos 0 - 5
+REAL mln - FrÃ¶lunda killers 1 - 0
+Svanskog BK - Wheelsbridge Wanderers 1 - 3
+JÃ¤rbo IF - Klocktornets JÃ¤rnkaminer 6 - 1
+week 3
+2012-03-11
+Los Pebbos - JÃ¤rbo IF 4 - 0
+FrÃ¶lunda killers - Klocktornets JÃ¤rnkaminer 4 - 2
+Elvis AIK - Svanskog BK 2 - 2
+Wheelsbridge Wanderers - REAL mln 5 - 1
+week 4
+2012-03-18
+REAL mln - Los Pebbos 0 - 0
+Svanskog BK - FrÃ¶lunda killers 3 - 3
+Klocktornets JÃ¤rnkaminer - Wheelsbridge Wanderers 3 - 2
+JÃ¤rbo IF - Elvis AIK 5 - 4
+week 5
+2012-03-25
+FrÃ¶lunda killers - JÃ¤rbo IF 3 - 0
+Elvis AIK - Klocktornets JÃ¤rnkaminer 4 - 1
+Los Pebbos - Wheelsbridge Wanderers 0 - 2
+Svanskog BK - REAL mln 1 - 4
+week 6
+2012-04-01
+Klocktornets JÃ¤rnkaminer - Los Pebbos 2 - 3
+Wheelsbridge Wanderers - FrÃ¶lunda killers 2 - 4
+REAL mln - Elvis AIK 5 - 0
+JÃ¤rbo IF - Svanskog BK 2 - 3
+week 7
+2012-04-08
+Los Pebbos - FrÃ¶lunda killers 1 - 1
+Svanskog BK - Klocktornets JÃ¤rnkaminer 4 - 3
+REAL mln - JÃ¤rbo IF 2 - 1
+Elvis AIK - Wheelsbridge Wanderers 1 - 4
+week 8
+2012-04-15
+JÃ¤rbo IF - REAL mln 3 - 2
+Wheelsbridge Wanderers - Elvis AIK 4 - 3
+Klocktornets JÃ¤rnkaminer - Svanskog BK 1 - 6
+FrÃ¶lunda killers - Los Pebbos 2 - 1
+week 9
+2012-04-22
+Svanskog BK - JÃ¤rbo IF 6 - 3
+Elvis AIK - REAL mln 1 - 4
+FrÃ¶lunda killers - Wheelsbridge Wanderers 2 - 1
+Los Pebbos - Klocktornets JÃ¤rnkaminer 6 - 3
+week 10
+2012-04-29
+REAL mln - Svanskog BK 0 - 1
+Wheelsbridge Wanderers - Los Pebbos 2 - 1
+Klocktornets JÃ¤rnkaminer - Elvis AIK 3 - 5
+JÃ¤rbo IF - FrÃ¶lunda killers 4 - 0
+week 11
+2012-05-06
+FrÃ¶lunda killers - Svanskog BK 5 - 0
+Los Pebbos - REAL mln 2 - 1
+Wheelsbridge Wanderers - Klocktornets JÃ¤rnkaminer 5 - 1
+Elvis AIK - JÃ¤rbo IF 2 - 4
+week 12
+2012-05-13
+Svanskog BK - Elvis AIK 3 - 0
+REAL mln - Wheelsbridge Wanderers 2 - 2
+Klocktornets JÃ¤rnkaminer - FrÃ¶lunda killers 0 - 3
+JÃ¤rbo IF - Los Pebbos 3 - 4
+week 13
+2012-05-20
+Los Pebbos - Elvis AIK 3 - 0
+Klocktornets JÃ¤rnkaminer - JÃ¤rbo IF 1 - 2
+FrÃ¶lunda killers - REAL mln 0 - 1
+Wheelsbridge Wanderers - Svanskog BK 2 - 1
+week 14
+2012-05-27
+Svanskog BK - Los Pebbos 0 - 2
+JÃ¤rbo IF - Wheelsbridge Wanderers 2 - 1
+Elvis AIK - FrÃ¶lunda killers 0 - 1
+REAL mln - Klocktornets JÃ¤rnkaminer 5 - 1

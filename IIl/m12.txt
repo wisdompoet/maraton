@@ -1,0 +1,84 @@
+week 1
+2001-02-11
+AC Ecconaton - Crazy Cows 1 - 0
+Kullavik Bluefingers - Charleswood Chiefs 5 - 2
+PG GoalGetters - FC Olympia 0 - 1
+Ulla Hau - Morsgrisarna BK 2 - 2
+week 2
+2001-02-18
+FC Olympia - AC Ecconaton 2 - 2
+Morsgrisarna BK - Kullavik Bluefingers 0 - 5
+Crazy Cows - Ulla Hau 4 - 0
+Charleswood Chiefs - PG GoalGetters 2 - 0
+week 3
+2001-02-25
+Kullavik Bluefingers - Crazy Cows 1 - 1
+PG GoalGetters - Morsgrisarna BK 1 - 0
+FC Olympia - Charleswood Chiefs 0 - 2
+Ulla Hau - AC Ecconaton 3 - 2
+week 4
+2001-03-04
+AC Ecconaton - Charleswood Chiefs 1 - 0
+Morsgrisarna BK - FC Olympia 1 - 1
+Crazy Cows - PG GoalGetters 2 - 1
+Ulla Hau - Kullavik Bluefingers 0 - 3
+week 5
+2001-03-11
+Kullavik Bluefingers - AC Ecconaton 4 - 0
+PG GoalGetters - Ulla Hau 1 - 0
+FC Olympia - Crazy Cows 0 - 2
+Charleswood Chiefs - Morsgrisarna BK 3 - 4
+week 6
+2001-03-18
+AC Ecconaton - Morsgrisarna BK 3 - 0
+Kullavik Bluefingers - PG GoalGetters 1 - 0
+Crazy Cows - Charleswood Chiefs 2 - 0
+Ulla Hau - FC Olympia 5 - 2
+week 7
+2001-03-25
+PG GoalGetters - AC Ecconaton 1 - 0
+FC Olympia - Kullavik Bluefingers 2 - 2
+Morsgrisarna BK - Crazy Cows 3 - 1
+Charleswood Chiefs - Ulla Hau 3 - 0
+week 8
+2001-04-01
+Ulla Hau - Charleswood Chiefs 0 - 4
+Crazy Cows - Morsgrisarna BK 2 - 1
+Kullavik Bluefingers - FC Olympia 3 - 0
+AC Ecconaton - PG GoalGetters 0 - 0
+week 9
+2001-04-08
+FC Olympia - Ulla Hau 3 - 0
+Charleswood Chiefs - Crazy Cows 1 - 1
+PG GoalGetters - Kullavik Bluefingers 0 - 1
+Morsgrisarna BK - AC Ecconaton 2 - 3
+week 10
+2001-04-15
+Morsgrisarna BK - Charleswood Chiefs 1 - 4
+Crazy Cows - FC Olympia 2 - 0
+Ulla Hau - PG GoalGetters 1 - 0
+AC Ecconaton - Kullavik Bluefingers 2 - 0
+week 11
+2001-04-22
+Kullavik Bluefingers - Ulla Hau 4 - 0
+PG GoalGetters - Crazy Cows 1 - 0
+FC Olympia - Morsgrisarna BK 0 - 2
+Charleswood Chiefs - AC Ecconaton 2 - 0
+week 12
+2001-04-29
+AC Ecconaton - Ulla Hau 5 - 0
+Charleswood Chiefs - FC Olympia 4 - 2
+Morsgrisarna BK - PG GoalGetters 0 - 0
+Crazy Cows - Kullavik Bluefingers 2 - 2
+week 13
+2001-05-06
+PG GoalGetters - Charleswood Chiefs 3 - 2
+Ulla Hau - Crazy Cows 0 - 0
+Kullavik Bluefingers - Morsgrisarna BK 9 - 0
+AC Ecconaton - FC Olympia 1 - 0
+week 14
+2001-05-13
+Morsgrisarna BK - Ulla Hau 4 - 1
+FC Olympia - PG GoalGetters 0 - 0
+Charleswood Chiefs - Kullavik Bluefingers 5 - 0
+Crazy Cows - AC Ecconaton 0 - 2

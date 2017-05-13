@@ -1,0 +1,84 @@
+week 1
+2013-01-27
+El Pollo Diablo - Ljungby IF 4 - 3
+Viking FC - FC Kabel Åttio 0 - 3
+Pretorian FK - The Stocks 0 - 3
+Green Boys FC - Sveriges rikes lag 3 - 3
+week 2
+2013-02-03
+FC Kabel Åttio - Green Boys FC 2 - 1
+The Stocks - Viking FC 4 - 2
+Sveriges rikes lag - El Pollo Diablo 5 - 4
+Ljungby IF - Pretorian FK 3 - 2
+week 3
+2013-02-10
+El Pollo Diablo - The Stocks 3 - 2
+Green Boys FC - Viking FC 5 - 2
+Sveriges rikes lag - Ljungby IF 2 - 3
+Pretorian FK - FC Kabel Åttio 1 - 1
+week 4
+2013-02-17
+FC Kabel Åttio - El Pollo Diablo 4 - 1
+Ljungby IF - Green Boys FC 5 - 1
+Viking FC - Pretorian FK 1 - 2
+The Stocks - Sveriges rikes lag 5 - 1
+week 5
+2013-02-24
+El Pollo Diablo - Pretorian FK 1 - 2
+Green Boys FC - The Stocks 1 - 2
+Sveriges rikes lag - Viking FC 3 - 4
+Ljungby IF - FC Kabel Åttio 2 - 1
+week 6
+2013-03-03
+Viking FC - El Pollo Diablo 3 - 2
+Pretorian FK - Green Boys FC 3 - 2
+FC Kabel Åttio - Sveriges rikes lag 5 - 1
+The Stocks - Ljungby IF 4 - 1
+week 7
+2013-03-10
+El Pollo Diablo - Green Boys FC 2 - 4
+Ljungby IF - Viking FC 3 - 0
+FC Kabel Åttio - The Stocks 2 - 1
+Sveriges rikes lag - Pretorian FK 2 - 3
+week 8
+2013-03-17
+Viking FC - Ljungby IF 1 - 4
+The Stocks - FC Kabel Åttio 2 - 0
+Pretorian FK - Sveriges rikes lag 3 - 3
+Green Boys FC - El Pollo Diablo 3 - 0
+week 9
+2013-03-24
+Ljungby IF - The Stocks 5 - 2
+Green Boys FC - Pretorian FK 5 - 2
+El Pollo Diablo - Viking FC 3 - 1
+Sveriges rikes lag - FC Kabel Åttio 1 - 2
+week 10
+2013-03-31
+Viking FC - Sveriges rikes lag 5 - 2
+Pretorian FK - El Pollo Diablo 3 - 3
+FC Kabel Åttio - Ljungby IF 0 - 5
+The Stocks - Green Boys FC 1 - 2
+week 11
+2013-04-07
+Sveriges rikes lag - The Stocks 0 - 5
+Pretorian FK - Viking FC 2 - 2
+El Pollo Diablo - FC Kabel Åttio 5 - 1
+Green Boys FC - Ljungby IF 2 - 1
+week 12
+2013-04-14
+FC Kabel Åttio - Pretorian FK 2 - 1
+Ljungby IF - Sveriges rikes lag 7 - 0
+Viking FC - Green Boys FC 4 - 2
+The Stocks - El Pollo Diablo 5 - 2
+week 13
+2013-04-21
+Viking FC - The Stocks 2 - 5
+Green Boys FC - FC Kabel Åttio 2 - 1
+El Pollo Diablo - Sveriges rikes lag 3 - 1
+Pretorian FK - Ljungby IF 0 - 3
+week 14
+2013-04-28
+Ljungby IF - El Pollo Diablo 2 - 0
+FC Kabel Åttio - Viking FC 1 - 2
+The Stocks - Pretorian FK 4 - 1
+Sveriges rikes lag - Green Boys FC 2 - 3

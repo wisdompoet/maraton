@@ -1,0 +1,84 @@
+week 1
+2005-05-29
+Honeyball - Topeka Gators 2 - 1
+Wolfpack United - Starwars 1 - 3
+BK Glenn - Bajen HIF 1 - 3
+Team JULOP CK - Megadawe FC 2 - 3
+week 2
+2005-06-05
+Bajen HIF - Honeyball 1 - 1
+Megadawe FC - Wolfpack United 3 - 1
+Topeka Gators - Team JULOP CK 5 - 1
+Starwars - BK Glenn 2 - 2
+week 3
+2005-06-12
+Wolfpack United - Topeka Gators 1 - 4
+BK Glenn - Megadawe FC 3 - 2
+Bajen HIF - Starwars 3 - 0
+Team JULOP CK - Honeyball 1 - 2
+week 4
+2005-06-19
+Honeyball - Starwars 1 - 3
+Megadawe FC - Bajen HIF 3 - 0
+Topeka Gators - BK Glenn 1 - 1
+Team JULOP CK - Wolfpack United 4 - 1
+week 5
+2005-06-26
+Wolfpack United - Honeyball 0 - 3
+BK Glenn - Team JULOP CK 4 - 0
+Bajen HIF - Topeka Gators 2 - 3
+Starwars - Megadawe FC 2 - 4
+week 6
+2005-07-03
+Honeyball - Megadawe FC 1 - 2
+Wolfpack United - BK Glenn 1 - 3
+Topeka Gators - Starwars 4 - 3
+Team JULOP CK - Bajen HIF 2 - 3
+week 7
+2005-07-10
+BK Glenn - Honeyball 1 - 0
+Bajen HIF - Wolfpack United 4 - 0
+Megadawe FC - Topeka Gators 2 - 0
+Starwars - Team JULOP CK 5 - 0
+week 8
+2005-07-17
+Team JULOP CK - Starwars 3 - 2
+Topeka Gators - Megadawe FC 1 - 0
+Wolfpack United - Bajen HIF 1 - 2
+Honeyball - BK Glenn 0 - 0
+week 9
+2005-07-24
+Bajen HIF - Team JULOP CK 4 - 4
+Starwars - Topeka Gators 5 - 0
+BK Glenn - Wolfpack United 3 - 0
+Megadawe FC - Honeyball 1 - 1
+week 10
+2005-07-31
+Megadawe FC - Starwars 2 - 1
+Topeka Gators - Bajen HIF 1 - 3
+Team JULOP CK - BK Glenn 1 - 1
+Honeyball - Wolfpack United 2 - 1
+week 11
+2005-08-07
+Wolfpack United - Team JULOP CK 2 - 0
+BK Glenn - Topeka Gators 1 - 0
+Bajen HIF - Megadawe FC 2 - 1
+Starwars - Honeyball 2 - 1
+week 12
+2005-08-14
+Honeyball - Team JULOP CK 2 - 3
+Starwars - Bajen HIF 4 - 1
+Megadawe FC - BK Glenn 2 - 0
+Topeka Gators - Wolfpack United 3 - 1
+week 13
+2005-08-21
+BK Glenn - Starwars 1 - 3
+Team JULOP CK - Topeka Gators 5 - 2
+Wolfpack United - Megadawe FC 4 - 0
+Honeyball - Bajen HIF 2 - 2
+week 14
+2005-08-28
+Megadawe FC - Team JULOP CK 1 - 3
+Bajen HIF - BK Glenn 0 - 1
+Starwars - Wolfpack United 3 - 0
+Topeka Gators - Honeyball 2 - 2

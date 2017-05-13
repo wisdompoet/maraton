@@ -1,0 +1,84 @@
+week 1
+2005-02-06
+FC Roddelona - Svin-Arne BK 3 - 0
+Bomhus Boombastics - Säästipankki 3 - 2
+Vikingarna SK - Briegels Bestar 3 - 3
+FC Gruffalo - Långsamt FC 2 - 1
+week 2
+2005-02-13
+Briegels Bestar - FC Roddelona 2 - 0
+Långsamt FC - Bomhus Boombastics 3 - 1
+Svin-Arne BK - FC Gruffalo 4 - 2
+Säästipankki - Vikingarna SK 5 - 1
+week 3
+2005-02-20
+Bomhus Boombastics - Svin-Arne BK 5 - 2
+Vikingarna SK - Långsamt FC 3 - 2
+Briegels Bestar - Säästipankki 1 - 4
+FC Gruffalo - FC Roddelona 3 - 3
+week 4
+2005-02-27
+FC Roddelona - Säästipankki 5 - 2
+Långsamt FC - Briegels Bestar 1 - 1
+Svin-Arne BK - Vikingarna SK 2 - 2
+FC Gruffalo - Bomhus Boombastics 0 - 0
+week 5
+2005-03-06
+Bomhus Boombastics - FC Roddelona 1 - 3
+Vikingarna SK - FC Gruffalo 2 - 1
+Briegels Bestar - Svin-Arne BK 2 - 0
+Säästipankki - Långsamt FC 2 - 2
+week 6
+2005-03-13
+FC Roddelona - Långsamt FC 2 - 2
+Bomhus Boombastics - Vikingarna SK 2 - 0
+Svin-Arne BK - Säästipankki 4 - 3
+FC Gruffalo - Briegels Bestar 0 - 0
+week 7
+2005-03-20
+Vikingarna SK - FC Roddelona 1 - 3
+Briegels Bestar - Bomhus Boombastics 1 - 0
+Långsamt FC - Svin-Arne BK 3 - 0
+Säästipankki - FC Gruffalo 5 - 1
+week 8
+2005-03-27
+FC Gruffalo - Säästipankki 2 - 2
+Svin-Arne BK - Långsamt FC 4 - 2
+Bomhus Boombastics - Briegels Bestar 0 - 1
+FC Roddelona - Vikingarna SK 3 - 0
+week 9
+2005-04-03
+Briegels Bestar - FC Gruffalo 0 - 1
+Säästipankki - Svin-Arne BK 2 - 2
+Vikingarna SK - Bomhus Boombastics 1 - 3
+Långsamt FC - FC Roddelona 2 - 2
+week 10
+2005-04-10
+Långsamt FC - Säästipankki 4 - 4
+Svin-Arne BK - Briegels Bestar 0 - 2
+FC Gruffalo - Vikingarna SK 1 - 0
+FC Roddelona - Bomhus Boombastics 3 - 2
+week 11
+2005-04-17
+Bomhus Boombastics - FC Gruffalo 1 - 1
+Vikingarna SK - Svin-Arne BK 1 - 1
+Briegels Bestar - Långsamt FC 2 - 3
+Säästipankki - FC Roddelona 1 - 1
+week 12
+2005-04-24
+FC Roddelona - FC Gruffalo 3 - 0
+Säästipankki - Briegels Bestar 4 - 0
+Långsamt FC - Vikingarna SK 2 - 1
+Svin-Arne BK - Bomhus Boombastics 3 - 4
+week 13
+2005-05-01
+Vikingarna SK - Säästipankki 0 - 4
+FC Gruffalo - Svin-Arne BK 2 - 0
+Bomhus Boombastics - Långsamt FC 0 - 1
+FC Roddelona - Briegels Bestar 0 - 1
+week 14
+2005-05-08
+Långsamt FC - FC Gruffalo 2 - 0
+Briegels Bestar - Vikingarna SK 0 - 1
+Säästipankki - Bomhus Boombastics 2 - 0
+Svin-Arne BK - FC Roddelona 2 - 5

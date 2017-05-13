@@ -1,0 +1,84 @@
+week 1
+2006-04-30
+Chocolate Synthesizers - FK Glow 1 - 0
+Bender ICNxDBD - BK Torpet 3 - 1
+NK Hajduk - Sundby BK 5 - 2
+Hallarby - Jäderfors SK 2 - 3
+week 2
+2006-05-07
+FK Glow - Bender ICNxDBD 3 - 2
+Sundby BK - Chocolate Synthesizers 6 - 1
+Jäderfors SK - NK Hajduk 2 - 1
+BK Torpet - Hallarby 4 - 1
+week 3
+2006-05-14
+NK Hajduk - BK Torpet 2 - 0
+Chocolate Synthesizers - Jäderfors SK 1 - 5
+FK Glow - Sundby BK 4 - 3
+Hallarby - Bender ICNxDBD 3 - 3
+week 4
+2006-05-21
+Jäderfors SK - FK Glow 2 - 1
+BK Torpet - Chocolate Synthesizers 7 - 0
+Bender ICNxDBD - Sundby BK 6 - 3
+Hallarby - NK Hajduk 1 - 0
+week 5
+2006-05-28
+Sundby BK - Jäderfors SK 4 - 1
+FK Glow - BK Torpet 2 - 4
+NK Hajduk - Bender ICNxDBD 3 - 1
+Chocolate Synthesizers - Hallarby 3 - 1
+week 6
+2006-06-04
+NK Hajduk - Chocolate Synthesizers 0 - 2
+Bender ICNxDBD - Jäderfors SK 2 - 1
+Hallarby - FK Glow 2 - 3
+BK Torpet - Sundby BK 6 - 0
+week 7
+2006-06-11
+Chocolate Synthesizers - Bender ICNxDBD 1 - 2
+FK Glow - NK Hajduk 4 - 3
+Jäderfors SK - BK Torpet 1 - 4
+Sundby BK - Hallarby 5 - 1
+week 8
+2006-06-18
+Hallarby - Sundby BK 3 - 4
+BK Torpet - Jäderfors SK 3 - 1
+NK Hajduk - FK Glow 1 - 2
+Bender ICNxDBD - Chocolate Synthesizers 5 - 0
+week 9
+2006-06-25
+Jäderfors SK - Bender ICNxDBD 5 - 1
+Sundby BK - BK Torpet 5 - 2
+FK Glow - Hallarby 2 - 2
+Chocolate Synthesizers - NK Hajduk 2 - 1
+week 10
+2006-07-02
+Hallarby - Chocolate Synthesizers 3 - 3
+Bender ICNxDBD - NK Hajduk 5 - 1
+Jäderfors SK - Sundby BK 7 - 1
+BK Torpet - FK Glow 1 - 6
+week 11
+2006-07-09
+NK Hajduk - Hallarby 2 - 1
+Chocolate Synthesizers - BK Torpet 2 - 1
+FK Glow - Jäderfors SK 0 - 5
+Sundby BK - Bender ICNxDBD 1 - 6
+week 12
+2006-07-16
+Sundby BK - FK Glow 5 - 2
+Jäderfors SK - Chocolate Synthesizers 3 - 3
+BK Torpet - NK Hajduk 4 - 0
+Bender ICNxDBD - Hallarby 5 - 1
+week 13
+2006-07-23
+Hallarby - BK Torpet 0 - 2
+Chocolate Synthesizers - Sundby BK 4 - 2
+Bender ICNxDBD - FK Glow 5 - 0
+NK Hajduk - Jäderfors SK 0 - 8
+week 14
+2006-07-30
+FK Glow - Chocolate Synthesizers 5 - 1
+Sundby BK - NK Hajduk 3 - 3
+BK Torpet - Bender ICNxDBD 2 - 2
+Jäderfors SK - Hallarby 6 - 0

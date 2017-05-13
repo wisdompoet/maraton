@@ -1,84 +1,84 @@
-Omgång 1
-2005-05-29 (1/26)			
-Mohikanerna FC - Svearikes Finaste	3 - 4	HT Re-Live
-Morgoths horder - Reelers	3 - 1	HT Re-Live
-Elbow Rangers - Rotselleri FK	2 - 1	HT Re-Live
-BK Bakfylla - Arkö BK	0 - 3	HT Re-Live
-Omgång 2
-2005-06-05 (2/26)			
-Rotselleri FK - Mohikanerna FC	1 - 1	HT Re-Live
-Arkö BK - Morgoths horder	3 - 0	HT Re-Live
-Svearikes Finaste - BK Bakfylla	3 - 4	HT Re-Live
-Reelers - Elbow Rangers	2 - 2	HT Re-Live
-Omgång 3
-2005-06-12 (3/26)			
-Morgoths horder - Svearikes Finaste	2 - 4	HT Re-Live
-Elbow Rangers - Arkö BK	4 - 2	HT Re-Live
-Rotselleri FK - Reelers	1 - 2	HT Re-Live
-BK Bakfylla - Mohikanerna FC	4 - 2	HT Re-Live
-Omgång 4
-2005-06-19 (4/26)			
-Mohikanerna FC - Reelers	1 - 4	HT Re-Live
-Arkö BK - Rotselleri FK	0 - 2	HT Re-Live
-Svearikes Finaste - Elbow Rangers	3 - 2	HT Re-Live
-BK Bakfylla - Morgoths horder	0 - 9	HT Re-Live
-Omgång 5
-2005-06-26 (5/26)			
-Morgoths horder - Mohikanerna FC	5 - 1	HT Re-Live
-Elbow Rangers - BK Bakfylla	7 - 1	HT Re-Live
-Rotselleri FK - Svearikes Finaste	5 - 2	HT Re-Live
-Reelers - Arkö BK	3 - 0	HT Re-Live
-Omgång 6
-2005-07-03 (6/26)			
-Mohikanerna FC - Arkö BK	4 - 0	HT Re-Live
-Morgoths horder - Elbow Rangers	5 - 0	HT Re-Live
-Svearikes Finaste - Reelers	4 - 1	HT Re-Live
-BK Bakfylla - Rotselleri FK	0 - 4	HT Re-Live
-Omgång 7
-2005-07-10 (7/26)			
-Elbow Rangers - Mohikanerna FC	0 - 2	HT Re-Live
-Rotselleri FK - Morgoths horder	3 - 4	HT Re-Live
-Arkö BK - Svearikes Finaste	3 - 4	HT Re-Live
-Reelers - BK Bakfylla	4 - 0	HT Re-Live
-Omgång 8
-2005-07-17 (8/26)			
-BK Bakfylla - Reelers	1 - 1	HT Re-Live
-Svearikes Finaste - Arkö BK	4 - 0	HT Re-Live
-Morgoths horder - Rotselleri FK	2 - 1	HT Re-Live
-Mohikanerna FC - Elbow Rangers	3 - 0	HT Re-Live
-Omgång 9
-2005-07-24 (9/26)			
-Rotselleri FK - BK Bakfylla	2 - 3	HT Re-Live
-Reelers - Svearikes Finaste	1 - 4	HT Re-Live
-Elbow Rangers - Morgoths horder	2 - 3	HT Re-Live
-Arkö BK - Mohikanerna FC	4 - 2	HT Re-Live
-Omgång 10
-2005-07-31 (10/26)			
-Arkö BK - Reelers	3 - 2	HT Re-Live
-Svearikes Finaste - Rotselleri FK	3 - 4	HT Re-Live
-BK Bakfylla - Elbow Rangers	3 - 2	HT Re-Live
-Mohikanerna FC - Morgoths horder	2 - 5	HT Re-Live
-Omgång 11
-2005-08-07 (11/26)			
-Morgoths horder - BK Bakfylla	6 - 1	HT Re-Live
-Elbow Rangers - Svearikes Finaste	5 - 1	HT Re-Live
-Rotselleri FK - Arkö BK	3 - 0	HT Re-Live
-Reelers - Mohikanerna FC	2 - 0	HT Re-Live
-Omgång 12
-2005-08-14 (12/26)			
-Mohikanerna FC - BK Bakfylla	4 - 1	HT Re-Live
-Reelers - Rotselleri FK	1 - 1	HT Re-Live
-Arkö BK - Elbow Rangers	1 - 6	HT Re-Live
-Svearikes Finaste - Morgoths horder	4 - 4	HT Re-Live
-Omgång 13
-2005-08-21 (13/26)			
-Elbow Rangers - Reelers	1 - 0	HT Re-Live
-BK Bakfylla - Svearikes Finaste	4 - 0	HT Re-Live
-Morgoths horder - Arkö BK	6 - 0	HT Re-Live
-Mohikanerna FC - Rotselleri FK	4 - 2	HT Re-Live
-Omgång 14
-2005-08-28 (14/26)			
-Arkö BK - BK Bakfylla	1 - 4	HT Re-Live
-Rotselleri FK - Elbow Rangers	3 - 1	HT Re-Live
-Reelers - Morgoths horder	3 - 2	HT Re-Live
-Svearikes Finaste - Mohikanerna FC	2 - 0	HT Re-Live
+week 1
+2005-05-29
+Mohikanerna FC - Svearikes Finaste 3 - 4
+Morgoths horder - Reelers 3 - 1
+Elbow Rangers - Rotselleri FK 2 - 1
+BK Bakfylla - ArkÃ¶ BK 0 - 3
+week 2
+2005-06-05
+Rotselleri FK - Mohikanerna FC 1 - 1
+ArkÃ¶ BK - Morgoths horder 3 - 0
+Svearikes Finaste - BK Bakfylla 3 - 4
+Reelers - Elbow Rangers 2 - 2
+week 3
+2005-06-12
+Morgoths horder - Svearikes Finaste 2 - 4
+Elbow Rangers - ArkÃ¶ BK 4 - 2
+Rotselleri FK - Reelers 1 - 2
+BK Bakfylla - Mohikanerna FC 4 - 2
+week 4
+2005-06-19
+Mohikanerna FC - Reelers 1 - 4
+ArkÃ¶ BK - Rotselleri FK 0 - 2
+Svearikes Finaste - Elbow Rangers 3 - 2
+BK Bakfylla - Morgoths horder 0 - 9
+week 5
+2005-06-26
+Morgoths horder - Mohikanerna FC 5 - 1
+Elbow Rangers - BK Bakfylla 7 - 1
+Rotselleri FK - Svearikes Finaste 5 - 2
+Reelers - ArkÃ¶ BK 3 - 0
+week 6
+2005-07-03
+Mohikanerna FC - ArkÃ¶ BK 4 - 0
+Morgoths horder - Elbow Rangers 5 - 0
+Svearikes Finaste - Reelers 4 - 1
+BK Bakfylla - Rotselleri FK 0 - 4
+week 7
+2005-07-10
+Elbow Rangers - Mohikanerna FC 0 - 2
+Rotselleri FK - Morgoths horder 3 - 4
+ArkÃ¶ BK - Svearikes Finaste 3 - 4
+Reelers - BK Bakfylla 4 - 0
+week 8
+2005-07-17
+BK Bakfylla - Reelers 1 - 1
+Svearikes Finaste - ArkÃ¶ BK 4 - 0
+Morgoths horder - Rotselleri FK 2 - 1
+Mohikanerna FC - Elbow Rangers 3 - 0
+week 9
+2005-07-24
+Rotselleri FK - BK Bakfylla 2 - 3
+Reelers - Svearikes Finaste 1 - 4
+Elbow Rangers - Morgoths horder 2 - 3
+ArkÃ¶ BK - Mohikanerna FC 4 - 2
+week 10
+2005-07-31
+ArkÃ¶ BK - Reelers 3 - 2
+Svearikes Finaste - Rotselleri FK 3 - 4
+BK Bakfylla - Elbow Rangers 3 - 2
+Mohikanerna FC - Morgoths horder 2 - 5
+week 11
+2005-08-07
+Morgoths horder - BK Bakfylla 6 - 1
+Elbow Rangers - Svearikes Finaste 5 - 1
+Rotselleri FK - ArkÃ¶ BK 3 - 0
+Reelers - Mohikanerna FC 2 - 0
+week 12
+2005-08-14
+Mohikanerna FC - BK Bakfylla 4 - 1
+Reelers - Rotselleri FK 1 - 1
+ArkÃ¶ BK - Elbow Rangers 1 - 6
+Svearikes Finaste - Morgoths horder 4 - 4
+week 13
+2005-08-21
+Elbow Rangers - Reelers 1 - 0
+BK Bakfylla - Svearikes Finaste 4 - 0
+Morgoths horder - ArkÃ¶ BK 6 - 0
+Mohikanerna FC - Rotselleri FK 4 - 2
+week 14
+2005-08-28
+ArkÃ¶ BK - BK Bakfylla 1 - 4
+Rotselleri FK - Elbow Rangers 3 - 1
+Reelers - Morgoths horder 3 - 2
+Svearikes Finaste - Mohikanerna FC 2 - 0

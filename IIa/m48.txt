@@ -1,84 +1,84 @@
-Omgång 1
-2012-02-26 (1/48) 			
-	Sundsvall Meanmachines - Hjullan BK 	2 - 1 	HT Re-Live
-	Sauber scores - Max FF 	0 - 6 	HT Re-Live
-	Rotorp - Holmen Bois 	4 - 0 	HT Re-Live
-	BK Kil - Verkovare FF 	2 - 0 	HT Re-Live
-Omgång 2
-2012-03-04 (2/48) 			
-	Hjullan BK - Rotorp 	4 - 3 	HT Re-Live
-	Holmen Bois - Sauber scores 	7 - 0 	HT Re-Live
-	Verkovare FF - Sundsvall Meanmachines 	2 - 0 	HT Re-Live
-	Max FF - BK Kil 	4 - 4 	HT Re-Live
-Omgång 3
-2012-03-11 (3/48) 			
-	Rotorp - Sundsvall Meanmachines 	3 - 3 	HT Re-Live
-	Holmen Bois - Max FF 	2 - 4 	HT Re-Live
-	BK Kil - Hjullan BK 	2 - 1 	HT Re-Live
-	Sauber scores - Verkovare FF 	0 - 8 	HT Re-Live
-Omgång 4
-2012-03-18 (4/48) 			
-	Hjullan BK - Sauber scores 	5 - 0 	HT Re-Live
-	Sundsvall Meanmachines - BK Kil 	2 - 4 	HT Re-Live
-	Verkovare FF - Holmen Bois 	1 - 0 	HT Re-Live
-	Max FF - Rotorp 	7 - 2 	HT Re-Live
-Omgång 5
-2012-03-25 (5/48) 			
-	Sauber scores - BK Kil 	0 - 4 	HT Re-Live
-	Rotorp - Verkovare FF 	4 - 0 	HT Re-Live
-	Holmen Bois - Sundsvall Meanmachines 	4 - 1 	HT Re-Live
-	Max FF - Hjullan BK 	4 - 0 	HT Re-Live
-Omgång 6
-2012-04-01 (6/48) 			
-	Sundsvall Meanmachines - Sauber scores 	7 - 0 	HT Re-Live
-	Verkovare FF - Max FF 	0 - 2 	HT Re-Live
-	Hjullan BK - Holmen Bois 	4 - 1 	HT Re-Live
-	BK Kil - Rotorp 	2 - 2 	HT Re-Live
-Omgång 7
-2012-04-08 (7/48) 			
-	Sauber scores - Rotorp 	0 - 8 	HT Re-Live
-	Max FF - Sundsvall Meanmachines 	2 - 4 	HT Re-Live
-	Holmen Bois - BK Kil 	1 - 2 	HT Re-Live
-	Hjullan BK - Verkovare FF 	0 - 0 	HT Re-Live
-Omgång 8
-2012-04-15 (8/48) 			
-	Verkovare FF - Hjullan BK 	0 - 1 	HT Re-Live
-	BK Kil - Holmen Bois 	5 - 0 	HT Re-Live
-	Sundsvall Meanmachines - Max FF 	2 - 0 	HT Re-Live
-	Rotorp - Sauber scores 	7 - 0 	HT Re-Live
-Omgång 9
-2012-04-22 (9/48) 			
-	Max FF - Verkovare FF 	3 - 1 	HT Re-Live
-	Rotorp - BK Kil 	3 - 1 	HT Re-Live
-	Sauber scores - Sundsvall Meanmachines 	0 - 7 	HT Re-Live
-	Holmen Bois - Hjullan BK 	0 - 3 	HT Re-Live
-Omgång 10
-2012-04-29 (10/48) 			
-	BK Kil - Sauber scores 	10 - 0 	HT Re-Live
-	Hjullan BK - Max FF 	2 - 0 	HT Re-Live
-	Verkovare FF - Rotorp 	3 - 3 	HT Re-Live
-	Sundsvall Meanmachines - Holmen Bois 	2 - 3 	HT Re-Live
-Omgång 11
-2012-05-06 (11/48) 			
-	Holmen Bois - Verkovare FF 	1 - 0 	HT Re-Live
-	BK Kil - Sundsvall Meanmachines 	4 - 2 	HT Re-Live
-	Rotorp - Max FF 	2 - 1 	HT Re-Live
-	Sauber scores - Hjullan BK 	0 - 10 	HT Re-Live
-Omgång 12
-2012-05-13 (12/48) 			
-	Max FF - Holmen Bois 	5 - 0 	HT Re-Live
-	Hjullan BK - BK Kil 	3 - 1 	HT Re-Live
-	Sundsvall Meanmachines - Rotorp 	2 - 0 	HT Re-Live
-	Verkovare FF - Sauber scores 	9 - 0 	HT Re-Live
-Omgång 13
-2012-05-20 (13/48) 			
-	Sundsvall Meanmachines - Verkovare FF 	2 - 0 	HT Re-Live
-	BK Kil - Max FF 	5 - 3 	HT Re-Live
-	Sauber scores - Holmen Bois 	0 - 8 	HT Re-Live
-	Rotorp - Hjullan BK 	0 - 5 	HT Re-Live
-Omgång 14
-2012-05-27 (14/48) 			
-	Hjullan BK - Sundsvall Meanmachines 	5 - 0 	HT Re-Live
-	Holmen Bois - Rotorp 	3 - 3 	HT Re-Live
-	Max FF - Sauber scores 	6 - 0 	HT Re-Live
-	Verkovare FF - BK Kil 	2 - 2 	HT Re-Live
+week 1
+2012-02-26
+Sundsvall Meanmachines - Hjullan BK 2 - 1
+Sauber scores - Max FF 0 - 6
+Rotorp - Holmen Bois 4 - 0
+BK Kil - Verkovare FF 2 - 0
+week 2
+2012-03-04
+Hjullan BK - Rotorp 4 - 3
+Holmen Bois - Sauber scores 7 - 0
+Verkovare FF - Sundsvall Meanmachines 2 - 0
+Max FF - BK Kil 4 - 4
+week 3
+2012-03-11
+Rotorp - Sundsvall Meanmachines 3 - 3
+Holmen Bois - Max FF 2 - 4
+BK Kil - Hjullan BK 2 - 1
+Sauber scores - Verkovare FF 0 - 8
+week 4
+2012-03-18
+Hjullan BK - Sauber scores 5 - 0
+Sundsvall Meanmachines - BK Kil 2 - 4
+Verkovare FF - Holmen Bois 1 - 0
+Max FF - Rotorp 7 - 2
+week 5
+2012-03-25
+Sauber scores - BK Kil 0 - 4
+Rotorp - Verkovare FF 4 - 0
+Holmen Bois - Sundsvall Meanmachines 4 - 1
+Max FF - Hjullan BK 4 - 0
+week 6
+2012-04-01
+Sundsvall Meanmachines - Sauber scores 7 - 0
+Verkovare FF - Max FF 0 - 2
+Hjullan BK - Holmen Bois 4 - 1
+BK Kil - Rotorp 2 - 2
+week 7
+2012-04-08
+Sauber scores - Rotorp 0 - 8
+Max FF - Sundsvall Meanmachines 2 - 4
+Holmen Bois - BK Kil 1 - 2
+Hjullan BK - Verkovare FF 0 - 0
+week 8
+2012-04-15
+Verkovare FF - Hjullan BK 0 - 1
+BK Kil - Holmen Bois 5 - 0
+Sundsvall Meanmachines - Max FF 2 - 0
+Rotorp - Sauber scores 7 - 0
+week 9
+2012-04-22
+Max FF - Verkovare FF 3 - 1
+Rotorp - BK Kil 3 - 1
+Sauber scores - Sundsvall Meanmachines 0 - 7
+Holmen Bois - Hjullan BK 0 - 3
+week 10
+2012-04-29
+BK Kil - Sauber scores 10 - 0
+Hjullan BK - Max FF 2 - 0
+Verkovare FF - Rotorp 3 - 3
+Sundsvall Meanmachines - Holmen Bois 2 - 3
+week 11
+2012-05-06
+Holmen Bois - Verkovare FF 1 - 0
+BK Kil - Sundsvall Meanmachines 4 - 2
+Rotorp - Max FF 2 - 1
+Sauber scores - Hjullan BK 0 - 10
+week 12
+2012-05-13
+Max FF - Holmen Bois 5 - 0
+Hjullan BK - BK Kil 3 - 1
+Sundsvall Meanmachines - Rotorp 2 - 0
+Verkovare FF - Sauber scores 9 - 0
+week 13
+2012-05-20
+Sundsvall Meanmachines - Verkovare FF 2 - 0
+BK Kil - Max FF 5 - 3
+Sauber scores - Holmen Bois 0 - 8
+Rotorp - Hjullan BK 0 - 5
+week 14
+2012-05-27
+Hjullan BK - Sundsvall Meanmachines 5 - 0
+Holmen Bois - Rotorp 3 - 3
+Max FF - Sauber scores 6 - 0
+Verkovare FF - BK Kil 2 - 2

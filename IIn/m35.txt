@@ -1,0 +1,84 @@
+week 1
+2008-03-02
+Leningrad Cowboys - BK Kundvagn 4 - 2
+Holma United - Sigtuna IF 2 - 2
+IFK Göteberg - Team Cyrgon 7 - 0
+Ekens FF - Kantarellerna 1 - 6
+week 2
+2008-03-09
+Team Cyrgon - Leningrad Cowboys 0 - 8
+BK Kundvagn - Ekens FF 3 - 0
+Kantarellerna - Holma United 6 - 0
+Sigtuna IF - IFK Göteberg 5 - 3
+week 3
+2008-03-16
+Holma United - BK Kundvagn 2 - 4
+Leningrad Cowboys - IFK Göteberg 6 - 1
+Sigtuna IF - Kantarellerna 1 - 6
+Ekens FF - Team Cyrgon 5 - 0
+week 4
+2008-03-23
+Team Cyrgon - Holma United 0 - 3
+BK Kundvagn - Sigtuna IF 2 - 2
+Leningrad Cowboys - Ekens FF 6 - 0
+IFK Göteberg - Kantarellerna 0 - 3
+week 5
+2008-03-30
+Kantarellerna - BK Kundvagn 3 - 1
+Ekens FF - IFK Göteberg 6 - 2
+Holma United - Leningrad Cowboys 3 - 6
+Sigtuna IF - Team Cyrgon 5 - 0
+week 6
+2008-04-06
+Team Cyrgon - Kantarellerna 1 - 6
+Leningrad Cowboys - Sigtuna IF 5 - 3
+Ekens FF - Holma United 4 - 2
+IFK Göteberg - BK Kundvagn 1 - 4
+week 7
+2008-04-13
+Holma United - IFK Göteberg 4 - 1
+BK Kundvagn - Team Cyrgon 7 - 0
+Sigtuna IF - Ekens FF 0 - 1
+Kantarellerna - Leningrad Cowboys 7 - 3
+week 8
+2008-04-20
+Leningrad Cowboys - Kantarellerna 1 - 5
+Ekens FF - Sigtuna IF 4 - 3
+IFK Göteberg - Holma United 4 - 3
+Team Cyrgon - BK Kundvagn 0 - 3
+week 9
+2008-04-27
+Holma United - Ekens FF 2 - 2
+BK Kundvagn - IFK Göteberg 7 - 1
+Kantarellerna - Team Cyrgon 7 - 0
+Sigtuna IF - Leningrad Cowboys 8 - 3
+week 10
+2008-05-04
+IFK Göteberg - Ekens FF 2 - 4
+BK Kundvagn - Kantarellerna 0 - 4
+Team Cyrgon - Sigtuna IF 0 - 6
+Leningrad Cowboys - Holma United 5 - 2
+week 11
+2008-05-11
+Holma United - Team Cyrgon 4 - 0
+Sigtuna IF - BK Kundvagn 2 - 2
+Ekens FF - Leningrad Cowboys 6 - 3
+Kantarellerna - IFK Göteberg 10 - 0
+week 12
+2008-05-18
+BK Kundvagn - Holma United 5 - 1
+Kantarellerna - Sigtuna IF 5 - 2
+IFK Göteberg - Leningrad Cowboys 1 - 10
+Team Cyrgon - Ekens FF 0 - 4
+week 13
+2008-05-25
+IFK Göteberg - Sigtuna IF 0 - 10
+Leningrad Cowboys - Team Cyrgon 11 - 0
+Ekens FF - BK Kundvagn 4 - 1
+Holma United - Kantarellerna 0 - 3
+week 14
+2008-06-01
+BK Kundvagn - Leningrad Cowboys 6 - 1
+Sigtuna IF - Holma United 5 - 2
+Kantarellerna - Ekens FF 5 - 1
+Team Cyrgon - IFK Göteberg 6 - 1

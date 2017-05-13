@@ -1,0 +1,84 @@
+week 1
+2011-11-06
+Sepps FF - Optimisterna 2 - 2
+Hvens Getostar - Munktorps FC 1 - 0
+Cyperdyne IK - BK Virtuos 1 - 2
+Bajenvrak - Bagarns FF 2 - 1
+week 2
+2011-11-13
+Optimisterna - Cyperdyne IK 4 - 1
+Bagarns FF - Hvens Getostar 0 - 1
+Munktorps FC - Sepps FF 3 - 5
+BK Virtuos - Bajenvrak 1 - 1
+week 3
+2011-11-20
+Sepps FF - BK Virtuos 3 - 1
+Hvens Getostar - Bajenvrak 3 - 1
+Cyperdyne IK - Bagarns FF 5 - 2
+Munktorps FC - Optimisterna 1 - 2
+week 4
+2011-11-27
+Optimisterna - Hvens Getostar 3 - 3
+Bajenvrak - Cyperdyne IK 2 - 1
+BK Virtuos - Munktorps FC 3 - 1
+Bagarns FF - Sepps FF 1 - 2
+week 5
+2011-12-04
+Sepps FF - Cyperdyne IK 3 - 0
+Munktorps FC - Bajenvrak 4 - 2
+Hvens Getostar - BK Virtuos 2 - 1
+Optimisterna - Bagarns FF 6 - 0
+week 6
+2011-12-11
+Bajenvrak - Sepps FF 3 - 3
+Cyperdyne IK - Hvens Getostar 3 - 0
+Bagarns FF - Munktorps FC 2 - 1
+BK Virtuos - Optimisterna 1 - 1
+week 7
+2011-12-18
+Sepps FF - Hvens Getostar 2 - 4
+Optimisterna - Bajenvrak 3 - 2
+Munktorps FC - Cyperdyne IK 1 - 4
+Bagarns FF - BK Virtuos 4 - 3
+week 8
+2011-12-25
+Cyperdyne IK - Munktorps FC 1 - 0
+Bajenvrak - Optimisterna 3 - 0
+Hvens Getostar - Sepps FF 1 - 3
+BK Virtuos - Bagarns FF 3 - 0
+week 9
+2012-01-01
+Optimisterna - BK Virtuos 1 - 3
+Munktorps FC - Bagarns FF 1 - 1
+Hvens Getostar - Cyperdyne IK 4 - 1
+Sepps FF - Bajenvrak 3 - 2
+week 10
+2012-01-08
+Bajenvrak - Munktorps FC 0 - 1
+Cyperdyne IK - Sepps FF 4 - 3
+BK Virtuos - Hvens Getostar 0 - 2
+Bagarns FF - Optimisterna 4 - 0
+week 11
+2012-01-15
+Hvens Getostar - Optimisterna 1 - 0
+Sepps FF - Bagarns FF 2 - 3
+Cyperdyne IK - Bajenvrak 4 - 3
+Munktorps FC - BK Virtuos 1 - 0
+week 12
+2012-01-22
+Optimisterna - Munktorps FC 5 - 2
+Bajenvrak - Hvens Getostar 0 - 3
+Bagarns FF - Cyperdyne IK 4 - 1
+BK Virtuos - Sepps FF 2 - 2
+week 13
+2012-01-29
+Bajenvrak - BK Virtuos 4 - 2
+Hvens Getostar - Bagarns FF 0 - 1
+Sepps FF - Munktorps FC 3 - 4
+Cyperdyne IK - Optimisterna 0 - 3
+week 14
+2012-02-05
+Munktorps FC - Hvens Getostar 0 - 1
+Optimisterna - Sepps FF 1 - 3
+Bagarns FF - Bajenvrak 1 - 1
+BK Virtuos - Cyperdyne IK 3 - 1

@@ -1,84 +1,84 @@
-Omgång 1
-2016-10-02 (1/63) 			
-	Team Cyrgon - Söders GoIF 	0 - 9 	HT Re-Live
-	Angels of Gothenburg - Kinnared Fk 	3 - 0 	HT Re-Live
-	Brattforce - Gus79 United 	0 - 4 	HT Re-Live
-	Våtnäs BK - Ränneskit IF 	2 - 0 	HT Re-Live
-Omgång 2
-2016-10-09 (2/63) 			
-	Gus79 United - Angels of Gothenburg 	2 - 2 	HT Re-Live
-	Kinnared Fk - Team Cyrgon 	10 - 0 	HT Re-Live
-	Söders GoIF - Våtnäs BK 	3 - 2 	HT Re-Live
-	Ränneskit IF - Brattforce 	2 - 1 	HT Re-Live
-Omgång 3
-2016-10-16 (3/63) 			
-	Kinnared Fk - Söders GoIF 	2 - 2 	HT Re-Live
-	Angels of Gothenburg - Brattforce 	3 - 1 	HT Re-Live
-	Våtnäs BK - Gus79 United 	4 - 2 	HT Re-Live
-	Team Cyrgon - Ränneskit IF 	0 - 7 	HT Re-Live
-Omgång 4
-2016-10-23 (4/63) 			
-	Gus79 United - Team Cyrgon 	11 - 0 	HT Re-Live
-	Söders GoIF - Angels of Gothenburg 	4 - 2 	HT Re-Live
-	Brattforce - Våtnäs BK 	3 - 0 	HT Re-Live
-	Ränneskit IF - Kinnared Fk 	1 - 0 	HT Re-Live
-Omgång 5
-2016-10-30 (5/63) 			
-	Team Cyrgon - Våtnäs BK 	0 - 10 	HT Re-Live
-	Kinnared Fk - Brattforce 	3 - 0 	HT Re-Live
-	Angels of Gothenburg - Ränneskit IF 	1 - 3 	HT Re-Live
-	Söders GoIF - Gus79 United 	2 - 2 	HT Re-Live
-Omgång 6
-2016-11-06 (6/63) 			
-	Gus79 United - Kinnared Fk 	2 - 3 	HT Re-Live
-	Brattforce - Team Cyrgon 	7 - 0 	HT Re-Live
-	Våtnäs BK - Angels of Gothenburg 	0 - 3 	HT Re-Live
-	Ränneskit IF - Söders GoIF 	0 - 1 	HT Re-Live
-Omgång 7
-2016-11-13 (7/63) 			
-	Team Cyrgon - Angels of Gothenburg 	0 - 8 	HT Re-Live
-	Söders GoIF - Brattforce 	3 - 1 	HT Re-Live
-	Kinnared Fk - Våtnäs BK 	3 - 0 	HT Re-Live
-	Gus79 United - Ränneskit IF 	4 - 1 	HT Re-Live
-Omgång 8
-2016-11-20 (8/63) 			
-	Våtnäs BK - Kinnared Fk 	2 - 3 	HT Re-Live
-	Ränneskit IF - Gus79 United 	0 - 4 	HT Re-Live
-	Brattforce - Söders GoIF 	0 - 2 	HT Re-Live
-	Angels of Gothenburg - Team Cyrgon 	9 - 0 	HT Re-Live
-Omgång 9
-2016-11-27 (9/63) 			
-	Söders GoIF - Ränneskit IF 	4 - 2 	HT Re-Live
-	Team Cyrgon - Brattforce 	0 - 9 	HT Re-Live
-	Kinnared Fk - Gus79 United 	2 - 3 	HT Re-Live
-	Angels of Gothenburg - Våtnäs BK 	2 - 1 	HT Re-Live
-Omgång 10
-2016-12-04 (10/63) 			
-	Gus79 United - Söders GoIF 	3 - 0 	HT Re-Live
-	Ränneskit IF - Angels of Gothenburg 	2 - 2 	HT Re-Live
-	Våtnäs BK - Team Cyrgon 	5 - 0 	HT Re-Live
-	Brattforce - Kinnared Fk 	6 - 2 	HT Re-Live
-Omgång 11
-2016-12-11 (11/63) 			
-	Kinnared Fk - Ränneskit IF 	2 - 0 	HT Re-Live
-	Våtnäs BK - Brattforce 	2 - 3 	HT Re-Live
-	Angels of Gothenburg - Söders GoIF 	4 - 1 	HT Re-Live
-	Team Cyrgon - Gus79 United 	0 - 7 	HT Re-Live
-Omgång 12
-2016-12-18 (12/63) 			
-	Gus79 United - Våtnäs BK 	3 - 1 	HT Re-Live
-	Söders GoIF - Kinnared Fk 	3 - 1 	HT Re-Live
-	Brattforce - Angels of Gothenburg 	4 - 2 	HT Re-Live
-	Ränneskit IF - Team Cyrgon 	5 - 0 	HT Re-Live
-Omgång 13
-2016-12-25 (13/63) 			
-	Brattforce - Ränneskit IF 	3 - 0 	HT Re-Live
-	Angels of Gothenburg - Gus79 United 	3 - 3 	HT Re-Live
-	Våtnäs BK - Söders GoIF 	0 - 2 	HT Re-Live
-	Team Cyrgon - Kinnared Fk 	0 - 5 	HT Re-Live
-Omgång 14
-2017-01-01 (14/63) 			
-	Ränneskit IF - Våtnäs BK 	1 - 2 	HT Re-Live
-	Kinnared Fk - Angels of Gothenburg 	5 - 2 	HT Re-Live
-	Gus79 United - Brattforce 	4 - 0 	HT Re-Live
-	Söders GoIF - Team Cyrgon 	5 - 0 	HT Re-Live
+week 1
+2016-10-02
+Team Cyrgon - Söders GoIF 0 - 9
+Angels of Gothenburg - Kinnared Fk 3 - 0
+Brattforce - Gus79 United 0 - 4
+Våtnäs BK - Ränneskit IF 2 - 0
+week 2
+2016-10-09
+Gus79 United - Angels of Gothenburg 2 - 2
+Kinnared Fk - Team Cyrgon 10 - 0
+Söders GoIF - Våtnäs BK 3 - 2
+Ränneskit IF - Brattforce 2 - 1
+week 3
+2016-10-16
+Kinnared Fk - Söders GoIF 2 - 2
+Angels of Gothenburg - Brattforce 3 - 1
+Våtnäs BK - Gus79 United 4 - 2
+Team Cyrgon - Ränneskit IF 0 - 7
+week 4
+2016-10-23
+Gus79 United - Team Cyrgon 11 - 0
+Söders GoIF - Angels of Gothenburg 4 - 2
+Brattforce - Våtnäs BK 3 - 0
+Ränneskit IF - Kinnared Fk 1 - 0
+week 5
+2016-10-30
+Team Cyrgon - Våtnäs BK 0 - 10
+Kinnared Fk - Brattforce 3 - 0
+Angels of Gothenburg - Ränneskit IF 1 - 3
+Söders GoIF - Gus79 United 2 - 2
+week 6
+2016-11-06
+Gus79 United - Kinnared Fk 2 - 3
+Brattforce - Team Cyrgon 7 - 0
+Våtnäs BK - Angels of Gothenburg 0 - 3
+Ränneskit IF - Söders GoIF 0 - 1
+week 7
+2016-11-13
+Team Cyrgon - Angels of Gothenburg 0 - 8
+Söders GoIF - Brattforce 3 - 1
+Kinnared Fk - Våtnäs BK 3 - 0
+Gus79 United - Ränneskit IF 4 - 1
+week 8
+2016-11-20
+Våtnäs BK - Kinnared Fk 2 - 3
+Ränneskit IF - Gus79 United 0 - 4
+Brattforce - Söders GoIF 0 - 2
+Angels of Gothenburg - Team Cyrgon 9 - 0
+week 9
+2016-11-27
+Söders GoIF - Ränneskit IF 4 - 2
+Team Cyrgon - Brattforce 0 - 9
+Kinnared Fk - Gus79 United 2 - 3
+Angels of Gothenburg - Våtnäs BK 2 - 1
+week 10
+2016-12-04
+Gus79 United - Söders GoIF 3 - 0
+Ränneskit IF - Angels of Gothenburg 2 - 2
+Våtnäs BK - Team Cyrgon 5 - 0
+Brattforce - Kinnared Fk 6 - 2
+week 11
+2016-12-11
+Kinnared Fk - Ränneskit IF 2 - 0
+Våtnäs BK - Brattforce 2 - 3
+Angels of Gothenburg - Söders GoIF 4 - 1
+Team Cyrgon - Gus79 United 0 - 7
+week 12
+2016-12-18
+Gus79 United - Våtnäs BK 3 - 1
+Söders GoIF - Kinnared Fk 3 - 1
+Brattforce - Angels of Gothenburg 4 - 2
+Ränneskit IF - Team Cyrgon 5 - 0
+week 13
+2016-12-25
+Brattforce - Ränneskit IF 3 - 0
+Angels of Gothenburg - Gus79 United 3 - 3
+Våtnäs BK - Söders GoIF 0 - 2
+Team Cyrgon - Kinnared Fk 0 - 5
+week 14
+2017-01-01
+Ränneskit IF - Våtnäs BK 1 - 2
+Kinnared Fk - Angels of Gothenburg 5 - 2
+Gus79 United - Brattforce 4 - 0
+Söders GoIF - Team Cyrgon 5 - 0

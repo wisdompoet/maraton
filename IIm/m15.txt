@@ -1,0 +1,84 @@
+week 1
+2002-01-13
+Gothenburg - Menlösa IF 4 - 0
+Anabolica - Humlekärrets IF 0 - 1
+Bohemian cucumbers - The Soccer of Our Lives 1 - 0
+Ryd Rangers FC - Förort Allstars 3 - 1
+week 2
+2002-01-20
+The Soccer of Our Lives - Gothenburg 1 - 3
+Förort Allstars - Anabolica 1 - 0
+Menlösa IF - Ryd Rangers FC 0 - 2
+Humlekärrets IF - Bohemian cucumbers 0 - 0
+week 3
+2002-01-27
+Anabolica - Menlösa IF 1 - 2
+Bohemian cucumbers - Förort Allstars 0 - 0
+The Soccer of Our Lives - Humlekärrets IF 0 - 1
+Ryd Rangers FC - Gothenburg 1 - 2
+week 4
+2002-02-03
+Gothenburg - Humlekärrets IF 1 - 1
+Förort Allstars - The Soccer of Our Lives 1 - 0
+Menlösa IF - Bohemian cucumbers 3 - 0
+Ryd Rangers FC - Anabolica 0 - 3
+week 5
+2002-02-10
+Anabolica - Gothenburg 3 - 2
+Bohemian cucumbers - Ryd Rangers FC 1 - 1
+The Soccer of Our Lives - Menlösa IF 0 - 1
+Humlekärrets IF - Förort Allstars 1 - 2
+week 6
+2002-02-17
+Gothenburg - Förort Allstars 0 - 1
+Anabolica - Bohemian cucumbers 1 - 1
+Menlösa IF - Humlekärrets IF 3 - 1
+Ryd Rangers FC - The Soccer of Our Lives 2 - 0
+week 7
+2002-02-24
+Bohemian cucumbers - Gothenburg 2 - 2
+The Soccer of Our Lives - Anabolica 0 - 3
+Förort Allstars - Menlösa IF 0 - 1
+Humlekärrets IF - Ryd Rangers FC 1 - 1
+week 8
+2002-03-03
+Ryd Rangers FC - Humlekärrets IF 1 - 1
+Menlösa IF - Förort Allstars 2 - 0
+Anabolica - The Soccer of Our Lives 5 - 1
+Gothenburg - Bohemian cucumbers 2 - 0
+week 9
+2002-03-10
+The Soccer of Our Lives - Ryd Rangers FC 3 - 0
+Humlekärrets IF - Menlösa IF 3 - 0
+Bohemian cucumbers - Anabolica 1 - 3
+Förort Allstars - Gothenburg 0 - 2
+week 10
+2002-03-17
+Förort Allstars - Humlekärrets IF 1 - 2
+Menlösa IF - The Soccer of Our Lives 5 - 2
+Ryd Rangers FC - Bohemian cucumbers 3 - 0
+Gothenburg - Anabolica 3 - 0
+week 11
+2002-03-24
+Anabolica - Ryd Rangers FC 4 - 1
+Bohemian cucumbers - Menlösa IF 1 - 4
+The Soccer of Our Lives - Förort Allstars 1 - 1
+Humlekärrets IF - Gothenburg 2 - 3
+week 12
+2002-03-31
+Gothenburg - Ryd Rangers FC 2 - 1
+Humlekärrets IF - The Soccer of Our Lives 2 - 1
+Förort Allstars - Bohemian cucumbers 0 - 2
+Menlösa IF - Anabolica 0 - 4
+week 13
+2002-04-07
+Bohemian cucumbers - Humlekärrets IF 1 - 0
+Ryd Rangers FC - Menlösa IF 1 - 2
+Anabolica - Förort Allstars 3 - 0
+Gothenburg - The Soccer of Our Lives 2 - 0
+week 14
+2002-04-14
+Förort Allstars - Ryd Rangers FC 1 - 2
+The Soccer of Our Lives - Bohemian cucumbers 2 - 0
+Humlekärrets IF - Anabolica 2 - 1
+Menlösa IF - Gothenburg 3 - 2

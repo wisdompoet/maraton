@@ -1,0 +1,84 @@
+week 1
+2000-10-22
+Frostavallen Foreigners - Starfire FC 1 - 1
+Pumuckel BK - IK Dreas 0 - 0
+Inter Sthlm - Blackbårn 5 - 1
+AC Santa Azurri - Quatro Staggione AC 1 - 2
+week 2
+2000-10-29
+Blackbårn - Frostavallen Foreigners 1 - 2
+Quatro Staggione AC - Pumuckel BK 1 - 0
+Starfire FC - AC Santa Azurri 4 - 0
+IK Dreas - Inter Sthlm 0 - 4
+week 3
+2000-11-05
+Pumuckel BK - Starfire FC 3 - 2
+Inter Sthlm - Quatro Staggione AC 2 - 1
+Blackbårn - IK Dreas 2 - 1
+AC Santa Azurri - Frostavallen Foreigners 0 - 1
+week 4
+2000-11-12
+Frostavallen Foreigners - IK Dreas 0 - 1
+Quatro Staggione AC - Blackbårn 3 - 0
+Starfire FC - Inter Sthlm 5 - 1
+AC Santa Azurri - Pumuckel BK 1 - 0
+week 5
+2000-11-19
+Pumuckel BK - Frostavallen Foreigners 1 - 1
+Inter Sthlm - AC Santa Azurri 5 - 1
+Blackbårn - Starfire FC 5 - 0
+IK Dreas - Quatro Staggione AC 1 - 2
+week 6
+2000-11-26
+Frostavallen Foreigners - Quatro Staggione AC 2 - 0
+Pumuckel BK - Inter Sthlm 2 - 2
+Starfire FC - IK Dreas 2 - 1
+AC Santa Azurri - Blackbårn 1 - 3
+week 7
+2000-12-03
+Inter Sthlm - Frostavallen Foreigners 4 - 0
+Blackbårn - Pumuckel BK 1 - 0
+Quatro Staggione AC - Starfire FC 2 - 2
+IK Dreas - AC Santa Azurri 2 - 0
+week 8
+2000-12-10
+AC Santa Azurri - IK Dreas 1 - 1
+Starfire FC - Quatro Staggione AC 1 - 1
+Pumuckel BK - Blackbårn 7 - 2
+Frostavallen Foreigners - Inter Sthlm 1 - 2
+week 9
+2000-12-17
+Blackbårn - AC Santa Azurri 4 - 0
+IK Dreas - Starfire FC 3 - 0
+Inter Sthlm - Pumuckel BK 1 - 1
+Quatro Staggione AC - Frostavallen Foreigners 0 - 1
+week 10
+2000-12-24
+Quatro Staggione AC - IK Dreas 4 - 1
+Starfire FC - Blackbårn 1 - 4
+AC Santa Azurri - Inter Sthlm 1 - 1
+Frostavallen Foreigners - Pumuckel BK 3 - 1
+week 11
+2000-12-31
+Pumuckel BK - AC Santa Azurri 0 - 1
+Inter Sthlm - Starfire FC 7 - 0
+Blackbårn - Quatro Staggione AC 1 - 3
+IK Dreas - Frostavallen Foreigners 2 - 0
+week 12
+2001-01-07
+Frostavallen Foreigners - AC Santa Azurri 4 - 0
+IK Dreas - Blackbårn 3 - 0
+Quatro Staggione AC - Inter Sthlm 4 - 3
+Starfire FC - Pumuckel BK 0 - 2
+week 13
+2001-01-14
+Inter Sthlm - IK Dreas 6 - 0
+AC Santa Azurri - Starfire FC 3 - 3
+Pumuckel BK - Quatro Staggione AC 0 - 4
+Frostavallen Foreigners - Blackbårn 5 - 3
+week 14
+2001-01-21
+Quatro Staggione AC - AC Santa Azurri 2 - 0
+Blackbårn - Inter Sthlm 1 - 6
+IK Dreas - Pumuckel BK 0 - 0
+Starfire FC - Frostavallen Foreigners 0 - 1

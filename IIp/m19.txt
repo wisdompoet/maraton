@@ -1,0 +1,84 @@
+week 1
+2003-04-06
+Hebbes vänner - KriteCrew IF 3 - 1
+Bloom_County - Vildmarken Utd 2 - 2
+Assyriska FF - FC Grodan 1 - 1
+DrPepper FC - NK Hajduk 2 - 2
+week 2
+2003-04-13
+FC Grodan - Hebbes vänner 0 - 4
+NK Hajduk - Bloom_County 6 - 0
+KriteCrew IF - DrPepper FC 3 - 0
+Vildmarken Utd - Assyriska FF 4 - 0
+week 3
+2003-04-20
+Bloom_County - KriteCrew IF 2 - 1
+Assyriska FF - NK Hajduk 0 - 0
+FC Grodan - Vildmarken Utd 1 - 5
+DrPepper FC - Hebbes vänner 4 - 0
+week 4
+2003-04-27
+Hebbes vänner - Vildmarken Utd 2 - 2
+NK Hajduk - FC Grodan 1 - 1
+KriteCrew IF - Assyriska FF 3 - 0
+DrPepper FC - Bloom_County 1 - 3
+week 5
+2003-05-04
+Bloom_County - Hebbes vänner 1 - 1
+Assyriska FF - DrPepper FC 2 - 2
+FC Grodan - KriteCrew IF 6 - 1
+Vildmarken Utd - NK Hajduk 5 - 2
+week 6
+2003-05-11
+Hebbes vänner - NK Hajduk 2 - 1
+Bloom_County - Assyriska FF 4 - 1
+KriteCrew IF - Vildmarken Utd 1 - 5
+DrPepper FC - FC Grodan 3 - 1
+week 7
+2003-05-18
+Assyriska FF - Hebbes vänner 2 - 1
+FC Grodan - Bloom_County 2 - 2
+NK Hajduk - KriteCrew IF 5 - 0
+Vildmarken Utd - DrPepper FC 3 - 1
+week 8
+2003-05-25
+DrPepper FC - Vildmarken Utd 1 - 2
+KriteCrew IF - NK Hajduk 0 - 3
+Bloom_County - FC Grodan 4 - 1
+Hebbes vänner - Assyriska FF 5 - 1
+week 9
+2003-06-01
+FC Grodan - DrPepper FC 4 - 1
+Vildmarken Utd - KriteCrew IF 4 - 1
+Assyriska FF - Bloom_County 0 - 2
+NK Hajduk - Hebbes vänner 8 - 1
+week 10
+2003-06-08
+NK Hajduk - Vildmarken Utd 5 - 0
+KriteCrew IF - FC Grodan 4 - 1
+DrPepper FC - Assyriska FF 3 - 0
+Hebbes vänner - Bloom_County 3 - 2
+week 11
+2003-06-15
+Bloom_County - DrPepper FC 1 - 3
+Assyriska FF - KriteCrew IF 0 - 0
+FC Grodan - NK Hajduk 3 - 3
+Vildmarken Utd - Hebbes vänner 1 - 4
+week 12
+2003-06-22
+Hebbes vänner - DrPepper FC 2 - 0
+Vildmarken Utd - FC Grodan 5 - 1
+NK Hajduk - Assyriska FF 4 - 0
+KriteCrew IF - Bloom_County 1 - 4
+week 13
+2003-06-29
+Assyriska FF - Vildmarken Utd 2 - 2
+DrPepper FC - KriteCrew IF 6 - 2
+Bloom_County - NK Hajduk 3 - 2
+Hebbes vänner - FC Grodan 3 - 3
+week 14
+2003-07-06
+NK Hajduk - DrPepper FC 3 - 0
+FC Grodan - Assyriska FF 1 - 1
+Vildmarken Utd - Bloom_County 5 - 1
+KriteCrew IF - Hebbes vänner 1 - 1

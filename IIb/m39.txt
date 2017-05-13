@@ -1,0 +1,84 @@
+week 1
+2009-05-24
+Jediriddarna - Mantorp Rangers 4 - 3
+Piteteam - Segmon BK 2 - 3
+Tidelaget - MacGyver 2 - 1
+Gianco FF - PBK Karlstad 6 - 0
+week 2
+2009-05-31
+MacGyver - Jediriddarna 2 - 1
+PBK Karlstad - Piteteam 3 - 3
+Segmon BK - Tidelaget 2 - 3
+Mantorp Rangers - Gianco FF 3 - 4
+week 3
+2009-06-07
+Piteteam - Mantorp Rangers 2 - 2
+Tidelaget - PBK Karlstad 4 - 0
+MacGyver - Segmon BK 5 - 1
+Gianco FF - Jediriddarna 7 - 0
+week 4
+2009-06-14
+Jediriddarna - Segmon BK 3 - 1
+PBK Karlstad - MacGyver 1 - 2
+Mantorp Rangers - Tidelaget 0 - 3
+Gianco FF - Piteteam 3 - 3
+week 5
+2009-06-21
+Piteteam - Jediriddarna 1 - 2
+Tidelaget - Gianco FF 3 - 3
+Segmon BK - PBK Karlstad 2 - 1
+MacGyver - Mantorp Rangers 8 - 0
+week 6
+2009-06-28
+Mantorp Rangers - Segmon BK 0 - 8
+Gianco FF - MacGyver 4 - 4
+Jediriddarna - PBK Karlstad 2 - 3
+Piteteam - Tidelaget 3 - 1
+week 7
+2009-07-05
+MacGyver - Piteteam 0 - 2
+Segmon BK - Gianco FF 5 - 5
+PBK Karlstad - Mantorp Rangers 9 - 0
+Tidelaget - Jediriddarna 1 - 2
+week 8
+2009-07-12
+Mantorp Rangers - PBK Karlstad 1 - 8
+Gianco FF - Segmon BK 4 - 1
+Piteteam - MacGyver 3 - 1
+Jediriddarna - Tidelaget 3 - 4
+week 9
+2009-07-19
+MacGyver - Gianco FF 3 - 1
+Segmon BK - Mantorp Rangers 6 - 0
+Tidelaget - Piteteam 3 - 2
+PBK Karlstad - Jediriddarna 3 - 1
+week 10
+2009-07-26
+PBK Karlstad - Segmon BK 1 - 1
+Mantorp Rangers - MacGyver 0 - 9
+Jediriddarna - Piteteam 3 - 2
+Gianco FF - Tidelaget 3 - 5
+week 11
+2009-08-02
+Piteteam - Gianco FF 3 - 2
+Tidelaget - Mantorp Rangers 9 - 0
+MacGyver - PBK Karlstad 4 - 1
+Segmon BK - Jediriddarna 3 - 3
+week 12
+2009-08-09
+PBK Karlstad - Tidelaget 0 - 3
+Segmon BK - MacGyver 3 - 0
+Mantorp Rangers - Piteteam 0 - 8
+Jediriddarna - Gianco FF 6 - 1
+week 13
+2009-08-16
+Gianco FF - Mantorp Rangers 9 - 0
+Tidelaget - Segmon BK 1 - 1
+Piteteam - PBK Karlstad 2 - 2
+Jediriddarna - MacGyver 3 - 3
+week 14
+2009-08-23
+MacGyver - Tidelaget 2 - 1
+PBK Karlstad - Gianco FF 4 - 1
+Mantorp Rangers - Jediriddarna 0 - 10
+Segmon BK - Piteteam 2 - 2

@@ -1,0 +1,84 @@
+week 1
+2002-05-05
+BuggSoft OS - Skalbolaget 3 - 0
+Bernt I Boas BK - hååjieff 3 - 2
+Torsås tappra tigrar - Camarillo Pro SC 1 - 1
+Prince Park Rangers - Hinkaduserna 2 - 0
+week 2
+2002-05-12
+Camarillo Pro SC - BuggSoft OS 2 - 1
+Hinkaduserna - Bernt I Boas BK 1 - 1
+Skalbolaget - Prince Park Rangers 0 - 1
+hååjieff - Torsås tappra tigrar 5 - 3
+week 3
+2002-05-19
+Bernt I Boas BK - Skalbolaget 2 - 0
+Torsås tappra tigrar - Hinkaduserna 0 - 0
+Camarillo Pro SC - hååjieff 2 - 4
+Prince Park Rangers - BuggSoft OS 4 - 1
+week 4
+2002-05-26
+BuggSoft OS - hååjieff 3 - 3
+Hinkaduserna - Camarillo Pro SC 1 - 0
+Skalbolaget - Torsås tappra tigrar 1 - 0
+Prince Park Rangers - Bernt I Boas BK 0 - 1
+week 5
+2002-06-02
+Bernt I Boas BK - BuggSoft OS 0 - 1
+Torsås tappra tigrar - Prince Park Rangers 1 - 1
+Camarillo Pro SC - Skalbolaget 0 - 2
+hååjieff - Hinkaduserna 3 - 0
+week 6
+2002-06-09
+BuggSoft OS - Hinkaduserna 3 - 0
+Bernt I Boas BK - Torsås tappra tigrar 1 - 0
+Skalbolaget - hååjieff 1 - 2
+Prince Park Rangers - Camarillo Pro SC 1 - 0
+week 7
+2002-06-16
+Torsås tappra tigrar - BuggSoft OS 1 - 1
+Camarillo Pro SC - Bernt I Boas BK 1 - 0
+Hinkaduserna - Skalbolaget 0 - 3
+hååjieff - Prince Park Rangers 0 - 1
+week 8
+2002-06-23
+Prince Park Rangers - hååjieff 4 - 1
+Skalbolaget - Hinkaduserna 4 - 0
+Bernt I Boas BK - Camarillo Pro SC 1 - 1
+BuggSoft OS - Torsås tappra tigrar 3 - 0
+week 9
+2002-06-30
+Camarillo Pro SC - Prince Park Rangers 0 - 0
+hååjieff - Skalbolaget 1 - 3
+Torsås tappra tigrar - Bernt I Boas BK 1 - 0
+Hinkaduserna - BuggSoft OS 1 - 1
+week 10
+2002-07-07
+Hinkaduserna - hååjieff 3 - 1
+Skalbolaget - Camarillo Pro SC 2 - 0
+Prince Park Rangers - Torsås tappra tigrar 0 - 0
+BuggSoft OS - Bernt I Boas BK 3 - 3
+week 11
+2002-07-14
+Bernt I Boas BK - Prince Park Rangers 2 - 1
+Torsås tappra tigrar - Skalbolaget 1 - 0
+Camarillo Pro SC - Hinkaduserna 3 - 0
+hååjieff - BuggSoft OS 3 - 3
+week 12
+2002-07-21
+BuggSoft OS - Prince Park Rangers 4 - 0
+hååjieff - Camarillo Pro SC 2 - 1
+Hinkaduserna - Torsås tappra tigrar 0 - 0
+Skalbolaget - Bernt I Boas BK 3 - 1
+week 13
+2002-07-28
+Torsås tappra tigrar - hååjieff 1 - 0
+Prince Park Rangers - Skalbolaget 4 - 1
+Bernt I Boas BK - Hinkaduserna 0 - 1
+BuggSoft OS - Camarillo Pro SC 4 - 0
+week 14
+2002-08-04
+Hinkaduserna - Prince Park Rangers 2 - 4
+Camarillo Pro SC - Torsås tappra tigrar 0 - 1
+hååjieff - Bernt I Boas BK 1 - 1
+Skalbolaget - BuggSoft OS 1 - 2

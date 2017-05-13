@@ -1,84 +1,84 @@
-Omgång 1
-2009-02-01 (1/38) 			
-	The Alice Cooperz FC - Dynamo Kebab 	2 - 5 	HT Re-Live
-	BK Ondska - Robmasters 	6 - 1 	HT Re-Live
-	Storhagen United - Freddans Angels 	3 - 0 	HT Re-Live
-	Schenströmska BK - Hawkwing FF 	1 - 6 	HT Re-Live
-Omgång 2
-2009-02-08 (2/38) 			
-	Robmasters - The Alice Cooperz FC 	1 - 3 	HT Re-Live
-	Dynamo Kebab - Storhagen United 	5 - 3 	HT Re-Live
-	Freddans Angels - Schenströmska BK 	5 - 1 	HT Re-Live
-	Hawkwing FF - BK Ondska 	4 - 3 	HT Re-Live
-Omgång 3
-2009-02-15 (3/38) 			
-	Freddans Angels - Dynamo Kebab 	5 - 4 	HT Re-Live
-	Storhagen United - Robmasters 	2 - 2 	HT Re-Live
-	BK Ondska - Schenströmska BK 	6 - 1 	HT Re-Live
-	The Alice Cooperz FC - Hawkwing FF 	2 - 1 	HT Re-Live
-Omgång 4
-2009-02-22 (4/38) 			
-	BK Ondska - The Alice Cooperz FC 	3 - 1 	HT Re-Live
-	Schenströmska BK - Dynamo Kebab 	2 - 7 	HT Re-Live
-	Robmasters - Freddans Angels 	1 - 3 	HT Re-Live
-	Hawkwing FF - Storhagen United 	4 - 1 	HT Re-Live
-Omgång 5
-2009-03-01 (5/38) 			
-	The Alice Cooperz FC - Schenströmska BK 	6 - 1 	HT Re-Live
-	Storhagen United - BK Ondska 	1 - 2 	HT Re-Live
-	Freddans Angels - Hawkwing FF 	4 - 2 	HT Re-Live
-	Dynamo Kebab - Robmasters 	8 - 1 	HT Re-Live
-Omgång 6
-2009-03-08 (6/38) 			
-	Schenströmska BK - Robmasters 	2 - 2 	HT Re-Live
-	The Alice Cooperz FC - Storhagen United 	4 - 2 	HT Re-Live
-	Hawkwing FF - Dynamo Kebab 	4 - 5 	HT Re-Live
-	BK Ondska - Freddans Angels 	5 - 2 	HT Re-Live
-Omgång 7
-2009-03-15 (7/38) 			
-	Storhagen United - Schenströmska BK 	5 - 0 	HT Re-Live
-	Robmasters - Hawkwing FF 	3 - 2 	HT Re-Live
-	Freddans Angels - The Alice Cooperz FC 	5 - 2 	HT Re-Live
-	Dynamo Kebab - BK Ondska 	3 - 3 	HT Re-Live
-Omgång 8
-2009-03-22 (8/38) 			
-	BK Ondska - Dynamo Kebab 	6 - 2 	HT Re-Live
-	Hawkwing FF - Robmasters 	5 - 1 	HT Re-Live
-	The Alice Cooperz FC - Freddans Angels 	0 - 2 	HT Re-Live
-	Schenströmska BK - Storhagen United 	10 - 0 	HT Re-Live
-Omgång 9
-2009-03-29 (9/38) 			
-	Freddans Angels - BK Ondska 	5 - 0 	HT Re-Live
-	Dynamo Kebab - Hawkwing FF 	2 - 0 	HT Re-Live
-	Storhagen United - The Alice Cooperz FC 	0 - 8 	HT Re-Live
-	Robmasters - Schenströmska BK 	4 - 0 	HT Re-Live
-Omgång 10
-2009-04-05 (10/38) 			
-	Robmasters - Dynamo Kebab 	5 - 2 	HT Re-Live
-	Hawkwing FF - Freddans Angels 	5 - 0 	HT Re-Live
-	BK Ondska - Storhagen United 	13 - 0 	HT Re-Live
-	Schenströmska BK - The Alice Cooperz FC 	1 - 3 	HT Re-Live
-Omgång 11
-2009-04-12 (11/38) 			
-	Dynamo Kebab - Schenströmska BK 	7 - 0 	HT Re-Live
-	Freddans Angels - Robmasters 	2 - 3 	HT Re-Live
-	The Alice Cooperz FC - BK Ondska 	4 - 5 	HT Re-Live
-	Storhagen United - Hawkwing FF 	0 - 9 	HT Re-Live
-Omgång 12
-2009-04-19 (12/38) 			
-	Schenströmska BK - BK Ondska 	2 - 4 	HT Re-Live
-	Robmasters - Storhagen United 	10 - 0 	HT Re-Live
-	Dynamo Kebab - Freddans Angels 	3 - 2 	HT Re-Live
-	Hawkwing FF - The Alice Cooperz FC 	4 - 2 	HT Re-Live
-Omgång 13
-2009-04-26 (13/38) 			
-	Storhagen United - Dynamo Kebab 	0 - 13 	HT Re-Live
-	BK Ondska - Hawkwing FF 	4 - 4 	HT Re-Live
-	The Alice Cooperz FC - Robmasters 	3 - 2 	HT Re-Live
-	Schenströmska BK - Freddans Angels 	1 - 9 	HT Re-Live
-Omgång 14
-2009-05-03 (14/38) 			
-	Freddans Angels - Storhagen United 	10 - 0 	HT Re-Live
-	Dynamo Kebab - The Alice Cooperz FC 	7 - 1 	HT Re-Live
-	Hawkwing FF - Schenströmska BK 	3 - 2 	HT Re-Live
-	Robmasters - BK Ondska 	2 - 1 	HT Re-Live
+week 1
+2009-02-01
+The Alice Cooperz FC - Dynamo Kebab 2 - 5
+BK Ondska - Robmasters 6 - 1
+Storhagen United - Freddans Angels 3 - 0
+Schenströmska BK - Hawkwing FF 1 - 6
+week 2
+2009-02-08
+Robmasters - The Alice Cooperz FC 1 - 3
+Dynamo Kebab - Storhagen United 5 - 3
+Freddans Angels - Schenströmska BK 5 - 1
+Hawkwing FF - BK Ondska 4 - 3
+week 3
+2009-02-15
+Freddans Angels - Dynamo Kebab 5 - 4
+Storhagen United - Robmasters 2 - 2
+BK Ondska - Schenströmska BK 6 - 1
+The Alice Cooperz FC - Hawkwing FF 2 - 1
+week 4
+2009-02-22
+BK Ondska - The Alice Cooperz FC 3 - 1
+Schenströmska BK - Dynamo Kebab 2 - 7
+Robmasters - Freddans Angels 1 - 3
+Hawkwing FF - Storhagen United 4 - 1
+week 5
+2009-03-01
+The Alice Cooperz FC - Schenströmska BK 6 - 1
+Storhagen United - BK Ondska 1 - 2
+Freddans Angels - Hawkwing FF 4 - 2
+Dynamo Kebab - Robmasters 8 - 1
+week 6
+2009-03-08
+Schenströmska BK - Robmasters 2 - 2
+The Alice Cooperz FC - Storhagen United 4 - 2
+Hawkwing FF - Dynamo Kebab 4 - 5
+BK Ondska - Freddans Angels 5 - 2
+week 7
+2009-03-15
+Storhagen United - Schenströmska BK 5 - 0
+Robmasters - Hawkwing FF 3 - 2
+Freddans Angels - The Alice Cooperz FC 5 - 2
+Dynamo Kebab - BK Ondska 3 - 3
+week 8
+2009-03-22
+BK Ondska - Dynamo Kebab 6 - 2
+Hawkwing FF - Robmasters 5 - 1
+The Alice Cooperz FC - Freddans Angels 0 - 2
+Schenströmska BK - Storhagen United 10 - 0
+week 9
+2009-03-29
+Freddans Angels - BK Ondska 5 - 0
+Dynamo Kebab - Hawkwing FF 2 - 0
+Storhagen United - The Alice Cooperz FC 0 - 8
+Robmasters - Schenströmska BK 4 - 0
+week 10
+2009-04-05
+Robmasters - Dynamo Kebab 5 - 2
+Hawkwing FF - Freddans Angels 5 - 0
+BK Ondska - Storhagen United 13 - 0
+Schenströmska BK - The Alice Cooperz FC 1 - 3
+week 11
+2009-04-12
+Dynamo Kebab - Schenströmska BK 7 - 0
+Freddans Angels - Robmasters 2 - 3
+The Alice Cooperz FC - BK Ondska 4 - 5
+Storhagen United - Hawkwing FF 0 - 9
+week 12
+2009-04-19
+Schenströmska BK - BK Ondska 2 - 4
+Robmasters - Storhagen United 10 - 0
+Dynamo Kebab - Freddans Angels 3 - 2
+Hawkwing FF - The Alice Cooperz FC 4 - 2
+week 13
+2009-04-26
+Storhagen United - Dynamo Kebab 0 - 13
+BK Ondska - Hawkwing FF 4 - 4
+The Alice Cooperz FC - Robmasters 3 - 2
+Schenströmska BK - Freddans Angels 1 - 9
+week 14
+2009-05-03
+Freddans Angels - Storhagen United 10 - 0
+Dynamo Kebab - The Alice Cooperz FC 7 - 1
+Hawkwing FF - Schenströmska BK 3 - 2
+Robmasters - BK Ondska 2 - 1

@@ -1,0 +1,84 @@
+week 1
+2000-10-22
+Goodtown Gangsters - Slinkens FK 3 - 2
+Boston Baylers - Brunkongarnas FF 0 - 3
+BK Brutal - Scorers SK 3 - 0
+Lost Ones - Fylltratts FK 3 - 1
+week 2
+2000-10-29
+Scorers SK - Goodtown Gangsters 2 - 3
+Fylltratts FK - Boston Baylers 0 - 3
+Slinkens FK - Lost Ones 3 - 1
+Brunkongarnas FF - BK Brutal 3 - 0
+week 3
+2000-11-05
+Boston Baylers - Slinkens FK 4 - 1
+BK Brutal - Fylltratts FK 5 - 0
+Scorers SK - Brunkongarnas FF 0 - 2
+Lost Ones - Goodtown Gangsters 2 - 2
+week 4
+2000-11-12
+Goodtown Gangsters - Brunkongarnas FF 3 - 2
+Fylltratts FK - Scorers SK 0 - 5
+Slinkens FK - BK Brutal 4 - 0
+Lost Ones - Boston Baylers 0 - 4
+week 5
+2000-11-19
+Boston Baylers - Goodtown Gangsters 4 - 1
+BK Brutal - Lost Ones 2 - 0
+Scorers SK - Slinkens FK 2 - 2
+Brunkongarnas FF - Fylltratts FK 4 - 0
+week 6
+2000-11-26
+Goodtown Gangsters - Fylltratts FK 6 - 0
+Boston Baylers - BK Brutal 1 - 0
+Slinkens FK - Brunkongarnas FF 1 - 3
+Lost Ones - Scorers SK 1 - 3
+week 7
+2000-12-03
+BK Brutal - Goodtown Gangsters 1 - 1
+Scorers SK - Boston Baylers 0 - 3
+Fylltratts FK - Slinkens FK 1 - 4
+Brunkongarnas FF - Lost Ones 3 - 0
+week 8
+2000-12-10
+Lost Ones - Brunkongarnas FF 1 - 2
+Slinkens FK - Fylltratts FK 4 - 0
+Boston Baylers - Scorers SK 4 - 1
+Goodtown Gangsters - BK Brutal 4 - 0
+week 9
+2000-12-17
+Scorers SK - Lost Ones 3 - 2
+Brunkongarnas FF - Slinkens FK 6 - 3
+BK Brutal - Boston Baylers 1 - 2
+Fylltratts FK - Goodtown Gangsters 0 - 3
+week 10
+2000-12-24
+Fylltratts FK - Brunkongarnas FF 0 - 3
+Slinkens FK - Scorers SK 6 - 2
+Lost Ones - BK Brutal 1 - 2
+Goodtown Gangsters - Boston Baylers 5 - 0
+week 11
+2000-12-31
+Boston Baylers - Lost Ones 3 - 0
+BK Brutal - Slinkens FK 2 - 0
+Scorers SK - Fylltratts FK 3 - 2
+Brunkongarnas FF - Goodtown Gangsters 6 - 1
+week 12
+2001-01-07
+Goodtown Gangsters - Lost Ones 5 - 0
+Brunkongarnas FF - Scorers SK 4 - 0
+Fylltratts FK - BK Brutal 0 - 5
+Slinkens FK - Boston Baylers 4 - 1
+week 13
+2001-01-14
+BK Brutal - Brunkongarnas FF 1 - 0
+Lost Ones - Slinkens FK 0 - 4
+Boston Baylers - Fylltratts FK 4 - 0
+Goodtown Gangsters - Scorers SK 5 - 0
+week 14
+2001-01-21
+Fylltratts FK - Lost Ones 0 - 3
+Scorers SK - BK Brutal 1 - 4
+Brunkongarnas FF - Boston Baylers 4 - 1
+Slinkens FK - Goodtown Gangsters 1 - 4

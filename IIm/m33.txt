@@ -1,0 +1,84 @@
+week 1
+2007-07-22
+FC Cazzix - Melon Mauritz FC 2 - 1
+Gäddträsket - MacGyver 1 - 5
+Rubblarp Redemption - AC Turbonegro 4 - 3
+Byggkompaniet - Skatorna 2 - 2
+week 2
+2007-07-29
+AC Turbonegro - Gäddträsket 4 - 2
+Melon Mauritz FC - Rubblarp Redemption 4 - 1
+MacGyver - Byggkompaniet 2 - 2
+Skatorna - FC Cazzix 2 - 4
+week 3
+2007-08-05
+FC Cazzix - MacGyver 3 - 2
+Rubblarp Redemption - Skatorna 6 - 1
+AC Turbonegro - Melon Mauritz FC 2 - 0
+Byggkompaniet - Gäddträsket 4 - 2
+week 4
+2007-08-12
+Skatorna - AC Turbonegro 2 - 2
+Gäddträsket - Melon Mauritz FC 1 - 1
+Byggkompaniet - FC Cazzix 3 - 2
+MacGyver - Rubblarp Redemption 0 - 4
+week 5
+2007-08-19
+FC Cazzix - Gäddträsket 1 - 1
+Rubblarp Redemption - Byggkompaniet 4 - 3
+AC Turbonegro - MacGyver 5 - 1
+Melon Mauritz FC - Skatorna 3 - 3
+week 6
+2007-08-26
+Gäddträsket - Skatorna 0 - 2
+FC Cazzix - Rubblarp Redemption 5 - 3
+MacGyver - Melon Mauritz FC 3 - 3
+Byggkompaniet - AC Turbonegro 2 - 1
+week 7
+2007-09-02
+Skatorna - MacGyver 2 - 1
+AC Turbonegro - FC Cazzix 2 - 4
+Melon Mauritz FC - Byggkompaniet 2 - 4
+Rubblarp Redemption - Gäddträsket 7 - 0
+week 8
+2007-09-09
+FC Cazzix - AC Turbonegro 3 - 0
+Byggkompaniet - Melon Mauritz FC 7 - 0
+MacGyver - Skatorna 4 - 2
+Gäddträsket - Rubblarp Redemption 1 - 5
+week 9
+2007-09-16
+Skatorna - Gäddträsket 2 - 1
+Melon Mauritz FC - MacGyver 2 - 1
+Rubblarp Redemption - FC Cazzix 6 - 4
+AC Turbonegro - Byggkompaniet 4 - 1
+week 10
+2007-09-23
+Byggkompaniet - Rubblarp Redemption 2 - 7
+Gäddträsket - FC Cazzix 0 - 8
+MacGyver - AC Turbonegro 3 - 1
+Skatorna - Melon Mauritz FC 5 - 1
+week 11
+2007-09-30
+Melon Mauritz FC - Gäddträsket 4 - 1
+Rubblarp Redemption - MacGyver 5 - 2
+FC Cazzix - Byggkompaniet 8 - 0
+AC Turbonegro - Skatorna 3 - 1
+week 12
+2007-10-07
+Melon Mauritz FC - AC Turbonegro 2 - 1
+Gäddträsket - Byggkompaniet 1 - 11
+Skatorna - Rubblarp Redemption 2 - 4
+MacGyver - FC Cazzix 0 - 5
+week 13
+2007-10-14
+Byggkompaniet - MacGyver 2 - 5
+Rubblarp Redemption - Melon Mauritz FC 6 - 0
+Gäddträsket - AC Turbonegro 0 - 9
+FC Cazzix - Skatorna 3 - 2
+week 14
+2007-10-21
+Skatorna - Byggkompaniet 6 - 0
+AC Turbonegro - Rubblarp Redemption 2 - 5
+Melon Mauritz FC - FC Cazzix 1 - 2
+MacGyver - Gäddträsket 9 - 0

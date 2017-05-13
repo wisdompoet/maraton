@@ -1,0 +1,84 @@
+week 1
+2013-12-29
+Port Grimaud FC - Konstanz Spring FC 1 - 4
+Täbronx FC - Team Carlstad  6 - 1
+Bakerkings - Nakorn Ratchasima FC 3 - 1
+BajenFanz - Odens FC 1 - 1
+week 2
+2014-01-05
+Team Carlstad  - Port Grimaud FC 0 - 4
+Konstanz Spring FC - BajenFanz 3 - 4
+Nakorn Ratchasima FC - Täbronx FC 3 - 2
+Odens FC - Bakerkings 5 - 2
+week 3
+2014-01-12
+Täbronx FC - Bakerkings 7 - 3
+Port Grimaud FC - Odens FC 1 - 1
+BajenFanz - Nakorn Ratchasima FC 3 - 1
+Team Carlstad  - Konstanz Spring FC 0 - 6
+week 4
+2014-01-19
+Nakorn Ratchasima FC - Port Grimaud FC 5 - 1
+Odens FC - Team Carlstad  4 - 0
+Konstanz Spring FC - Täbronx FC 2 - 2
+Bakerkings - BajenFanz 2 - 3
+week 5
+2014-01-26
+Täbronx FC - Odens FC 4 - 4
+Port Grimaud FC - BajenFanz 1 - 2
+Konstanz Spring FC - Nakorn Ratchasima FC 6 - 1
+Team Carlstad  - Bakerkings 0 - 6
+week 6
+2014-02-02
+Odens FC - Konstanz Spring FC 0 - 2
+Nakorn Ratchasima FC - Team Carlstad  1 - 0
+BajenFanz - Täbronx FC 6 - 2
+Bakerkings - Port Grimaud FC 1 - 2
+week 7
+2014-02-09
+Nakorn Ratchasima FC - Odens FC 1 - 2
+Team Carlstad  - BajenFanz 2 - 7
+Konstanz Spring FC - Bakerkings 2 - 1
+Port Grimaud FC - Täbronx FC 5 - 2
+week 8
+2014-02-16
+Täbronx FC - Port Grimaud FC 2 - 0
+Bakerkings - Konstanz Spring FC 2 - 5
+BajenFanz - Team Carlstad  6 - 1
+Odens FC - Nakorn Ratchasima FC 1 - 3
+week 9
+2014-02-23
+Täbronx FC - BajenFanz 4 - 4
+Port Grimaud FC - Bakerkings 1 - 2
+Team Carlstad  - Nakorn Ratchasima FC 4 - 3
+Konstanz Spring FC - Odens FC 1 - 0
+week 10
+2014-03-02
+BajenFanz - Port Grimaud FC 4 - 3
+Odens FC - Täbronx FC 4 - 0
+Bakerkings - Team Carlstad  5 - 0
+Nakorn Ratchasima FC - Konstanz Spring FC 2 - 3
+week 11
+2014-03-09
+Port Grimaud FC - Nakorn Ratchasima FC 2 - 1
+Täbronx FC - Konstanz Spring FC 2 - 2
+BajenFanz - Bakerkings 5 - 0
+Team Carlstad  - Odens FC 0 - 1
+week 12
+2014-03-16
+Odens FC - Port Grimaud FC 1 - 2
+Bakerkings - Täbronx FC 5 - 2
+Nakorn Ratchasima FC - BajenFanz 1 - 3
+Konstanz Spring FC - Team Carlstad  4 - 0
+week 13
+2014-03-23
+Port Grimaud FC - Team Carlstad  3 - 0
+Täbronx FC - Nakorn Ratchasima FC 0 - 9
+BajenFanz - Konstanz Spring FC 3 - 4
+Bakerkings - Odens FC 2 - 4
+week 14
+2014-03-30
+Konstanz Spring FC - Port Grimaud FC 2 - 2
+Team Carlstad  - Täbronx FC 9 - 0
+Nakorn Ratchasima FC - Bakerkings 0 - 3
+Odens FC - BajenFanz 4 - 2

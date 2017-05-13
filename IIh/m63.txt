@@ -1,0 +1,84 @@
+week 1
+2016-10-02
+IFK SPOKET - Taco AS 3 - 0
+The Znakies - Sillarna IK 3 - 1
+Gåsmossens BK - Ambient Underground 5 - 0
+F.C. Stone - Perstorp SK 3 - 2
+week 2
+2016-10-09
+Sillarna IK - IFK SPOKET 1 - 3
+Perstorp SK - Gåsmossens BK 2 - 2
+Taco AS - F.C. Stone 3 - 2
+Ambient Underground - The Znakies 2 - 5
+week 3
+2016-10-16
+IFK SPOKET - Perstorp SK 5 - 1
+Sillarna IK - Taco AS 1 - 1
+The Znakies - Gåsmossens BK 2 - 1
+F.C. Stone - Ambient Underground 1 - 0
+week 4
+2016-10-23
+Ambient Underground - IFK SPOKET 1 - 3
+Taco AS - The Znakies 1 - 2
+Gåsmossens BK - F.C. Stone 2 - 0
+Perstorp SK - Sillarna IK 5 - 0
+week 5
+2016-10-30
+IFK SPOKET - F.C. Stone 4 - 1
+Sillarna IK - Gåsmossens BK 4 - 1
+Taco AS - Ambient Underground 1 - 2
+The Znakies - Perstorp SK 5 - 3
+week 6
+2016-11-06
+F.C. Stone - The Znakies 0 - 4
+Gåsmossens BK - IFK SPOKET 0 - 5
+Ambient Underground - Sillarna IK 4 - 0
+Perstorp SK - Taco AS 7 - 0
+week 7
+2016-11-13
+IFK SPOKET - The Znakies 1 - 2
+Sillarna IK - F.C. Stone 3 - 2
+Taco AS - Gåsmossens BK 3 - 2
+Ambient Underground - Perstorp SK 2 - 1
+week 8
+2016-11-20
+Gåsmossens BK - Taco AS 1 - 0
+F.C. Stone - Sillarna IK 5 - 1
+Perstorp SK - Ambient Underground 0 - 3
+The Znakies - IFK SPOKET 3 - 3
+week 9
+2016-11-27
+Taco AS - Perstorp SK 6 - 0
+Sillarna IK - Ambient Underground 0 - 4
+The Znakies - F.C. Stone 2 - 0
+IFK SPOKET - Gåsmossens BK 3 - 0
+week 10
+2016-12-04
+Ambient Underground - Taco AS 1 - 1
+Perstorp SK - The Znakies 3 - 1
+Gåsmossens BK - Sillarna IK 2 - 1
+F.C. Stone - IFK SPOKET 1 - 2
+week 11
+2016-12-11
+Sillarna IK - Perstorp SK 1 - 3
+F.C. Stone - Gåsmossens BK 5 - 2
+The Znakies - Taco AS 4 - 4
+IFK SPOKET - Ambient Underground 2 - 0
+week 12
+2016-12-18
+Ambient Underground - F.C. Stone 4 - 0
+Gåsmossens BK - The Znakies 1 - 1
+Perstorp SK - IFK SPOKET 5 - 2
+Taco AS - Sillarna IK 4 - 1
+week 13
+2016-12-25
+Gåsmossens BK - Perstorp SK 4 - 2
+IFK SPOKET - Sillarna IK 4 - 0
+The Znakies - Ambient Underground 2 - 2
+F.C. Stone - Taco AS 2 - 0
+week 14
+2017-01-01
+Perstorp SK - F.C. Stone 6 - 1
+Sillarna IK - The Znakies 0 - 4
+Ambient Underground - Gåsmossens BK 2 - 0
+Taco AS - IFK SPOKET 4 - 0

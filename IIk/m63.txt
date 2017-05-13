@@ -1,0 +1,84 @@
+week 1
+2016-10-02
+Spader Dam - West High Soccer 0 - 4
+Charlies Änglar - Gattuso 2 - 6
+Yeah Baby - Dalsland Spurs 4 - 3
+KobraAttack - Segersjö FC 5 - 2
+week 2
+2016-10-09
+West High Soccer - KobraAttack 2 - 2
+Gattuso - Spader Dam 6 - 0
+Dalsland Spurs - Charlies Änglar 1 - 2
+Segersjö FC - Yeah Baby 3 - 2
+week 3
+2016-10-16
+Spader Dam - Segersjö FC 0 - 5
+Gattuso - West High Soccer 4 - 1
+Charlies Änglar - Yeah Baby 2 - 0
+KobraAttack - Dalsland Spurs 1 - 3
+week 4
+2016-10-23
+Dalsland Spurs - Spader Dam 9 - 1
+West High Soccer - Charlies Änglar 3 - 2
+Yeah Baby - KobraAttack 1 - 0
+Segersjö FC - Gattuso 0 - 0
+week 5
+2016-10-30
+Spader Dam - KobraAttack 0 - 5
+Gattuso - Yeah Baby 2 - 2
+Charlies Änglar - Segersjö FC 5 - 2
+West High Soccer - Dalsland Spurs 3 - 2
+week 6
+2016-11-06
+KobraAttack - Charlies Änglar 6 - 3
+Dalsland Spurs - Gattuso 6 - 2
+Segersjö FC - West High Soccer 2 - 0
+Yeah Baby - Spader Dam 5 - 0
+week 7
+2016-11-13
+Spader Dam - Charlies Änglar 0 - 4
+West High Soccer - Yeah Baby 3 - 0
+Gattuso - KobraAttack 4 - 2
+Dalsland Spurs - Segersjö FC 4 - 0
+week 8
+2016-11-20
+KobraAttack - Gattuso 9 - 1
+Yeah Baby - West High Soccer 3 - 2
+Segersjö FC - Dalsland Spurs 0 - 3
+Charlies Änglar - Spader Dam 0 - 0
+week 9
+2016-11-27
+West High Soccer - Segersjö FC 0 - 3
+Gattuso - Dalsland Spurs 2 - 0
+Spader Dam - Yeah Baby 0 - 3
+Charlies Änglar - KobraAttack 0 - 5
+week 10
+2016-12-04
+Segersjö FC - Charlies Änglar 0 - 3
+Dalsland Spurs - West High Soccer 6 - 0
+Yeah Baby - Gattuso 1 - 1
+KobraAttack - Spader Dam 5 - 0
+week 11
+2016-12-11
+Gattuso - Segersjö FC 3 - 1
+KobraAttack - Yeah Baby 0 - 3
+Charlies Änglar - West High Soccer 6 - 2
+Spader Dam - Dalsland Spurs 0 - 5
+week 12
+2016-12-18
+Dalsland Spurs - KobraAttack 3 - 3
+West High Soccer - Gattuso 1 - 4
+Yeah Baby - Charlies Änglar 1 - 3
+Segersjö FC - Spader Dam 5 - 0
+week 13
+2016-12-25
+Yeah Baby - Segersjö FC 3 - 2
+Spader Dam - Gattuso 0 - 7
+Charlies Änglar - Dalsland Spurs 5 - 1
+KobraAttack - West High Soccer 5 - 0
+week 14
+2017-01-01
+West High Soccer - Spader Dam 2 - 1
+Segersjö FC - KobraAttack 3 - 3
+Dalsland Spurs - Yeah Baby 3 - 2
+Gattuso - Charlies Änglar 3 - 3

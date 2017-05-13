@@ -1,0 +1,84 @@
+week 1
+2011-11-06
+Allebo FF - BK Cliff 3 - 2
+Reac Arándano - Evertonia FC 4 - 0
+fibborna - Auroville FC 3 - 2
+Kardoz Boys - Maråker Flyers 2 - 2
+week 2
+2011-11-13
+Auroville FC - Reac Arándano 0 - 2
+Maråker Flyers - Allebo FF 2 - 1
+Evertonia FC - Kardoz Boys 4 - 3
+BK Cliff - fibborna 3 - 0
+week 3
+2011-11-20
+Allebo FF - Auroville FC 3 - 0
+Maråker Flyers - BK Cliff 1 - 2
+Kardoz Boys - Reac Arándano 2 - 0
+fibborna - Evertonia FC 2 - 4
+week 4
+2011-11-27
+Evertonia FC - Allebo FF 1 - 1
+BK Cliff - Kardoz Boys 1 - 0
+Auroville FC - Maråker Flyers 2 - 0
+Reac Arándano - fibborna 3 - 1
+week 5
+2011-12-04
+Kardoz Boys - Auroville FC 1 - 1
+Maråker Flyers - Reac Arándano 2 - 3
+Allebo FF - fibborna 3 - 2
+BK Cliff - Evertonia FC 2 - 1
+week 6
+2011-12-11
+Reac Arándano - Allebo FF 2 - 1
+Evertonia FC - Maråker Flyers 3 - 3
+Auroville FC - BK Cliff 1 - 1
+fibborna - Kardoz Boys 3 - 2
+week 7
+2011-12-18
+Allebo FF - Kardoz Boys 1 - 2
+BK Cliff - Reac Arándano 1 - 2
+Maråker Flyers - fibborna 1 - 2
+Evertonia FC - Auroville FC 1 - 1
+week 8
+2011-12-25
+Reac Arándano - BK Cliff 1 - 0
+Auroville FC - Evertonia FC 4 - 1
+Kardoz Boys - Allebo FF 1 - 1
+fibborna - Maråker Flyers 1 - 1
+week 9
+2012-01-01
+Maråker Flyers - Evertonia FC 0 - 2
+Allebo FF - Reac Arándano 0 - 1
+Kardoz Boys - fibborna 4 - 2
+BK Cliff - Auroville FC 1 - 1
+week 10
+2012-01-08
+Reac Arándano - Maråker Flyers 1 - 0
+Auroville FC - Kardoz Boys 0 - 0
+fibborna - Allebo FF 1 - 1
+Evertonia FC - BK Cliff 2 - 0
+week 11
+2012-01-15
+Allebo FF - Evertonia FC 1 - 0
+Maråker Flyers - Auroville FC 1 - 3
+fibborna - Reac Arándano 3 - 1
+Kardoz Boys - BK Cliff 2 - 0
+week 12
+2012-01-22
+Evertonia FC - fibborna 4 - 2
+BK Cliff - Maråker Flyers 1 - 2
+Reac Arándano - Kardoz Boys 0 - 3
+Auroville FC - Allebo FF 4 - 1
+week 13
+2012-01-29
+Reac Arándano - Auroville FC 1 - 1
+Allebo FF - Maråker Flyers 1 - 1
+Kardoz Boys - Evertonia FC 4 - 0
+fibborna - BK Cliff 1 - 0
+week 14
+2012-02-05
+Evertonia FC - Reac Arándano 1 - 2
+BK Cliff - Allebo FF 3 - 3
+Auroville FC - fibborna 2 - 0
+Maråker Flyers - Kardoz Boys 3 - 0

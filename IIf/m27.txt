@@ -1,84 +1,84 @@
-Omgång 1
-2005-09-18 (1/27)			
-Tyresö Drifters - Svearikes Finaste	1 - 2	HT Re-Live
-Reelers - Rotselleri FK	2 - 0	HT Re-Live
-Elbow Rangers - Angels of Gothenburg	2 - 1	HT Re-Live
-Boca Seniors - Team Carlstad	3 - 6	HT Re-Live
-Omgång 2
-2005-09-25 (2/27)			
-Angels of Gothenburg - Tyresö Drifters	0 - 0	HT Re-Live
-Team Carlstad  - Reelers	0 - 1	HT Re-Live
-Svearikes Finaste - Boca Seniors	3 - 4	HT Re-Live
-Rotselleri FK - Elbow Rangers	3 - 0	HT Re-Live
-Omgång 3
-2005-10-02 (3/27)			
-Reelers - Svearikes Finaste	0 - 4	HT Re-Live
-Elbow Rangers - Team Carlstad	1 - 4	HT Re-Live
-Angels of Gothenburg - Rotselleri FK	3 - 0	HT Re-Live
-Boca Seniors - Tyresö Drifters	0 - 1	HT Re-Live
-Omgång 4
-2005-10-09 (4/27)			
-Tyresö Drifters - Rotselleri FK	0 - 1	HT Re-Live
-Team Carlstad  - Angels of Gothenburg	0 - 1	HT Re-Live
-Svearikes Finaste - Elbow Rangers	6 - 0	HT Re-Live
-Boca Seniors - Reelers	2 - 3	HT Re-Live
-Omgång 5
-2005-10-16 (5/27)			
-Reelers - Tyresö Drifters	0 - 1	HT Re-Live
-Elbow Rangers - Boca Seniors	0 - 3	HT Re-Live
-Angels of Gothenburg - Svearikes Finaste	5 - 3	HT Re-Live
-Rotselleri FK - Team Carlstad	4 - 1	HT Re-Live
-Omgång 6
-2005-10-23 (6/27)			
-Tyresö Drifters - Team Carlstad	2 - 1	HT Re-Live
-Reelers - Elbow Rangers	6 - 0	HT Re-Live
-Svearikes Finaste - Rotselleri FK	2 - 4	HT Re-Live
-Boca Seniors - Angels of Gothenburg	4 - 0	HT Re-Live
-Omgång 7
-2005-10-30 (7/27)			
-Elbow Rangers - Tyresö Drifters	0 - 3	HT Re-Live
-Angels of Gothenburg - Reelers	1 - 0	HT Re-Live
-Team Carlstad  - Svearikes Finaste	6 - 2	HT Re-Live
-Rotselleri FK - Boca Seniors	1 - 1	HT Re-Live
-Omgång 8
-2005-11-06 (8/27)			
-Boca Seniors - Rotselleri FK	3 - 1	HT Re-Live
-Svearikes Finaste - Team Carlstad	3 - 0	HT Re-Live
-Reelers - Angels of Gothenburg	1 - 0	HT Re-Live
-Tyresö Drifters - Elbow Rangers	1 - 0	HT Re-Live
-Omgång 9
-2005-11-13 (9/27)			
-Angels of Gothenburg - Boca Seniors	2 - 3	HT Re-Live
-Rotselleri FK - Svearikes Finaste	2 - 1	HT Re-Live
-Elbow Rangers - Reelers	1 - 1	HT Re-Live
-Team Carlstad  - Tyresö Drifters	0 - 1	HT Re-Live
-Omgång 10
-2005-11-20 (10/27)			
-Team Carlstad  - Rotselleri FK	2 - 2	HT Re-Live
-Svearikes Finaste - Angels of Gothenburg	2 - 0	HT Re-Live
-Boca Seniors - Elbow Rangers	3 - 0	HT Re-Live
-Tyresö Drifters - Reelers	1 - 0	HT Re-Live
-Omgång 11
-2005-11-27 (11/27)			
-Reelers - Boca Seniors	2 - 4	HT Re-Live
-Elbow Rangers - Svearikes Finaste	1 - 2	HT Re-Live
-Angels of Gothenburg - Team Carlstad	0 - 1	HT Re-Live
-Rotselleri FK - Tyresö Drifters	2 - 2	HT Re-Live
-Omgång 12
-2005-12-04 (12/27)			
-Tyresö Drifters - Boca Seniors	1 - 1	HT Re-Live
-Rotselleri FK - Angels of Gothenburg	0 - 1	HT Re-Live
-Team Carlstad  - Elbow Rangers	2 - 2	HT Re-Live
-Svearikes Finaste - Reelers	2 - 4	HT Re-Live
-Omgång 13
-2005-12-11 (13/27)			
-Elbow Rangers - Rotselleri FK	1 - 1	HT Re-Live
-Boca Seniors - Svearikes Finaste	3 - 1	HT Re-Live
-Reelers - Team Carlstad	1 - 3	HT Re-Live
-Tyresö Drifters - Angels of Gothenburg	0 - 1	HT Re-Live
-Omgång 14
-2005-12-18 (14/27)			
-Team Carlstad  - Boca Seniors	2 - 5	HT Re-Live
-Angels of Gothenburg - Elbow Rangers	4 - 0	HT Re-Live
-Rotselleri FK - Reelers	1 - 1	HT Re-Live
-Svearikes Finaste - Tyresö Drifters	0 - 2	HT Re-Live
+week 1
+2005-09-18
+TyresÃ¶ Drifters - Svearikes Finaste 1 - 2
+Reelers - Rotselleri FK 2 - 0
+Elbow Rangers - Angels of Gothenburg 2 - 1
+Boca Seniors - Team Carlstad  3 - 6
+week 2
+2005-09-25
+Angels of Gothenburg - TyresÃ¶ Drifters 0 - 0
+Team Carlstad  - Reelers 0 - 1
+Svearikes Finaste - Boca Seniors 3 - 4
+Rotselleri FK - Elbow Rangers 3 - 0
+week 3
+2005-10-02
+Reelers - Svearikes Finaste 0 - 4
+Elbow Rangers - Team Carlstad  1 - 4
+Angels of Gothenburg - Rotselleri FK 3 - 0
+Boca Seniors - TyresÃ¶ Drifters 0 - 1
+week 4
+2005-10-09
+TyresÃ¶ Drifters - Rotselleri FK 0 - 1
+Team Carlstad  - Angels of Gothenburg 0 - 1
+Svearikes Finaste - Elbow Rangers 6 - 0
+Boca Seniors - Reelers 2 - 3
+week 5
+2005-10-16
+Reelers - TyresÃ¶ Drifters 0 - 1
+Elbow Rangers - Boca Seniors 0 - 3
+Angels of Gothenburg - Svearikes Finaste 5 - 3
+Rotselleri FK - Team Carlstad  4 - 1
+week 6
+2005-10-23
+TyresÃ¶ Drifters - Team Carlstad  2 - 1
+Reelers - Elbow Rangers 6 - 0
+Svearikes Finaste - Rotselleri FK 2 - 4
+Boca Seniors - Angels of Gothenburg 4 - 0
+week 7
+2005-10-30
+Elbow Rangers - TyresÃ¶ Drifters 0 - 3
+Angels of Gothenburg - Reelers 1 - 0
+Team Carlstad  - Svearikes Finaste 6 - 2
+Rotselleri FK - Boca Seniors 1 - 1
+week 8
+2005-11-06
+Boca Seniors - Rotselleri FK 3 - 1
+Svearikes Finaste - Team Carlstad  3 - 0
+Reelers - Angels of Gothenburg 1 - 0
+TyresÃ¶ Drifters - Elbow Rangers 1 - 0
+week 9
+2005-11-13
+Angels of Gothenburg - Boca Seniors 2 - 3
+Rotselleri FK - Svearikes Finaste 2 - 1
+Elbow Rangers - Reelers 1 - 1
+Team Carlstad  - TyresÃ¶ Drifters 0 - 1
+week 10
+2005-11-20
+Team Carlstad  - Rotselleri FK 2 - 2
+Svearikes Finaste - Angels of Gothenburg 2 - 0
+Boca Seniors - Elbow Rangers 3 - 0
+TyresÃ¶ Drifters - Reelers 1 - 0
+week 11
+2005-11-27
+Reelers - Boca Seniors 2 - 4
+Elbow Rangers - Svearikes Finaste 1 - 2
+Angels of Gothenburg - Team Carlstad  0 - 1
+Rotselleri FK - TyresÃ¶ Drifters 2 - 2
+week 12
+2005-12-04
+TyresÃ¶ Drifters - Boca Seniors 1 - 1
+Rotselleri FK - Angels of Gothenburg 0 - 1
+Team Carlstad  - Elbow Rangers 2 - 2
+Svearikes Finaste - Reelers 2 - 4
+week 13
+2005-12-11
+Elbow Rangers - Rotselleri FK 1 - 1
+Boca Seniors - Svearikes Finaste 3 - 1
+Reelers - Team Carlstad  1 - 3
+TyresÃ¶ Drifters - Angels of Gothenburg 0 - 1
+week 14
+2005-12-18
+Team Carlstad  - Boca Seniors 2 - 5
+Angels of Gothenburg - Elbow Rangers 4 - 0
+Rotselleri FK - Reelers 1 - 1
+Svearikes Finaste - TyresÃ¶ Drifters 0 - 2

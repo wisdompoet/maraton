@@ -1,84 +1,84 @@
-Omgång 1
-2012-06-17 (1/49) 			
-	FC Vallbyheden - Nakorn Ratchasima FC 	4 - 1 	HT Re-Live
-	Max FF - Rotorp 	0 - 4 	HT Re-Live
-	FC WALKOVER - BK Kil 	3 - 3 	HT Re-Live
-	Sundsvall Meanmachines - Holmen Bois 	5 - 1 	HT Re-Live
-Omgång 2
-2012-06-24 (2/49) 			
-	Nakorn Ratchasima FC - Sundsvall Meanmachines 	3 - 2 	HT Re-Live
-	BK Kil - FC Vallbyheden 	5 - 2 	HT Re-Live
-	Holmen Bois - Max FF 	5 - 0 	HT Re-Live
-	Rotorp - FC WALKOVER 	2 - 0 	HT Re-Live
-Omgång 3
-2012-07-01 (3/49) 			
-	FC WALKOVER - Nakorn Ratchasima FC 	3 - 3 	HT Re-Live
-	Max FF - Sundsvall Meanmachines 	2 - 6 	HT Re-Live
-	FC Vallbyheden - Holmen Bois 	2 - 0 	HT Re-Live
-	Rotorp - BK Kil 	1 - 1 	HT Re-Live
-Omgång 4
-2012-07-08 (4/49) 			
-	Sundsvall Meanmachines - FC Vallbyheden 	3 - 2 	HT Re-Live
-	Nakorn Ratchasima FC - Rotorp 	4 - 3 	HT Re-Live
-	Holmen Bois - FC WALKOVER 	3 - 2 	HT Re-Live
-	BK Kil - Max FF 	5 - 0 	HT Re-Live
-Omgång 5
-2012-07-15 (5/49) 			
-	Rotorp - Sundsvall Meanmachines 	2 - 2 	HT Re-Live
-	FC WALKOVER - FC Vallbyheden 	5 - 1 	HT Re-Live
-	Max FF - Nakorn Ratchasima FC 	0 - 4 	HT Re-Live
-	BK Kil - Holmen Bois 	2 - 1 	HT Re-Live
-Omgång 6
-2012-07-22 (6/49) 			
-	Nakorn Ratchasima FC - BK Kil 	3 - 1 	HT Re-Live
-	Sundsvall Meanmachines - FC WALKOVER 	2 - 4 	HT Re-Live
-	FC Vallbyheden - Max FF 	2 - 0 	HT Re-Live
-	Holmen Bois - Rotorp 	1 - 3 	HT Re-Live
-Omgång 7
-2012-07-29 (7/49) 			
-	FC WALKOVER - Max FF 	4 - 0 	HT Re-Live
-	Rotorp - FC Vallbyheden 	3 - 2 	HT Re-Live
-	BK Kil - Sundsvall Meanmachines 	2 - 5 	HT Re-Live
-	Holmen Bois - Nakorn Ratchasima FC 	3 - 4 	HT Re-Live
-Omgång 8
-2012-08-05 (8/49) 			
-	FC Vallbyheden - Rotorp 	1 - 6 	HT Re-Live
-	Nakorn Ratchasima FC - Holmen Bois 	1 - 1 	HT Re-Live
-	Max FF - FC WALKOVER 	0 - 5 	HT Re-Live
-	Sundsvall Meanmachines - BK Kil 	2 - 3 	HT Re-Live
-Omgång 9
-2012-08-12 (9/49) 			
-	FC WALKOVER - Sundsvall Meanmachines 	5 - 2 	HT Re-Live
-	BK Kil - Nakorn Ratchasima FC 	3 - 4 	HT Re-Live
-	Rotorp - Holmen Bois 	2 - 0 	HT Re-Live
-	Max FF - FC Vallbyheden 	1 - 4 	HT Re-Live
-Omgång 10
-2012-08-19 (10/49) 			
-	Holmen Bois - BK Kil 	2 - 1 	HT Re-Live
-	Nakorn Ratchasima FC - Max FF 	10 - 0 	HT Re-Live
-	Sundsvall Meanmachines - Rotorp 	0 - 4 	HT Re-Live
-	FC Vallbyheden - FC WALKOVER 	4 - 0 	HT Re-Live
-Omgång 11
-2012-08-26 (11/49) 			
-	FC Vallbyheden - Sundsvall Meanmachines 	5 - 0 	HT Re-Live
-	Rotorp - Nakorn Ratchasima FC 	4 - 1 	HT Re-Live
-	FC WALKOVER - Holmen Bois 	3 - 0 	HT Re-Live
-	Max FF - BK Kil 	0 - 4 	HT Re-Live
-Omgång 12
-2012-09-02 (12/49) 			
-	Sundsvall Meanmachines - Max FF 	0 - 5 	HT Re-Live
-	Nakorn Ratchasima FC - FC WALKOVER 	2 - 4 	HT Re-Live
-	BK Kil - Rotorp 	0 - 1 	HT Re-Live
-	Holmen Bois - FC Vallbyheden 	0 - 1 	HT Re-Live
-Omgång 13
-2012-09-09 (13/49) 			
-	Sundsvall Meanmachines - Nakorn Ratchasima FC 	0 - 5 	HT Re-Live
-	Max FF - Holmen Bois 	1 - 2 	HT Re-Live
-	FC Vallbyheden - BK Kil 	1 - 3 	HT Re-Live
-	FC WALKOVER - Rotorp 	1 - 6 	HT Re-Live
-Omgång 14
-2012-09-16 (14/49) 			
-	Rotorp - Max FF 	7 - 0 	HT Re-Live
-	BK Kil - FC WALKOVER 	4 - 0 	HT Re-Live
-	Holmen Bois - Sundsvall Meanmachines 	5 - 0 	HT Re-Live
-	Nakorn Ratchasima FC - FC Vallbyheden 	2 - 2 	HT Re-Live
+week 1
+2012-06-17
+FC Vallbyheden - Nakorn Ratchasima FC 4 - 1
+Max FF - Rotorp 0 - 4
+FC WALKOVER - BK Kil 3 - 3
+Sundsvall Meanmachines - Holmen Bois 5 - 1
+week 2
+2012-06-24
+Nakorn Ratchasima FC - Sundsvall Meanmachines 3 - 2
+BK Kil - FC Vallbyheden 5 - 2
+Holmen Bois - Max FF 5 - 0
+Rotorp - FC WALKOVER 2 - 0
+week 3
+2012-07-01
+FC WALKOVER - Nakorn Ratchasima FC 3 - 3
+Max FF - Sundsvall Meanmachines 2 - 6
+FC Vallbyheden - Holmen Bois 2 - 0
+Rotorp - BK Kil 1 - 1
+week 4
+2012-07-08
+Sundsvall Meanmachines - FC Vallbyheden 3 - 2
+Nakorn Ratchasima FC - Rotorp 4 - 3
+Holmen Bois - FC WALKOVER 3 - 2
+BK Kil - Max FF 5 - 0
+week 5
+2012-07-15
+Rotorp - Sundsvall Meanmachines 2 - 2
+FC WALKOVER - FC Vallbyheden 5 - 1
+Max FF - Nakorn Ratchasima FC 0 - 4
+BK Kil - Holmen Bois 2 - 1
+week 6
+2012-07-22
+Nakorn Ratchasima FC - BK Kil 3 - 1
+Sundsvall Meanmachines - FC WALKOVER 2 - 4
+FC Vallbyheden - Max FF 2 - 0
+Holmen Bois - Rotorp 1 - 3
+week 7
+2012-07-29
+FC WALKOVER - Max FF 4 - 0
+Rotorp - FC Vallbyheden 3 - 2
+BK Kil - Sundsvall Meanmachines 2 - 5
+Holmen Bois - Nakorn Ratchasima FC 3 - 4
+week 8
+2012-08-05
+FC Vallbyheden - Rotorp 1 - 6
+Nakorn Ratchasima FC - Holmen Bois 1 - 1
+Max FF - FC WALKOVER 0 - 5
+Sundsvall Meanmachines - BK Kil 2 - 3
+week 9
+2012-08-12
+FC WALKOVER - Sundsvall Meanmachines 5 - 2
+BK Kil - Nakorn Ratchasima FC 3 - 4
+Rotorp - Holmen Bois 2 - 0
+Max FF - FC Vallbyheden 1 - 4
+week 10
+2012-08-19
+Holmen Bois - BK Kil 2 - 1
+Nakorn Ratchasima FC - Max FF 10 - 0
+Sundsvall Meanmachines - Rotorp 0 - 4
+FC Vallbyheden - FC WALKOVER 4 - 0
+week 11
+2012-08-26
+FC Vallbyheden - Sundsvall Meanmachines 5 - 0
+Rotorp - Nakorn Ratchasima FC 4 - 1
+FC WALKOVER - Holmen Bois 3 - 0
+Max FF - BK Kil 0 - 4
+week 12
+2012-09-02
+Sundsvall Meanmachines - Max FF 0 - 5
+Nakorn Ratchasima FC - FC WALKOVER 2 - 4
+BK Kil - Rotorp 0 - 1
+Holmen Bois - FC Vallbyheden 0 - 1
+week 13
+2012-09-09
+Sundsvall Meanmachines - Nakorn Ratchasima FC 0 - 5
+Max FF - Holmen Bois 1 - 2
+FC Vallbyheden - BK Kil 1 - 3
+FC WALKOVER - Rotorp 1 - 6
+week 14
+2012-09-16
+Rotorp - Max FF 7 - 0
+BK Kil - FC WALKOVER 4 - 0
+Holmen Bois - Sundsvall Meanmachines 5 - 0
+Nakorn Ratchasima FC - FC Vallbyheden 2 - 2

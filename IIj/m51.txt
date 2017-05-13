@@ -1,0 +1,84 @@
+week 1
+2013-01-27
+Xpander - Rednaxela 5 - 3
+Wick IT - MacGyver 3 - 0
+BK Stolpträff - Kv_Kickers 4 - 0
+KC's Mimellium - Södermalm City 4 - 4
+week 2
+2013-02-03
+Södermalm City - Wick IT 1 - 3
+MacGyver - BK Stolpträff 6 - 2
+Kv_Kickers - Xpander 1 - 2
+Rednaxela - KC's Mimellium 4 - 1
+week 3
+2013-02-10
+Wick IT - Kv_Kickers 3 - 1
+BK Stolpträff - Rednaxela 2 - 3
+Södermalm City - MacGyver 3 - 1
+KC's Mimellium - Xpander 1 - 3
+week 4
+2013-02-17
+Rednaxela - Wick IT 1 - 4
+Xpander - BK Stolpträff 3 - 3
+Kv_Kickers - Södermalm City 5 - 3
+MacGyver - KC's Mimellium 2 - 3
+week 5
+2013-02-24
+Wick IT - BK Stolpträff 4 - 0
+KC's Mimellium - Kv_Kickers 4 - 0
+Södermalm City - Xpander 1 - 3
+MacGyver - Rednaxela 4 - 2
+week 6
+2013-03-03
+Xpander - Wick IT 1 - 1
+Rednaxela - Södermalm City 2 - 2
+Kv_Kickers - MacGyver 1 - 2
+BK Stolpträff - KC's Mimellium 6 - 3
+week 7
+2013-03-10
+Wick IT - KC's Mimellium 4 - 3
+Rednaxela - Kv_Kickers 2 - 2
+MacGyver - Xpander 3 - 2
+Södermalm City - BK Stolpträff 6 - 2
+week 8
+2013-03-17
+Kv_Kickers - Rednaxela 2 - 0
+BK Stolpträff - Södermalm City 5 - 0
+KC's Mimellium - Wick IT 1 - 2
+Xpander - MacGyver 3 - 1
+week 9
+2013-03-24
+MacGyver - Kv_Kickers 4 - 1
+KC's Mimellium - BK Stolpträff 0 - 4
+Wick IT - Xpander 2 - 1
+Södermalm City - Rednaxela 2 - 0
+week 10
+2013-03-31
+Rednaxela - MacGyver 2 - 0
+Kv_Kickers - KC's Mimellium 0 - 0
+Xpander - Södermalm City 3 - 1
+BK Stolpträff - Wick IT 2 - 2
+week 11
+2013-04-07
+Södermalm City - Kv_Kickers 3 - 2
+BK Stolpträff - Xpander 2 - 1
+KC's Mimellium - MacGyver 3 - 1
+Wick IT - Rednaxela 1 - 0
+week 12
+2013-04-14
+MacGyver - Södermalm City 3 - 3
+Xpander - KC's Mimellium 2 - 2
+Kv_Kickers - Wick IT 0 - 2
+Rednaxela - BK Stolpträff 0 - 0
+week 13
+2013-04-21
+KC's Mimellium - Rednaxela 1 - 2
+BK Stolpträff - MacGyver 4 - 0
+Wick IT - Södermalm City 2 - 1
+Xpander - Kv_Kickers 7 - 0
+week 14
+2013-04-28
+Kv_Kickers - BK Stolpträff 1 - 4
+Rednaxela - Xpander 0 - 1
+Södermalm City - KC's Mimellium 5 - 3
+MacGyver - Wick IT 0 - 2

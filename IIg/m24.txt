@@ -1,0 +1,84 @@
+week 1
+2004-10-17
+Dynamo Patricia - PG GoalGetters 0 - 2
+Hebbes vänner - Camarillo Pro SC 0 - 2
+Forsens FC - Team Superior 7 - 2
+Brallorna BK - Umeå Stars 4 - 3
+week 2
+2004-10-24
+Team Superior - Dynamo Patricia 3 - 2
+Umeå Stars - Hebbes vänner 3 - 1
+PG GoalGetters - Brallorna BK 2 - 2
+Camarillo Pro SC - Forsens FC 1 - 1
+week 3
+2004-10-31
+Hebbes vänner - PG GoalGetters 1 - 4
+Forsens FC - Umeå Stars 1 - 4
+Team Superior - Camarillo Pro SC 0 - 5
+Brallorna BK - Dynamo Patricia 1 - 3
+week 4
+2004-11-07
+Dynamo Patricia - Camarillo Pro SC 0 - 1
+Umeå Stars - Team Superior 3 - 1
+PG GoalGetters - Forsens FC 5 - 0
+Brallorna BK - Hebbes vänner 2 - 1
+week 5
+2004-11-14
+Hebbes vänner - Dynamo Patricia 4 - 1
+Forsens FC - Brallorna BK 3 - 3
+Team Superior - PG GoalGetters 0 - 4
+Camarillo Pro SC - Umeå Stars 0 - 5
+week 6
+2004-11-21
+Dynamo Patricia - Umeå Stars 2 - 2
+Hebbes vänner - Forsens FC 1 - 2
+PG GoalGetters - Camarillo Pro SC 1 - 0
+Brallorna BK - Team Superior 3 - 1
+week 7
+2004-11-28
+Forsens FC - Dynamo Patricia 2 - 1
+Team Superior - Hebbes vänner 2 - 4
+Umeå Stars - PG GoalGetters 1 - 4
+Camarillo Pro SC - Brallorna BK 1 - 2
+week 8
+2004-12-05
+Brallorna BK - Camarillo Pro SC 1 - 0
+PG GoalGetters - Umeå Stars 5 - 1
+Hebbes vänner - Team Superior 3 - 1
+Dynamo Patricia - Forsens FC 1 - 2
+week 9
+2004-12-12
+Team Superior - Brallorna BK 4 - 3
+Camarillo Pro SC - PG GoalGetters 0 - 2
+Forsens FC - Hebbes vänner 5 - 2
+Umeå Stars - Dynamo Patricia 3 - 2
+week 10
+2004-12-19
+Umeå Stars - Camarillo Pro SC 2 - 0
+PG GoalGetters - Team Superior 6 - 4
+Brallorna BK - Forsens FC 0 - 4
+Dynamo Patricia - Hebbes vänner 1 - 0
+week 11
+2004-12-26
+Hebbes vänner - Brallorna BK 2 - 0
+Forsens FC - PG GoalGetters 3 - 2
+Team Superior - Umeå Stars 5 - 2
+Camarillo Pro SC - Dynamo Patricia 0 - 6
+week 12
+2005-01-02
+Dynamo Patricia - Brallorna BK 4 - 1
+Camarillo Pro SC - Team Superior 2 - 4
+Umeå Stars - Forsens FC 0 - 1
+PG GoalGetters - Hebbes vänner 7 - 1
+week 13
+2005-01-09
+Forsens FC - Camarillo Pro SC 3 - 0
+Brallorna BK - PG GoalGetters 0 - 2
+Hebbes vänner - Umeå Stars 3 - 2
+Dynamo Patricia - Team Superior 6 - 0
+week 14
+2005-01-16
+Umeå Stars - Brallorna BK 5 - 0
+Team Superior - Forsens FC 5 - 3
+Camarillo Pro SC - Hebbes vänner 1 - 2
+PG GoalGetters - Dynamo Patricia 2 - 0

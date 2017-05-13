@@ -1,85 +1,84 @@
-Omgång 1
-2011-03-27 (1/45)			
-Södra Malmens IF - IFK Magpies	1 - 1	HT Re-Live
-Grimsby Town FC - Korpmossens IK	4 - 1	HT Re-Live
-AC Söder - BK Bredaberg	3 - 4	HT Re-Live
-BOTT FC - Klocktornets Järnkaminer	5 - 3	HT Re-Live
-Omgång 2
-2011-04-03 (2/45)			
-Korpmossens IK - BOTT FC	2 - 2	HT Re-Live
-BK Bredaberg - Södra Malmens IF	0 - 3	HT Re-Live
-IFK Magpies - Grimsby Town FC	3 - 2	HT Re-Live
-Klocktornets Järnkaminer - AC Söder	3 - 1	HT Re-Live
-Omgång 3
-2011-04-10 (3/45)			
-AC Söder - BOTT FC	0 - 7	HT Re-Live
-Södra Malmens IF - Korpmossens IK	1 - 2	HT Re-Live
-Grimsby Town FC - Klocktornets Järnkaminer	3 - 0	HT Re-Live
-BK Bredaberg - IFK Magpies	2 - 3	HT Re-Live
-Omgång 4
-2011-04-17 (4/45)			
-Klocktornets Järnkaminer - Södra Malmens IF	4 - 2	HT Re-Live
-BOTT FC - Grimsby Town FC	4 - 1	HT Re-Live
-Korpmossens IK - BK Bredaberg	3 - 3	HT Re-Live
-IFK Magpies - AC Söder	1 - 2	HT Re-Live
-Omgång 5
-2011-04-24 (5/45)			
-Södra Malmens IF - Grimsby Town FC	2 - 5	HT Re-Live
-AC Söder - Korpmossens IK	4 - 1	HT Re-Live
-BK Bredaberg - BOTT FC	2 - 3	HT Re-Live
-IFK Magpies - Klocktornets Järnkaminer	3 - 4	HT Re-Live
-Omgång 6
-2011-05-01 (6/45)			
-BOTT FC - Södra Malmens IF	5 - 0	HT Re-Live
-Grimsby Town FC - AC Söder	3 - 2	HT Re-Live
-Klocktornets Järnkaminer - BK Bredaberg	3 - 3	HT Re-Live
-Korpmossens IK - IFK Magpies	4 - 0	HT Re-Live
-Omgång 7
-2011-05-08 (7/45)			
-IFK Magpies - BOTT FC	4 - 2	HT Re-Live
-BK Bredaberg - Grimsby Town FC	2 - 0	HT Re-Live
-Klocktornets Järnkaminer - Korpmossens IK	5 - 2	HT Re-Live
-Södra Malmens IF - AC Söder	3 - 1	HT Re-Live
-Omgång 8
-2011-05-15 (8/45)			
-Korpmossens IK - Klocktornets Järnkaminer	1 - 5	HT Re-Live
-Grimsby Town FC - BK Bredaberg	2 - 2	HT Re-Live
-BOTT FC - IFK Magpies	5 - 2	HT Re-Live
-AC Söder - Södra Malmens IF	2 - 0	HT Re-Live
-Omgång 9
-2011-05-22 (9/45)			
-IFK Magpies - Korpmossens IK	5 - 3	HT Re-Live
-AC Söder - Grimsby Town FC	5 - 1	HT Re-Live
-BK Bredaberg - Klocktornets Järnkaminer	2 - 5	HT Re-Live
-Södra Malmens IF - BOTT FC	2 - 2	HT Re-Live
-Omgång 10
-2011-05-29 (10/45)			
-Klocktornets Järnkaminer - IFK Magpies	4 - 3	HT Re-Live
-BOTT FC - BK Bredaberg	5 - 2	HT Re-Live
-Grimsby Town FC - Södra Malmens IF	3 - 2	HT Re-Live
-Korpmossens IK - AC Söder	0 - 1	HT Re-Live
-Omgång 11
-2011-06-05 (11/45)			
-BK Bredaberg - Korpmossens IK	0 - 8	HT Re-Live
-AC Söder - IFK Magpies	2 - 1	HT Re-Live
-Södra Malmens IF - Klocktornets Järnkaminer	1 - 5	HT Re-Live
-Grimsby Town FC - BOTT FC	1 - 3	HT Re-Live
-Omgång 12
-2011-06-12 (12/45)			
-Klocktornets Järnkaminer - Grimsby Town FC	4 - 1	HT Re-Live
-IFK Magpies - BK Bredaberg	5 - 0	HT Re-Live
-Korpmossens IK - Södra Malmens IF	1 - 2	HT Re-Live
-BOTT FC - AC Söder	4 - 3	HT Re-Live
-Omgång 13
-2011-06-19 (13/45)			
-AC Söder - Klocktornets Järnkaminer	0 - 5	HT Re-Live
-Södra Malmens IF - BK Bredaberg	1 - 2	HT Re-Live
-Grimsby Town FC - IFK Magpies	3 - 4	HT Re-Live
-BOTT FC - Korpmossens IK	2 - 2	HT Re-Live
-Omgång 14
-2011-06-26 (14/45)			
-IFK Magpies - Södra Malmens IF	2 - 1	HT Re-Live
-Korpmossens IK - Grimsby Town FC	5 - 0	HT Re-Live
-Klocktornets Järnkaminer - BOTT FC	4 - 6	HT Re-Live
-BK Bredaberg - AC Söder	4 - 3	HT Re-Live
-
+week 1
+2011-03-27
+SÃ¶dra Malmens IF - IFK Magpies 1 - 1
+Grimsby Town FC - Korpmossens IK 4 - 1
+AC SÃ¶der - BK Bredaberg 3 - 4
+BOTT FC - Klocktornets JÃ¤rnkaminer 5 - 3
+week 2
+2011-04-03
+Korpmossens IK - BOTT FC 2 - 2
+BK Bredaberg - SÃ¶dra Malmens IF 0 - 3
+IFK Magpies - Grimsby Town FC 3 - 2
+Klocktornets JÃ¤rnkaminer - AC SÃ¶der 3 - 1
+week 3
+2011-04-10
+AC SÃ¶der - BOTT FC 0 - 7
+SÃ¶dra Malmens IF - Korpmossens IK 1 - 2
+Grimsby Town FC - Klocktornets JÃ¤rnkaminer 3 - 0
+BK Bredaberg - IFK Magpies 2 - 3
+week 4
+2011-04-17
+Klocktornets JÃ¤rnkaminer - SÃ¶dra Malmens IF 4 - 2
+BOTT FC - Grimsby Town FC 4 - 1
+Korpmossens IK - BK Bredaberg 3 - 3
+IFK Magpies - AC SÃ¶der 1 - 2
+week 5
+2011-04-24
+SÃ¶dra Malmens IF - Grimsby Town FC 2 - 5
+AC SÃ¶der - Korpmossens IK 4 - 1
+BK Bredaberg - BOTT FC 2 - 3
+IFK Magpies - Klocktornets JÃ¤rnkaminer 3 - 4
+week 6
+2011-05-01
+BOTT FC - SÃ¶dra Malmens IF 5 - 0
+Grimsby Town FC - AC SÃ¶der 3 - 2
+Klocktornets JÃ¤rnkaminer - BK Bredaberg 3 - 3
+Korpmossens IK - IFK Magpies 4 - 0
+week 7
+2011-05-08
+IFK Magpies - BOTT FC 4 - 2
+BK Bredaberg - Grimsby Town FC 2 - 0
+Klocktornets JÃ¤rnkaminer - Korpmossens IK 5 - 2
+SÃ¶dra Malmens IF - AC SÃ¶der 3 - 1
+week 8
+2011-05-15
+Korpmossens IK - Klocktornets JÃ¤rnkaminer 1 - 5
+Grimsby Town FC - BK Bredaberg 2 - 2
+BOTT FC - IFK Magpies 5 - 2
+AC SÃ¶der - SÃ¶dra Malmens IF 2 - 0
+week 9
+2011-05-22
+IFK Magpies - Korpmossens IK 5 - 3
+AC SÃ¶der - Grimsby Town FC 5 - 1
+BK Bredaberg - Klocktornets JÃ¤rnkaminer 2 - 5
+SÃ¶dra Malmens IF - BOTT FC 2 - 2
+week 10
+2011-05-29
+Klocktornets JÃ¤rnkaminer - IFK Magpies 4 - 3
+BOTT FC - BK Bredaberg 5 - 2
+Grimsby Town FC - SÃ¶dra Malmens IF 3 - 2
+Korpmossens IK - AC SÃ¶der 0 - 1
+week 11
+2011-06-05
+BK Bredaberg - Korpmossens IK 0 - 8
+AC SÃ¶der - IFK Magpies 2 - 1
+SÃ¶dra Malmens IF - Klocktornets JÃ¤rnkaminer 1 - 5
+Grimsby Town FC - BOTT FC 1 - 3
+week 12
+2011-06-12
+Klocktornets JÃ¤rnkaminer - Grimsby Town FC 4 - 1
+IFK Magpies - BK Bredaberg 5 - 0
+Korpmossens IK - SÃ¶dra Malmens IF 1 - 2
+BOTT FC - AC SÃ¶der 4 - 3
+week 13
+2011-06-19
+AC SÃ¶der - Klocktornets JÃ¤rnkaminer 0 - 5
+SÃ¶dra Malmens IF - BK Bredaberg 1 - 2
+Grimsby Town FC - IFK Magpies 3 - 4
+BOTT FC - Korpmossens IK 2 - 2
+week 14
+2011-06-26
+IFK Magpies - SÃ¶dra Malmens IF 2 - 1
+Korpmossens IK - Grimsby Town FC 5 - 0
+Klocktornets JÃ¤rnkaminer - BOTT FC 4 - 6
+BK Bredaberg - AC SÃ¶der 4 - 3

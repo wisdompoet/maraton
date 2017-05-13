@@ -1,0 +1,84 @@
+week 1
+2010-01-03
+Söderhöjden - trendy discotheque 3 - 1
+Prinskorv FC - SubWay Sweden 0 - 1
+Real Karlskrona - Sporting Beeblebrox 4 - 3
+Holmen Bois - Anderstorp F.C. 0 - 6
+week 2
+2010-01-10
+trendy discotheque - Holmen Bois 5 - 2
+Sporting Beeblebrox - Prinskorv FC 3 - 2
+Anderstorp F.C. - Real Karlskrona 3 - 3
+SubWay Sweden - Söderhöjden 3 - 1
+week 3
+2010-01-17
+Prinskorv FC - Anderstorp F.C. 2 - 2
+Söderhöjden - Sporting Beeblebrox 2 - 1
+trendy discotheque - SubWay Sweden 4 - 1
+Real Karlskrona - Holmen Bois 7 - 0
+week 4
+2010-01-24
+Holmen Bois - SubWay Sweden 0 - 4
+Sporting Beeblebrox - trendy discotheque 1 - 4
+Anderstorp F.C. - Söderhöjden 2 - 1
+Real Karlskrona - Prinskorv FC 3 - 2
+week 5
+2010-01-31
+Prinskorv FC - Holmen Bois 7 - 0
+Söderhöjden - Real Karlskrona 2 - 3
+trendy discotheque - Anderstorp F.C. 6 - 2
+SubWay Sweden - Sporting Beeblebrox 5 - 1
+week 6
+2010-02-07
+Prinskorv FC - Söderhöjden 4 - 1
+Anderstorp F.C. - SubWay Sweden 3 - 1
+Holmen Bois - Sporting Beeblebrox 0 - 6
+Real Karlskrona - trendy discotheque 2 - 2
+week 7
+2010-02-14
+trendy discotheque - Prinskorv FC 3 - 1
+Sporting Beeblebrox - Anderstorp F.C. 5 - 2
+SubWay Sweden - Real Karlskrona 1 - 0
+Söderhöjden - Holmen Bois 6 - 0
+week 8
+2010-02-21
+Real Karlskrona - SubWay Sweden 2 - 4
+Anderstorp F.C. - Sporting Beeblebrox 2 - 3
+Prinskorv FC - trendy discotheque 0 - 5
+Holmen Bois - Söderhöjden 0 - 5
+week 9
+2010-02-28
+trendy discotheque - Real Karlskrona 1 - 3
+SubWay Sweden - Anderstorp F.C. 0 - 3
+Sporting Beeblebrox - Holmen Bois 8 - 0
+Söderhöjden - Prinskorv FC 0 - 2
+week 10
+2010-03-07
+Sporting Beeblebrox - SubWay Sweden 0 - 4
+Anderstorp F.C. - trendy discotheque 4 - 0
+Real Karlskrona - Söderhöjden 4 - 1
+Holmen Bois - Prinskorv FC 0 - 7
+week 11
+2010-03-14
+Prinskorv FC - Real Karlskrona 0 - 4
+SubWay Sweden - Holmen Bois 4 - 0
+trendy discotheque - Sporting Beeblebrox 3 - 0
+Söderhöjden - Anderstorp F.C. 0 - 2
+week 12
+2010-03-21
+Sporting Beeblebrox - Söderhöjden 5 - 2
+Holmen Bois - Real Karlskrona 0 - 9
+SubWay Sweden - trendy discotheque 1 - 2
+Anderstorp F.C. - Prinskorv FC 3 - 2
+week 13
+2010-03-28
+Real Karlskrona - Anderstorp F.C. 2 - 2
+Holmen Bois - trendy discotheque 0 - 7
+Prinskorv FC - Sporting Beeblebrox 3 - 0
+Söderhöjden - SubWay Sweden 2 - 2
+week 14
+2010-04-04
+trendy discotheque - Söderhöjden 2 - 2
+SubWay Sweden - Prinskorv FC 3 - 1
+Anderstorp F.C. - Holmen Bois 4 - 0
+Sporting Beeblebrox - Real Karlskrona 1 - 4

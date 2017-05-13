@@ -1,0 +1,84 @@
+week 1
+2000-10-22
+Crazy Cows - FC Olympia 1 - 2
+Charleswood Chiefs - Bollklubbens BK 5 - 0
+PG GoalGetters - Skogens FF 3 - 2
+Djäknemåla AIF - Kullavik Bluefingers 4 - 0
+week 2
+2000-10-29
+Skogens FF - Crazy Cows 0 - 3
+Kullavik Bluefingers - Charleswood Chiefs 1 - 2
+FC Olympia - Djäknemåla AIF 0 - 2
+Bollklubbens BK - PG GoalGetters 0 - 5
+week 3
+2000-11-05
+Charleswood Chiefs - FC Olympia 2 - 2
+PG GoalGetters - Kullavik Bluefingers 0 - 1
+Skogens FF - Bollklubbens BK 5 - 0
+Djäknemåla AIF - Crazy Cows 2 - 0
+week 4
+2000-11-12
+Crazy Cows - Bollklubbens BK 5 - 0
+Kullavik Bluefingers - Skogens FF 6 - 0
+FC Olympia - PG GoalGetters 3 - 1
+Djäknemåla AIF - Charleswood Chiefs 5 - 0
+week 5
+2000-11-19
+Charleswood Chiefs - Crazy Cows 1 - 3
+PG GoalGetters - Djäknemåla AIF 1 - 3
+Skogens FF - FC Olympia 0 - 0
+Bollklubbens BK - Kullavik Bluefingers 0 - 5
+week 6
+2000-11-26
+Crazy Cows - Kullavik Bluefingers 5 - 1
+Charleswood Chiefs - PG GoalGetters 2 - 0
+FC Olympia - Bollklubbens BK 5 - 0
+Djäknemåla AIF - Skogens FF 3 - 0
+week 7
+2000-12-03
+PG GoalGetters - Crazy Cows 2 - 0
+Skogens FF - Charleswood Chiefs 2 - 0
+Kullavik Bluefingers - FC Olympia 1 - 1
+Bollklubbens BK - Djäknemåla AIF 0 - 5
+week 8
+2000-12-10
+Djäknemåla AIF - Bollklubbens BK 5 - 0
+FC Olympia - Kullavik Bluefingers 0 - 2
+Charleswood Chiefs - Skogens FF 6 - 1
+Crazy Cows - PG GoalGetters 1 - 1
+week 9
+2000-12-17
+Skogens FF - Djäknemåla AIF 0 - 3
+Bollklubbens BK - FC Olympia 0 - 5
+PG GoalGetters - Charleswood Chiefs 3 - 4
+Kullavik Bluefingers - Crazy Cows 0 - 1
+week 10
+2000-12-24
+Kullavik Bluefingers - Bollklubbens BK 5 - 0
+FC Olympia - Skogens FF 5 - 1
+Djäknemåla AIF - PG GoalGetters 0 - 0
+Crazy Cows - Charleswood Chiefs 2 - 1
+week 11
+2000-12-31
+Charleswood Chiefs - Djäknemåla AIF 0 - 1
+PG GoalGetters - FC Olympia 2 - 0
+Skogens FF - Kullavik Bluefingers 0 - 3
+Bollklubbens BK - Crazy Cows 0 - 5
+week 12
+2001-01-07
+Crazy Cows - Djäknemåla AIF 0 - 0
+Bollklubbens BK - Skogens FF 0 - 5
+Kullavik Bluefingers - PG GoalGetters 1 - 2
+FC Olympia - Charleswood Chiefs 1 - 3
+week 13
+2001-01-14
+PG GoalGetters - Bollklubbens BK 5 - 0
+Djäknemåla AIF - FC Olympia 1 - 1
+Charleswood Chiefs - Kullavik Bluefingers 1 - 1
+Crazy Cows - Skogens FF 5 - 0
+week 14
+2001-01-21
+Kullavik Bluefingers - Djäknemåla AIF 1 - 0
+Skogens FF - PG GoalGetters 1 - 0
+Bollklubbens BK - Charleswood Chiefs 0 - 5
+FC Olympia - Crazy Cows 1 - 2

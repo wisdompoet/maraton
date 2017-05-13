@@ -1,0 +1,84 @@
+week 1
+2012-06-17
+Dynamo Kebab - Rackarna 4 - 4
+Keffs Tigers - Arvika IF 4 - 0
+Playboys Us - Chimboraze 0 - 0
+Spanb Team BK - Grangeus Grisfarm 3 - 2
+week 2
+2012-06-24
+Rackarna - Spanb Team BK 2 - 2
+Arvika IF - Dynamo Kebab 4 - 1
+Chimboraze - Keffs Tigers 3 - 4
+Grangeus Grisfarm - Playboys Us 0 - 2
+week 3
+2012-07-01
+Dynamo Kebab - Grangeus Grisfarm 1 - 3
+Spanb Team BK - Chimboraze 3 - 1
+Keffs Tigers - Playboys Us 0 - 3
+Arvika IF - Rackarna 1 - 0
+week 4
+2012-07-08
+Chimboraze - Dynamo Kebab 6 - 3
+Playboys Us - Spanb Team BK 2 - 0
+Rackarna - Keffs Tigers 4 - 1
+Grangeus Grisfarm - Arvika IF 1 - 4
+week 5
+2012-07-15
+Dynamo Kebab - Spanb Team BK 1 - 2
+Arvika IF - Playboys Us 2 - 0
+Keffs Tigers - Grangeus Grisfarm 2 - 6
+Rackarna - Chimboraze 1 - 0
+week 6
+2012-07-22
+Playboys Us - Dynamo Kebab 3 - 1
+Spanb Team BK - Keffs Tigers 4 - 2
+Chimboraze - Arvika IF 1 - 0
+Grangeus Grisfarm - Rackarna 3 - 1
+week 7
+2012-07-29
+Rackarna - Playboys Us 1 - 2
+Dynamo Kebab - Keffs Tigers 7 - 3
+Arvika IF - Spanb Team BK 4 - 1
+Chimboraze - Grangeus Grisfarm 5 - 0
+week 8
+2012-08-05
+Grangeus Grisfarm - Chimboraze 1 - 3
+Spanb Team BK - Arvika IF 4 - 3
+Playboys Us - Rackarna 1 - 0
+Keffs Tigers - Dynamo Kebab 4 - 3
+week 9
+2012-08-12
+Rackarna - Grangeus Grisfarm 1 - 5
+Arvika IF - Chimboraze 0 - 2
+Keffs Tigers - Spanb Team BK 5 - 0
+Dynamo Kebab - Playboys Us 3 - 3
+week 10
+2012-08-19
+Chimboraze - Rackarna 5 - 0
+Grangeus Grisfarm - Keffs Tigers 6 - 1
+Spanb Team BK - Dynamo Kebab 4 - 4
+Playboys Us - Arvika IF 2 - 0
+week 11
+2012-08-26
+Dynamo Kebab - Chimboraze 6 - 4
+Keffs Tigers - Rackarna 7 - 0
+Spanb Team BK - Playboys Us 0 - 1
+Arvika IF - Grangeus Grisfarm 1 - 4
+week 12
+2012-09-02
+Chimboraze - Spanb Team BK 6 - 0
+Rackarna - Arvika IF 1 - 3
+Grangeus Grisfarm - Dynamo Kebab 9 - 2
+Playboys Us - Keffs Tigers 4 - 0
+week 13
+2012-09-09
+Spanb Team BK - Rackarna 3 - 2
+Keffs Tigers - Chimboraze 2 - 3
+Playboys Us - Grangeus Grisfarm 3 - 1
+Dynamo Kebab - Arvika IF 4 - 2
+week 14
+2012-09-16
+Grangeus Grisfarm - Spanb Team BK 3 - 3
+Arvika IF - Keffs Tigers 2 - 2
+Chimboraze - Playboys Us 1 - 1
+Rackarna - Dynamo Kebab 3 - 3

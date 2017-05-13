@@ -1,0 +1,84 @@
+week 1
+2003-11-16
+Smackers United - FC Saddam  0 - 5
+Ass-Kickers - SödertäljeSK 3 - 0
+Gubbängen IF - Universum 5 - 0
+Hampe BK - Stora Bollklubben 4 - 1
+week 2
+2003-11-23
+Universum - Smackers United 5 - 0
+Stora Bollklubben - Ass-Kickers 3 - 1
+FC Saddam  - Hampe BK 2 - 1
+SödertäljeSK - Gubbängen IF 3 - 0
+week 3
+2003-11-30
+Ass-Kickers - FC Saddam  6 - 0
+Gubbängen IF - Stora Bollklubben 2 - 5
+Universum - SödertäljeSK 2 - 0
+Hampe BK - Smackers United 5 - 0
+week 4
+2003-12-07
+Smackers United - SödertäljeSK 0 - 5
+Stora Bollklubben - Universum 3 - 2
+FC Saddam  - Gubbängen IF 6 - 0
+Hampe BK - Ass-Kickers 0 - 3
+week 5
+2003-12-14
+Ass-Kickers - Smackers United 5 - 0
+Gubbängen IF - Hampe BK 2 - 1
+Universum - FC Saddam  6 - 0
+SödertäljeSK - Stora Bollklubben 1 - 1
+week 6
+2003-12-21
+Smackers United - Stora Bollklubben 0 - 5
+Ass-Kickers - Gubbängen IF 2 - 0
+FC Saddam  - SödertäljeSK 4 - 1
+Hampe BK - Universum 3 - 1
+week 7
+2003-12-28
+Gubbängen IF - Smackers United 5 - 0
+Universum - Ass-Kickers 3 - 2
+Stora Bollklubben - FC Saddam  4 - 1
+SödertäljeSK - Hampe BK 2 - 0
+week 8
+2004-01-04
+Hampe BK - SödertäljeSK 2 - 0
+FC Saddam  - Stora Bollklubben 1 - 0
+Ass-Kickers - Universum 1 - 1
+Smackers United - Gubbängen IF 0 - 5
+week 9
+2004-01-11
+Universum - Hampe BK 4 - 1
+SödertäljeSK - FC Saddam  3 - 3
+Gubbängen IF - Ass-Kickers 3 - 2
+Stora Bollklubben - Smackers United 5 - 0
+week 10
+2004-01-18
+Stora Bollklubben - SödertäljeSK 5 - 1
+FC Saddam  - Universum 2 - 2
+Hampe BK - Gubbängen IF 1 - 0
+Smackers United - Ass-Kickers 0 - 5
+week 11
+2004-01-25
+Ass-Kickers - Hampe BK 3 - 0
+Gubbängen IF - FC Saddam  1 - 3
+Universum - Stora Bollklubben 6 - 3
+SödertäljeSK - Smackers United 5 - 0
+week 12
+2004-02-01
+Smackers United - Hampe BK 0 - 5
+SödertäljeSK - Universum 2 - 5
+Stora Bollklubben - Gubbängen IF 4 - 0
+FC Saddam  - Ass-Kickers 0 - 2
+week 13
+2004-02-08
+Gubbängen IF - SödertäljeSK 1 - 2
+Hampe BK - FC Saddam  4 - 2
+Ass-Kickers - Stora Bollklubben 3 - 0
+Smackers United - Universum 0 - 5
+week 14
+2004-02-15
+Stora Bollklubben - Hampe BK 2 - 1
+Universum - Gubbängen IF 3 - 0
+SödertäljeSK - Ass-Kickers 0 - 4
+FC Saddam  - Smackers United 5 - 0

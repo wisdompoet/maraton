@@ -1,0 +1,84 @@
+week 1
+2013-09-08
+Hjullan BK - FC Brallon 5 - 1
+Samuraj BK(r) - Allebo FF 4 - 1
+Järfälla Banes IF - Bergnäsets AIK 3 - 0
+Mörphy FC - Gargamelle 1 - 2
+week 2
+2013-09-15
+Allebo FF - Hjullan BK 1 - 3
+Gargamelle - Järfälla Banes IF 4 - 0
+FC Brallon - Mörphy FC 3 - 2
+Bergnäsets AIK - Samuraj BK(r) 0 - 1
+week 3
+2013-09-22
+Hjullan BK - Gargamelle 2 - 2
+Allebo FF - FC Brallon 1 - 4
+Mörphy FC - Bergnäsets AIK 5 - 0
+Samuraj BK(r) - Järfälla Banes IF 3 - 1
+week 4
+2013-09-29
+Bergnäsets AIK - Hjullan BK 0 - 3
+Järfälla Banes IF - Mörphy FC 2 - 0
+Gargamelle - Allebo FF 4 - 0
+FC Brallon - Samuraj BK(r) 4 - 2
+week 5
+2013-10-06
+Hjullan BK - Mörphy FC 4 - 1
+Allebo FF - Järfälla Banes IF 1 - 2
+Samuraj BK(r) - Gargamelle 3 - 3
+FC Brallon - Bergnäsets AIK 3 - 1
+week 6
+2013-10-13
+Mörphy FC - Samuraj BK(r) 3 - 1
+Järfälla Banes IF - Hjullan BK 0 - 5
+Bergnäsets AIK - Allebo FF 2 - 2
+Gargamelle - FC Brallon 4 - 1
+week 7
+2013-10-20
+Hjullan BK - Samuraj BK(r) 5 - 1
+FC Brallon - Järfälla Banes IF 4 - 1
+Allebo FF - Mörphy FC 1 - 2
+Bergnäsets AIK - Gargamelle 2 - 4
+week 8
+2013-10-27
+Mörphy FC - Allebo FF 2 - 0
+Järfälla Banes IF - FC Brallon 2 - 1
+Samuraj BK(r) - Hjullan BK 2 - 4
+Gargamelle - Bergnäsets AIK 1 - 1
+week 9
+2013-11-03
+Allebo FF - Bergnäsets AIK 2 - 3
+Samuraj BK(r) - Mörphy FC 3 - 2
+Hjullan BK - Järfälla Banes IF 4 - 0
+FC Brallon - Gargamelle 2 - 0
+week 10
+2013-11-10
+Bergnäsets AIK - FC Brallon 3 - 1
+Järfälla Banes IF - Allebo FF 3 - 0
+Gargamelle - Samuraj BK(r) 4 - 1
+Mörphy FC - Hjullan BK 2 - 1
+week 11
+2013-11-17
+Mörphy FC - Järfälla Banes IF 3 - 0
+Hjullan BK - Bergnäsets AIK 1 - 0
+Allebo FF - Gargamelle 2 - 2
+Samuraj BK(r) - FC Brallon 3 - 2
+week 12
+2013-11-24
+Bergnäsets AIK - Mörphy FC 2 - 0
+Gargamelle - Hjullan BK 0 - 2
+FC Brallon - Allebo FF 2 - 1
+Järfälla Banes IF - Samuraj BK(r) 5 - 0
+week 13
+2013-12-01
+Mörphy FC - FC Brallon 2 - 1
+Samuraj BK(r) - Bergnäsets AIK 1 - 3
+Järfälla Banes IF - Gargamelle 1 - 2
+Hjullan BK - Allebo FF 2 - 2
+week 14
+2013-12-08
+Gargamelle - Mörphy FC 0 - 3
+FC Brallon - Hjullan BK 1 - 7
+Allebo FF - Samuraj BK(r) 3 - 0
+Bergnäsets AIK - Järfälla Banes IF 4 - 1

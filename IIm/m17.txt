@@ -1,0 +1,84 @@
+week 1
+2002-08-25
+Ambient Underground - Menlösa IF 4 - 1
+Gothenburg - Anabolica 2 - 1
+Humlekärrets IF - Bollelvan 1 - 2
+Vinterviken FC - Kungsbackas Kor 3 - 0
+week 2
+2002-09-01
+Bollelvan - Ambient Underground 5 - 2
+Kungsbackas Kor - Gothenburg 1 - 1
+Menlösa IF - Vinterviken FC 2 - 1
+Anabolica - Humlekärrets IF 1 - 2
+week 3
+2002-09-08
+Gothenburg - Menlösa IF 2 - 2
+Humlekärrets IF - Kungsbackas Kor 3 - 0
+Bollelvan - Anabolica 8 - 0
+Vinterviken FC - Ambient Underground 1 - 2
+week 4
+2002-09-15
+Ambient Underground - Anabolica 6 - 0
+Kungsbackas Kor - Bollelvan 1 - 1
+Menlösa IF - Humlekärrets IF 3 - 2
+Vinterviken FC - Gothenburg 1 - 0
+week 5
+2002-09-22
+Gothenburg - Ambient Underground 2 - 4
+Humlekärrets IF - Vinterviken FC 3 - 1
+Bollelvan - Menlösa IF 1 - 0
+Anabolica - Kungsbackas Kor 0 - 2
+week 6
+2002-09-29
+Ambient Underground - Kungsbackas Kor 3 - 0
+Gothenburg - Humlekärrets IF 3 - 2
+Menlösa IF - Anabolica 3 - 0
+Vinterviken FC - Bollelvan 1 - 1
+week 7
+2002-10-06
+Humlekärrets IF - Ambient Underground 4 - 4
+Bollelvan - Gothenburg 3 - 1
+Kungsbackas Kor - Menlösa IF 3 - 3
+Anabolica - Vinterviken FC 0 - 0
+week 8
+2002-10-13
+Vinterviken FC - Anabolica 2 - 0
+Menlösa IF - Kungsbackas Kor 2 - 1
+Gothenburg - Bollelvan 4 - 2
+Ambient Underground - Humlekärrets IF 3 - 1
+week 9
+2002-10-20
+Bollelvan - Vinterviken FC 2 - 1
+Anabolica - Menlösa IF 0 - 2
+Humlekärrets IF - Gothenburg 1 - 5
+Kungsbackas Kor - Ambient Underground 3 - 1
+week 10
+2002-10-27
+Kungsbackas Kor - Anabolica 2 - 0
+Menlösa IF - Bollelvan 3 - 0
+Vinterviken FC - Humlekärrets IF 4 - 0
+Ambient Underground - Gothenburg 1 - 1
+week 11
+2002-11-03
+Gothenburg - Vinterviken FC 1 - 3
+Humlekärrets IF - Menlösa IF 0 - 2
+Bollelvan - Kungsbackas Kor 0 - 2
+Anabolica - Ambient Underground 0 - 1
+week 12
+2002-11-10
+Ambient Underground - Vinterviken FC 3 - 1
+Anabolica - Bollelvan 0 - 2
+Kungsbackas Kor - Humlekärrets IF 3 - 1
+Menlösa IF - Gothenburg 3 - 0
+week 13
+2002-11-17
+Humlekärrets IF - Anabolica 0 - 0
+Vinterviken FC - Menlösa IF 2 - 3
+Gothenburg - Kungsbackas Kor 4 - 1
+Ambient Underground - Bollelvan 5 - 2
+week 14
+2002-11-24
+Kungsbackas Kor - Vinterviken FC 3 - 1
+Bollelvan - Humlekärrets IF 1 - 1
+Anabolica - Gothenburg 1 - 2
+Menlösa IF - Ambient Underground 3 - 2

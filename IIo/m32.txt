@@ -1,0 +1,84 @@
+week 1
+2007-04-01
+Landskrona BOIS - Kaiser FC 0 - 8
+Predator FC - Hoddle 3 - 3
+IFK Snespark - Dun Cannobaen 6 - 0
+Aplared FC - Bengan_Bois 4 - 2
+week 2
+2007-04-08
+Dun Cannobaen - Aplared FC 2 - 4
+Bengan_Bois - Landskrona BOIS 10 - 0
+Hoddle - IFK Snespark 4 - 2
+Kaiser FC - Predator FC 5 - 2
+week 3
+2007-04-15
+Predator FC - Landskrona BOIS 7 - 0
+Aplared FC - Hoddle 1 - 3
+Bengan_Bois - Dun Cannobaen 2 - 1
+IFK Snespark - Kaiser FC 1 - 5
+week 4
+2007-04-22
+Kaiser FC - Aplared FC 2 - 0
+Predator FC - IFK Snespark 1 - 0
+Landskrona BOIS - Dun Cannobaen 0 - 9
+Hoddle - Bengan_Bois 4 - 1
+week 5
+2007-04-29
+Bengan_Bois - Kaiser FC 3 - 4
+IFK Snespark - Landskrona BOIS 10 - 1
+Dun Cannobaen - Hoddle 3 - 2
+Aplared FC - Predator FC 3 - 3
+week 6
+2007-05-06
+Landskrona BOIS - Hoddle 0 - 11
+Predator FC - Bengan_Bois 3 - 3
+IFK Snespark - Aplared FC 4 - 1
+Kaiser FC - Dun Cannobaen 1 - 1
+week 7
+2007-05-13
+Aplared FC - Landskrona BOIS 9 - 0
+Dun Cannobaen - Predator FC 2 - 0
+Bengan_Bois - IFK Snespark 1 - 4
+Hoddle - Kaiser FC 9 - 0
+week 8
+2007-05-20
+IFK Snespark - Bengan_Bois 3 - 1
+Kaiser FC - Hoddle 2 - 1
+Predator FC - Dun Cannobaen 0 - 3
+Landskrona BOIS - Aplared FC 0 - 9
+week 9
+2007-05-27
+Bengan_Bois - Predator FC 5 - 3
+Dun Cannobaen - Kaiser FC 1 - 0
+Hoddle - Landskrona BOIS 9 - 0
+Aplared FC - IFK Snespark 1 - 1
+week 10
+2007-06-03
+Landskrona BOIS - IFK Snespark 0 - 10
+Predator FC - Aplared FC 2 - 2
+Hoddle - Dun Cannobaen 1 - 1
+Kaiser FC - Bengan_Bois 3 - 2
+week 11
+2007-06-10
+Aplared FC - Kaiser FC 2 - 3
+IFK Snespark - Predator FC 3 - 1
+Bengan_Bois - Hoddle 0 - 2
+Dun Cannobaen - Landskrona BOIS 9 - 0
+week 12
+2007-06-17
+Hoddle - Aplared FC 1 - 2
+Dun Cannobaen - Bengan_Bois 3 - 1
+Kaiser FC - IFK Snespark 3 - 1
+Landskrona BOIS - Predator FC 0 - 10
+week 13
+2007-06-24
+Aplared FC - Dun Cannobaen 1 - 1
+IFK Snespark - Hoddle 2 - 1
+Landskrona BOIS - Bengan_Bois 0 - 10
+Predator FC - Kaiser FC 2 - 4
+week 14
+2007-07-01
+Bengan_Bois - Aplared FC 1 - 1
+Hoddle - Predator FC 3 - 3
+Kaiser FC - Landskrona BOIS 9 - 0
+Dun Cannobaen - IFK Snespark 0 - 1

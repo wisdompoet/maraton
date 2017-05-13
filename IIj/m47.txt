@@ -1,0 +1,84 @@
+week 1
+2011-11-06
+Lagen FF - Hagreda SK 4 - 1
+Xpander - FBKkrossen 2 - 0
+Sionisterna - Team Superior 3 - 0
+Bloom County FC - MacGyver 3 - 1
+week 2
+2011-11-13
+FBKkrossen - Bloom County FC 2 - 0
+MacGyver - Sionisterna 1 - 3
+Hagreda SK - Xpander 0 - 2
+Team Superior - Lagen FF 3 - 0
+week 3
+2011-11-20
+Bloom County FC - Team Superior 3 - 3
+Xpander - Lagen FF 4 - 0
+FBKkrossen - MacGyver 4 - 1
+Sionisterna - Hagreda SK 6 - 0
+week 4
+2011-11-27
+Hagreda SK - Bloom County FC 0 - 3
+MacGyver - Xpander 4 - 3
+Lagen FF - Sionisterna 1 - 2
+Team Superior - FBKkrossen 1 - 5
+week 5
+2011-12-04
+Bloom County FC - Sionisterna 2 - 2
+FBKkrossen - Lagen FF 6 - 1
+MacGyver - Hagreda SK 3 - 1
+Xpander - Team Superior 4 - 0
+week 6
+2011-12-11
+Lagen FF - Bloom County FC 0 - 2
+Sionisterna - Xpander 2 - 0
+Hagreda SK - FBKkrossen 0 - 4
+Team Superior - MacGyver 2 - 1
+week 7
+2011-12-18
+MacGyver - Lagen FF 1 - 1
+Bloom County FC - Xpander 2 - 1
+FBKkrossen - Sionisterna 1 - 1
+Hagreda SK - Team Superior 1 - 4
+week 8
+2011-12-25
+Team Superior - Hagreda SK 3 - 2
+Sionisterna - FBKkrossen 1 - 0
+Lagen FF - MacGyver 2 - 1
+Xpander - Bloom County FC 3 - 0
+week 9
+2012-01-01
+MacGyver - Team Superior 3 - 2
+FBKkrossen - Hagreda SK 2 - 0
+Xpander - Sionisterna 0 - 1
+Bloom County FC - Lagen FF 2 - 0
+week 10
+2012-01-08
+Lagen FF - FBKkrossen 1 - 3
+Sionisterna - Bloom County FC 3 - 1
+Team Superior - Xpander 0 - 2
+Hagreda SK - MacGyver 0 - 2
+week 11
+2012-01-15
+FBKkrossen - Team Superior 2 - 0
+Sionisterna - Lagen FF 4 - 0
+Xpander - MacGyver 3 - 1
+Bloom County FC - Hagreda SK 3 - 0
+week 12
+2012-01-22
+MacGyver - FBKkrossen 0 - 2
+Hagreda SK - Sionisterna 1 - 3
+Lagen FF - Xpander 1 - 3
+Team Superior - Bloom County FC 1 - 0
+week 13
+2012-01-29
+Lagen FF - Team Superior 2 - 0
+Xpander - Hagreda SK 2 - 0
+Sionisterna - MacGyver 2 - 1
+Bloom County FC - FBKkrossen 1 - 4
+week 14
+2012-02-05
+FBKkrossen - Xpander 0 - 2
+Team Superior - Sionisterna 1 - 1
+MacGyver - Bloom County FC 0 - 2
+Hagreda SK - Lagen FF 2 - 3

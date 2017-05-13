@@ -1,0 +1,84 @@
+week 1
+2014-11-30
+BK Kall - FC Corvus Corax 0 - 10
+BoingBoing - Odens FC 1 - 1
+Picos Verdes - Team Cyrgon 0 - 3
+Prinskorv FC - FC Snusen 5 - 0
+week 2
+2014-12-07
+FC Corvus Corax - Picos Verdes 3 - 5
+Odens FC - Prinskorv FC 1 - 2
+Team Cyrgon - BoingBoing 4 - 1
+FC Snusen - BK Kall 7 - 0
+week 3
+2014-12-14
+Picos Verdes - Odens FC 2 - 1
+FC Corvus Corax - Team Cyrgon 1 - 6
+BK Kall - Prinskorv FC 0 - 12
+BoingBoing - FC Snusen 5 - 2
+week 4
+2014-12-21
+FC Snusen - Picos Verdes 2 - 2
+Team Cyrgon - BK Kall 9 - 0
+Prinskorv FC - BoingBoing 0 - 4
+Odens FC - FC Corvus Corax 7 - 0
+week 5
+2014-12-28
+Picos Verdes - BoingBoing 1 - 2
+FC Corvus Corax - Prinskorv FC 2 - 2
+Team Cyrgon - FC Snusen 5 - 0
+BK Kall - Odens FC 0 - 8
+week 6
+2015-01-04
+BoingBoing - BK Kall 9 - 0
+FC Snusen - FC Corvus Corax 3 - 0
+Prinskorv FC - Picos Verdes 2 - 2
+Odens FC - Team Cyrgon 1 - 4
+week 7
+2015-01-11
+Picos Verdes - BK Kall 10 - 0
+Team Cyrgon - Prinskorv FC 4 - 2
+FC Snusen - Odens FC 2 - 3
+FC Corvus Corax - BoingBoing 0 - 3
+week 8
+2015-01-18
+Odens FC - FC Snusen 2 - 2
+Prinskorv FC - Team Cyrgon 2 - 3
+BK Kall - Picos Verdes 0 - 11
+BoingBoing - FC Corvus Corax 4 - 1
+week 9
+2015-01-25
+Picos Verdes - Prinskorv FC 0 - 4
+Team Cyrgon - Odens FC 2 - 1
+FC Corvus Corax - FC Snusen 2 - 2
+BK Kall - BoingBoing 0 - 8
+week 10
+2015-02-01
+FC Snusen - Team Cyrgon 0 - 6
+Prinskorv FC - FC Corvus Corax 5 - 0
+Odens FC - BK Kall 11 - 0
+BoingBoing - Picos Verdes 2 - 3
+week 11
+2015-02-08
+FC Corvus Corax - Odens FC 1 - 0
+BoingBoing - Prinskorv FC 0 - 7
+Picos Verdes - FC Snusen 1 - 3
+BK Kall - Team Cyrgon 0 - 10
+week 12
+2015-02-15
+Team Cyrgon - FC Corvus Corax 6 - 0
+Odens FC - Picos Verdes 0 - 2
+Prinskorv FC - BK Kall 10 - 0
+FC Snusen - BoingBoing 2 - 2
+week 13
+2015-02-22
+BK Kall - FC Snusen 0 - 8
+Prinskorv FC - Odens FC 5 - 3
+BoingBoing - Team Cyrgon 2 - 7
+Picos Verdes - FC Corvus Corax 2 - 1
+week 14
+2015-03-01
+Odens FC - BoingBoing 3 - 2
+FC Snusen - Prinskorv FC 4 - 2
+FC Corvus Corax - BK Kall 7 - 0
+Team Cyrgon - Picos Verdes 3 - 1

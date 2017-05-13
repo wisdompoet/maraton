@@ -1,0 +1,84 @@
+week 1
+2011-07-17
+Beutlins - Rednaxela 4 - 1
+Valencia BoIF - BK Wolfram 1 - 1
+GAIS 1894 - Södermalm City 0 - 11
+Nanouk Fighters - Torstorps IF 4 - 2
+week 2
+2011-07-24
+Södermalm City - Nanouk Fighters 4 - 0
+Rednaxela - Valencia BoIF 0 - 1
+Torstorps IF - Beutlins 1 - 4
+BK Wolfram - GAIS 1894 10 - 0
+week 3
+2011-07-31
+Nanouk Fighters - Rednaxela 3 - 4
+Valencia BoIF - Beutlins 0 - 2
+BK Wolfram - Södermalm City 2 - 1
+GAIS 1894 - Torstorps IF 1 - 8
+week 4
+2011-08-07
+Rednaxela - GAIS 1894 7 - 0
+Södermalm City - Valencia BoIF 3 - 1
+Beutlins - Nanouk Fighters 4 - 1
+Torstorps IF - BK Wolfram 1 - 3
+week 5
+2011-08-14
+BK Wolfram - Beutlins 1 - 1
+GAIS 1894 - Nanouk Fighters 0 - 7
+Valencia BoIF - Torstorps IF 2 - 0
+Södermalm City - Rednaxela 4 - 1
+week 6
+2011-08-21
+Beutlins - GAIS 1894 8 - 0
+Nanouk Fighters - Valencia BoIF 2 - 4
+Rednaxela - BK Wolfram 3 - 0
+Torstorps IF - Södermalm City 4 - 3
+week 7
+2011-08-28
+BK Wolfram - Nanouk Fighters 0 - 1
+Södermalm City - Beutlins 3 - 2
+Rednaxela - Torstorps IF 3 - 2
+GAIS 1894 - Valencia BoIF 1 - 4
+week 8
+2011-09-04
+Torstorps IF - Rednaxela 2 - 1
+Beutlins - Södermalm City 3 - 3
+Nanouk Fighters - BK Wolfram 2 - 2
+Valencia BoIF - GAIS 1894 7 - 0
+week 9
+2011-09-11
+Södermalm City - Torstorps IF 6 - 2
+BK Wolfram - Rednaxela 5 - 1
+Valencia BoIF - Nanouk Fighters 2 - 2
+GAIS 1894 - Beutlins 0 - 10
+week 10
+2011-09-18
+Rednaxela - Södermalm City 4 - 1
+Torstorps IF - Valencia BoIF 5 - 1
+Beutlins - BK Wolfram 1 - 1
+Nanouk Fighters - GAIS 1894 10 - 0
+week 11
+2011-09-25
+BK Wolfram - Torstorps IF 3 - 3
+GAIS 1894 - Rednaxela 0 - 10
+Valencia BoIF - Södermalm City 1 - 4
+Nanouk Fighters - Beutlins 1 - 3
+week 12
+2011-10-02
+Beutlins - Valencia BoIF 2 - 2
+Södermalm City - BK Wolfram 2 - 1
+Torstorps IF - GAIS 1894 9 - 0
+Rednaxela - Nanouk Fighters 2 - 2
+week 13
+2011-10-09
+Beutlins - Torstorps IF 4 - 1
+Valencia BoIF - Rednaxela 0 - 2
+Nanouk Fighters - Södermalm City 3 - 5
+GAIS 1894 - BK Wolfram 0 - 7
+week 14
+2011-10-16
+Rednaxela - Beutlins 1 - 1
+Torstorps IF - Nanouk Fighters 6 - 1
+Södermalm City - GAIS 1894 10 - 0
+BK Wolfram - Valencia BoIF 0 - 0

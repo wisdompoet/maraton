@@ -1,84 +1,84 @@
-Omgång 1
-2005-09-18 (1/27) 			
-	Pecka´s Boys - aragorn warriors 	4 - 1 	HT Re-Live
-	Hawkwing FF - Bärsans SK 	3 - 1 	HT Re-Live
-	Berglundens BK - Söder IF 	4 - 2 	HT Re-Live
-	Ondpors BK - Rudi Völler SV 	4 - 0 	HT Re-Live
-Omgång 2
-2005-09-25 (2/27) 			
-	Söder IF - Pecka´s Boys 	0 - 1 	HT Re-Live
-	Rudi Völler SV - Hawkwing FF 	3 - 0 	HT Re-Live
-	aragorn warriors - Ondpors BK 	3 - 3 	HT Re-Live
-	Bärsans SK - Berglundens BK 	4 - 2 	HT Re-Live
-Omgång 3
-2005-10-02 (3/27) 			
-	Hawkwing FF - aragorn warriors 	5 - 1 	HT Re-Live
-	Berglundens BK - Rudi Völler SV 	3 - 0 	HT Re-Live
-	Söder IF - Bärsans SK 	2 - 4 	HT Re-Live
-	Ondpors BK - Pecka´s Boys 	2 - 0 	HT Re-Live
-Omgång 4
-2005-10-09 (4/27) 			
-	Pecka´s Boys - Bärsans SK 	2 - 2 	HT Re-Live
-	Rudi Völler SV - Söder IF 	0 - 0 	HT Re-Live
-	aragorn warriors - Berglundens BK 	3 - 1 	HT Re-Live
-	Ondpors BK - Hawkwing FF 	4 - 2 	HT Re-Live
-Omgång 5
-2005-10-16 (5/27) 			
-	Hawkwing FF - Pecka´s Boys 	2 - 3 	HT Re-Live
-	Berglundens BK - Ondpors BK 	2 - 6 	HT Re-Live
-	Söder IF - aragorn warriors 	5 - 3 	HT Re-Live
-	Bärsans SK - Rudi Völler SV 	4 - 0 	HT Re-Live
-Omgång 6
-2005-10-23 (6/27) 			
-	Pecka´s Boys - Rudi Völler SV 	0 - 0 	HT Re-Live
-	Hawkwing FF - Berglundens BK 	4 - 1 	HT Re-Live
-	aragorn warriors - Bärsans SK 	2 - 3 	HT Re-Live
-	Ondpors BK - Söder IF 	2 - 4 	HT Re-Live
-Omgång 7
-2005-10-30 (7/27) 			
-	Berglundens BK - Pecka´s Boys 	6 - 2 	HT Re-Live
-	Söder IF - Hawkwing FF 	6 - 2 	HT Re-Live
-	Rudi Völler SV - aragorn warriors 	2 - 0 	HT Re-Live
-	Bärsans SK - Ondpors BK 	2 - 3 	HT Re-Live
-Omgång 8
-2005-11-06 (8/27) 			
-	Ondpors BK - Bärsans SK 	3 - 1 	HT Re-Live
-	aragorn warriors - Rudi Völler SV 	0 - 1 	HT Re-Live
-	Hawkwing FF - Söder IF 	6 - 1 	HT Re-Live
-	Pecka´s Boys - Berglundens BK 	4 - 2 	HT Re-Live
-Omgång 9
-2005-11-13 (9/27) 			
-	Söder IF - Ondpors BK 	1 - 1 	HT Re-Live
-	Bärsans SK - aragorn warriors 	0 - 0 	HT Re-Live
-	Berglundens BK - Hawkwing FF 	3 - 4 	HT Re-Live
-	Rudi Völler SV - Pecka´s Boys 	0 - 3 	HT Re-Live
-Omgång 10
-2005-11-20 (10/27) 			
-	Rudi Völler SV - Bärsans SK 	2 - 4 	HT Re-Live
-	aragorn warriors - Söder IF 	1 - 1 	HT Re-Live
-	Ondpors BK - Berglundens BK 	1 - 1 	HT Re-Live
-	Pecka´s Boys - Hawkwing FF 	0 - 3 	HT Re-Live
-Omgång 11
-2005-11-27 (11/27) 			
-	Hawkwing FF - Ondpors BK 	0 - 5 	HT Re-Live
-	Berglundens BK - aragorn warriors 	0 - 2 	HT Re-Live
-	Söder IF - Rudi Völler SV 	6 - 0 	HT Re-Live
-	Bärsans SK - Pecka´s Boys 	1 - 1 	HT Re-Live
-Omgång 12
-2005-12-04 (12/27) 			
-	Pecka´s Boys - Ondpors BK 	0 - 1 	HT Re-Live
-	Bärsans SK - Söder IF 	5 - 0 	HT Re-Live
-	Rudi Völler SV - Berglundens BK 	0 - 4 	HT Re-Live
-	aragorn warriors - Hawkwing FF 	0 - 2 	HT Re-Live
-Omgång 13
-2005-12-11 (13/27) 			
-	Berglundens BK - Bärsans SK 	3 - 4 	HT Re-Live
-	Ondpors BK - aragorn warriors 	1 - 1 	HT Re-Live
-	Hawkwing FF - Rudi Völler SV 	3 - 1 	HT Re-Live
-	Pecka´s Boys - Söder IF 	2 - 0 	HT Re-Live
-Omgång 14
-2005-12-18 (14/27) 			
-	Rudi Völler SV - Ondpors BK 	1 - 4 	HT Re-Live
-	Söder IF - Berglundens BK 	2 - 3 	HT Re-Live
-	Bärsans SK - Hawkwing FF 	0 - 3 	HT Re-Live
-	aragorn warriors - Pecka´s Boys 	2 - 0 	HT Re-Live
+week 1
+2005-09-18
+Pecka´s Boys - aragorn warriors 4 - 1
+Hawkwing FF - Bärsans SK 3 - 1
+Berglundens BK - Söder IF 4 - 2
+Ondpors BK - Rudi Völler SV 4 - 0
+week 2
+2005-09-25
+Söder IF - Pecka´s Boys 0 - 1
+Rudi Völler SV - Hawkwing FF 3 - 0
+aragorn warriors - Ondpors BK 3 - 3
+Bärsans SK - Berglundens BK 4 - 2
+week 3
+2005-10-02
+Hawkwing FF - aragorn warriors 5 - 1
+Berglundens BK - Rudi Völler SV 3 - 0
+Söder IF - Bärsans SK 2 - 4
+Ondpors BK - Pecka´s Boys 2 - 0
+week 4
+2005-10-09
+Pecka´s Boys - Bärsans SK 2 - 2
+Rudi Völler SV - Söder IF 0 - 0
+aragorn warriors - Berglundens BK 3 - 1
+Ondpors BK - Hawkwing FF 4 - 2
+week 5
+2005-10-16
+Hawkwing FF - Pecka´s Boys 2 - 3
+Berglundens BK - Ondpors BK 2 - 6
+Söder IF - aragorn warriors 5 - 3
+Bärsans SK - Rudi Völler SV 4 - 0
+week 6
+2005-10-23
+Pecka´s Boys - Rudi Völler SV 0 - 0
+Hawkwing FF - Berglundens BK 4 - 1
+aragorn warriors - Bärsans SK 2 - 3
+Ondpors BK - Söder IF 2 - 4
+week 7
+2005-10-30
+Berglundens BK - Pecka´s Boys 6 - 2
+Söder IF - Hawkwing FF 6 - 2
+Rudi Völler SV - aragorn warriors 2 - 0
+Bärsans SK - Ondpors BK 2 - 3
+week 8
+2005-11-06
+Ondpors BK - Bärsans SK 3 - 1
+aragorn warriors - Rudi Völler SV 0 - 1
+Hawkwing FF - Söder IF 6 - 1
+Pecka´s Boys - Berglundens BK 4 - 2
+week 9
+2005-11-13
+Söder IF - Ondpors BK 1 - 1
+Bärsans SK - aragorn warriors 0 - 0
+Berglundens BK - Hawkwing FF 3 - 4
+Rudi Völler SV - Pecka´s Boys 0 - 3
+week 10
+2005-11-20
+Rudi Völler SV - Bärsans SK 2 - 4
+aragorn warriors - Söder IF 1 - 1
+Ondpors BK - Berglundens BK 1 - 1
+Pecka´s Boys - Hawkwing FF 0 - 3
+week 11
+2005-11-27
+Hawkwing FF - Ondpors BK 0 - 5
+Berglundens BK - aragorn warriors 0 - 2
+Söder IF - Rudi Völler SV 6 - 0
+Bärsans SK - Pecka´s Boys 1 - 1
+week 12
+2005-12-04
+Pecka´s Boys - Ondpors BK 0 - 1
+Bärsans SK - Söder IF 5 - 0
+Rudi Völler SV - Berglundens BK 0 - 4
+aragorn warriors - Hawkwing FF 0 - 2
+week 13
+2005-12-11
+Berglundens BK - Bärsans SK 3 - 4
+Ondpors BK - aragorn warriors 1 - 1
+Hawkwing FF - Rudi Völler SV 3 - 1
+Pecka´s Boys - Söder IF 2 - 0
+week 14
+2005-12-18
+Rudi Völler SV - Ondpors BK 1 - 4
+Söder IF - Berglundens BK 2 - 3
+Bärsans SK - Hawkwing FF 0 - 3
+aragorn warriors - Pecka´s Boys 2 - 0

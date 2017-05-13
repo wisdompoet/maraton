@@ -1,0 +1,84 @@
+week 1
+2001-02-11
+Dynamo Göteborg - Gårdsstånga Rockets 0 - 5
+BuggSoft OS - Skalbolaget 0 - 2
+Helsingborg Trashers - Nidelven DF 4 - 2
+Kullavägens FF - FK Roof 1 - 2
+week 2
+2001-02-18
+Nidelven DF - Dynamo Göteborg 0 - 1
+FK Roof - BuggSoft OS 3 - 0
+Gårdsstånga Rockets - Kullavägens FF 2 - 0
+Skalbolaget - Helsingborg Trashers 2 - 4
+week 3
+2001-02-25
+BuggSoft OS - Gårdsstånga Rockets 3 - 2
+Helsingborg Trashers - FK Roof 0 - 5
+Nidelven DF - Skalbolaget 0 - 2
+Kullavägens FF - Dynamo Göteborg 1 - 0
+week 4
+2001-03-04
+Dynamo Göteborg - Skalbolaget 1 - 4
+FK Roof - Nidelven DF 1 - 0
+Gårdsstånga Rockets - Helsingborg Trashers 0 - 2
+Kullavägens FF - BuggSoft OS 2 - 3
+week 5
+2001-03-11
+BuggSoft OS - Dynamo Göteborg 8 - 0
+Helsingborg Trashers - Kullavägens FF 1 - 0
+Nidelven DF - Gårdsstånga Rockets 1 - 0
+Skalbolaget - FK Roof 0 - 1
+week 6
+2001-03-18
+Dynamo Göteborg - FK Roof 4 - 2
+BuggSoft OS - Helsingborg Trashers 3 - 3
+Gårdsstånga Rockets - Skalbolaget 1 - 0
+Kullavägens FF - Nidelven DF 0 - 1
+week 7
+2001-03-25
+Helsingborg Trashers - Dynamo Göteborg 4 - 0
+Nidelven DF - BuggSoft OS 2 - 1
+FK Roof - Gårdsstånga Rockets 2 - 0
+Skalbolaget - Kullavägens FF 4 - 0
+week 8
+2001-04-01
+Kullavägens FF - Skalbolaget 0 - 1
+Gårdsstånga Rockets - FK Roof 1 - 1
+BuggSoft OS - Nidelven DF 2 - 2
+Dynamo Göteborg - Helsingborg Trashers 1 - 2
+week 9
+2001-04-08
+Nidelven DF - Kullavägens FF 1 - 0
+Skalbolaget - Gårdsstånga Rockets 2 - 0
+Helsingborg Trashers - BuggSoft OS 4 - 2
+FK Roof - Dynamo Göteborg 3 - 0
+week 10
+2001-04-15
+FK Roof - Skalbolaget 2 - 0
+Gårdsstånga Rockets - Nidelven DF 1 - 1
+Kullavägens FF - Helsingborg Trashers 1 - 5
+Dynamo Göteborg - BuggSoft OS 0 - 3
+week 11
+2001-04-22
+BuggSoft OS - Kullavägens FF 2 - 0
+Helsingborg Trashers - Gårdsstånga Rockets 5 - 1
+Nidelven DF - FK Roof 1 - 0
+Skalbolaget - Dynamo Göteborg 5 - 0
+week 12
+2001-04-29
+Dynamo Göteborg - Kullavägens FF 3 - 1
+Skalbolaget - Nidelven DF 1 - 1
+FK Roof - Helsingborg Trashers 4 - 1
+Gårdsstånga Rockets - BuggSoft OS 0 - 3
+week 13
+2001-05-06
+Helsingborg Trashers - Skalbolaget 2 - 1
+Kullavägens FF - Gårdsstånga Rockets 0 - 2
+BuggSoft OS - FK Roof 5 - 0
+Dynamo Göteborg - Nidelven DF 0 - 4
+week 14
+2001-05-13
+FK Roof - Kullavägens FF 2 - 0
+Nidelven DF - Helsingborg Trashers 3 - 0
+Skalbolaget - BuggSoft OS 1 - 1
+Gårdsstånga Rockets - Dynamo Göteborg 4 - 0

@@ -1,0 +1,84 @@
+week 1
+2016-02-21
+Lee Lakers - FC Phazz 0 - 9
+drillos il - Odens FC 7 - 1
+FC Vallbyheden - Kneebreakers FC 4 - 0
+Norrtulls sportklubb - Silverdragon FC 0 - 3
+week 2
+2016-02-28
+Silverdragon FC - drillos il 3 - 3
+FC Phazz - FC Vallbyheden 5 - 3
+Odens FC - Lee Lakers 6 - 0
+Kneebreakers FC - Norrtulls sportklubb 3 - 1
+week 3
+2016-03-06
+Lee Lakers - Kneebreakers FC 0 - 5
+drillos il - Norrtulls sportklubb 0 - 8
+Odens FC - FC Phazz 4 - 3
+FC Vallbyheden - Silverdragon FC 1 - 1
+week 4
+2016-03-13
+Silverdragon FC - Lee Lakers 7 - 0
+FC Phazz - drillos il 10 - 0
+Kneebreakers FC - Odens FC 3 - 3
+Norrtulls sportklubb - FC Vallbyheden 0 - 3
+week 5
+2016-03-20
+Lee Lakers - FC Vallbyheden 0 - 5
+FC Phazz - Silverdragon FC 3 - 2
+Odens FC - Norrtulls sportklubb 0 - 0
+drillos il - Kneebreakers FC 1 - 3
+week 6
+2016-03-27
+Norrtulls sportklubb - Lee Lakers 5 - 0
+Silverdragon FC - Odens FC 2 - 0
+Kneebreakers FC - FC Phazz 1 - 2
+FC Vallbyheden - drillos il 7 - 0
+week 7
+2016-04-03
+FC Phazz - Norrtulls sportklubb 3 - 2
+Lee Lakers - drillos il 2 - 0
+Odens FC - FC Vallbyheden 2 - 3
+Silverdragon FC - Kneebreakers FC 3 - 0
+week 8
+2016-04-10
+Kneebreakers FC - Silverdragon FC 2 - 1
+FC Vallbyheden - Odens FC 4 - 1
+drillos il - Lee Lakers 0 - 1
+Norrtulls sportklubb - FC Phazz 1 - 4
+week 9
+2016-04-17
+FC Phazz - Kneebreakers FC 5 - 0
+Lee Lakers - Norrtulls sportklubb 0 - 5
+drillos il - FC Vallbyheden 1 - 8
+Odens FC - Silverdragon FC 3 - 4
+week 10
+2016-04-24
+Silverdragon FC - FC Phazz 4 - 1
+Kneebreakers FC - drillos il 5 - 0
+FC Vallbyheden - Lee Lakers 10 - 0
+Norrtulls sportklubb - Odens FC 1 - 2
+week 11
+2016-05-01
+Odens FC - Kneebreakers FC 2 - 5
+FC Vallbyheden - Norrtulls sportklubb 3 - 0
+Lee Lakers - Silverdragon FC 0 - 8
+drillos il - FC Phazz 0 - 8
+week 12
+2016-05-08
+FC Phazz - Odens FC 3 - 0
+Silverdragon FC - FC Vallbyheden 1 - 1
+Norrtulls sportklubb - drillos il 3 - 1
+Kneebreakers FC - Lee Lakers 4 - 0
+week 13
+2016-05-15
+Norrtulls sportklubb - Kneebreakers FC 2 - 1
+drillos il - Silverdragon FC 0 - 4
+FC Vallbyheden - FC Phazz 3 - 2
+Lee Lakers - Odens FC 0 - 6
+week 14
+2016-05-22
+Kneebreakers FC - FC Vallbyheden 4 - 1
+FC Phazz - Lee Lakers 7 - 0
+Odens FC - drillos il 6 - 1
+Silverdragon FC - Norrtulls sportklubb 1 - 0

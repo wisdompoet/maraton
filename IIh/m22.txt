@@ -1,0 +1,84 @@
+week 1
+2004-03-07
+Gaylords - Bror BK 5 - 0
+Tuppresor - IFK SPOKET 1 - 2
+Vikingarna SK - Saxemara 2 - 0
+Svin-Arne BK - Kalle Och Hans Vänner 5 - 0
+week 2
+2004-03-14
+Saxemara - Gaylords 3 - 2
+Kalle Och Hans Vänner - Tuppresor 0 - 0
+Bror BK - Svin-Arne BK 1 - 3
+IFK SPOKET - Vikingarna SK 0 - 2
+week 3
+2004-03-21
+Tuppresor - Bror BK 2 - 1
+Vikingarna SK - Kalle Och Hans Vänner 2 - 0
+Saxemara - IFK SPOKET 4 - 2
+Svin-Arne BK - Gaylords 2 - 5
+week 4
+2004-03-28
+Gaylords - IFK SPOKET 7 - 0
+Kalle Och Hans Vänner - Saxemara 4 - 0
+Bror BK - Vikingarna SK 0 - 1
+Svin-Arne BK - Tuppresor 3 - 5
+week 5
+2004-04-04
+Tuppresor - Gaylords 0 - 4
+Vikingarna SK - Svin-Arne BK 2 - 1
+Saxemara - Bror BK 1 - 3
+IFK SPOKET - Kalle Och Hans Vänner 0 - 7
+week 6
+2004-04-11
+Gaylords - Kalle Och Hans Vänner 5 - 0
+Tuppresor - Vikingarna SK 0 - 2
+Bror BK - IFK SPOKET 5 - 1
+Svin-Arne BK - Saxemara 4 - 0
+week 7
+2004-04-18
+Vikingarna SK - Gaylords 3 - 2
+Saxemara - Tuppresor 3 - 1
+Kalle Och Hans Vänner - Bror BK 2 - 0
+IFK SPOKET - Svin-Arne BK 3 - 4
+week 8
+2004-04-25
+Svin-Arne BK - IFK SPOKET 6 - 2
+Bror BK - Kalle Och Hans Vänner 0 - 2
+Tuppresor - Saxemara 0 - 4
+Gaylords - Vikingarna SK 2 - 2
+week 9
+2004-05-02
+Saxemara - Svin-Arne BK 2 - 3
+IFK SPOKET - Bror BK 4 - 1
+Vikingarna SK - Tuppresor 1 - 0
+Kalle Och Hans Vänner - Gaylords 1 - 5
+week 10
+2004-05-09
+Kalle Och Hans Vänner - IFK SPOKET 5 - 2
+Bror BK - Saxemara 0 - 1
+Svin-Arne BK - Vikingarna SK 3 - 0
+Gaylords - Tuppresor 2 - 0
+week 11
+2004-05-16
+Tuppresor - Svin-Arne BK 3 - 3
+Vikingarna SK - Bror BK 4 - 2
+Saxemara - Kalle Och Hans Vänner 3 - 0
+IFK SPOKET - Gaylords 8 - 1
+week 12
+2004-05-23
+Gaylords - Svin-Arne BK 4 - 1
+IFK SPOKET - Saxemara 2 - 4
+Kalle Och Hans Vänner - Vikingarna SK 2 - 1
+Bror BK - Tuppresor 5 - 2
+week 13
+2004-05-30
+Vikingarna SK - IFK SPOKET 2 - 0
+Svin-Arne BK - Bror BK 1 - 3
+Tuppresor - Kalle Och Hans Vänner 3 - 2
+Gaylords - Saxemara 3 - 3
+week 14
+2004-06-06
+Kalle Och Hans Vänner - Svin-Arne BK 0 - 8
+Saxemara - Vikingarna SK 3 - 1
+IFK SPOKET - Tuppresor 2 - 1
+Bror BK - Gaylords 3 - 2

@@ -1,0 +1,84 @@
+week 1
+2003-04-06
+ZIEV AttacK - Forsens FC 0 - 2
+PG GoalGetters - Tumtum Tribe 1 - 2
+ironside fc - Stream Team 2 - 1
+Pumuckel BK - BK Glenn 3 - 3
+week 2
+2003-04-13
+Stream Team - ZIEV AttacK 2 - 0
+BK Glenn - PG GoalGetters 2 - 2
+Forsens FC - Pumuckel BK 3 - 0
+Tumtum Tribe - ironside fc 2 - 0
+week 3
+2003-04-20
+PG GoalGetters - Forsens FC 1 - 3
+ironside fc - BK Glenn 3 - 0
+Stream Team - Tumtum Tribe 4 - 2
+Pumuckel BK - ZIEV AttacK 2 - 0
+week 4
+2003-04-27
+ZIEV AttacK - Tumtum Tribe 2 - 1
+BK Glenn - Stream Team 0 - 4
+Forsens FC - ironside fc 2 - 0
+Pumuckel BK - PG GoalGetters 4 - 2
+week 5
+2003-05-04
+PG GoalGetters - ZIEV AttacK 0 - 2
+ironside fc - Pumuckel BK 4 - 2
+Stream Team - Forsens FC 6 - 1
+Tumtum Tribe - BK Glenn 2 - 1
+week 6
+2003-05-11
+ZIEV AttacK - BK Glenn 6 - 0
+PG GoalGetters - ironside fc 4 - 0
+Forsens FC - Tumtum Tribe 0 - 0
+Pumuckel BK - Stream Team 1 - 3
+week 7
+2003-05-18
+ironside fc - ZIEV AttacK 0 - 1
+Stream Team - PG GoalGetters 1 - 3
+BK Glenn - Forsens FC 2 - 1
+Tumtum Tribe - Pumuckel BK 3 - 2
+week 8
+2003-05-25
+Pumuckel BK - Tumtum Tribe 2 - 3
+Forsens FC - BK Glenn 4 - 2
+PG GoalGetters - Stream Team 1 - 4
+ZIEV AttacK - ironside fc 0 - 3
+week 9
+2003-06-01
+Stream Team - Pumuckel BK 7 - 1
+Tumtum Tribe - Forsens FC 1 - 0
+ironside fc - PG GoalGetters 4 - 1
+BK Glenn - ZIEV AttacK 1 - 2
+week 10
+2003-06-08
+BK Glenn - Tumtum Tribe 0 - 1
+Forsens FC - Stream Team 1 - 3
+Pumuckel BK - ironside fc 3 - 1
+ZIEV AttacK - PG GoalGetters 1 - 4
+week 11
+2003-06-15
+PG GoalGetters - Pumuckel BK 8 - 2
+ironside fc - Forsens FC 2 - 2
+Stream Team - BK Glenn 5 - 0
+Tumtum Tribe - ZIEV AttacK 5 - 0
+week 12
+2003-06-22
+ZIEV AttacK - Pumuckel BK 0 - 3
+Tumtum Tribe - Stream Team 0 - 5
+BK Glenn - ironside fc 1 - 3
+Forsens FC - PG GoalGetters 3 - 1
+week 13
+2003-06-29
+ironside fc - Tumtum Tribe 2 - 1
+Pumuckel BK - Forsens FC 3 - 1
+PG GoalGetters - BK Glenn 5 - 4
+ZIEV AttacK - Stream Team 2 - 2
+week 14
+2003-07-06
+BK Glenn - Pumuckel BK 2 - 0
+Stream Team - ironside fc 4 - 2
+Tumtum Tribe - PG GoalGetters 3 - 2
+Forsens FC - ZIEV AttacK 1 - 0

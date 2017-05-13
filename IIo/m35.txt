@@ -1,0 +1,84 @@
+week 1
+2008-03-02
+Neonic FC - Aplared FC 0 - 1
+Norsgatan Kickers - LAKERS 5 - 0
+Stenbeck Strikers - Bengan_Bois 0 - 0
+Hoddle - Olsbacka bois 3 - 1
+week 2
+2008-03-09
+LAKERS - Stenbeck Strikers 2 - 3
+Bengan_Bois - Hoddle 3 - 1
+Aplared FC - Norsgatan Kickers 3 - 2
+Olsbacka bois - Neonic FC 3 - 0
+week 3
+2008-03-16
+Stenbeck Strikers - Aplared FC 1 - 2
+Hoddle - LAKERS 7 - 0
+Olsbacka bois - Bengan_Bois 2 - 0
+Norsgatan Kickers - Neonic FC 3 - 0
+week 4
+2008-03-23
+Neonic FC - Bengan_Bois 0 - 2
+LAKERS - Olsbacka bois 2 - 3
+Aplared FC - Hoddle 6 - 2
+Norsgatan Kickers - Stenbeck Strikers 4 - 0
+week 5
+2008-03-30
+Stenbeck Strikers - Neonic FC 1 - 0
+Hoddle - Norsgatan Kickers 3 - 5
+Bengan_Bois - LAKERS 6 - 0
+Olsbacka bois - Aplared FC 5 - 0
+week 6
+2008-04-06
+Neonic FC - LAKERS 0 - 2
+Norsgatan Kickers - Olsbacka bois 4 - 1
+Aplared FC - Bengan_Bois 4 - 1
+Stenbeck Strikers - Hoddle 3 - 1
+week 7
+2008-04-13
+LAKERS - Aplared FC 4 - 0
+Bengan_Bois - Norsgatan Kickers 0 - 3
+Olsbacka bois - Stenbeck Strikers 1 - 1
+Hoddle - Neonic FC 1 - 1
+week 8
+2008-04-20
+Norsgatan Kickers - Bengan_Bois 4 - 3
+Neonic FC - Hoddle 0 - 0
+Stenbeck Strikers - Olsbacka bois 3 - 3
+Aplared FC - LAKERS 5 - 0
+week 9
+2008-04-27
+Olsbacka bois - Norsgatan Kickers 2 - 1
+Bengan_Bois - Aplared FC 3 - 0
+Hoddle - Stenbeck Strikers 2 - 5
+LAKERS - Neonic FC 3 - 0
+week 10
+2008-05-04
+Aplared FC - Olsbacka bois 0 - 2
+LAKERS - Bengan_Bois 3 - 2
+Neonic FC - Stenbeck Strikers 0 - 2
+Norsgatan Kickers - Hoddle 5 - 4
+week 11
+2008-05-11
+Hoddle - Aplared FC 1 - 7
+Olsbacka bois - LAKERS 4 - 1
+Stenbeck Strikers - Norsgatan Kickers 1 - 3
+Bengan_Bois - Neonic FC 1 - 1
+week 12
+2008-05-18
+Aplared FC - Stenbeck Strikers 1 - 0
+LAKERS - Hoddle 4 - 1
+Neonic FC - Norsgatan Kickers 1 - 2
+Bengan_Bois - Olsbacka bois 2 - 1
+week 13
+2008-05-25
+Hoddle - Bengan_Bois 2 - 5
+Norsgatan Kickers - Aplared FC 3 - 2
+Stenbeck Strikers - LAKERS 0 - 0
+Neonic FC - Olsbacka bois 0 - 2
+week 14
+2008-06-01
+Aplared FC - Neonic FC 0 - 1
+LAKERS - Norsgatan Kickers 3 - 6
+Bengan_Bois - Stenbeck Strikers 3 - 0
+Olsbacka bois - Hoddle 4 - 2

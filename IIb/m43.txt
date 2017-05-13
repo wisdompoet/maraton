@@ -1,0 +1,84 @@
+week 1
+2010-08-15
+MacGyver - Björkensgrabbar 2 - 1
+LD United - Granviks BK 0 - 5
+Red Pool - Bro Broilers 2 - 0
+FC Listerlandet - Starcraft United 2 - 2
+week 2
+2010-08-22
+Starcraft United - MacGyver 2 - 4
+Bro Broilers - LD United 7 - 0
+Granviks BK - FC Listerlandet 5 - 1
+Björkensgrabbar - Red Pool 1 - 0
+week 3
+2010-08-29
+LD United - Starcraft United 0 - 8
+Red Pool - MacGyver 3 - 3
+FC Listerlandet - Björkensgrabbar 1 - 1
+Bro Broilers - Granviks BK 5 - 4
+week 4
+2010-09-05
+Granviks BK - Red Pool 5 - 0
+Starcraft United - Bro Broilers 5 - 0
+MacGyver - FC Listerlandet 3 - 0
+Björkensgrabbar - LD United 7 - 0
+week 5
+2010-09-12
+Red Pool - Starcraft United 0 - 1
+LD United - FC Listerlandet 0 - 6
+Granviks BK - Björkensgrabbar 1 - 2
+Bro Broilers - MacGyver 3 - 3
+week 6
+2010-09-19
+MacGyver - LD United 10 - 0
+FC Listerlandet - Red Pool 4 - 0
+Björkensgrabbar - Bro Broilers 4 - 1
+Starcraft United - Granviks BK 4 - 1
+week 7
+2010-09-26
+LD United - Red Pool 0 - 10
+Björkensgrabbar - Starcraft United 3 - 1
+Bro Broilers - FC Listerlandet 2 - 5
+Granviks BK - MacGyver 2 - 3
+week 8
+2010-10-03
+MacGyver - Granviks BK 7 - 0
+FC Listerlandet - Bro Broilers 6 - 2
+Starcraft United - Björkensgrabbar 2 - 1
+Red Pool - LD United 10 - 0
+week 9
+2010-10-10
+Granviks BK - Starcraft United 2 - 0
+Bro Broilers - Björkensgrabbar 4 - 1
+Red Pool - FC Listerlandet 6 - 1
+LD United - MacGyver 0 - 10
+week 10
+2010-10-17
+Björkensgrabbar - Granviks BK 0 - 1
+MacGyver - Bro Broilers 2 - 4
+FC Listerlandet - LD United 6 - 1
+Starcraft United - Red Pool 5 - 0
+week 11
+2010-10-24
+LD United - Björkensgrabbar 0 - 8
+FC Listerlandet - MacGyver 1 - 3
+Red Pool - Granviks BK 0 - 5
+Bro Broilers - Starcraft United 4 - 0
+week 12
+2010-10-31
+Björkensgrabbar - FC Listerlandet 3 - 2
+Granviks BK - Bro Broilers 5 - 3
+MacGyver - Red Pool 4 - 1
+Starcraft United - LD United 8 - 0
+week 13
+2010-11-07
+FC Listerlandet - Granviks BK 1 - 3
+Red Pool - Björkensgrabbar 2 - 1
+MacGyver - Starcraft United 1 - 1
+LD United - Bro Broilers 0 - 9
+week 14
+2010-11-14
+Starcraft United - FC Listerlandet 2 - 1
+Björkensgrabbar - MacGyver 2 - 3
+Granviks BK - LD United 10 - 0
+Bro Broilers - Red Pool 3 - 1

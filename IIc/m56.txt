@@ -1,0 +1,84 @@
+week 1
+2014-08-10
+AC Salami - Reac Arándano 2 - 1
+Gamla Tyresö FC - Grimsby Town FC 3 - 2
+grubben fc - Nyfors Stoners 1 - 3
+Nordpolen FF - Pettan IF 3 - 4
+week 2
+2014-08-17
+Nyfors Stoners - Gamla Tyresö FC 2 - 3
+Reac Arándano - Nordpolen FF 5 - 3
+Pettan IF - grubben fc 2 - 0
+Grimsby Town FC - AC Salami 3 - 3
+week 3
+2014-08-24
+Nordpolen FF - Nyfors Stoners 3 - 1
+Reac Arándano - Pettan IF 2 - 1
+AC Salami - Gamla Tyresö FC 2 - 3
+grubben fc - Grimsby Town FC 4 - 0
+week 4
+2014-08-31
+Gamla Tyresö FC - grubben fc 1 - 1
+Nyfors Stoners - Reac Arándano 2 - 0
+Grimsby Town FC - Nordpolen FF 1 - 3
+Pettan IF - AC Salami 4 - 0
+week 5
+2014-09-07
+Nordpolen FF - grubben fc 2 - 3
+Reac Arándano - Gamla Tyresö FC 2 - 2
+AC Salami - Nyfors Stoners 1 - 2
+Pettan IF - Grimsby Town FC 6 - 1
+week 6
+2014-09-14
+grubben fc - AC Salami 5 - 0
+Grimsby Town FC - Reac Arándano 5 - 4
+Nyfors Stoners - Pettan IF 3 - 1
+Gamla Tyresö FC - Nordpolen FF 3 - 0
+week 7
+2014-09-21
+Grimsby Town FC - Nyfors Stoners 4 - 0
+Pettan IF - Gamla Tyresö FC 2 - 2
+Reac Arándano - grubben fc 1 - 0
+Nordpolen FF - AC Salami 3 - 1
+week 8
+2014-09-28
+Nyfors Stoners - Grimsby Town FC 1 - 1
+AC Salami - Nordpolen FF 0 - 2
+grubben fc - Reac Arándano 3 - 2
+Gamla Tyresö FC - Pettan IF 2 - 1
+week 9
+2014-10-05
+Pettan IF - Nyfors Stoners 1 - 1
+Reac Arándano - Grimsby Town FC 3 - 0
+AC Salami - grubben fc 2 - 2
+Nordpolen FF - Gamla Tyresö FC 2 - 0
+week 10
+2014-10-12
+Grimsby Town FC - Pettan IF 1 - 0
+Nyfors Stoners - AC Salami 3 - 1
+Gamla Tyresö FC - Reac Arándano 6 - 1
+grubben fc - Nordpolen FF 0 - 1
+week 11
+2014-10-19
+Reac Arándano - Nyfors Stoners 3 - 0
+grubben fc - Gamla Tyresö FC 5 - 1
+Nordpolen FF - Grimsby Town FC 1 - 2
+AC Salami - Pettan IF 0 - 5
+week 12
+2014-10-26
+Grimsby Town FC - grubben fc 1 - 1
+Pettan IF - Reac Arándano 4 - 1
+Gamla Tyresö FC - AC Salami 2 - 0
+Nyfors Stoners - Nordpolen FF 0 - 1
+week 13
+2014-11-02
+AC Salami - Grimsby Town FC 1 - 3
+Gamla Tyresö FC - Nyfors Stoners 2 - 1
+grubben fc - Pettan IF 4 - 0
+Nordpolen FF - Reac Arándano 1 - 5
+week 14
+2014-11-09
+Nyfors Stoners - grubben fc 2 - 4
+Reac Arándano - AC Salami 1 - 1
+Grimsby Town FC - Gamla Tyresö FC 3 - 1
+Pettan IF - Nordpolen FF 3 - 1

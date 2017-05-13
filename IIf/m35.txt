@@ -1,84 +1,84 @@
-Omgång 1
-2008-03-02 (1/35)			
-Los butcheros - BusbyBabes	0 - 2	HT Re-Live
-Bjarke BoIS - BK Flash	3 - 4	HT Re-Live
-ChapmanS BK - Burners FBC	4 - 2	HT Re-Live
-FC Corvus Corax - A.I.F.	4 - 2	HT Re-Live
-Omgång 2
-2008-03-09 (2/35)			
-BusbyBabes - Bjarke BoIS	4 - 2	HT Re-Live
-BK Flash - ChapmanS BK	4 - 2	HT Re-Live
-Burners FBC - FC Corvus Corax	2 - 0	HT Re-Live
-A.I.F. - Los butcheros	4 - 2	HT Re-Live
-Omgång 3
-2008-03-16 (3/35)			
-Bjarke BoIS - Los butcheros	3 - 0	HT Re-Live
-FC Corvus Corax - BK Flash	3 - 2	HT Re-Live
-A.I.F. - Burners FBC	5 - 1	HT Re-Live
-ChapmanS BK - BusbyBabes	3 - 2	HT Re-Live
-Omgång 4
-2008-03-23 (4/35)			
-Bjarke BoIS - ChapmanS BK	1 - 3	HT Re-Live
-BK Flash - A.I.F.	2 - 9	HT Re-Live
-Los butcheros - Burners FBC	2 - 1	HT Re-Live
-BusbyBabes - FC Corvus Corax	3 - 3	HT Re-Live
-Omgång 5
-2008-03-30 (5/35)			
-Burners FBC - BK Flash	0 - 3	HT Re-Live
-ChapmanS BK - Los butcheros	6 - 2	HT Re-Live
-A.I.F. - BusbyBabes	1 - 3	HT Re-Live
-FC Corvus Corax - Bjarke BoIS	2 - 3	HT Re-Live
-Omgång 6
-2008-04-06 (6/35)			
-Los butcheros - BK Flash	1 - 2	HT Re-Live
-ChapmanS BK - FC Corvus Corax	5 - 2	HT Re-Live
-BusbyBabes - Burners FBC	2 - 0	HT Re-Live
-Bjarke BoIS - A.I.F.	3 - 2	HT Re-Live
-Omgång 7
-2008-04-13 (7/35)			
-BK Flash - BusbyBabes	0 - 3	HT Re-Live
-A.I.F. - ChapmanS BK	5 - 1	HT Re-Live
-Burners FBC - Bjarke BoIS	4 - 1	HT Re-Live
-FC Corvus Corax - Los butcheros	8 - 0	HT Re-Live
-Omgång 8
-2008-04-20 (8/35)			
-Los butcheros - FC Corvus Corax	2 - 0	HT Re-Live
-ChapmanS BK - A.I.F.	4 - 2	HT Re-Live
-Bjarke BoIS - Burners FBC	1 - 1	HT Re-Live
-BusbyBabes - BK Flash	5 - 0	HT Re-Live
-Omgång 9
-2008-04-27 (9/35)			
-Burners FBC - BusbyBabes	0 - 4	HT Re-Live
-BK Flash - Los butcheros	3 - 0	HT Re-Live
-A.I.F. - Bjarke BoIS	3 - 0	HT Re-Live
-FC Corvus Corax - ChapmanS BK	2 - 3	HT Re-Live
-Omgång 10
-2008-05-04 (10/35)			
-BusbyBabes - A.I.F.	6 - 1	HT Re-Live
-BK Flash - Burners FBC	4 - 0	HT Re-Live
-Los butcheros - ChapmanS BK	4 - 4	HT Re-Live
-Bjarke BoIS - FC Corvus Corax	7 - 0	HT Re-Live
-Omgång 11
-2008-05-11 (11/35)			
-ChapmanS BK - Bjarke BoIS	2 - 2	HT Re-Live
-FC Corvus Corax - BusbyBabes	2 - 5	HT Re-Live
-Burners FBC - Los butcheros	5 - 3	HT Re-Live
-A.I.F. - BK Flash	0 - 1	HT Re-Live
-Omgång 12
-2008-05-18 (12/35)			
-BK Flash - FC Corvus Corax	1 - 2	HT Re-Live
-Los butcheros - Bjarke BoIS	1 - 5	HT Re-Live
-BusbyBabes - ChapmanS BK	5 - 0	HT Re-Live
-Burners FBC - A.I.F.	1 - 3	HT Re-Live
-Omgång 13
-2008-05-25 (13/35)			
-FC Corvus Corax - Burners FBC	4 - 2	HT Re-Live
-Los butcheros - A.I.F.	4 - 2	HT Re-Live
-Bjarke BoIS - BusbyBabes	2 - 4	HT Re-Live
-ChapmanS BK - BK Flash	3 - 0	HT Re-Live
-Omgång 14
-2008-06-01 (14/35)			
-BusbyBabes - Los butcheros	4 - 0	HT Re-Live
-BK Flash - Bjarke BoIS	3 - 1	HT Re-Live
-Burners FBC - ChapmanS BK	7 - 1	HT Re-Live
-A.I.F. - FC Corvus Corax	2 - 3	HT Re-Live
+week 1
+2008-03-02
+Los butcheros - BusbyBabes 0 - 2
+Bjarke BoIS - BK Flash 3 - 4
+ChapmanS BK - Burners FBC 4 - 2
+FC Corvus Corax - A.I.F. 4 - 2
+week 2
+2008-03-09
+BusbyBabes - Bjarke BoIS 4 - 2
+BK Flash - ChapmanS BK 4 - 2
+Burners FBC - FC Corvus Corax 2 - 0
+A.I.F. - Los butcheros 4 - 2
+week 3
+2008-03-16
+Bjarke BoIS - Los butcheros 3 - 0
+FC Corvus Corax - BK Flash 3 - 2
+A.I.F. - Burners FBC 5 - 1
+ChapmanS BK - BusbyBabes 3 - 2
+week 4
+2008-03-23
+Bjarke BoIS - ChapmanS BK 1 - 3
+BK Flash - A.I.F. 2 - 9
+Los butcheros - Burners FBC 2 - 1
+BusbyBabes - FC Corvus Corax 3 - 3
+week 5
+2008-03-30
+Burners FBC - BK Flash 0 - 3
+ChapmanS BK - Los butcheros 6 - 2
+A.I.F. - BusbyBabes 1 - 3
+FC Corvus Corax - Bjarke BoIS 2 - 3
+week 6
+2008-04-06
+Los butcheros - BK Flash 1 - 2
+ChapmanS BK - FC Corvus Corax 5 - 2
+BusbyBabes - Burners FBC 2 - 0
+Bjarke BoIS - A.I.F. 3 - 2
+week 7
+2008-04-13
+BK Flash - BusbyBabes 0 - 3
+A.I.F. - ChapmanS BK 5 - 1
+Burners FBC - Bjarke BoIS 4 - 1
+FC Corvus Corax - Los butcheros 8 - 0
+week 8
+2008-04-20
+Los butcheros - FC Corvus Corax 2 - 0
+ChapmanS BK - A.I.F. 4 - 2
+Bjarke BoIS - Burners FBC 1 - 1
+BusbyBabes - BK Flash 5 - 0
+week 9
+2008-04-27
+Burners FBC - BusbyBabes 0 - 4
+BK Flash - Los butcheros 3 - 0
+A.I.F. - Bjarke BoIS 3 - 0
+FC Corvus Corax - ChapmanS BK 2 - 3
+week 10
+2008-05-04
+BusbyBabes - A.I.F. 6 - 1
+BK Flash - Burners FBC 4 - 0
+Los butcheros - ChapmanS BK 4 - 4
+Bjarke BoIS - FC Corvus Corax 7 - 0
+week 11
+2008-05-11
+ChapmanS BK - Bjarke BoIS 2 - 2
+FC Corvus Corax - BusbyBabes 2 - 5
+Burners FBC - Los butcheros 5 - 3
+A.I.F. - BK Flash 0 - 1
+week 12
+2008-05-18
+BK Flash - FC Corvus Corax 1 - 2
+Los butcheros - Bjarke BoIS 1 - 5
+BusbyBabes - ChapmanS BK 5 - 0
+Burners FBC - A.I.F. 1 - 3
+week 13
+2008-05-25
+FC Corvus Corax - Burners FBC 4 - 2
+Los butcheros - A.I.F. 4 - 2
+Bjarke BoIS - BusbyBabes 2 - 4
+ChapmanS BK - BK Flash 3 - 0
+week 14
+2008-06-01
+BusbyBabes - Los butcheros 4 - 0
+BK Flash - Bjarke BoIS 3 - 1
+Burners FBC - ChapmanS BK 7 - 1
+A.I.F. - FC Corvus Corax 2 - 3

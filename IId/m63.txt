@@ -1,0 +1,84 @@
+week 1
+2016-10-02
+Forza IF - Lögdö bruk IF 5 - 2
+Rölanda BK - Lajka Dobbs lirare 4 - 2
+FC Mackan - FC Gruffalo 0 - 5
+FC Invasion - Starfighter 4 - 3
+week 2
+2016-10-09
+Starfighter - Rölanda BK 7 - 2
+FC Gruffalo - FC Invasion 2 - 1
+Lögdö bruk IF - FC Mackan 9 - 0
+Lajka Dobbs lirare - Forza IF 1 - 1
+week 3
+2016-10-16
+FC Invasion - Lajka Dobbs lirare 7 - 1
+Forza IF - Rölanda BK 5 - 0
+Lögdö bruk IF - FC Gruffalo 3 - 0
+FC Mackan - Starfighter 0 - 7
+week 4
+2016-10-23
+Starfighter - Lögdö bruk IF 1 - 3
+Rölanda BK - FC Invasion 0 - 5
+FC Gruffalo - Forza IF 4 - 0
+Lajka Dobbs lirare - FC Mackan 6 - 0
+week 5
+2016-10-30
+FC Gruffalo - Lajka Dobbs lirare 5 - 0
+Forza IF - Starfighter 3 - 7
+Lögdö bruk IF - Rölanda BK 5 - 4
+FC Mackan - FC Invasion 0 - 8
+week 6
+2016-11-06
+Starfighter - FC Gruffalo 0 - 2
+Rölanda BK - FC Mackan 6 - 1
+Lajka Dobbs lirare - Lögdö bruk IF 2 - 5
+FC Invasion - Forza IF 3 - 1
+week 7
+2016-11-13
+FC Gruffalo - Rölanda BK 4 - 0
+Lögdö bruk IF - FC Invasion 1 - 4
+Lajka Dobbs lirare - Starfighter 1 - 2
+FC Mackan - Forza IF 2 - 5
+week 8
+2016-11-20
+Forza IF - FC Mackan 8 - 1
+Rölanda BK - FC Gruffalo 1 - 2
+FC Invasion - Lögdö bruk IF 1 - 1
+Starfighter - Lajka Dobbs lirare 3 - 0
+week 9
+2016-11-27
+FC Mackan - Rölanda BK 2 - 2
+Forza IF - FC Invasion 2 - 4
+Lögdö bruk IF - Lajka Dobbs lirare 3 - 0
+FC Gruffalo - Starfighter 2 - 1
+week 10
+2016-12-04
+Rölanda BK - Lögdö bruk IF 2 - 3
+Lajka Dobbs lirare - FC Gruffalo 2 - 2
+FC Invasion - FC Mackan 4 - 1
+Starfighter - Forza IF 6 - 1
+week 11
+2016-12-11
+Forza IF - FC Gruffalo 0 - 0
+FC Invasion - Rölanda BK 4 - 0
+Lögdö bruk IF - Starfighter 3 - 0
+FC Mackan - Lajka Dobbs lirare 0 - 6
+week 12
+2016-12-18
+Lajka Dobbs lirare - FC Invasion 2 - 1
+FC Gruffalo - Lögdö bruk IF 1 - 2
+Rölanda BK - Forza IF 1 - 2
+Starfighter - FC Mackan 7 - 2
+week 13
+2016-12-25
+Rölanda BK - Starfighter 3 - 4
+Forza IF - Lajka Dobbs lirare 1 - 1
+FC Invasion - FC Gruffalo 1 - 3
+FC Mackan - Lögdö bruk IF 0 - 9
+week 14
+2017-01-01
+Starfighter - FC Invasion 2 - 0
+Lajka Dobbs lirare - Rölanda BK 8 - 1
+Lögdö bruk IF - Forza IF 3 - 0
+FC Gruffalo - FC Mackan 7 - 0

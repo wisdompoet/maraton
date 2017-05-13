@@ -1,0 +1,84 @@
+week 1
+2012-10-07
+KC's Mimellium - Ik Blåbär 1 - 0
+Xpander - Södermalm City 5 - 0
+Mighty BK - Speedyking FK 1 - 9
+MacGyver - Emperors SK 3 - 0
+week 2
+2012-10-14
+Ik Blåbär - MacGyver 1 - 4
+Speedyking FK - KC's Mimellium 4 - 2
+Södermalm City - Mighty BK 9 - 0
+Emperors SK - Xpander 1 - 2
+week 3
+2012-10-21
+Södermalm City - Speedyking FK 3 - 1
+KC's Mimellium - Emperors SK 3 - 2
+Xpander - MacGyver 4 - 1
+Mighty BK - Ik Blåbär 0 - 10
+week 4
+2012-10-28
+Emperors SK - Mighty BK 6 - 0
+Speedyking FK - Xpander 2 - 0
+Ik Blåbär - Södermalm City 2 - 3
+MacGyver - KC's Mimellium 5 - 0
+week 5
+2012-11-04
+Södermalm City - MacGyver 2 - 0
+Speedyking FK - Emperors SK 5 - 0
+Xpander - Ik Blåbär 4 - 0
+Mighty BK - KC's Mimellium 0 - 10
+week 6
+2012-11-11
+MacGyver - Mighty BK 9 - 0
+KC's Mimellium - Xpander 4 - 1
+Emperors SK - Södermalm City 1 - 1
+Ik Blåbär - Speedyking FK 0 - 3
+week 7
+2012-11-18
+Speedyking FK - MacGyver 5 - 2
+Mighty BK - Xpander 0 - 9
+Södermalm City - KC's Mimellium 4 - 3
+Emperors SK - Ik Blåbär 1 - 0
+week 8
+2012-11-25
+KC's Mimellium - Södermalm City 3 - 2
+Ik Blåbär - Emperors SK 1 - 0
+MacGyver - Speedyking FK 3 - 0
+Xpander - Mighty BK 10 - 0
+week 9
+2012-12-02
+Speedyking FK - Ik Blåbär 1 - 0
+Södermalm City - Emperors SK 6 - 1
+Xpander - KC's Mimellium 1 - 2
+Mighty BK - MacGyver 0 - 10
+week 10
+2012-12-09
+Ik Blåbär - Xpander 1 - 2
+MacGyver - Södermalm City 5 - 3
+KC's Mimellium - Mighty BK 8 - 0
+Emperors SK - Speedyking FK 1 - 1
+week 11
+2012-12-16
+KC's Mimellium - MacGyver 5 - 1
+Södermalm City - Ik Blåbär 4 - 0
+Xpander - Speedyking FK 0 - 2
+Mighty BK - Emperors SK 0 - 5
+week 12
+2012-12-23
+Emperors SK - KC's Mimellium 1 - 3
+MacGyver - Xpander 1 - 0
+Speedyking FK - Södermalm City 7 - 1
+Ik Blåbär - Mighty BK 8 - 0
+week 13
+2012-12-30
+Xpander - Emperors SK 3 - 0
+MacGyver - Ik Blåbär 3 - 0
+KC's Mimellium - Speedyking FK 1 - 1
+Mighty BK - Södermalm City 0 - 9
+week 14
+2013-01-06
+Ik Blåbär - KC's Mimellium 2 - 0
+Emperors SK - MacGyver 2 - 4
+Speedyking FK - Mighty BK 12 - 0
+Södermalm City - Xpander 1 - 1

@@ -1,0 +1,84 @@
+week 1
+2003-07-27
+Vildmarken Utd - NK Hajduk 6 - 1
+Hebbes vänner - Bloom_County 3 - 1
+DrPepper FC - FC Grodan 2 - 1
+Charlton FC - Bissett Rovers 5 - 2
+week 2
+2003-08-03
+FC Grodan - Vildmarken Utd 2 - 5
+Bissett Rovers - Hebbes vänner 0 - 2
+NK Hajduk - Charlton FC 1 - 6
+Bloom_County - DrPepper FC 0 - 5
+week 3
+2003-08-10
+Hebbes vänner - NK Hajduk 1 - 1
+DrPepper FC - Bissett Rovers 2 - 1
+FC Grodan - Bloom_County 2 - 1
+Charlton FC - Vildmarken Utd 4 - 3
+week 4
+2003-08-17
+Vildmarken Utd - Bloom_County 3 - 1
+Bissett Rovers - FC Grodan 3 - 0
+NK Hajduk - DrPepper FC 3 - 1
+Charlton FC - Hebbes vänner 0 - 4
+week 5
+2003-08-24
+Hebbes vänner - Vildmarken Utd 3 - 0
+DrPepper FC - Charlton FC 5 - 1
+FC Grodan - NK Hajduk 1 - 2
+Bloom_County - Bissett Rovers 3 - 3
+week 6
+2003-08-31
+Vildmarken Utd - Bissett Rovers 2 - 1
+Hebbes vänner - DrPepper FC 1 - 3
+NK Hajduk - Bloom_County 1 - 2
+Charlton FC - FC Grodan 5 - 0
+week 7
+2003-09-07
+DrPepper FC - Vildmarken Utd 5 - 1
+FC Grodan - Hebbes vänner 1 - 0
+Bissett Rovers - NK Hajduk 0 - 2
+Bloom_County - Charlton FC 1 - 3
+week 8
+2003-09-14
+Charlton FC - Bloom_County 4 - 2
+NK Hajduk - Bissett Rovers 2 - 2
+Hebbes vänner - FC Grodan 5 - 1
+Vildmarken Utd - DrPepper FC 0 - 6
+week 9
+2003-09-21
+FC Grodan - Charlton FC 1 - 1
+Bloom_County - NK Hajduk 3 - 2
+DrPepper FC - Hebbes vänner 6 - 0
+Bissett Rovers - Vildmarken Utd 3 - 1
+week 10
+2003-09-28
+Bissett Rovers - Bloom_County 2 - 5
+NK Hajduk - FC Grodan 4 - 0
+Charlton FC - DrPepper FC 1 - 5
+Vildmarken Utd - Hebbes vänner 1 - 1
+week 11
+2003-10-05
+Hebbes vänner - Charlton FC 2 - 2
+DrPepper FC - NK Hajduk 3 - 1
+FC Grodan - Bissett Rovers 4 - 1
+Bloom_County - Vildmarken Utd 4 - 2
+week 12
+2003-10-12
+Vildmarken Utd - Charlton FC 3 - 3
+Bloom_County - FC Grodan 4 - 1
+Bissett Rovers - DrPepper FC 1 - 3
+NK Hajduk - Hebbes vänner 2 - 1
+week 13
+2003-10-19
+DrPepper FC - Bloom_County 6 - 0
+Charlton FC - NK Hajduk 1 - 3
+Hebbes vänner - Bissett Rovers 4 - 0
+Vildmarken Utd - FC Grodan 1 - 2
+week 14
+2003-10-26
+Bissett Rovers - Charlton FC 0 - 3
+FC Grodan - DrPepper FC 1 - 3
+Bloom_County - Hebbes vänner 3 - 4
+NK Hajduk - Vildmarken Utd 5 - 1

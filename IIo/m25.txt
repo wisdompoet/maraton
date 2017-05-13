@@ -1,0 +1,84 @@
+week 1
+2005-02-06
+Starwars - Gudö 5 - 1
+Storhagen United - BK Glenn 2 - 2
+Wolfpack United - IFK Alva 3 - 1
+Topeka Gators - Gunners FC 2 - 0
+week 2
+2005-02-13
+IFK Alva - Starwars 5 - 0
+Gunners FC - Storhagen United 1 - 2
+Gudö - Topeka Gators 2 - 3
+BK Glenn - Wolfpack United 1 - 2
+week 3
+2005-02-20
+Storhagen United - Gudö 3 - 1
+Wolfpack United - Gunners FC 1 - 1
+IFK Alva - BK Glenn 1 - 1
+Topeka Gators - Starwars 4 - 1
+week 4
+2005-02-27
+Starwars - BK Glenn 3 - 2
+Gunners FC - IFK Alva 1 - 1
+Gudö - Wolfpack United 1 - 2
+Topeka Gators - Storhagen United 2 - 2
+week 5
+2005-03-06
+Storhagen United - Starwars 4 - 1
+Wolfpack United - Topeka Gators 1 - 2
+IFK Alva - Gudö 0 - 5
+BK Glenn - Gunners FC 4 - 0
+week 6
+2005-03-13
+Starwars - Gunners FC 2 - 1
+Storhagen United - Wolfpack United 3 - 0
+Gudö - BK Glenn 3 - 0
+Topeka Gators - IFK Alva 6 - 2
+week 7
+2005-03-20
+Wolfpack United - Starwars 0 - 1
+IFK Alva - Storhagen United 3 - 3
+Gunners FC - Gudö 4 - 3
+BK Glenn - Topeka Gators 3 - 3
+week 8
+2005-03-27
+Topeka Gators - BK Glenn 3 - 0
+Gudö - Gunners FC 3 - 1
+Storhagen United - IFK Alva 3 - 1
+Starwars - Wolfpack United 3 - 1
+week 9
+2005-04-03
+IFK Alva - Topeka Gators 1 - 6
+BK Glenn - Gudö 3 - 2
+Wolfpack United - Storhagen United 5 - 3
+Gunners FC - Starwars 4 - 1
+week 10
+2005-04-10
+Gunners FC - BK Glenn 2 - 1
+Gudö - IFK Alva 3 - 3
+Topeka Gators - Wolfpack United 3 - 5
+Starwars - Storhagen United 2 - 0
+week 11
+2005-04-17
+Storhagen United - Topeka Gators 4 - 3
+Wolfpack United - Gudö 3 - 0
+IFK Alva - Gunners FC 4 - 0
+BK Glenn - Starwars 3 - 3
+week 12
+2005-04-24
+Starwars - Topeka Gators 3 - 2
+BK Glenn - IFK Alva 6 - 2
+Gunners FC - Wolfpack United 1 - 1
+Gudö - Storhagen United 2 - 3
+week 13
+2005-05-01
+Wolfpack United - BK Glenn 2 - 1
+Topeka Gators - Gudö 3 - 1
+Storhagen United - Gunners FC 6 - 1
+Starwars - IFK Alva 5 - 1
+week 14
+2005-05-08
+Gunners FC - Topeka Gators 0 - 5
+IFK Alva - Wolfpack United 3 - 4
+BK Glenn - Storhagen United 2 - 3
+Gudö - Starwars 4 - 3

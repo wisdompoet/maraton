@@ -1,0 +1,84 @@
+week 1
+2013-05-19
+Team Carlstad  - IFK Godtemplarna 1 - 2
+Konstanz Spring FC - Scarface FC 3 - 3
+BK Kil - Charlie Watts United 1 - 3
+Bakerkings - Bo-laget 2 - 1
+week 2
+2013-05-26
+Charlie Watts United - Konstanz Spring FC 0 - 3
+Bo-laget - BK Kil 1 - 0
+Scarface FC - Team Carlstad  2 - 1
+IFK Godtemplarna - Bakerkings 3 - 1
+week 3
+2013-06-02
+BK Kil - Scarface FC 0 - 5
+Konstanz Spring FC - IFK Godtemplarna 3 - 1
+Bakerkings - Team Carlstad  3 - 0
+Bo-laget - Charlie Watts United 0 - 4
+week 4
+2013-06-09
+Scarface FC - Bo-laget 5 - 0
+Charlie Watts United - Bakerkings 3 - 2
+IFK Godtemplarna - BK Kil 5 - 0
+Team Carlstad  - Konstanz Spring FC 1 - 2
+week 5
+2013-06-16
+Charlie Watts United - IFK Godtemplarna 1 - 3
+Bakerkings - Scarface FC 6 - 2
+Bo-laget - Team Carlstad  0 - 3
+BK Kil - Konstanz Spring FC 1 - 7
+week 6
+2013-06-23
+Scarface FC - Charlie Watts United 2 - 1
+Konstanz Spring FC - Bakerkings 0 - 2
+IFK Godtemplarna - Bo-laget 6 - 0
+Team Carlstad  - BK Kil 4 - 1
+week 7
+2013-06-30
+IFK Godtemplarna - Scarface FC 5 - 0
+Bo-laget - Konstanz Spring FC 0 - 7
+Charlie Watts United - Team Carlstad  3 - 0
+BK Kil - Bakerkings 0 - 3
+week 8
+2013-07-07
+Scarface FC - IFK Godtemplarna 5 - 2
+Team Carlstad  - Charlie Watts United 4 - 2
+Konstanz Spring FC - Bo-laget 3 - 0
+Bakerkings - BK Kil 8 - 0
+week 9
+2013-07-14
+Bo-laget - IFK Godtemplarna 0 - 4
+Charlie Watts United - Scarface FC 1 - 3
+Bakerkings - Konstanz Spring FC 3 - 1
+BK Kil - Team Carlstad  0 - 4
+week 10
+2013-07-21
+IFK Godtemplarna - Charlie Watts United 4 - 0
+Scarface FC - Bakerkings 1 - 4
+Team Carlstad  - Bo-laget 4 - 1
+Konstanz Spring FC - BK Kil 7 - 0
+week 11
+2013-07-28
+Bo-laget - Scarface FC 0 - 5
+Konstanz Spring FC - Team Carlstad  5 - 1
+Bakerkings - Charlie Watts United 1 - 1
+BK Kil - IFK Godtemplarna 0 - 8
+week 12
+2013-08-04
+Charlie Watts United - Bo-laget 5 - 0
+Scarface FC - BK Kil 7 - 0
+IFK Godtemplarna - Konstanz Spring FC 6 - 0
+Team Carlstad  - Bakerkings 2 - 1
+week 13
+2013-08-11
+Team Carlstad  - Scarface FC 5 - 1
+Bakerkings - IFK Godtemplarna 4 - 3
+BK Kil - Bo-laget 0 - 6
+Konstanz Spring FC - Charlie Watts United 1 - 1
+week 14
+2013-08-18
+Scarface FC - Konstanz Spring FC 4 - 3
+IFK Godtemplarna - Team Carlstad  5 - 2
+Charlie Watts United - BK Kil 7 - 0
+Bo-laget - Bakerkings 0 - 4

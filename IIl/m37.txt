@@ -1,0 +1,84 @@
+week 1
+2008-10-12
+Team Strikers - AIK Calcio 5 - 2
+The Iron Warriors - Malmö C 5 - 1
+Bagarns FF - Oddballs FF 0 - 2
+Gallblåsa IF - Goodwon FC 7 - 1
+week 2
+2008-10-19
+Oddballs FF - Team Strikers 1 - 3
+Goodwon FC - The Iron Warriors 5 - 0
+AIK Calcio - Gallblåsa IF 3 - 5
+Malmö C - Bagarns FF 3 - 2
+week 3
+2008-10-26
+The Iron Warriors - AIK Calcio 4 - 1
+Bagarns FF - Goodwon FC 4 - 2
+Oddballs FF - Malmö C 4 - 2
+Gallblåsa IF - Team Strikers 5 - 1
+week 4
+2008-11-02
+Gallblåsa IF - The Iron Warriors 4 - 0
+Team Strikers - Malmö C 4 - 2
+AIK Calcio - Bagarns FF 5 - 1
+Goodwon FC - Oddballs FF 4 - 2
+week 5
+2008-11-09
+The Iron Warriors - Team Strikers 1 - 2
+Bagarns FF - Gallblåsa IF 0 - 1
+Oddballs FF - AIK Calcio 0 - 6
+Malmö C - Goodwon FC 4 - 0
+week 6
+2008-11-16
+The Iron Warriors - Bagarns FF 1 - 3
+AIK Calcio - Malmö C 6 - 1
+Team Strikers - Goodwon FC 4 - 2
+Gallblåsa IF - Oddballs FF 3 - 1
+week 7
+2008-11-23
+Bagarns FF - Team Strikers 2 - 4
+Oddballs FF - The Iron Warriors 3 - 2
+Goodwon FC - AIK Calcio 6 - 3
+Malmö C - Gallblåsa IF 0 - 4
+week 8
+2008-11-30
+The Iron Warriors - Oddballs FF 0 - 2
+AIK Calcio - Goodwon FC 4 - 1
+Team Strikers - Bagarns FF 2 - 0
+Gallblåsa IF - Malmö C 8 - 1
+week 9
+2008-12-07
+Oddballs FF - Gallblåsa IF 2 - 0
+Malmö C - AIK Calcio 6 - 1
+Bagarns FF - The Iron Warriors 4 - 1
+Goodwon FC - Team Strikers 6 - 1
+week 10
+2008-12-14
+Goodwon FC - Malmö C 3 - 2
+AIK Calcio - Oddballs FF 5 - 1
+Gallblåsa IF - Bagarns FF 4 - 1
+Team Strikers - The Iron Warriors 3 - 2
+week 11
+2008-12-21
+The Iron Warriors - Gallblåsa IF 3 - 3
+Bagarns FF - AIK Calcio 2 - 1
+Oddballs FF - Goodwon FC 1 - 5
+Malmö C - Team Strikers 2 - 1
+week 12
+2008-12-28
+Malmö C - Oddballs FF 3 - 1
+Team Strikers - Gallblåsa IF 1 - 3
+Goodwon FC - Bagarns FF 3 - 0
+AIK Calcio - The Iron Warriors 4 - 2
+week 13
+2009-01-04
+Bagarns FF - Malmö C 2 - 5
+Gallblåsa IF - AIK Calcio 3 - 3
+Team Strikers - Oddballs FF 5 - 2
+The Iron Warriors - Goodwon FC 3 - 3
+week 14
+2009-01-11
+Goodwon FC - Gallblåsa IF 1 - 2
+Malmö C - The Iron Warriors 4 - 1
+Oddballs FF - Bagarns FF 1 - 1
+AIK Calcio - Team Strikers 0 - 5

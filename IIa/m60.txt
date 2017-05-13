@@ -1,84 +1,84 @@
- Omgång 1
-2015-11-01 (1/60) 			
-	AC Salami - Edsbergs FK 	0 - 4 	HT Re-Live
-	Chimboraze - Angels of Gothenburg 	0 - 8 	HT Re-Live
-	Söders GoIF - FC Thad 	3 - 1 	HT Re-Live
-	Vikhagen IF - FC Edstena 	4 - 1 	HT Re-Live
-Omgång 2
-2015-11-08 (2/60) 			
-	Edsbergs FK - Söders GoIF 	4 - 3 	HT Re-Live
-	FC Thad - Chimboraze 	6 - 0 	HT Re-Live
-	FC Edstena - AC Salami 	6 - 2 	HT Re-Live
-	Angels of Gothenburg - Vikhagen IF 	4 - 0 	HT Re-Live
-Omgång 3
-2015-11-15 (3/60) 			
-	Vikhagen IF - Edsbergs FK 	2 - 2 	HT Re-Live
-	FC Thad - Angels of Gothenburg 	4 - 2 	HT Re-Live
-	Söders GoIF - AC Salami 	4 - 1 	HT Re-Live
-	Chimboraze - FC Edstena 	0 - 6 	HT Re-Live
-Omgång 4
-2015-11-22 (4/60) 			
-	Edsbergs FK - Chimboraze 	6 - 1 	HT Re-Live
-	Angels of Gothenburg - Söders GoIF 	2 - 2 	HT Re-Live
-	FC Edstena - FC Thad 	2 - 2 	HT Re-Live
-	AC Salami - Vikhagen IF 	0 - 4 	HT Re-Live
-Omgång 5
-2015-11-29 (5/60) 			
-	Söders GoIF - FC Edstena 	5 - 0 	HT Re-Live
-	Angels of Gothenburg - Edsbergs FK 	2 - 2 	HT Re-Live
-	FC Thad - AC Salami 	4 - 0 	HT Re-Live
-	Chimboraze - Vikhagen IF 	1 - 6 	HT Re-Live
-Omgång 6
-2015-12-06 (6/60) 			
-	FC Edstena - Angels of Gothenburg 	1 - 1 	HT Re-Live
-	AC Salami - Chimboraze 	9 - 0 	HT Re-Live
-	Vikhagen IF - Söders GoIF 	1 - 3 	HT Re-Live
-	Edsbergs FK - FC Thad 	4 - 0 	HT Re-Live
-Omgång 7
-2015-12-13 (7/60) 			
-	Chimboraze - Söders GoIF 	1 - 5 	HT Re-Live
-	Angels of Gothenburg - AC Salami 	6 - 1 	HT Re-Live
-	FC Thad - Vikhagen IF 	4 - 4 	HT Re-Live
-	Edsbergs FK - FC Edstena 	4 - 3 	HT Re-Live
-Omgång 8
-2015-12-20 (8/60) 			
-	FC Edstena - Edsbergs FK 	0 - 4 	HT Re-Live
-	Söders GoIF - Chimboraze 	5 - 0 	HT Re-Live
-	Vikhagen IF - FC Thad 	5 - 1 	HT Re-Live
-	AC Salami - Angels of Gothenburg 	1 - 3 	HT Re-Live
-Omgång 9
-2015-12-27 (9/60) 			
-	Angels of Gothenburg - FC Edstena 	3 - 1 	HT Re-Live
-	FC Thad - Edsbergs FK 	1 - 0 	HT Re-Live
-	Chimboraze - AC Salami 	0 - 5 	HT Re-Live
-	Söders GoIF - Vikhagen IF 	4 - 1 	HT Re-Live
-Omgång 10
-2016-01-03 (10/60) 			
-	FC Edstena - Söders GoIF 	2 - 3 	HT Re-Live
-	Edsbergs FK - Angels of Gothenburg 	5 - 0 	HT Re-Live
-	AC Salami - FC Thad 	1 - 4 	HT Re-Live
-	Vikhagen IF - Chimboraze 	7 - 0 	HT Re-Live
-Omgång 11
-2016-01-10 (11/60) 			
-	FC Thad - FC Edstena 	4 - 2 	HT Re-Live
-	Söders GoIF - Angels of Gothenburg 	2 - 0 	HT Re-Live
-	Vikhagen IF - AC Salami 	2 - 0 	HT Re-Live
-	Chimboraze - Edsbergs FK 	0 - 7 	HT Re-Live
-Omgång 12
-2016-01-17 (12/60) 			
-	Angels of Gothenburg - FC Thad 	5 - 0 	HT Re-Live
-	Edsbergs FK - Vikhagen IF 	4 - 1 	HT Re-Live
-	AC Salami - Söders GoIF 	0 - 3 	HT Re-Live
-	FC Edstena - Chimboraze 	7 - 0 	HT Re-Live
-Omgång 13
-2016-01-24 (13/60) 			
-	AC Salami - FC Edstena 	4 - 4 	HT Re-Live
-	Söders GoIF - Edsbergs FK 	4 - 2 	HT Re-Live
-	Vikhagen IF - Angels of Gothenburg 	3 - 2 	HT Re-Live
-	Chimboraze - FC Thad 	0 - 10 	HT Re-Live
-Omgång 14
-2016-01-31 (14/60) 			
-	FC Edstena - Vikhagen IF 	3 - 2 	HT Re-Live
-	Edsbergs FK - AC Salami 	8 - 0 	HT Re-Live
-	FC Thad - Söders GoIF 	4 - 4 	HT Re-Live
-	Angels of Gothenburg - Chimboraze 	10 - 0 	HT Re-Live
+week 1
+2015-11-01
+AC Salami - Edsbergs FK 0 - 4
+Chimboraze - Angels of Gothenburg 0 - 8
+Söders GoIF - FC Thad 3 - 1
+Vikhagen IF - FC Edstena 4 - 1
+week 2
+2015-11-08
+Edsbergs FK - Söders GoIF 4 - 3
+FC Thad - Chimboraze 6 - 0
+FC Edstena - AC Salami 6 - 2
+Angels of Gothenburg - Vikhagen IF 4 - 0
+week 3
+2015-11-15
+Vikhagen IF - Edsbergs FK 2 - 2
+FC Thad - Angels of Gothenburg 4 - 2
+Söders GoIF - AC Salami 4 - 1
+Chimboraze - FC Edstena 0 - 6
+week 4
+2015-11-22
+Edsbergs FK - Chimboraze 6 - 1
+Angels of Gothenburg - Söders GoIF 2 - 2
+FC Edstena - FC Thad 2 - 2
+AC Salami - Vikhagen IF 0 - 4
+week 5
+2015-11-29
+Söders GoIF - FC Edstena 5 - 0
+Angels of Gothenburg - Edsbergs FK 2 - 2
+FC Thad - AC Salami 4 - 0
+Chimboraze - Vikhagen IF 1 - 6
+week 6
+2015-12-06
+FC Edstena - Angels of Gothenburg 1 - 1
+AC Salami - Chimboraze 9 - 0
+Vikhagen IF - Söders GoIF 1 - 3
+Edsbergs FK - FC Thad 4 - 0
+week 7
+2015-12-13
+Chimboraze - Söders GoIF 1 - 5
+Angels of Gothenburg - AC Salami 6 - 1
+FC Thad - Vikhagen IF 4 - 4
+Edsbergs FK - FC Edstena 4 - 3
+week 8
+2015-12-20
+FC Edstena - Edsbergs FK 0 - 4
+Söders GoIF - Chimboraze 5 - 0
+Vikhagen IF - FC Thad 5 - 1
+AC Salami - Angels of Gothenburg 1 - 3
+week 9
+2015-12-27
+Angels of Gothenburg - FC Edstena 3 - 1
+FC Thad - Edsbergs FK 1 - 0
+Chimboraze - AC Salami 0 - 5
+Söders GoIF - Vikhagen IF 4 - 1
+week 10
+2016-01-03
+FC Edstena - Söders GoIF 2 - 3
+Edsbergs FK - Angels of Gothenburg 5 - 0
+AC Salami - FC Thad 1 - 4
+Vikhagen IF - Chimboraze 7 - 0
+week 11
+2016-01-10
+FC Thad - FC Edstena 4 - 2
+Söders GoIF - Angels of Gothenburg 2 - 0
+Vikhagen IF - AC Salami 2 - 0
+Chimboraze - Edsbergs FK 0 - 7
+week 12
+2016-01-17
+Angels of Gothenburg - FC Thad 5 - 0
+Edsbergs FK - Vikhagen IF 4 - 1
+AC Salami - Söders GoIF 0 - 3
+FC Edstena - Chimboraze 7 - 0
+week 13
+2016-01-24
+AC Salami - FC Edstena 4 - 4
+Söders GoIF - Edsbergs FK 4 - 2
+Vikhagen IF - Angels of Gothenburg 3 - 2
+Chimboraze - FC Thad 0 - 10
+week 14
+2016-01-31
+FC Edstena - Vikhagen IF 3 - 2
+Edsbergs FK - AC Salami 8 - 0
+FC Thad - Söders GoIF 4 - 4
+Angels of Gothenburg - Chimboraze 10 - 0

@@ -1,0 +1,84 @@
+week 1
+2014-04-20
+Vikhagen IF - Södermalm City 4 - 3
+Morötterna FF - BK ROSEN 1 - 0
+Robmasters - Rednaxela 3 - 7
+Auroville FC - Relel FC 4 - 1
+week 2
+2014-04-27
+Södermalm City - Auroville FC 4 - 2
+Rednaxela - Vikhagen IF 1 - 2
+BK ROSEN - Robmasters 3 - 2
+Relel FC - Morötterna FF 4 - 1
+week 3
+2014-05-04
+Auroville FC - BK ROSEN 4 - 2
+Vikhagen IF - Robmasters 2 - 3
+Morötterna FF - Rednaxela 0 - 5
+Södermalm City - Relel FC 3 - 3
+week 4
+2014-05-11
+Rednaxela - Auroville FC 3 - 1
+Relel FC - Vikhagen IF 1 - 3
+Robmasters - Morötterna FF 1 - 1
+BK ROSEN - Södermalm City 3 - 2
+week 5
+2014-05-18
+Södermalm City - Robmasters 4 - 5
+Auroville FC - Morötterna FF 3 - 1
+Relel FC - Rednaxela 4 - 3
+Vikhagen IF - BK ROSEN 4 - 3
+week 6
+2014-05-25
+Robmasters - Auroville FC 0 - 3
+Morötterna FF - Vikhagen IF 3 - 3
+Rednaxela - Södermalm City 9 - 0
+BK ROSEN - Relel FC 3 - 2
+week 7
+2014-06-01
+Auroville FC - Vikhagen IF 2 - 1
+Relel FC - Robmasters 2 - 1
+Södermalm City - Morötterna FF 2 - 3
+Rednaxela - BK ROSEN 2 - 2
+week 8
+2014-06-08
+BK ROSEN - Rednaxela 3 - 1
+Morötterna FF - Södermalm City 5 - 1
+Vikhagen IF - Auroville FC 0 - 2
+Robmasters - Relel FC 2 - 1
+week 9
+2014-06-15
+Relel FC - BK ROSEN 1 - 2
+Södermalm City - Rednaxela 6 - 3
+Vikhagen IF - Morötterna FF 3 - 2
+Auroville FC - Robmasters 3 - 3
+week 10
+2014-06-22
+BK ROSEN - Vikhagen IF 3 - 1
+Robmasters - Södermalm City 4 - 1
+Morötterna FF - Auroville FC 4 - 0
+Rednaxela - Relel FC 3 - 1
+week 11
+2014-06-29
+Morötterna FF - Robmasters 2 - 1
+Vikhagen IF - Relel FC 3 - 1
+Auroville FC - Rednaxela 0 - 3
+Södermalm City - BK ROSEN 1 - 2
+week 12
+2014-07-06
+Relel FC - Södermalm City 2 - 5
+Robmasters - Vikhagen IF 2 - 2
+Rednaxela - Morötterna FF 2 - 2
+BK ROSEN - Auroville FC 0 - 2
+week 13
+2014-07-13
+Robmasters - BK ROSEN 2 - 2
+Vikhagen IF - Rednaxela 0 - 0
+Morötterna FF - Relel FC 6 - 3
+Auroville FC - Södermalm City 5 - 1
+week 14
+2014-07-20
+BK ROSEN - Morötterna FF 2 - 2
+Rednaxela - Robmasters 4 - 3
+Relel FC - Auroville FC 3 - 3
+Södermalm City - Vikhagen IF 2 - 4

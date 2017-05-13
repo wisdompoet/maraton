@@ -1,0 +1,84 @@
+week 1
+2015-11-01
+Rotorp - Holmen Bois 0 - 6
+Tokyo FF - Hookipa BK 2 - 2
+Oppala Farmers - Jean Pierre Utd 1 - 4
+IFK Ninweborg - Emelies fotbollslag 3 - 1
+week 2
+2015-11-08
+Holmen Bois - IFK Ninweborg 4 - 3
+Hookipa BK - Rotorp 5 - 0
+Jean Pierre Utd - Tokyo FF 5 - 2
+Emelies fotbollslag - Oppala Farmers 2 - 0
+week 3
+2015-11-15
+Rotorp - Emelies fotbollslag 0 - 4
+Hookipa BK - Holmen Bois 1 - 3
+IFK Ninweborg - Jean Pierre Utd 2 - 4
+Tokyo FF - Oppala Farmers 6 - 1
+week 4
+2015-11-22
+Holmen Bois - Tokyo FF 4 - 2
+Jean Pierre Utd - Rotorp 7 - 0
+Oppala Farmers - IFK Ninweborg 3 - 6
+Emelies fotbollslag - Hookipa BK 3 - 0
+week 5
+2015-11-29
+Rotorp - IFK Ninweborg 1 - 4
+Hookipa BK - Oppala Farmers 4 - 2
+Tokyo FF - Emelies fotbollslag 2 - 1
+Holmen Bois - Jean Pierre Utd 4 - 2
+week 6
+2015-12-06
+Oppala Farmers - Rotorp 7 - 0
+IFK Ninweborg - Tokyo FF 4 - 3
+Jean Pierre Utd - Hookipa BK 3 - 1
+Emelies fotbollslag - Holmen Bois 0 - 2
+week 7
+2015-12-13
+Rotorp - Tokyo FF 0 - 4
+Holmen Bois - Oppala Farmers 4 - 1
+Hookipa BK - IFK Ninweborg 4 - 4
+Jean Pierre Utd - Emelies fotbollslag 2 - 2
+week 8
+2015-12-20
+Emelies fotbollslag - Jean Pierre Utd 1 - 0
+IFK Ninweborg - Hookipa BK 1 - 3
+Oppala Farmers - Holmen Bois 1 - 5
+Tokyo FF - Rotorp 6 - 0
+week 9
+2015-12-27
+Tokyo FF - IFK Ninweborg 3 - 0
+Rotorp - Oppala Farmers 0 - 8
+Hookipa BK - Jean Pierre Utd 4 - 0
+Holmen Bois - Emelies fotbollslag 0 - 0
+week 10
+2016-01-03
+Emelies fotbollslag - Tokyo FF 1 - 1
+Jean Pierre Utd - Holmen Bois 2 - 2
+Oppala Farmers - Hookipa BK 0 - 3
+IFK Ninweborg - Rotorp 8 - 0
+week 11
+2016-01-10
+Rotorp - Jean Pierre Utd 0 - 4
+Tokyo FF - Holmen Bois 1 - 0
+IFK Ninweborg - Oppala Farmers 4 - 3
+Hookipa BK - Emelies fotbollslag 3 - 1
+week 12
+2016-01-17
+Emelies fotbollslag - Rotorp 3 - 1
+Jean Pierre Utd - IFK Ninweborg 5 - 0
+Oppala Farmers - Tokyo FF 2 - 4
+Holmen Bois - Hookipa BK 0 - 1
+week 13
+2016-01-24
+Oppala Farmers - Emelies fotbollslag 1 - 3
+Tokyo FF - Jean Pierre Utd 1 - 2
+IFK Ninweborg - Holmen Bois 4 - 2
+Rotorp - Hookipa BK 1 - 4
+week 14
+2016-01-31
+Emelies fotbollslag - IFK Ninweborg 1 - 1
+Jean Pierre Utd - Oppala Farmers 5 - 0
+Hookipa BK - Tokyo FF 1 - 1
+Holmen Bois - Rotorp 9 - 0

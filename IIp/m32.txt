@@ -1,0 +1,84 @@
+week 1
+2007-04-01
+FK Joker - Hungry Tigers 1 - 0
+Zlatan_BK - Virrpanneföreningen 4 - 1
+Bender ICNxDBD - Olsbacka bois 3 - 1
+Sundby BK - BK Torpet 3 - 2
+week 2
+2007-04-08
+Hungry Tigers - Bender ICNxDBD 2 - 1
+BK Torpet - FK Joker 4 - 1
+Virrpanneföreningen - Sundby BK 7 - 3
+Olsbacka bois - Zlatan_BK 2 - 2
+week 3
+2007-04-15
+Hungry Tigers - BK Torpet 2 - 0
+FK Joker - Virrpanneföreningen 8 - 1
+Sundby BK - Olsbacka bois 3 - 1
+Zlatan_BK - Bender ICNxDBD 3 - 1
+week 4
+2007-04-22
+Olsbacka bois - FK Joker 1 - 1
+Bender ICNxDBD - BK Torpet 3 - 1
+Zlatan_BK - Sundby BK 7 - 0
+Virrpanneföreningen - Hungry Tigers 1 - 7
+week 5
+2007-04-29
+FK Joker - Zlatan_BK 4 - 2
+Sundby BK - Bender ICNxDBD 3 - 3
+Hungry Tigers - Olsbacka bois 3 - 2
+BK Torpet - Virrpanneföreningen 2 - 2
+week 6
+2007-05-06
+Zlatan_BK - Hungry Tigers 3 - 0
+Sundby BK - FK Joker 0 - 3
+Olsbacka bois - BK Torpet 2 - 0
+Bender ICNxDBD - Virrpanneföreningen 1 - 5
+week 7
+2007-05-13
+Virrpanneföreningen - Olsbacka bois 2 - 1
+FK Joker - Bender ICNxDBD 2 - 0
+Hungry Tigers - Sundby BK 3 - 2
+BK Torpet - Zlatan_BK 4 - 2
+week 8
+2007-05-20
+Bender ICNxDBD - FK Joker 0 - 3
+Sundby BK - Hungry Tigers 1 - 2
+Olsbacka bois - Virrpanneföreningen 4 - 2
+Zlatan_BK - BK Torpet 5 - 1
+week 9
+2007-05-27
+Virrpanneföreningen - Bender ICNxDBD 2 - 4
+BK Torpet - Olsbacka bois 1 - 3
+Hungry Tigers - Zlatan_BK 0 - 7
+FK Joker - Sundby BK 5 - 0
+week 10
+2007-06-03
+Olsbacka bois - Hungry Tigers 0 - 0
+Virrpanneföreningen - BK Torpet 5 - 3
+Bender ICNxDBD - Sundby BK 0 - 3
+Zlatan_BK - FK Joker 2 - 1
+week 11
+2007-06-10
+BK Torpet - Bender ICNxDBD 2 - 2
+Sundby BK - Zlatan_BK 3 - 7
+FK Joker - Olsbacka bois 3 - 0
+Hungry Tigers - Virrpanneföreningen 2 - 3
+week 12
+2007-06-17
+Bender ICNxDBD - Zlatan_BK 1 - 2
+Olsbacka bois - Sundby BK 2 - 2
+Virrpanneföreningen - FK Joker 2 - 5
+BK Torpet - Hungry Tigers 1 - 0
+week 13
+2007-06-24
+FK Joker - BK Torpet 3 - 1
+Sundby BK - Virrpanneföreningen 3 - 2
+Zlatan_BK - Olsbacka bois 3 - 3
+Bender ICNxDBD - Hungry Tigers 3 - 0
+week 14
+2007-07-01
+Olsbacka bois - Bender ICNxDBD 1 - 1
+BK Torpet - Sundby BK 3 - 2
+Virrpanneföreningen - Zlatan_BK 1 - 7
+Hungry Tigers - FK Joker 2 - 1

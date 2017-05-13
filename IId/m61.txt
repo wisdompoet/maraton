@@ -1,0 +1,84 @@
+week 1
+2016-02-21
+Donosti - Countrycrown 2 - 4
+Lokomotiv Höjden - Forza IF 1 - 2
+Lajka Dobbs lirare - Bimmer FC 0 - 3
+FC Gruffalo - Joku BK 2 - 0
+week 2
+2016-02-28
+Forza IF - Donosti 3 - 1
+Countrycrown - FC Gruffalo 2 - 2
+Bimmer FC - Lokomotiv Höjden 4 - 3
+Joku BK - Lajka Dobbs lirare 0 - 1
+week 3
+2016-03-06
+Donosti - Joku BK 3 - 3
+Lokomotiv Höjden - Lajka Dobbs lirare 3 - 4
+Forza IF - Countrycrown 6 - 3
+FC Gruffalo - Bimmer FC 2 - 1
+week 4
+2016-03-13
+Countrycrown - Lokomotiv Höjden 4 - 0
+Bimmer FC - Donosti 1 - 2
+Lajka Dobbs lirare - FC Gruffalo 1 - 3
+Joku BK - Forza IF 1 - 6
+week 5
+2016-03-20
+Donosti - FC Gruffalo 4 - 0
+Forza IF - Lajka Dobbs lirare 3 - 1
+Lokomotiv Höjden - Joku BK 3 - 6
+Countrycrown - Bimmer FC 4 - 1
+week 6
+2016-03-27
+Lajka Dobbs lirare - Donosti 5 - 3
+FC Gruffalo - Lokomotiv Höjden 5 - 0
+Bimmer FC - Forza IF 1 - 4
+Joku BK - Countrycrown 1 - 2
+week 7
+2016-04-03
+Forza IF - FC Gruffalo 0 - 1
+Donosti - Lokomotiv Höjden 4 - 0
+Bimmer FC - Joku BK 3 - 2
+Countrycrown - Lajka Dobbs lirare 1 - 0
+week 8
+2016-04-10
+FC Gruffalo - Forza IF 2 - 1
+Joku BK - Bimmer FC 1 - 1
+Lajka Dobbs lirare - Countrycrown 1 - 3
+Lokomotiv Höjden - Donosti 3 - 2
+week 9
+2016-04-17
+Forza IF - Bimmer FC 3 - 0
+Countrycrown - Joku BK 4 - 1
+Lokomotiv Höjden - FC Gruffalo 1 - 1
+Donosti - Lajka Dobbs lirare 3 - 0
+week 10
+2016-04-24
+Bimmer FC - Countrycrown 2 - 4
+Joku BK - Lokomotiv Höjden 4 - 1
+FC Gruffalo - Donosti 5 - 2
+Lajka Dobbs lirare - Forza IF 0 - 3
+week 11
+2016-05-01
+Forza IF - Joku BK 4 - 2
+FC Gruffalo - Lajka Dobbs lirare 2 - 1
+Donosti - Bimmer FC 4 - 0
+Lokomotiv Höjden - Countrycrown 1 - 2
+week 12
+2016-05-08
+Bimmer FC - FC Gruffalo 0 - 2
+Countrycrown - Forza IF 5 - 2
+Lajka Dobbs lirare - Lokomotiv Höjden 5 - 0
+Joku BK - Donosti 2 - 0
+week 13
+2016-05-15
+Lajka Dobbs lirare - Joku BK 1 - 1
+Lokomotiv Höjden - Bimmer FC 4 - 2
+FC Gruffalo - Countrycrown 1 - 1
+Donosti - Forza IF 3 - 2
+week 14
+2016-05-22
+Joku BK - FC Gruffalo 0 - 1
+Bimmer FC - Lajka Dobbs lirare 3 - 0
+Forza IF - Lokomotiv Höjden 1 - 0
+Countrycrown - Donosti 3 - 1

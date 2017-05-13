@@ -1,0 +1,84 @@
+week 1
+2001-06-03
+Gaddens IF - Pakkan United 5 - 1
+Hallåellers - Byalaget 3 - 2
+Tuna Tigers - Starfire FC 0 - 2
+FC Smurfarna - Sayonara 1 - 0
+week 2
+2001-06-10
+Starfire FC - Gaddens IF 0 - 3
+Sayonara - Hallåellers 3 - 0
+Pakkan United - FC Smurfarna 2 - 0
+Byalaget - Tuna Tigers 2 - 0
+week 3
+2001-06-17
+Hallåellers - Pakkan United 0 - 2
+Tuna Tigers - Sayonara 0 - 0
+Starfire FC - Byalaget 0 - 1
+FC Smurfarna - Gaddens IF 3 - 1
+week 4
+2001-06-24
+Gaddens IF - Byalaget 3 - 1
+Sayonara - Starfire FC 1 - 2
+Pakkan United - Tuna Tigers 0 - 0
+FC Smurfarna - Hallåellers 3 - 1
+week 5
+2001-07-01
+Hallåellers - Gaddens IF 2 - 1
+Tuna Tigers - FC Smurfarna 2 - 0
+Starfire FC - Pakkan United 1 - 2
+Byalaget - Sayonara 4 - 0
+week 6
+2001-07-08
+Gaddens IF - Sayonara 3 - 1
+Hallåellers - Tuna Tigers 3 - 0
+Pakkan United - Byalaget 1 - 1
+FC Smurfarna - Starfire FC 4 - 0
+week 7
+2001-07-15
+Tuna Tigers - Gaddens IF 0 - 3
+Starfire FC - Hallåellers 2 - 1
+Sayonara - Pakkan United 4 - 0
+Byalaget - FC Smurfarna 2 - 2
+week 8
+2001-07-22
+FC Smurfarna - Byalaget 3 - 0
+Pakkan United - Sayonara 2 - 1
+Hallåellers - Starfire FC 5 - 0
+Gaddens IF - Tuna Tigers 3 - 0
+week 9
+2001-07-29
+Starfire FC - FC Smurfarna 2 - 0
+Byalaget - Pakkan United 4 - 1
+Tuna Tigers - Hallåellers 1 - 3
+Sayonara - Gaddens IF 2 - 3
+week 10
+2001-08-05
+Sayonara - Byalaget 2 - 5
+Pakkan United - Starfire FC 4 - 0
+FC Smurfarna - Tuna Tigers 4 - 1
+Gaddens IF - Hallåellers 5 - 0
+week 11
+2001-08-12
+Hallåellers - FC Smurfarna 1 - 0
+Tuna Tigers - Pakkan United 2 - 2
+Starfire FC - Sayonara 3 - 1
+Byalaget - Gaddens IF 4 - 0
+week 12
+2001-08-19
+Gaddens IF - FC Smurfarna 1 - 2
+Byalaget - Starfire FC 1 - 0
+Sayonara - Tuna Tigers 5 - 1
+Pakkan United - Hallåellers 5 - 3
+week 13
+2001-08-26
+Tuna Tigers - Byalaget 0 - 2
+FC Smurfarna - Pakkan United 2 - 0
+Hallåellers - Sayonara 3 - 2
+Gaddens IF - Starfire FC 6 - 0
+week 14
+2001-09-02
+Sayonara - FC Smurfarna 0 - 5
+Starfire FC - Tuna Tigers 0 - 1
+Byalaget - Hallåellers 3 - 0
+Pakkan United - Gaddens IF 0 - 0

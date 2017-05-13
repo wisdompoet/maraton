@@ -1,86 +1,84 @@
-Omgång 1
-2015-03-22 (1/58)			
-Stolpskottens bollklubb - Bedford Falls	6 - 2	HT Re-Live
-Hagfors FC - AC Sätra Äng	2 - 3	HT Re-Live
-Bondglamsen FK - BK Flash	3 - 2	HT Re-Live
-GBK - FF Onrims	3 - 0	HT Re-Live
-Omgång 2
-2015-03-29 (2/58)			
-AC Sätra Äng - Bondglamsen FK	3 - 4	HT Re-Live
-BK Flash - GBK	1 - 6	HT Re-Live
-Bedford Falls - Hagfors FC	1 - 2	HT Re-Live
-FF Onrims - Stolpskottens bollklubb	3 - 0	HT Re-Live
-Omgång 3
-2015-04-05 (3/58)			
-Bondglamsen FK - FF Onrims	6 - 0	HT Re-Live
-Hagfors FC - Stolpskottens bollklubb	3 - 2	HT Re-Live
-AC Sätra Äng - BK Flash	4 - 0	HT Re-Live
-GBK - Bedford Falls	3 - 0	HT Re-Live
-Omgång 4
-2015-04-12 (4/58)			
-Bedford Falls - Bondglamsen FK	3 - 4	HT Re-Live
-BK Flash - Hagfors FC	4 - 3	HT Re-Live
-Stolpskottens bollklubb - GBK	4 - 1	HT Re-Live
-FF Onrims - AC Sätra Äng	2 - 5	HT Re-Live
-Omgång 5
-2015-04-19 (5/58)			
-AC Sätra Äng - Stolpskottens bollklubb	2 - 0	HT Re-Live
-Hagfors FC - FF Onrims	4 - 0	HT Re-Live
-BK Flash - Bedford Falls	4 - 1	HT Re-Live
-Bondglamsen FK - GBK	4 - 0	HT Re-Live
-Omgång 6
-2015-04-26 (6/58)			
-Stolpskottens bollklubb - Bondglamsen FK	1 - 6	HT Re-Live
-GBK - Hagfors FC	0 - 2	HT Re-Live
-Bedford Falls - AC Sätra Äng	1 - 4	HT Re-Live
-FF Onrims - BK Flash	0 - 2	HT Re-Live
-Omgång 7
-2015-05-03 (7/58)			
-Bondglamsen FK - Hagfors FC	7 - 3	HT Re-Live
-Bedford Falls - FF Onrims	0 - 5	HT Re-Live
-BK Flash - Stolpskottens bollklubb	7 - 1	HT Re-Live
-AC Sätra Äng - GBK	0 - 0	HT Re-Live
-Omgång 8
-2015-05-10 (8/58)			
-FF Onrims - Bedford Falls	4 - 1	HT Re-Live
-Hagfors FC - Bondglamsen FK	6 - 3	HT Re-Live
-GBK - AC Sätra Äng	1 - 1	HT Re-Live
-Stolpskottens bollklubb - BK Flash	0 - 4	HT Re-Live
-Omgång 9
-2015-05-17 (9/58)			
-Bondglamsen FK - Stolpskottens bollklubb	3 - 1	HT Re-Live
-BK Flash - FF Onrims	3 - 0	HT Re-Live
-Hagfors FC - GBK	9 - 2	HT Re-Live
-AC Sätra Äng - Bedford Falls	4 - 1	HT Re-Live
-Omgång 10
-2015-05-24 (10/58)			
-FF Onrims - Hagfors FC	4 - 5	HT Re-Live
-GBK - Bondglamsen FK	1 - 4	HT Re-Live
-Stolpskottens bollklubb - AC Sätra Äng	3 - 1	HT Re-Live
-Bedford Falls - BK Flash	2 - 3	HT Re-Live
-Omgång 11
-2015-05-31 (11/58)			
-GBK - Stolpskottens bollklubb	1 - 1	HT Re-Live
-AC Sätra Äng - FF Onrims	2 - 1	HT Re-Live
-Bondglamsen FK - Bedford Falls	7 - 1	HT Re-Live
-Hagfors FC - BK Flash	4 - 4	HT Re-Live
-Omgång 12
-2015-06-07 (12/58)			
-Bedford Falls - GBK	3 - 2	HT Re-Live
-BK Flash - AC Sätra Äng	4 - 1	HT Re-Live
-FF Onrims - Bondglamsen FK	1 - 5	HT Re-Live
-Stolpskottens bollklubb - Hagfors FC	1 - 2	HT Re-Live
-Omgång 13
-2015-06-14 (13/58)			
-Stolpskottens bollklubb - FF Onrims	3 - 1	HT Re-Live
-Hagfors FC - Bedford Falls	5 - 2	HT Re-Live
-GBK - BK Flash	0 - 2	HT Re-Live
-Bondglamsen FK - AC Sätra Äng	5 - 1	HT Re-Live
-Omgång 14
-2015-06-21 (14/58)			
-FF Onrims - GBK	0 - 2	HT Re-Live
-Bedford Falls - Stolpskottens bollklubb	2 - 1	HT Re-Live
-BK Flash - Bondglamsen FK	2 - 2	HT Re-Live
-AC Sätra Äng - Hagfors FC	1 - 3	HT Re-Live
-
-
+week 1
+2015-03-22
+Stolpskottens bollklubb - Bedford Falls 6 - 2
+Hagfors FC - AC SÃ¤tra Ã„ng 2 - 3
+Bondglamsen FK - BK Flash 3 - 2
+GBK - FF Onrims 3 - 0
+week 2
+2015-03-29
+AC SÃ¤tra Ã„ng - Bondglamsen FK 3 - 4
+BK Flash - GBK 1 - 6
+Bedford Falls - Hagfors FC 1 - 2
+FF Onrims - Stolpskottens bollklubb 3 - 0
+week 3
+2015-04-05
+Bondglamsen FK - FF Onrims 6 - 0
+Hagfors FC - Stolpskottens bollklubb 3 - 2
+AC SÃ¤tra Ã„ng - BK Flash 4 - 0
+GBK - Bedford Falls 3 - 0
+week 4
+2015-04-12
+Bedford Falls - Bondglamsen FK 3 - 4
+BK Flash - Hagfors FC 4 - 3
+Stolpskottens bollklubb - GBK 4 - 1
+FF Onrims - AC SÃ¤tra Ã„ng 2 - 5
+week 5
+2015-04-19
+AC SÃ¤tra Ã„ng - Stolpskottens bollklubb 2 - 0
+Hagfors FC - FF Onrims 4 - 0
+BK Flash - Bedford Falls 4 - 1
+Bondglamsen FK - GBK 4 - 0
+week 6
+2015-04-26
+Stolpskottens bollklubb - Bondglamsen FK 1 - 6
+GBK - Hagfors FC 0 - 2
+Bedford Falls - AC SÃ¤tra Ã„ng 1 - 4
+FF Onrims - BK Flash 0 - 2
+week 7
+2015-05-03
+Bondglamsen FK - Hagfors FC 7 - 3
+Bedford Falls - FF Onrims 0 - 5
+BK Flash - Stolpskottens bollklubb 7 - 1
+AC SÃ¤tra Ã„ng - GBK 0 - 0
+week 8
+2015-05-10
+FF Onrims - Bedford Falls 4 - 1
+Hagfors FC - Bondglamsen FK 6 - 3
+GBK - AC SÃ¤tra Ã„ng 1 - 1
+Stolpskottens bollklubb - BK Flash 0 - 4
+week 9
+2015-05-17
+Bondglamsen FK - Stolpskottens bollklubb 3 - 1
+BK Flash - FF Onrims 3 - 0
+Hagfors FC - GBK 9 - 2
+AC SÃ¤tra Ã„ng - Bedford Falls 4 - 1
+week 10
+2015-05-24
+FF Onrims - Hagfors FC 4 - 5
+GBK - Bondglamsen FK 1 - 4
+Stolpskottens bollklubb - AC SÃ¤tra Ã„ng 3 - 1
+Bedford Falls - BK Flash 2 - 3
+week 11
+2015-05-31
+GBK - Stolpskottens bollklubb 1 - 1
+AC SÃ¤tra Ã„ng - FF Onrims 2 - 1
+Bondglamsen FK - Bedford Falls 7 - 1
+Hagfors FC - BK Flash 4 - 4
+week 12
+2015-06-07
+Bedford Falls - GBK 3 - 2
+BK Flash - AC SÃ¤tra Ã„ng 4 - 1
+FF Onrims - Bondglamsen FK 1 - 5
+Stolpskottens bollklubb - Hagfors FC 1 - 2
+week 13
+2015-06-14
+Stolpskottens bollklubb - FF Onrims 3 - 1
+Hagfors FC - Bedford Falls 5 - 2
+GBK - BK Flash 0 - 2
+Bondglamsen FK - AC SÃ¤tra Ã„ng 5 - 1
+week 14
+2015-06-21
+FF Onrims - GBK 0 - 2
+Bedford Falls - Stolpskottens bollklubb 2 - 1
+BK Flash - Bondglamsen FK 2 - 2
+AC SÃ¤tra Ã„ng - Hagfors FC 1 - 3

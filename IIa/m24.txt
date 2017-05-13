@@ -1,84 +1,84 @@
-Omgång 1
-2004-10-17 (1/24) 			
-	Hawkwing FF - FC Flowsta 	5 - 0 	HT Re-Live
-	Ancoma Tigers - Gefle Golden Goalers 	2 - 1 	HT Re-Live
-	Bärsans SK - Incentus FC 	4 - 3 	HT Re-Live
-	FK Sturm - Honeyball 	0 - 2 	HT Re-Live
-Omgång 2
-2004-10-24 (2/24) 			
-	Incentus FC - Hawkwing FF 	8 - 1 	HT Re-Live
-	Honeyball - Ancoma Tigers 	1 - 2 	HT Re-Live
-	FC Flowsta - FK Sturm 	3 - 0 	HT Re-Live
-	Gefle Golden Goalers - Bärsans SK 	1 - 5 	HT Re-Live
-Omgång 3
-2004-10-31 (3/24) 			
-	Ancoma Tigers - FC Flowsta 	2 - 2 	HT Re-Live
-	Bärsans SK - Honeyball 	2 - 3 	HT Re-Live
-	Incentus FC - Gefle Golden Goalers 	3 - 0 	HT Re-Live
-	FK Sturm - Hawkwing FF 	4 - 3 	HT Re-Live
-Omgång 4
-2004-11-07 (4/24) 			
-	Hawkwing FF - Gefle Golden Goalers 	7 - 2 	HT Re-Live
-	Honeyball - Incentus FC 	2 - 0 	HT Re-Live
-	FC Flowsta - Bärsans SK 	2 - 0 	HT Re-Live
-	FK Sturm - Ancoma Tigers 	2 - 1 	HT Re-Live
-Omgång 5
-2004-11-14 (5/24) 			
-	Ancoma Tigers - Hawkwing FF 	4 - 3 	HT Re-Live
-	Bärsans SK - FK Sturm 	3 - 2 	HT Re-Live
-	Incentus FC - FC Flowsta 	3 - 1 	HT Re-Live
-	Gefle Golden Goalers - Honeyball 	0 - 3 	HT Re-Live
-Omgång 6
-2004-11-21 (6/24) 			
-	Hawkwing FF - Honeyball 	1 - 1 	HT Re-Live
-	Ancoma Tigers - Bärsans SK 	2 - 2 	HT Re-Live
-	FC Flowsta - Gefle Golden Goalers 	2 - 2 	HT Re-Live
-	FK Sturm - Incentus FC 	4 - 0 	HT Re-Live
-Omgång 7
-2004-11-28 (7/24) 			
-	Bärsans SK - Hawkwing FF 	5 - 3 	HT Re-Live
-	Incentus FC - Ancoma Tigers 	1 - 0 	HT Re-Live
-	Honeyball - FC Flowsta 	0 - 0 	HT Re-Live
-	Gefle Golden Goalers - FK Sturm 	3 - 0 	HT Re-Live
-Omgång 8
-2004-12-05 (8/24) 			
-	FK Sturm - Gefle Golden Goalers 	2 - 0 	HT Re-Live
-	FC Flowsta - Honeyball 	0 - 0 	HT Re-Live
-	Ancoma Tigers - Incentus FC 	2 - 3 	HT Re-Live
-	Hawkwing FF - Bärsans SK 	1 - 4 	HT Re-Live
-Omgång 9
-2004-12-12 (9/24) 			
-	Incentus FC - FK Sturm 	4 - 0 	HT Re-Live
-	Gefle Golden Goalers - FC Flowsta 	4 - 4 	HT Re-Live
-	Bärsans SK - Ancoma Tigers 	3 - 3 	HT Re-Live
-	Honeyball - Hawkwing FF 	1 - 2 	HT Re-Live
-Omgång 10
-2004-12-19 (10/24) 			
-	Honeyball - Gefle Golden Goalers 	3 - 1 	HT Re-Live
-	FC Flowsta - Incentus FC 	2 - 1 	HT Re-Live
-	FK Sturm - Bärsans SK 	4 - 1 	HT Re-Live
-	Hawkwing FF - Ancoma Tigers 	5 - 1 	HT Re-Live
-Omgång 11
-2004-12-26 (11/24) 			
-	Ancoma Tigers - FK Sturm 	0 - 1 	HT Re-Live
-	Bärsans SK - FC Flowsta 	3 - 2 	HT Re-Live
-	Incentus FC - Honeyball 	1 - 2 	HT Re-Live
-	Gefle Golden Goalers - Hawkwing FF 	0 - 5 	HT Re-Live
-Omgång 12
-2005-01-02 (12/24) 			
-	Hawkwing FF - FK Sturm 	2 - 1 	HT Re-Live
-	Gefle Golden Goalers - Incentus FC 	2 - 0 	HT Re-Live
-	Honeyball - Bärsans SK 	2 - 1 	HT Re-Live
-	FC Flowsta - Ancoma Tigers 	1 - 0 	HT Re-Live
-Omgång 13
-2005-01-09 (13/24) 			
-	Bärsans SK - Gefle Golden Goalers 	5 - 2 	HT Re-Live
-	FK Sturm - FC Flowsta 	3 - 4 	HT Re-Live
-	Ancoma Tigers - Honeyball 	2 - 1 	HT Re-Live
-	Hawkwing FF - Incentus FC 	3 - 2 	HT Re-Live
-Omgång 14
-2005-01-16 (14/24) 			
-	Honeyball - FK Sturm 	6 - 0 	HT Re-Live
-	Incentus FC - Bärsans SK 	0 - 2 	HT Re-Live
-	Gefle Golden Goalers - Ancoma Tigers 	0 - 2 	HT Re-Live
-	FC Flowsta - Hawkwing FF 	4 - 1 	HT Re-Live
+week 1
+2004-10-17
+Hawkwing FF - FC Flowsta 5 - 0
+Ancoma Tigers - Gefle Golden Goalers 2 - 1
+Bärsans SK - Incentus FC 4 - 3
+FK Sturm - Honeyball 0 - 2
+week 2
+2004-10-24
+Incentus FC - Hawkwing FF 8 - 1
+Honeyball - Ancoma Tigers 1 - 2
+FC Flowsta - FK Sturm 3 - 0
+Gefle Golden Goalers - Bärsans SK 1 - 5
+week 3
+2004-10-31
+Ancoma Tigers - FC Flowsta 2 - 2
+Bärsans SK - Honeyball 2 - 3
+Incentus FC - Gefle Golden Goalers 3 - 0
+FK Sturm - Hawkwing FF 4 - 3
+week 4
+2004-11-07
+Hawkwing FF - Gefle Golden Goalers 7 - 2
+Honeyball - Incentus FC 2 - 0
+FC Flowsta - Bärsans SK 2 - 0
+FK Sturm - Ancoma Tigers 2 - 1
+week 5
+2004-11-14
+Ancoma Tigers - Hawkwing FF 4 - 3
+Bärsans SK - FK Sturm 3 - 2
+Incentus FC - FC Flowsta 3 - 1
+Gefle Golden Goalers - Honeyball 0 - 3
+week 6
+2004-11-21
+Hawkwing FF - Honeyball 1 - 1
+Ancoma Tigers - Bärsans SK 2 - 2
+FC Flowsta - Gefle Golden Goalers 2 - 2
+FK Sturm - Incentus FC 4 - 0
+week 7
+2004-11-28
+Bärsans SK - Hawkwing FF 5 - 3
+Incentus FC - Ancoma Tigers 1 - 0
+Honeyball - FC Flowsta 0 - 0
+Gefle Golden Goalers - FK Sturm 3 - 0
+week 8
+2004-12-05
+FK Sturm - Gefle Golden Goalers 2 - 0
+FC Flowsta - Honeyball 0 - 0
+Ancoma Tigers - Incentus FC 2 - 3
+Hawkwing FF - Bärsans SK 1 - 4
+week 9
+2004-12-12
+Incentus FC - FK Sturm 4 - 0
+Gefle Golden Goalers - FC Flowsta 4 - 4
+Bärsans SK - Ancoma Tigers 3 - 3
+Honeyball - Hawkwing FF 1 - 2
+week 10
+2004-12-19
+Honeyball - Gefle Golden Goalers 3 - 1
+FC Flowsta - Incentus FC 2 - 1
+FK Sturm - Bärsans SK 4 - 1
+Hawkwing FF - Ancoma Tigers 5 - 1
+week 11
+2004-12-26
+Ancoma Tigers - FK Sturm 0 - 1
+Bärsans SK - FC Flowsta 3 - 2
+Incentus FC - Honeyball 1 - 2
+Gefle Golden Goalers - Hawkwing FF 0 - 5
+week 12
+2005-01-02
+Hawkwing FF - FK Sturm 2 - 1
+Gefle Golden Goalers - Incentus FC 2 - 0
+Honeyball - Bärsans SK 2 - 1
+FC Flowsta - Ancoma Tigers 1 - 0
+week 13
+2005-01-09
+Bärsans SK - Gefle Golden Goalers 5 - 2
+FK Sturm - FC Flowsta 3 - 4
+Ancoma Tigers - Honeyball 2 - 1
+Hawkwing FF - Incentus FC 3 - 2
+week 14
+2005-01-16
+Honeyball - FK Sturm 6 - 0
+Incentus FC - Bärsans SK 0 - 2
+Gefle Golden Goalers - Ancoma Tigers 0 - 2
+FC Flowsta - Hawkwing FF 4 - 1

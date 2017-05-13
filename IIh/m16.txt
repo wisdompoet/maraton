@@ -1,0 +1,84 @@
+week 1
+2002-05-05
+Team Falcon Export - Saxemara 3 - 2
+Stavros Incorporated - Goodtown Gangsters 2 - 3
+Hooksi IF - FC Grotto 1 - 3
+Tjecko-85 - Vikingarna SK 4 - 4
+week 2
+2002-05-12
+FC Grotto - Team Falcon Export 1 - 4
+Vikingarna SK - Stavros Incorporated 4 - 1
+Saxemara - Tjecko-85 2 - 3
+Goodtown Gangsters - Hooksi IF 4 - 0
+week 3
+2002-05-19
+Stavros Incorporated - Saxemara 6 - 1
+Hooksi IF - Vikingarna SK 0 - 4
+FC Grotto - Goodtown Gangsters 0 - 4
+Tjecko-85 - Team Falcon Export 1 - 3
+week 4
+2002-05-26
+Team Falcon Export - Goodtown Gangsters 2 - 2
+Vikingarna SK - FC Grotto 3 - 1
+Saxemara - Hooksi IF 6 - 2
+Tjecko-85 - Stavros Incorporated 6 - 0
+week 5
+2002-06-02
+Stavros Incorporated - Team Falcon Export 1 - 1
+Hooksi IF - Tjecko-85 0 - 1
+FC Grotto - Saxemara 6 - 0
+Goodtown Gangsters - Vikingarna SK 0 - 3
+week 6
+2002-06-09
+Team Falcon Export - Vikingarna SK 3 - 0
+Stavros Incorporated - Hooksi IF 4 - 0
+Saxemara - Goodtown Gangsters 1 - 4
+Tjecko-85 - FC Grotto 5 - 0
+week 7
+2002-06-16
+Hooksi IF - Team Falcon Export 1 - 0
+FC Grotto - Stavros Incorporated 1 - 2
+Vikingarna SK - Saxemara 2 - 4
+Goodtown Gangsters - Tjecko-85 3 - 3
+week 8
+2002-06-23
+Tjecko-85 - Goodtown Gangsters 4 - 3
+Saxemara - Vikingarna SK 4 - 1
+Stavros Incorporated - FC Grotto 1 - 3
+Team Falcon Export - Hooksi IF 1 - 0
+week 9
+2002-06-30
+FC Grotto - Tjecko-85 0 - 3
+Goodtown Gangsters - Saxemara 4 - 5
+Hooksi IF - Stavros Incorporated 3 - 1
+Vikingarna SK - Team Falcon Export 0 - 2
+week 10
+2002-07-07
+Vikingarna SK - Goodtown Gangsters 1 - 0
+Saxemara - FC Grotto 0 - 1
+Tjecko-85 - Hooksi IF 3 - 0
+Team Falcon Export - Stavros Incorporated 1 - 1
+week 11
+2002-07-14
+Stavros Incorporated - Tjecko-85 2 - 1
+Hooksi IF - Saxemara 1 - 2
+FC Grotto - Vikingarna SK 3 - 1
+Goodtown Gangsters - Team Falcon Export 1 - 2
+week 12
+2002-07-21
+Team Falcon Export - Tjecko-85 5 - 0
+Goodtown Gangsters - FC Grotto 5 - 2
+Vikingarna SK - Hooksi IF 1 - 2
+Saxemara - Stavros Incorporated 3 - 0
+week 13
+2002-07-28
+Hooksi IF - Goodtown Gangsters 1 - 5
+Tjecko-85 - Saxemara 5 - 2
+Stavros Incorporated - Vikingarna SK 1 - 4
+Team Falcon Export - FC Grotto 6 - 0
+week 14
+2002-08-04
+Vikingarna SK - Tjecko-85 2 - 4
+FC Grotto - Hooksi IF 4 - 1
+Goodtown Gangsters - Stavros Incorporated 2 - 1
+Saxemara - Team Falcon Export 3 - 0

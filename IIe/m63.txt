@@ -1,0 +1,84 @@
+week 1
+2016-10-02
+Auroville FC - Real Karlskrona 2 - 2
+brp - Lagavulin Destillers Edition 1 - 1
+Cirkus Brazil Jack - Bengan_Bois 3 - 2
+Leffan - Rogonje 3 - 1
+week 2
+2016-10-09
+Rogonje - Cirkus Brazil Jack 2 - 4
+Real Karlskrona - brp 1 - 0
+Bengan_Bois - Auroville FC 5 - 2
+Lagavulin Destillers Edition - Leffan 0 - 2
+week 3
+2016-10-16
+Auroville FC - Lagavulin Destillers Edition 2 - 1
+Cirkus Brazil Jack - Leffan 2 - 0
+Bengan_Bois - Real Karlskrona 1 - 3
+brp - Rogonje 1 - 0
+week 4
+2016-10-23
+Rogonje - Auroville FC 3 - 4
+Real Karlskrona - Cirkus Brazil Jack 5 - 1
+Leffan - brp 2 - 2
+Lagavulin Destillers Edition - Bengan_Bois 1 - 2
+week 5
+2016-10-30
+Auroville FC - brp 2 - 3
+Real Karlskrona - Rogonje 3 - 1
+Bengan_Bois - Leffan 0 - 1
+Cirkus Brazil Jack - Lagavulin Destillers Edition 3 - 0
+week 6
+2016-11-06
+Leffan - Auroville FC 2 - 0
+Rogonje - Bengan_Bois 0 - 4
+brp - Cirkus Brazil Jack 3 - 4
+Lagavulin Destillers Edition - Real Karlskrona 0 - 5
+week 7
+2016-11-13
+Auroville FC - Cirkus Brazil Jack 2 - 1
+Real Karlskrona - Leffan 2 - 0
+Rogonje - Lagavulin Destillers Edition 4 - 1
+Bengan_Bois - brp 5 - 2
+week 8
+2016-11-20
+Lagavulin Destillers Edition - Rogonje 0 - 7
+Leffan - Real Karlskrona 2 - 1
+brp - Bengan_Bois 1 - 4
+Cirkus Brazil Jack - Auroville FC 4 - 1
+week 9
+2016-11-27
+Bengan_Bois - Rogonje 4 - 4
+Cirkus Brazil Jack - brp 1 - 1
+Auroville FC - Leffan 1 - 1
+Real Karlskrona - Lagavulin Destillers Edition 6 - 0
+week 10
+2016-12-04
+Rogonje - Real Karlskrona 0 - 2
+Lagavulin Destillers Edition - Cirkus Brazil Jack 0 - 8
+Leffan - Bengan_Bois 2 - 0
+brp - Auroville FC 2 - 3
+week 11
+2016-12-11
+Bengan_Bois - Lagavulin Destillers Edition 8 - 0
+Cirkus Brazil Jack - Real Karlskrona 3 - 0
+brp - Leffan 0 - 7
+Auroville FC - Rogonje 7 - 1
+week 12
+2016-12-18
+Rogonje - brp 2 - 2
+Real Karlskrona - Bengan_Bois 3 - 1
+Leffan - Cirkus Brazil Jack 0 - 2
+Lagavulin Destillers Edition - Auroville FC 0 - 7
+week 13
+2016-12-25
+Cirkus Brazil Jack - Rogonje 5 - 0
+Leffan - Lagavulin Destillers Edition 4 - 0
+brp - Real Karlskrona 1 - 3
+Auroville FC - Bengan_Bois 1 - 1
+week 14
+2017-01-01
+Lagavulin Destillers Edition - brp 0 - 8
+Rogonje - Leffan 0 - 3
+Real Karlskrona - Auroville FC 6 - 0
+Bengan_Bois - Cirkus Brazil Jack 0 - 8

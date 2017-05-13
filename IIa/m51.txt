@@ -1,84 +1,84 @@
-Omgång 1
-2013-01-27 (1/51) 			
-	fibborna - FC Vallbyheden 	3 - 0 	HT Re-Live
-	Spelad glädje - Holmen Bois 	5 - 2 	HT Re-Live
-	Vinslov FC - Mbuko IF 	3 - 1 	HT Re-Live
-	FK Joker - Va é d Gun 	3 - 0 	HT Re-Live
-Omgång 2
-2013-02-03 (2/51) 			
-	Mbuko IF - Spelad glädje 	1 - 4 	HT Re-Live
-	Va é d Gun - Vinslov FC 	1 - 5 	HT Re-Live
-	FC Vallbyheden - FK Joker 	1 - 2 	HT Re-Live
-	Holmen Bois - fibborna 	1 - 1 	HT Re-Live
-Omgång 3
-2013-02-10 (3/51) 			
-	Spelad glädje - Vinslov FC 	3 - 0 	HT Re-Live
-	FK Joker - Mbuko IF 	2 - 1 	HT Re-Live
-	Holmen Bois - FC Vallbyheden 	8 - 0 	HT Re-Live
-	fibborna - Va é d Gun 	5 - 1 	HT Re-Live
-Omgång 4
-2013-02-17 (4/51) 			
-	FC Vallbyheden - Spelad glädje 	0 - 8 	HT Re-Live
-	Vinslov FC - FK Joker 	2 - 3 	HT Re-Live
-	Va é d Gun - Holmen Bois 	0 - 9 	HT Re-Live
-	Mbuko IF - fibborna 	1 - 1 	HT Re-Live
-Omgång 5
-2013-02-24 (5/51) 			
-	FC Vallbyheden - Mbuko IF 	0 - 9 	HT Re-Live
-	Holmen Bois - Vinslov FC 	6 - 5 	HT Re-Live
-	fibborna - FK Joker 	4 - 1 	HT Re-Live
-	Spelad glädje - Va é d Gun 	8 - 0 	HT Re-Live
-Omgång 6
-2013-03-03 (6/51) 			
-	Vinslov FC - fibborna 	0 - 2 	HT Re-Live
-	Va é d Gun - FC Vallbyheden 	5 - 2 	HT Re-Live
-	Mbuko IF - Holmen Bois 	3 - 2 	HT Re-Live
-	FK Joker - Spelad glädje 	3 - 1 	HT Re-Live
-Omgång 7
-2013-03-10 (7/51) 			
-	Mbuko IF - Va é d Gun 	11 - 0 	HT Re-Live
-	Holmen Bois - FK Joker 	3 - 2 	HT Re-Live
-	FC Vallbyheden - Vinslov FC 	1 - 9 	HT Re-Live
-	fibborna - Spelad glädje 	3 - 1 	HT Re-Live
-Omgång 8
-2013-03-17 (8/51) 			
-	Va é d Gun - Mbuko IF 	0 - 6 	HT Re-Live
-	FK Joker - Holmen Bois 	3 - 1 	HT Re-Live
-	Spelad glädje - fibborna 	2 - 0 	HT Re-Live
-	Vinslov FC - FC Vallbyheden 	7 - 1 	HT Re-Live
-Omgång 9
-2013-03-24 (9/51) 			
-	fibborna - Vinslov FC 	2 - 2 	HT Re-Live
-	FC Vallbyheden - Va é d Gun 	4 - 1 	HT Re-Live
-	Spelad glädje - FK Joker 	0 - 2 	HT Re-Live
-	Holmen Bois - Mbuko IF 	4 - 2 	HT Re-Live
-Omgång 10
-2013-03-31 (10/51) 			
-	FK Joker - fibborna 	3 - 1 	HT Re-Live
-	Vinslov FC - Holmen Bois 	2 - 4 	HT Re-Live
-	Mbuko IF - FC Vallbyheden 	11 - 0 	HT Re-Live
-	Va é d Gun - Spelad glädje 	0 - 9 	HT Re-Live
-Omgång 11
-2013-04-07 (11/51) 			
-	Spelad glädje - FC Vallbyheden 	9 - 0 	HT Re-Live
-	fibborna - Mbuko IF 	2 - 2 	HT Re-Live
-	FK Joker - Vinslov FC 	5 - 0 	HT Re-Live
-	Holmen Bois - Va é d Gun 	11 - 0 	HT Re-Live
-Omgång 12
-2013-04-14 (12/51) 			
-	Va é d Gun - fibborna 	0 - 9 	HT Re-Live
-	Mbuko IF - FK Joker 	2 - 5 	HT Re-Live
-	Vinslov FC - Spelad glädje 	0 - 5 	HT Re-Live
-	FC Vallbyheden - Holmen Bois 	0 - 11 	HT Re-Live
-Omgång 13
-2013-04-21 (13/51) 			
-	Vinslov FC - Va é d Gun 	0 - 5 	HT Re-Live
-	fibborna - Holmen Bois 	2 - 0 	HT Re-Live
-	FK Joker - FC Vallbyheden 	9 - 0 	HT Re-Live
-	Spelad glädje - Mbuko IF 	8 - 0 	HT Re-Live
-Omgång 14
-2013-04-28 (14/51) 			
-	FC Vallbyheden - fibborna 	0 - 9 	HT Re-Live
-	Holmen Bois - Spelad glädje 	4 - 5 	HT Re-Live
-	Mbuko IF - Vinslov FC 	5 - 0 	HT Re-Live
-	Va é d Gun - FK Joker 	1 - 8 	HT Re-Live
+week 1
+2013-01-27
+FK Joker - Va é d Gun 3 - 0
+fibborna - FC Vallbyheden 3 - 0
+Spelad glädje - Holmen Bois 5 - 2
+Vinslov FC - Mbuko IF 3 - 1
+week 2
+2013-02-03
+Mbuko IF - Spelad glädje 1 - 4
+Va é d Gun - Vinslov FC 1 - 5
+FC Vallbyheden - FK Joker 1 - 2
+Holmen Bois - fibborna 1 - 1
+week 3
+2013-02-10
+Spelad glädje - Vinslov FC 3 - 0
+FK Joker - Mbuko IF 2 - 1
+Holmen Bois - FC Vallbyheden 8 - 0
+fibborna - Va é d Gun 5 - 1
+week 4
+2013-02-17
+FC Vallbyheden - Spelad glädje 0 - 8
+Vinslov FC - FK Joker 2 - 3
+Va é d Gun - Holmen Bois 0 - 9
+Mbuko IF - fibborna 1 - 1
+week 5
+2013-02-24
+FC Vallbyheden - Mbuko IF 0 - 9
+Holmen Bois - Vinslov FC 6 - 5
+fibborna - FK Joker 4 - 1
+Spelad glädje - Va é d Gun 8 - 0
+week 6
+2013-03-03
+FK Joker - Spelad glädje 3 - 1
+Mbuko IF - Holmen Bois 3 - 2
+Va é d Gun - FC Vallbyheden 5 - 2
+Vinslov FC - fibborna 0 - 2
+week 7
+2013-03-10
+fibborna - Spelad glädje 3 - 1
+FC Vallbyheden - Vinslov FC 1 - 9
+Holmen Bois - FK Joker 3 - 2
+Mbuko IF - Va é d Gun 11 - 0
+week 8
+2013-03-17
+Vinslov FC - FC Vallbyheden 7 - 1
+Spelad glädje - fibborna 2 - 0
+FK Joker - Holmen Bois 3 - 1
+Va é d Gun - Mbuko IF 0 - 6
+week 9
+2013-03-24
+Holmen Bois - Mbuko IF 4 - 2
+Spelad glädje - FK Joker 0 - 2
+FC Vallbyheden - Va é d Gun 4 - 1
+fibborna - Vinslov FC 2 - 2
+week 10
+2013-03-31
+Va é d Gun - Spelad glädje 0 - 9
+Mbuko IF - FC Vallbyheden 11 - 0
+Vinslov FC - Holmen Bois 2 - 4
+FK Joker - fibborna 3 - 1
+week 11
+2013-04-07
+Holmen Bois - Va é d Gun 11 - 0
+FK Joker - Vinslov FC 5 - 0
+fibborna - Mbuko IF 2 - 2
+Spelad glädje - FC Vallbyheden 9 - 0
+week 12
+2013-04-14
+FC Vallbyheden - Holmen Bois 0 - 11
+Vinslov FC - Spelad glädje 0 - 5
+Mbuko IF - FK Joker 2 - 5
+Va é d Gun - fibborna 0 - 9
+week 13
+2013-04-21
+Spelad glädje - Mbuko IF 8 - 0
+FK Joker - FC Vallbyheden 9 - 0
+fibborna - Holmen Bois 2 - 0
+Vinslov FC - Va é d Gun 0 - 5
+week 14
+2013-04-28
+Va é d Gun - FK Joker 1 - 8
+Mbuko IF - Vinslov FC 5 - 0
+Holmen Bois - Spelad glädje 4 - 5
+FC Vallbyheden - fibborna 0 - 9

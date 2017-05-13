@@ -1,84 +1,84 @@
-Omgång 1
-2016-06-12 (1/62)			
-SESAM FC - Westhisk FC	4 - 3	HT Re-Live
-FC Dengue Fever - Goodwon FC	2 - 3	HT Re-Live
-AC Sätra Äng - IFK Pölsebo	1 - 2	HT Re-Live
-Kolis F.C - Starcraft United	0 - 5	HT Re-Live
-Omgång 2
-2016-06-19 (2/62)			
-IFK Pölsebo - Kolis F.C	5 - 0	HT Re-Live
-Starcraft United - SESAM FC	2 - 0	HT Re-Live
-Westhisk FC - FC Dengue Fever	2 - 0	HT Re-Live
-Goodwon FC - AC Sätra Äng	2 - 1	HT Re-Live
-Omgång 3
-2016-06-26 (3/62)			
-SESAM FC - Goodwon FC	2 - 2	HT Re-Live
-IFK Pölsebo - Starcraft United	2 - 4	HT Re-Live
-AC Sätra Äng - FC Dengue Fever	1 - 2	HT Re-Live
-Kolis F.C - Westhisk FC	0 - 5	HT Re-Live
-Omgång 4
-2016-07-03 (4/62)			
-Westhisk FC - IFK Pölsebo	2 - 3	HT Re-Live
-Starcraft United - AC Sätra Äng	2 - 1	HT Re-Live
-FC Dengue Fever - SESAM FC	0 - 4	HT Re-Live
-Goodwon FC - Kolis F.C	5 - 0	HT Re-Live
-Omgång 5
-2016-07-10 (5/62)			
-Starcraft United - Goodwon FC	2 - 2	HT Re-Live
-IFK Pölsebo - FC Dengue Fever	6 - 3	HT Re-Live
-AC Sätra Äng - Westhisk FC	4 - 6	HT Re-Live
-Kolis F.C - SESAM FC	0 - 5	HT Re-Live
-Omgång 6
-2016-07-17 (6/62)			
-Westhisk FC - Starcraft United	5 - 1	HT Re-Live
-Goodwon FC - IFK Pölsebo	3 - 4	HT Re-Live
-SESAM FC - AC Sätra Äng	3 - 2	HT Re-Live
-FC Dengue Fever - Kolis F.C	5 - 0	HT Re-Live
-Omgång 7
-2016-07-24 (7/62)			
-Kolis F.C - AC Sätra Äng	0 - 5	HT Re-Live
-IFK Pölsebo - SESAM FC	3 - 1	HT Re-Live
-Goodwon FC - Westhisk FC	3 - 3	HT Re-Live
-Starcraft United - FC Dengue Fever	3 - 4	HT Re-Live
-Omgång 8
-2016-07-31 (8/62)			
-Westhisk FC - Goodwon FC	3 - 6	HT Re-Live
-AC Sätra Äng - Kolis F.C	5 - 0	HT Re-Live
-FC Dengue Fever - Starcraft United	3 - 1	HT Re-Live
-SESAM FC - IFK Pölsebo	4 - 1	HT Re-Live
-Omgång 9
-2016-08-07 (9/62)			
-Kolis F.C - FC Dengue Fever	0 - 5	HT Re-Live
-AC Sätra Äng - SESAM FC	1 - 1	HT Re-Live
-IFK Pölsebo - Goodwon FC	1 - 1	HT Re-Live
-Starcraft United - Westhisk FC	6 - 0	HT Re-Live
-Omgång 10
-2016-08-14 (10/62)			
-SESAM FC - Kolis F.C	5 - 0	HT Re-Live
-Westhisk FC - AC Sätra Äng	4 - 4	HT Re-Live
-FC Dengue Fever - IFK Pölsebo	3 - 1	HT Re-Live
-Goodwon FC - Starcraft United	4 - 1	HT Re-Live
-Omgång 11
-2016-08-21 (11/62)			
-Kolis F.C - Goodwon FC	0 - 5	HT Re-Live
-AC Sätra Äng - Starcraft United	1 - 1	HT Re-Live
-SESAM FC - FC Dengue Fever	3 - 1	HT Re-Live
-IFK Pölsebo - Westhisk FC	4 - 3	HT Re-Live
-Omgång 12
-2016-08-28 (12/62)			
-Westhisk FC - Kolis F.C	5 - 0	HT Re-Live
-Starcraft United - IFK Pölsebo	3 - 0	HT Re-Live
-Goodwon FC - SESAM FC	5 - 2	HT Re-Live
-FC Dengue Fever - AC Sätra Äng	4 - 0	HT Re-Live
-Omgång 13
-2016-09-04 (13/62)			
-FC Dengue Fever - Westhisk FC	0 - 2	HT Re-Live
-SESAM FC - Starcraft United	4 - 2	HT Re-Live
-AC Sätra Äng - Goodwon FC	0 - 5	HT Re-Live
-Kolis F.C - IFK Pölsebo	0 - 5	HT Re-Live
-Omgång 14
-2016-09-11 (14/62)			
-Westhisk FC - SESAM FC	12 - 0	HT Re-Live
-Goodwon FC - FC Dengue Fever	4 - 0	HT Re-Live
-IFK Pölsebo - AC Sätra Äng	9 - 0	HT Re-Live
-Starcraft United - Kolis F.C	5 - 0	HT Re-Live
+week 1
+2016-06-12
+Kolis F.C - Starcraft United 0 - 5
+AC SÃ¤tra Ã„ng - IFK PÃ¶lsebo 1 - 2
+FC Dengue Fever - Goodwon FC 2 - 3
+SESAM FC - Westhisk FC 4 - 3
+week 2
+2016-06-19
+Goodwon FC - AC SÃ¤tra Ã„ng 2 - 1
+Westhisk FC - FC Dengue Fever 2 - 0
+Starcraft United - SESAM FC 2 - 0
+IFK PÃ¶lsebo - Kolis F.C 5 - 0
+week 3
+2016-06-26
+Kolis F.C - Westhisk FC 0 - 5
+AC SÃ¤tra Ã„ng - FC Dengue Fever 1 - 2
+IFK PÃ¶lsebo - Starcraft United 2 - 4
+SESAM FC - Goodwon FC 2 - 2
+week 4
+2016-07-03
+Goodwon FC - Kolis F.C 5 - 0
+FC Dengue Fever - SESAM FC 0 - 4
+Starcraft United - AC SÃ¤tra Ã„ng 2 - 1
+Westhisk FC - IFK PÃ¶lsebo 2 - 3
+week 5
+2016-07-10
+Kolis F.C - SESAM FC 0 - 5
+AC SÃ¤tra Ã„ng - Westhisk FC 4 - 6
+IFK PÃ¶lsebo - FC Dengue Fever 6 - 3
+Starcraft United - Goodwon FC 2 - 2
+week 6
+2016-07-17
+FC Dengue Fever - Kolis F.C 5 - 0
+SESAM FC - AC SÃ¤tra Ã„ng 3 - 2
+Goodwon FC - IFK PÃ¶lsebo 3 - 4
+Westhisk FC - Starcraft United 5 - 1
+week 7
+2016-07-24
+Starcraft United - FC Dengue Fever 3 - 4
+Goodwon FC - Westhisk FC 3 - 3
+IFK PÃ¶lsebo - SESAM FC 3 - 1
+Kolis F.C - AC SÃ¤tra Ã„ng 0 - 5
+week 8
+2016-07-31
+SESAM FC - IFK PÃ¶lsebo 4 - 1
+FC Dengue Fever - Starcraft United 3 - 1
+AC SÃ¤tra Ã„ng - Kolis F.C 5 - 0
+Westhisk FC - Goodwon FC 3 - 6
+week 9
+2016-08-07
+Starcraft United - Westhisk FC 6 - 0
+IFK PÃ¶lsebo - Goodwon FC 1 - 1
+AC SÃ¤tra Ã„ng - SESAM FC 1 - 1
+Kolis F.C - FC Dengue Fever 0 - 5
+week 10
+2016-08-14
+Goodwon FC - Starcraft United 4 - 1
+FC Dengue Fever - IFK PÃ¶lsebo 3 - 1
+Westhisk FC - AC SÃ¤tra Ã„ng 4 - 4
+SESAM FC - Kolis F.C 5 - 0
+week 11
+2016-08-21
+IFK PÃ¶lsebo - Westhisk FC 4 - 3
+SESAM FC - FC Dengue Fever 3 - 1
+AC SÃ¤tra Ã„ng - Starcraft United 1 - 1
+Kolis F.C - Goodwon FC 0 - 5
+week 12
+2016-08-28
+FC Dengue Fever - AC SÃ¤tra Ã„ng 4 - 0
+Goodwon FC - SESAM FC 5 - 2
+Westhisk FC - Kolis F.C 5 - 0
+Starcraft United - IFK PÃ¶lsebo 3 - 0
+week 13
+2016-09-04
+FC Dengue Fever - Westhisk FC 0 - 2
+SESAM FC - Starcraft United 4 - 2
+AC SÃ¤tra Ã„ng - Goodwon FC 0 - 5
+Kolis F.C - IFK PÃ¶lsebo 0 - 5
+week 14
+2016-09-11
+Westhisk FC - SESAM FC 12 - 0
+Goodwon FC - FC Dengue Fever 4 - 0
+IFK PÃ¶lsebo - AC SÃ¤tra Ã„ng 9 - 0
+Starcraft United - Kolis F.C 5 - 0

@@ -1,0 +1,84 @@
+week 1
+2007-11-11
+Seb IF - Rednaxela 4 - 3
+Ataraxi - Uppsala Bolltrollare 0 - 4
+AIK Peking - Angels of Gothenburg 6 - 3
+Hippopotamus AIK - Opium FF 4 - 0
+week 2
+2007-11-18
+Angels of Gothenburg - Seb IF 4 - 3
+Uppsala Bolltrollare - AIK Peking 3 - 2
+Opium FF - Ataraxi 3 - 2
+Rednaxela - Hippopotamus AIK 5 - 3
+week 3
+2007-11-25
+Angels of Gothenburg - Uppsala Bolltrollare 4 - 2
+Ataraxi - Rednaxela 4 - 3
+Hippopotamus AIK - Seb IF 3 - 3
+AIK Peking - Opium FF 1 - 4
+week 4
+2007-12-02
+Hippopotamus AIK - Ataraxi 3 - 1
+Seb IF - Uppsala Bolltrollare 2 - 3
+Rednaxela - AIK Peking 2 - 2
+Opium FF - Angels of Gothenburg 4 - 3
+week 5
+2007-12-09
+Ataraxi - Seb IF 3 - 0
+AIK Peking - Hippopotamus AIK 3 - 4
+Angels of Gothenburg - Rednaxela 2 - 3
+Uppsala Bolltrollare - Opium FF 3 - 2
+week 6
+2007-12-16
+Ataraxi - AIK Peking 2 - 1
+Seb IF - Opium FF 4 - 2
+Hippopotamus AIK - Angels of Gothenburg 3 - 1
+Rednaxela - Uppsala Bolltrollare 6 - 1
+week 7
+2007-12-23
+AIK Peking - Seb IF 0 - 3
+Uppsala Bolltrollare - Hippopotamus AIK 3 - 3
+Angels of Gothenburg - Ataraxi 4 - 7
+Opium FF - Rednaxela 2 - 1
+week 8
+2007-12-30
+Ataraxi - Angels of Gothenburg 6 - 1
+Seb IF - AIK Peking 4 - 1
+Hippopotamus AIK - Uppsala Bolltrollare 4 - 5
+Rednaxela - Opium FF 5 - 0
+week 9
+2008-01-06
+Uppsala Bolltrollare - Rednaxela 1 - 0
+AIK Peking - Ataraxi 1 - 5
+Opium FF - Seb IF 1 - 3
+Angels of Gothenburg - Hippopotamus AIK 5 - 2
+week 10
+2008-01-13
+Opium FF - Uppsala Bolltrollare 3 - 2
+Rednaxela - Angels of Gothenburg 2 - 3
+Hippopotamus AIK - AIK Peking 1 - 2
+Seb IF - Ataraxi 4 - 4
+week 11
+2008-01-20
+AIK Peking - Rednaxela 3 - 2
+Uppsala Bolltrollare - Seb IF 0 - 1
+Angels of Gothenburg - Opium FF 6 - 1
+Ataraxi - Hippopotamus AIK 3 - 4
+week 12
+2008-01-27
+Seb IF - Hippopotamus AIK 6 - 1
+Uppsala Bolltrollare - Angels of Gothenburg 2 - 3
+Opium FF - AIK Peking 4 - 2
+Rednaxela - Ataraxi 2 - 3
+week 13
+2008-02-03
+Seb IF - Angels of Gothenburg 5 - 1
+AIK Peking - Uppsala Bolltrollare 2 - 2
+Hippopotamus AIK - Rednaxela 2 - 2
+Ataraxi - Opium FF 2 - 3
+week 14
+2008-02-10
+Angels of Gothenburg - AIK Peking 1 - 6
+Uppsala Bolltrollare - Ataraxi 3 - 2
+Rednaxela - Seb IF 0 - 4
+Opium FF - Hippopotamus AIK 5 - 5

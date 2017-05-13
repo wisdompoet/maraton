@@ -1,0 +1,84 @@
+week 1
+2010-04-25
+Solid FK - MIA 3 - 3
+Tuffatores - Forza Leijonhielm 11 - 0
+Titans of Hammarberget - Degerfors FC 3 - 2
+David Brent - Hemliga Klubben 12 - 0
+week 2
+2010-05-02
+Forza Leijonhielm - Solid FK 0 - 9
+Degerfors FC - David Brent 0 - 0
+Hemliga Klubben - Tuffatores 0 - 6
+MIA - Titans of Hammarberget 5 - 2
+week 3
+2010-05-09
+Tuffatores - Degerfors FC 2 - 2
+David Brent - MIA 4 - 1
+Titans of Hammarberget - Solid FK 3 - 5
+Forza Leijonhielm - Hemliga Klubben 0 - 5
+week 4
+2010-05-16
+Degerfors FC - Forza Leijonhielm 8 - 0
+MIA - Tuffatores 3 - 1
+Titans of Hammarberget - David Brent 1 - 1
+Solid FK - Hemliga Klubben 5 - 0
+week 5
+2010-05-23
+David Brent - Solid FK 2 - 2
+Tuffatores - Titans of Hammarberget 1 - 0
+Forza Leijonhielm - MIA 0 - 10
+Hemliga Klubben - Degerfors FC 0 - 10
+week 6
+2010-05-30
+David Brent - Tuffatores 3 - 0
+Solid FK - Degerfors FC 0 - 2
+MIA - Hemliga Klubben 8 - 0
+Titans of Hammarberget - Forza Leijonhielm 13 - 0
+week 7
+2010-06-06
+Tuffatores - Solid FK 0 - 4
+Forza Leijonhielm - David Brent 0 - 11
+Hemliga Klubben - Titans of Hammarberget 0 - 9
+Degerfors FC - MIA 2 - 4
+week 8
+2010-06-13
+Titans of Hammarberget - Hemliga Klubben 9 - 0
+David Brent - Forza Leijonhielm 10 - 0
+Solid FK - Tuffatores 1 - 0
+MIA - Degerfors FC 3 - 0
+week 9
+2010-06-20
+Forza Leijonhielm - Titans of Hammarberget 0 - 10
+Tuffatores - David Brent 1 - 1
+Hemliga Klubben - MIA 0 - 10
+Degerfors FC - Solid FK 3 - 1
+week 10
+2010-06-27
+MIA - Forza Leijonhielm 8 - 0
+Solid FK - David Brent 6 - 0
+Titans of Hammarberget - Tuffatores 3 - 2
+Degerfors FC - Hemliga Klubben 11 - 0
+week 11
+2010-07-04
+Tuffatores - MIA 0 - 3
+Forza Leijonhielm - Degerfors FC 0 - 9
+Hemliga Klubben - Solid FK 0 - 9
+David Brent - Titans of Hammarberget 4 - 1
+week 12
+2010-07-11
+Solid FK - Titans of Hammarberget 9 - 2
+Degerfors FC - Tuffatores 3 - 1
+Hemliga Klubben - Forza Leijonhielm 1 - 7
+MIA - David Brent 5 - 0
+week 13
+2010-07-18
+Tuffatores - Hemliga Klubben 8 - 0
+Titans of Hammarberget - MIA 0 - 3
+David Brent - Degerfors FC 3 - 1
+Solid FK - Forza Leijonhielm 11 - 0
+week 14
+2010-07-25
+Degerfors FC - Titans of Hammarberget 5 - 0
+Forza Leijonhielm - Tuffatores 0 - 8
+Hemliga Klubben - David Brent 0 - 9
+MIA - Solid FK 3 - 2

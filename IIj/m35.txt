@@ -1,0 +1,84 @@
+week 1
+2008-03-02
+Huskvarna - Getto 4 - 3
+Borgs Hjältar - Jonez FC 1 - 0
+Auroville FC - Hestra2000 0 - 2
+Håknäs Hawks - Quadruppeln 6 - 1
+week 2
+2008-03-09
+Quadruppeln - Borgs Hjältar 3 - 1
+Getto - Håknäs Hawks 8 - 1
+Hestra2000 - Huskvarna 3 - 2
+Jonez FC - Auroville FC 1 - 3
+week 3
+2008-03-16
+Borgs Hjältar - Getto 2 - 5
+Håknäs Hawks - Huskvarna 2 - 1
+Hestra2000 - Jonez FC 3 - 1
+Auroville FC - Quadruppeln 5 - 2
+week 4
+2008-03-23
+Quadruppeln - Hestra2000 5 - 3
+Huskvarna - Jonez FC 5 - 0
+Getto - Auroville FC 6 - 0
+Håknäs Hawks - Borgs Hjältar 2 - 1
+week 5
+2008-03-30
+Jonez FC - Quadruppeln 2 - 3
+Hestra2000 - Getto 0 - 4
+Borgs Hjältar - Huskvarna 1 - 5
+Auroville FC - Håknäs Hawks 4 - 1
+week 6
+2008-04-06
+Getto - Jonez FC 5 - 1
+Håknäs Hawks - Hestra2000 1 - 3
+Borgs Hjältar - Auroville FC 3 - 0
+Huskvarna - Quadruppeln 3 - 3
+week 7
+2008-04-13
+Quadruppeln - Getto 4 - 2
+Auroville FC - Huskvarna 0 - 3
+Hestra2000 - Borgs Hjältar 1 - 2
+Jonez FC - Håknäs Hawks 4 - 1
+week 8
+2008-04-20
+Håknäs Hawks - Jonez FC 1 - 0
+Getto - Quadruppeln 3 - 6
+Huskvarna - Auroville FC 3 - 2
+Borgs Hjältar - Hestra2000 5 - 0
+week 9
+2008-04-27
+Quadruppeln - Huskvarna 4 - 3
+Auroville FC - Borgs Hjältar 0 - 0
+Hestra2000 - Håknäs Hawks 0 - 2
+Jonez FC - Getto 0 - 3
+week 10
+2008-05-04
+Getto - Hestra2000 6 - 1
+Huskvarna - Borgs Hjältar 5 - 0
+Håknäs Hawks - Auroville FC 0 - 1
+Quadruppeln - Jonez FC 2 - 2
+week 11
+2008-05-11
+Auroville FC - Getto 3 - 4
+Hestra2000 - Quadruppeln 4 - 4
+Jonez FC - Huskvarna 0 - 4
+Borgs Hjältar - Håknäs Hawks 0 - 5
+week 12
+2008-05-18
+Huskvarna - Håknäs Hawks 4 - 1
+Jonez FC - Hestra2000 1 - 3
+Quadruppeln - Auroville FC 1 - 1
+Getto - Borgs Hjältar 5 - 0
+week 13
+2008-05-25
+Auroville FC - Jonez FC 5 - 0
+Huskvarna - Hestra2000 3 - 3
+Håknäs Hawks - Getto 0 - 1
+Borgs Hjältar - Quadruppeln 0 - 5
+week 14
+2008-06-01
+Getto - Huskvarna 3 - 3
+Hestra2000 - Auroville FC 1 - 2
+Jonez FC - Borgs Hjältar 5 - 0
+Quadruppeln - Håknäs Hawks 4 - 1

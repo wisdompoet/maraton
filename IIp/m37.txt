@@ -1,0 +1,84 @@
+week 1
+2008-10-12
+Alle allstars - Forza Leijonhielm 2 - 0
+Fethetens FK - Torsås tappra tigrar 2 - 2
+MIA - FC Kauntz 5 - 2
+Konspiratörerna - Borussia Karlstad 6 - 0
+week 2
+2008-10-19
+Borussia Karlstad - Fethetens FK 5 - 1
+Forza Leijonhielm - Konspiratörerna 1 - 2
+FC Kauntz - Alle allstars 4 - 2
+Torsås tappra tigrar - MIA 6 - 3
+week 3
+2008-10-26
+FC Kauntz - Torsås tappra tigrar 6 - 1
+Fethetens FK - Forza Leijonhielm 5 - 1
+MIA - Borussia Karlstad 6 - 0
+Konspiratörerna - Alle allstars 1 - 6
+week 4
+2008-11-02
+Borussia Karlstad - FC Kauntz 2 - 6
+Alle allstars - Torsås tappra tigrar 5 - 1
+Konspiratörerna - Fethetens FK 1 - 6
+Forza Leijonhielm - MIA 3 - 3
+week 5
+2008-11-09
+FC Kauntz - Forza Leijonhielm 3 - 2
+MIA - Konspiratörerna 4 - 1
+Fethetens FK - Alle allstars 4 - 2
+Torsås tappra tigrar - Borussia Karlstad 2 - 1
+week 6
+2008-11-16
+Fethetens FK - MIA 7 - 1
+Forza Leijonhielm - Torsås tappra tigrar 6 - 1
+Alle allstars - Borussia Karlstad 8 - 1
+Konspiratörerna - FC Kauntz 4 - 4
+week 7
+2008-11-23
+FC Kauntz - Fethetens FK 4 - 2
+Borussia Karlstad - Forza Leijonhielm 5 - 3
+Torsås tappra tigrar - Konspiratörerna 6 - 2
+MIA - Alle allstars 1 - 5
+week 8
+2008-11-30
+Forza Leijonhielm - Borussia Karlstad 6 - 2
+Fethetens FK - FC Kauntz 1 - 1
+Konspiratörerna - Torsås tappra tigrar 4 - 1
+Alle allstars - MIA 5 - 0
+week 9
+2008-12-07
+FC Kauntz - Konspiratörerna 3 - 1
+MIA - Fethetens FK 3 - 2
+Borussia Karlstad - Alle allstars 0 - 6
+Torsås tappra tigrar - Forza Leijonhielm 1 - 6
+week 10
+2008-12-14
+Borussia Karlstad - Torsås tappra tigrar 2 - 5
+Forza Leijonhielm - FC Kauntz 5 - 3
+Konspiratörerna - MIA 5 - 0
+Alle allstars - Fethetens FK 1 - 4
+week 11
+2008-12-21
+Fethetens FK - Konspiratörerna 3 - 2
+FC Kauntz - Borussia Karlstad 5 - 1
+MIA - Forza Leijonhielm 3 - 3
+Torsås tappra tigrar - Alle allstars 2 - 5
+week 12
+2008-12-28
+Alle allstars - Konspiratörerna 4 - 3
+Torsås tappra tigrar - FC Kauntz 1 - 7
+Forza Leijonhielm - Fethetens FK 2 - 3
+Borussia Karlstad - MIA 1 - 4
+week 13
+2009-01-04
+MIA - Torsås tappra tigrar 7 - 0
+Konspiratörerna - Forza Leijonhielm 4 - 1
+Fethetens FK - Borussia Karlstad 5 - 1
+Alle allstars - FC Kauntz 6 - 1
+week 14
+2009-01-11
+Borussia Karlstad - Konspiratörerna 6 - 1
+FC Kauntz - MIA 0 - 6
+Torsås tappra tigrar - Fethetens FK 2 - 5
+Forza Leijonhielm - Alle allstars 1 - 1

@@ -1,0 +1,84 @@
+week 1
+2009-09-13
+Jediriddarna - Piteteam 1 - 3
+Tidelaget - MacGyver 3 - 4
+Segmon BK - BK Kröka 4 - 0
+Zed´s boyz - Red Pool 4 - 1
+week 2
+2009-09-20
+BK Kröka - Tidelaget 0 - 8
+Piteteam - Segmon BK 3 - 2
+MacGyver - Zed´s boyz 2 - 2
+Red Pool - Jediriddarna 1 - 2
+week 3
+2009-09-27
+Segmon BK - Red Pool 3 - 3
+Zed´s boyz - Tidelaget 2 - 1
+BK Kröka - Piteteam 4 - 2
+Jediriddarna - MacGyver 4 - 1
+week 4
+2009-10-04
+Tidelaget - Piteteam 2 - 3
+MacGyver - Segmon BK 1 - 6
+Red Pool - BK Kröka 5 - 1
+Zed´s boyz - Jediriddarna 1 - 2
+week 5
+2009-10-11
+Jediriddarna - Tidelaget 3 - 2
+Segmon BK - Zed´s boyz 3 - 1
+BK Kröka - MacGyver 2 - 1
+Piteteam - Red Pool 2 - 3
+week 6
+2009-10-18
+Tidelaget - Red Pool 3 - 1
+Jediriddarna - Segmon BK 4 - 0
+MacGyver - Piteteam 5 - 1
+Zed´s boyz - BK Kröka 0 - 0
+week 7
+2009-10-25
+Segmon BK - Tidelaget 0 - 2
+BK Kröka - Jediriddarna 1 - 6
+Red Pool - MacGyver 3 - 1
+Piteteam - Zed´s boyz 5 - 1
+week 8
+2009-11-01
+Zed´s boyz - Piteteam 1 - 3
+Jediriddarna - BK Kröka 2 - 4
+Tidelaget - Segmon BK 1 - 2
+MacGyver - Red Pool 2 - 2
+week 9
+2009-11-08
+Segmon BK - Jediriddarna 3 - 0
+Piteteam - MacGyver 2 - 5
+BK Kröka - Zed´s boyz 5 - 1
+Red Pool - Tidelaget 2 - 3
+week 10
+2009-11-15
+MacGyver - BK Kröka 3 - 1
+Tidelaget - Jediriddarna 7 - 1
+Red Pool - Piteteam 5 - 0
+Zed´s boyz - Segmon BK 2 - 1
+week 11
+2009-11-22
+Segmon BK - MacGyver 3 - 2
+BK Kröka - Red Pool 1 - 2
+Piteteam - Tidelaget 3 - 1
+Jediriddarna - Zed´s boyz 4 - 1
+week 12
+2009-11-29
+Piteteam - BK Kröka 1 - 2
+Red Pool - Segmon BK 2 - 1
+Tidelaget - Zed´s boyz 5 - 2
+MacGyver - Jediriddarna 2 - 3
+week 13
+2009-12-06
+Zed´s boyz - MacGyver 2 - 1
+Tidelaget - BK Kröka 4 - 1
+Jediriddarna - Red Pool 3 - 1
+Segmon BK - Piteteam 6 - 0
+week 14
+2009-12-13
+Red Pool - Zed´s boyz 1 - 3
+Piteteam - Jediriddarna 0 - 2
+MacGyver - Tidelaget 4 - 2
+BK Kröka - Segmon BK 1 - 3

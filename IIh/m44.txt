@@ -1,0 +1,84 @@
+week 1
+2010-12-05
+IFK Ninweborg - Z:s Tigrar 2 - 0
+Estö BK - Pharmen Tigers 4 - 0
+BEATLES FC - Sluga BK 4 - 2
+Bergnäsets AIK - Gollo FF 2 - 2
+week 2
+2010-12-12
+Sluga BK - Estö BK 1 - 2
+Pharmen Tigers - IFK Ninweborg 1 - 3
+Gollo FF - BEATLES FC 5 - 0
+Z:s Tigrar - Bergnäsets AIK 3 - 0
+week 3
+2010-12-19
+BEATLES FC - Bergnäsets AIK 2 - 0
+Estö BK - Z:s Tigrar 3 - 3
+Sluga BK - Pharmen Tigers 5 - 0
+IFK Ninweborg - Gollo FF 3 - 1
+week 4
+2010-12-26
+Pharmen Tigers - BEATLES FC 0 - 9
+Gollo FF - Estö BK 1 - 0
+Bergnäsets AIK - IFK Ninweborg 1 - 0
+Z:s Tigrar - Sluga BK 5 - 1
+week 5
+2011-01-02
+Estö BK - IFK Ninweborg 1 - 0
+Sluga BK - Bergnäsets AIK 3 - 3
+Pharmen Tigers - Gollo FF 0 - 6
+BEATLES FC - Z:s Tigrar 3 - 1
+week 6
+2011-01-09
+IFK Ninweborg - BEATLES FC 3 - 1
+Bergnäsets AIK - Estö BK 2 - 1
+Gollo FF - Sluga BK 3 - 1
+Z:s Tigrar - Pharmen Tigers 4 - 0
+week 7
+2011-01-16
+Estö BK - BEATLES FC 3 - 1
+Sluga BK - IFK Ninweborg 2 - 1
+Gollo FF - Z:s Tigrar 3 - 0
+Pharmen Tigers - Bergnäsets AIK 0 - 5
+week 8
+2011-01-23
+IFK Ninweborg - Sluga BK 0 - 0
+Z:s Tigrar - Gollo FF 2 - 3
+Bergnäsets AIK - Pharmen Tigers 2 - 0
+BEATLES FC - Estö BK 3 - 1
+week 9
+2011-01-30
+Sluga BK - Gollo FF 1 - 3
+Pharmen Tigers - Z:s Tigrar 0 - 0
+BEATLES FC - IFK Ninweborg 0 - 0
+Estö BK - Bergnäsets AIK 2 - 0
+week 10
+2011-02-06
+Z:s Tigrar - BEATLES FC 4 - 1
+Bergnäsets AIK - Sluga BK 2 - 1
+Gollo FF - Pharmen Tigers 0 - 1
+IFK Ninweborg - Estö BK 0 - 3
+week 11
+2011-02-13
+IFK Ninweborg - Bergnäsets AIK 0 - 2
+BEATLES FC - Pharmen Tigers 0 - 1
+Estö BK - Gollo FF 2 - 1
+Sluga BK - Z:s Tigrar 3 - 1
+week 12
+2011-02-20
+Gollo FF - IFK Ninweborg 0 - 2
+Pharmen Tigers - Sluga BK 0 - 0
+Z:s Tigrar - Estö BK 0 - 3
+Bergnäsets AIK - BEATLES FC 4 - 2
+week 13
+2011-02-27
+Bergnäsets AIK - Z:s Tigrar 3 - 0
+BEATLES FC - Gollo FF 0 - 3
+Estö BK - Sluga BK 4 - 2
+IFK Ninweborg - Pharmen Tigers 2 - 1
+week 14
+2011-03-06
+Z:s Tigrar - IFK Ninweborg 0 - 1
+Gollo FF - Bergnäsets AIK 0 - 3
+Sluga BK - BEATLES FC 3 - 0
+Pharmen Tigers - Estö BK 0 - 2

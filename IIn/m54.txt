@@ -1,0 +1,84 @@
+week 1
+2013-12-29
+Oslo United FC - Bondglamsen FK 0 - 5
+Gunnarn IK - HALLBERG UTD 6 - 1
+Artrítico - Donosti 1 - 2
+Degerfors FC - Muu 2 - 3
+week 2
+2014-01-05
+Bondglamsen FK - Artrítico 3 - 1
+Donosti - Gunnarn IK 1 - 1
+Muu - Oslo United FC 7 - 0
+HALLBERG UTD - Degerfors FC 3 - 1
+week 3
+2014-01-12
+Artrítico - HALLBERG UTD 2 - 2
+Bondglamsen FK - Donosti 3 - 0
+Gunnarn IK - Muu 3 - 0
+Oslo United FC - Degerfors FC 1 - 9
+week 4
+2014-01-19
+Muu - Artrítico 7 - 1
+Degerfors FC - Gunnarn IK 1 - 3
+Donosti - Oslo United FC 8 - 0
+HALLBERG UTD - Bondglamsen FK 0 - 3
+week 5
+2014-01-26
+Oslo United FC - HALLBERG UTD 0 - 6
+Donosti - Muu 4 - 0
+Artrítico - Gunnarn IK 1 - 3
+Bondglamsen FK - Degerfors FC 1 - 1
+week 6
+2014-02-02
+Degerfors FC - Artrítico 5 - 1
+Gunnarn IK - Oslo United FC 12 - 0
+Muu - Bondglamsen FK 1 - 4
+HALLBERG UTD - Donosti 0 - 2
+week 7
+2014-02-09
+Artrítico - Oslo United FC 11 - 0
+Bondglamsen FK - Gunnarn IK 5 - 3
+Muu - HALLBERG UTD 3 - 1
+Donosti - Degerfors FC 2 - 3
+week 8
+2014-02-16
+HALLBERG UTD - Muu 3 - 0
+Degerfors FC - Donosti 1 - 2
+Gunnarn IK - Bondglamsen FK 3 - 1
+Oslo United FC - Artrítico 1 - 10
+week 9
+2014-02-23
+Donosti - HALLBERG UTD 3 - 0
+Bondglamsen FK - Muu 4 - 1
+Oslo United FC - Gunnarn IK 0 - 10
+Artrítico - Degerfors FC 3 - 2
+week 10
+2014-03-02
+Muu - Donosti 0 - 2
+Degerfors FC - Bondglamsen FK 1 - 3
+HALLBERG UTD - Oslo United FC 4 - 0
+Gunnarn IK - Artrítico 2 - 0
+week 11
+2014-03-09
+Bondglamsen FK - HALLBERG UTD 6 - 3
+Artrítico - Muu 2 - 5
+Oslo United FC - Donosti 0 - 10
+Gunnarn IK - Degerfors FC 3 - 1
+week 12
+2014-03-16
+Muu - Gunnarn IK 0 - 3
+Degerfors FC - Oslo United FC 8 - 0
+Donosti - Bondglamsen FK 4 - 2
+HALLBERG UTD - Artrítico 4 - 1
+week 13
+2014-03-23
+Degerfors FC - HALLBERG UTD 3 - 0
+Oslo United FC - Muu 0 - 8
+Gunnarn IK - Donosti 2 - 3
+Artrítico - Bondglamsen FK 3 - 5
+week 14
+2014-03-30
+HALLBERG UTD - Gunnarn IK 1 - 3
+Donosti - Artrítico 6 - 3
+Bondglamsen FK - Oslo United FC 8 - 0
+Muu - Degerfors FC 0 - 4

@@ -1,84 +1,84 @@
-Omgång 1
-2007-07-22 (1/33) 			
-	Keffs Tigers - Älghult 	0 - 4 	HT Re-Live
-	Hawkwing FF - Ditry deeds 	5 - 0 	HT Re-Live
-	club Belmondo - Riot Fc 	0 - 5 	HT Re-Live
-	Sävast AIF - Cosmic De Luxe 	7 - 0 	HT Re-Live
-Omgång 2
-2007-07-29 (2/33) 			
-	Cosmic De Luxe - Keffs Tigers 	7 - 4 	HT Re-Live
-	Älghult - Hawkwing FF 	2 - 2 	HT Re-Live
-	Riot Fc - Sävast AIF 	0 - 5 	HT Re-Live
-	Ditry deeds - club Belmondo 	5 - 0 	HT Re-Live
-Omgång 3
-2007-08-05 (3/33) 			
-	Ditry deeds - Älghult 	2 - 5 	HT Re-Live
-	Sävast AIF - club Belmondo 	5 - 0 	HT Re-Live
-	Hawkwing FF - Cosmic De Luxe 	2 - 6 	HT Re-Live
-	Keffs Tigers - Riot Fc 	8 - 1 	HT Re-Live
-Omgång 4
-2007-08-12 (4/33) 			
-	club Belmondo - Älghult 	0 - 5 	HT Re-Live
-	Cosmic De Luxe - Ditry deeds 	8 - 3 	HT Re-Live
-	Sävast AIF - Keffs Tigers 	6 - 1 	HT Re-Live
-	Riot Fc - Hawkwing FF 	0 - 3 	HT Re-Live
-Omgång 5
-2007-08-19 (5/33) 			
-	Hawkwing FF - Sävast AIF 	2 - 0 	HT Re-Live
-	Ditry deeds - Riot Fc 	6 - 0 	HT Re-Live
-	Älghult - Cosmic De Luxe 	6 - 1 	HT Re-Live
-	Keffs Tigers - club Belmondo 	5 - 0 	HT Re-Live
-Omgång 6
-2007-08-26 (6/33) 			
-	Riot Fc - Älghult 	0 - 3 	HT Re-Live
-	club Belmondo - Cosmic De Luxe 	0 - 5 	HT Re-Live
-	Keffs Tigers - Hawkwing FF 	1 - 3 	HT Re-Live
-	Sävast AIF - Ditry deeds 	5 - 4 	HT Re-Live
-Omgång 7
-2007-09-02 (7/33) 			
-	Ditry deeds - Keffs Tigers 	5 - 1 	HT Re-Live
-	Cosmic De Luxe - Riot Fc 	9 - 2 	HT Re-Live
-	Älghult - Sävast AIF 	1 - 0 	HT Re-Live
-	Hawkwing FF - club Belmondo 	5 - 0 	HT Re-Live
-Omgång 8
-2007-09-09 (8/33) 			
-	Sävast AIF - Älghult 	3 - 1 	HT Re-Live
-	club Belmondo - Hawkwing FF 	0 - 4 	HT Re-Live
-	Keffs Tigers - Ditry deeds 	2 - 9 	HT Re-Live
-	Riot Fc - Cosmic De Luxe 	0 - 9 	HT Re-Live
-Omgång 9
-2007-09-16 (9/33) 			
-	Hawkwing FF - Keffs Tigers 	6 - 0 	HT Re-Live
-	Ditry deeds - Sävast AIF 	0 - 10 	HT Re-Live
-	Cosmic De Luxe - club Belmondo 	11 - 0 	HT Re-Live
-	Älghult - Riot Fc 	4 - 0 	HT Re-Live
-Omgång 10
-2007-09-23 (10/33) 			
-	Sävast AIF - Hawkwing FF 	3 - 1 	HT Re-Live
-	Riot Fc - Ditry deeds 	0 - 8 	HT Re-Live
-	club Belmondo - Keffs Tigers 	0 - 8 	HT Re-Live
-	Cosmic De Luxe - Älghult 	5 - 2 	HT Re-Live
-Omgång 11
-2007-09-30 (11/33) 			
-	Hawkwing FF - Riot Fc 	9 - 0 	HT Re-Live
-	Älghult - club Belmondo 	6 - 1 	HT Re-Live
-	Keffs Tigers - Sävast AIF 	0 - 4 	HT Re-Live
-	Ditry deeds - Cosmic De Luxe 	3 - 8 	HT Re-Live
-Omgång 12
-2007-10-07 (12/33) 			
-	Riot Fc - Keffs Tigers 	0 - 3 	HT Re-Live
-	club Belmondo - Sävast AIF 	1 - 11 	HT Re-Live
-	Älghult - Ditry deeds 	2 - 3 	HT Re-Live
-	Cosmic De Luxe - Hawkwing FF 	1 - 7 	HT Re-Live
-Omgång 13
-2007-10-14 (13/33) 			
-	Sävast AIF - Riot Fc 	4 - 0 	HT Re-Live
-	Keffs Tigers - Cosmic De Luxe 	3 - 2 	HT Re-Live
-	Hawkwing FF - Älghult 	2 - 2 	HT Re-Live
-	club Belmondo - Ditry deeds 	0 - 9 	HT Re-Live
-Omgång 14
-2007-10-21 (14/33) 			
-	Riot Fc - club Belmondo 	2 - 1 	HT Re-Live
-	Älghult - Keffs Tigers 	3 - 1 	HT Re-Live
-	Cosmic De Luxe - Sävast AIF 	0 - 5 	HT Re-Live
-	Ditry deeds - Hawkwing FF 	3 - 6 	HT Re-Live
+week 1
+2007-07-22
+Keffs Tigers - Älghult 0 - 4
+Hawkwing FF - Ditry deeds 5 - 0
+club Belmondo - Riot Fc 0 - 5
+Sävast AIF - Cosmic De Luxe 7 - 0
+week 2
+2007-07-29
+Cosmic De Luxe - Keffs Tigers 7 - 4
+Älghult - Hawkwing FF 2 - 2
+Riot Fc - Sävast AIF 0 - 5
+Ditry deeds - club Belmondo 5 - 0
+week 3
+2007-08-05
+Ditry deeds - Älghult 2 - 5
+Sävast AIF - club Belmondo 5 - 0
+Hawkwing FF - Cosmic De Luxe 2 - 6
+Keffs Tigers - Riot Fc 8 - 1
+week 4
+2007-08-12
+club Belmondo - Älghult 0 - 5
+Cosmic De Luxe - Ditry deeds 8 - 3
+Sävast AIF - Keffs Tigers 6 - 1
+Riot Fc - Hawkwing FF 0 - 3
+week 5
+2007-08-19
+Hawkwing FF - Sävast AIF 2 - 0
+Ditry deeds - Riot Fc 6 - 0
+Älghult - Cosmic De Luxe 6 - 1
+Keffs Tigers - club Belmondo 5 - 0
+week 6
+2007-08-26
+Riot Fc - Älghult 0 - 3
+club Belmondo - Cosmic De Luxe 0 - 5
+Keffs Tigers - Hawkwing FF 1 - 3
+Sävast AIF - Ditry deeds 5 - 4
+week 7
+2007-09-02
+Ditry deeds - Keffs Tigers 5 - 1
+Cosmic De Luxe - Riot Fc 9 - 2
+Älghult - Sävast AIF 1 - 0
+Hawkwing FF - club Belmondo 5 - 0
+week 8
+2007-09-09
+Sävast AIF - Älghult 3 - 1
+club Belmondo - Hawkwing FF 0 - 4
+Keffs Tigers - Ditry deeds 2 - 9
+Riot Fc - Cosmic De Luxe 0 - 9
+week 9
+2007-09-16
+Hawkwing FF - Keffs Tigers 6 - 0
+Ditry deeds - Sävast AIF 0 - 10
+Cosmic De Luxe - club Belmondo 11 - 0
+Älghult - Riot Fc 4 - 0
+week 10
+2007-09-23
+Sävast AIF - Hawkwing FF 3 - 1
+Riot Fc - Ditry deeds 0 - 8
+club Belmondo - Keffs Tigers 0 - 8
+Cosmic De Luxe - Älghult 5 - 2
+week 11
+2007-09-30
+Hawkwing FF - Riot Fc 9 - 0
+Älghult - club Belmondo 6 - 1
+Keffs Tigers - Sävast AIF 0 - 4
+Ditry deeds - Cosmic De Luxe 3 - 8
+week 12
+2007-10-07
+Riot Fc - Keffs Tigers 0 - 3
+club Belmondo - Sävast AIF 1 - 11
+Älghult - Ditry deeds 2 - 3
+Cosmic De Luxe - Hawkwing FF 1 - 7
+week 13
+2007-10-14
+Sävast AIF - Riot Fc 4 - 0
+Keffs Tigers - Cosmic De Luxe 3 - 2
+Hawkwing FF - Älghult 2 - 2
+club Belmondo - Ditry deeds 0 - 9
+week 14
+2007-10-21
+Riot Fc - club Belmondo 2 - 1
+Älghult - Keffs Tigers 3 - 1
+Cosmic De Luxe - Sävast AIF 0 - 5
+Ditry deeds - Hawkwing FF 3 - 6

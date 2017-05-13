@@ -1,84 +1,84 @@
-Omgång 1
-2013-09-08 (1/53) 			
-	BK Rapp - Spelad glädje 	0 - 1 	HT Re-Live
-	Kistbärarna - Kardoz Boys 	2 - 1 	HT Re-Live
-	Simlångsdalen DK - Manana 	0 - 1 	HT Re-Live
-	Spartak - Holmen Bois 	2 - 2 	HT Re-Live
-Omgång 2
-2013-09-15 (2/53) 			
-	Spelad glädje - Kistbärarna 	1 - 0 	HT Re-Live
-	Manana - Spartak 	2 - 2 	HT Re-Live
-	Holmen Bois - BK Rapp 	2 - 1 	HT Re-Live
-	Kardoz Boys - Simlångsdalen DK 	4 - 1 	HT Re-Live
-Omgång 3
-2013-09-22 (3/53) 			
-	Spelad glädje - Kardoz Boys 	1 - 1 	HT Re-Live
-	Simlångsdalen DK - Holmen Bois 	0 - 1 	HT Re-Live
-	BK Rapp - Spartak 	0 - 2 	HT Re-Live
-	Kistbärarna - Manana 	0 - 2 	HT Re-Live
-Omgång 4
-2013-09-29 (4/53) 			
-	Holmen Bois - Kistbärarna 	1 - 1 	HT Re-Live
-	Manana - Spelad glädje 	4 - 3 	HT Re-Live
-	Kardoz Boys - BK Rapp 	2 - 2 	HT Re-Live
-	Spartak - Simlångsdalen DK 	4 - 0 	HT Re-Live
-Omgång 5
-2013-10-06 (5/53) 			
-	Kardoz Boys - Holmen Bois 	3 - 2 	HT Re-Live
-	BK Rapp - Manana 	1 - 2 	HT Re-Live
-	Spelad glädje - Spartak 	2 - 0 	HT Re-Live
-	Kistbärarna - Simlångsdalen DK 	5 - 1 	HT Re-Live
-Omgång 6
-2013-10-13 (6/53) 			
-	Spartak - Kistbärarna 	1 - 1 	HT Re-Live
-	Simlångsdalen DK - BK Rapp 	1 - 4 	HT Re-Live
-	Manana - Kardoz Boys 	1 - 4 	HT Re-Live
-	Holmen Bois - Spelad glädje 	1 - 4 	HT Re-Live
-Omgång 7
-2013-10-20 (7/53) 			
-	Holmen Bois - Manana 	2 - 0 	HT Re-Live
-	Spelad glädje - Simlångsdalen DK 	8 - 0 	HT Re-Live
-	Kistbärarna - BK Rapp 	1 - 5 	HT Re-Live
-	Kardoz Boys - Spartak 	2 - 0 	HT Re-Live
-Omgång 8
-2013-10-27 (8/53) 			
-	BK Rapp - Kistbärarna 	2 - 3 	HT Re-Live
-	Spartak - Kardoz Boys 	3 - 2 	HT Re-Live
-	Simlångsdalen DK - Spelad glädje 	0 - 4 	HT Re-Live
-	Manana - Holmen Bois 	1 - 1 	HT Re-Live
-Omgång 9
-2013-11-03 (9/53) 			
-	Kistbärarna - Spartak 	2 - 1 	HT Re-Live
-	BK Rapp - Simlångsdalen DK 	3 - 1 	HT Re-Live
-	Spelad glädje - Holmen Bois 	1 - 0 	HT Re-Live
-	Kardoz Boys - Manana 	1 - 2 	HT Re-Live
-Omgång 10
-2013-11-10 (10/53) 			
-	Simlångsdalen DK - Kistbärarna 	1 - 5 	HT Re-Live
-	Manana - BK Rapp 	1 - 3 	HT Re-Live
-	Holmen Bois - Kardoz Boys 	3 - 1 	HT Re-Live
-	Spartak - Spelad glädje 	0 - 2 	HT Re-Live
-Omgång 11
-2013-11-17 (11/53) 			
-	Kistbärarna - Holmen Bois 	5 - 0 	HT Re-Live
-	BK Rapp - Kardoz Boys 	3 - 1 	HT Re-Live
-	Simlångsdalen DK - Spartak 	1 - 4 	HT Re-Live
-	Spelad glädje - Manana 	1 - 0 	HT Re-Live
-Omgång 12
-2013-11-24 (12/53) 			
-	Manana - Kistbärarna 	3 - 3 	HT Re-Live
-	Holmen Bois - Simlångsdalen DK 	5 - 1 	HT Re-Live
-	Spartak - BK Rapp 	1 - 2 	HT Re-Live
-	Kardoz Boys - Spelad glädje 	1 - 2 	HT Re-Live
-Omgång 13
-2013-12-01 (13/53) 			
-	Kistbärarna - Spelad glädje 	3 - 0 	HT Re-Live
-	Simlångsdalen DK - Kardoz Boys 	2 - 3 	HT Re-Live
-	BK Rapp - Holmen Bois 	6 - 2 	HT Re-Live
-	Spartak - Manana 	1 - 4 	HT Re-Live
-Omgång 14
-2013-12-08 (14/53) 			
-	Kardoz Boys - Kistbärarna 	0 - 2 	HT Re-Live
-	Holmen Bois - Spartak 	2 - 0 	HT Re-Live
-	Spelad glädje - BK Rapp 	0 - 4 	HT Re-Live
-	Manana - Simlångsdalen DK 	6 - 2 	HT Re-Live
+week 1
+2013-09-08
+Spartak - Holmen Bois 2 - 2
+Simlångsdalen DK - Manana 0 - 1
+Kistbärarna - Kardoz Boys 2 - 1
+BK Rapp - Spelad glädje 0 - 1
+week 2
+2013-09-15
+Kardoz Boys - Simlångsdalen DK 4 - 1
+Holmen Bois - BK Rapp 2 - 1
+Manana - Spartak 2 - 2
+Spelad glädje - Kistbärarna 1 - 0
+week 3
+2013-09-22
+Kistbärarna - Manana 0 - 2
+BK Rapp - Spartak 0 - 2
+Simlångsdalen DK - Holmen Bois 0 - 1
+Spelad glädje - Kardoz Boys 1 - 1
+week 4
+2013-09-29
+Spartak - Simlångsdalen DK 4 - 0
+Kardoz Boys - BK Rapp 2 - 2
+Manana - Spelad glädje 4 - 3
+Holmen Bois - Kistbärarna 1 - 1
+week 5
+2013-10-06
+Kistbärarna - Simlångsdalen DK 5 - 1
+Spelad glädje - Spartak 2 - 0
+BK Rapp - Manana 1 - 2
+Kardoz Boys - Holmen Bois 3 - 2
+week 6
+2013-10-13
+Holmen Bois - Spelad glädje 1 - 4
+Manana - Kardoz Boys 1 - 4
+Simlångsdalen DK - BK Rapp 1 - 4
+Spartak - Kistbärarna 1 - 1
+week 7
+2013-10-20
+Kardoz Boys - Spartak 2 - 0
+Kistbärarna - BK Rapp 1 - 5
+Spelad glädje - Simlångsdalen DK 8 - 0
+Holmen Bois - Manana 2 - 0
+week 8
+2013-10-27
+Manana - Holmen Bois 1 - 1
+Simlångsdalen DK - Spelad glädje 0 - 4
+Spartak - Kardoz Boys 3 - 2
+BK Rapp - Kistbärarna 2 - 3
+week 9
+2013-11-03
+Kardoz Boys - Manana 1 - 2
+Spelad glädje - Holmen Bois 1 - 0
+BK Rapp - Simlångsdalen DK 3 - 1
+Kistbärarna - Spartak 2 - 1
+week 10
+2013-11-10
+Spartak - Spelad glädje 0 - 2
+Holmen Bois - Kardoz Boys 3 - 1
+Manana - BK Rapp 1 - 3
+Simlångsdalen DK - Kistbärarna 1 - 5
+week 11
+2013-11-17
+Spelad glädje - Manana 1 - 0
+Simlångsdalen DK - Spartak 1 - 4
+BK Rapp - Kardoz Boys 3 - 1
+Kistbärarna - Holmen Bois 5 - 0
+week 12
+2013-11-24
+Kardoz Boys - Spelad glädje 1 - 2
+Spartak - BK Rapp 1 - 2
+Holmen Bois - Simlångsdalen DK 5 - 1
+Manana - Kistbärarna 3 - 3
+week 13
+2013-12-01
+Spartak - Manana 1 - 4
+BK Rapp - Holmen Bois 6 - 2
+Simlångsdalen DK - Kardoz Boys 2 - 3
+Kistbärarna - Spelad glädje 3 - 0
+week 14
+2013-12-08
+Manana - Simlångsdalen DK 6 - 2
+Spelad glädje - BK Rapp 0 - 4
+Holmen Bois - Spartak 2 - 0
+Kardoz Boys - Kistbärarna 0 - 2

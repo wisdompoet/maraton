@@ -1,0 +1,84 @@
+week 1
+2006-01-08
+Olsfors FC - Oriole United 5 - 2
+LAKERS - Arvidsjaur BK 0 - 5
+GEIF Söndsvall - FC Grodan 0 - 0
+Annelunds IF - tagestass 3 - 1
+week 2
+2006-01-15
+FC Grodan - Olsfors FC 0 - 3
+tagestass - LAKERS 1 - 4
+Oriole United - Annelunds IF 5 - 3
+Arvidsjaur BK - GEIF Söndsvall 5 - 1
+week 3
+2006-01-22
+LAKERS - Oriole United 6 - 1
+GEIF Söndsvall - tagestass 1 - 2
+FC Grodan - Arvidsjaur BK 3 - 3
+Annelunds IF - Olsfors FC 3 - 3
+week 4
+2006-01-29
+Olsfors FC - Arvidsjaur BK 4 - 1
+tagestass - FC Grodan 0 - 4
+Oriole United - GEIF Söndsvall 7 - 1
+Annelunds IF - LAKERS 3 - 2
+week 5
+2006-02-05
+LAKERS - Olsfors FC 3 - 3
+GEIF Söndsvall - Annelunds IF 5 - 1
+FC Grodan - Oriole United 5 - 2
+Arvidsjaur BK - tagestass 4 - 0
+week 6
+2006-02-12
+Olsfors FC - tagestass 7 - 0
+LAKERS - GEIF Söndsvall 1 - 3
+Oriole United - Arvidsjaur BK 6 - 2
+Annelunds IF - FC Grodan 3 - 2
+week 7
+2006-02-19
+GEIF Söndsvall - Olsfors FC 2 - 2
+FC Grodan - LAKERS 0 - 3
+tagestass - Oriole United 0 - 7
+Arvidsjaur BK - Annelunds IF 3 - 5
+week 8
+2006-02-26
+Annelunds IF - Arvidsjaur BK 1 - 1
+Oriole United - tagestass 4 - 0
+LAKERS - FC Grodan 4 - 1
+Olsfors FC - GEIF Söndsvall 4 - 2
+week 9
+2006-03-05
+FC Grodan - Annelunds IF 0 - 1
+Arvidsjaur BK - Oriole United 6 - 0
+GEIF Söndsvall - LAKERS 2 - 2
+tagestass - Olsfors FC 0 - 5
+week 10
+2006-03-12
+tagestass - Arvidsjaur BK 0 - 7
+Oriole United - FC Grodan 5 - 1
+Annelunds IF - GEIF Söndsvall 2 - 1
+Olsfors FC - LAKERS 3 - 2
+week 11
+2006-03-19
+LAKERS - Annelunds IF 0 - 3
+GEIF Söndsvall - Oriole United 3 - 2
+FC Grodan - tagestass 7 - 0
+Arvidsjaur BK - Olsfors FC 5 - 0
+week 12
+2006-03-26
+Olsfors FC - Annelunds IF 2 - 1
+Arvidsjaur BK - FC Grodan 7 - 0
+tagestass - GEIF Söndsvall 0 - 2
+Oriole United - LAKERS 7 - 2
+week 13
+2006-04-02
+GEIF Söndsvall - Arvidsjaur BK 1 - 4
+Annelunds IF - Oriole United 4 - 1
+LAKERS - tagestass 6 - 0
+Olsfors FC - FC Grodan 3 - 2
+week 14
+2006-04-09
+tagestass - Annelunds IF 0 - 10
+FC Grodan - GEIF Söndsvall 3 - 1
+Arvidsjaur BK - LAKERS 4 - 1
+Oriole United - Olsfors FC 1 - 2

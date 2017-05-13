@@ -1,0 +1,84 @@
+week 1
+2006-12-10
+Nosaby IF - Pungpinan FF 4 - 1
+Xpander - Barbas Barbarer FC 0 - 1
+Glenn IF - Skulk 3 - 1
+Örgryte United - Skåre Fiskares FF 6 - 5
+week 2
+2006-12-17
+Skulk - Nosaby IF 0 - 1
+Skåre Fiskares FF - Xpander 1 - 2
+Pungpinan FF - Örgryte United 5 - 1
+Barbas Barbarer FC - Glenn IF 2 - 4
+week 3
+2006-12-24
+Xpander - Pungpinan FF 1 - 2
+Glenn IF - Skåre Fiskares FF 3 - 3
+Skulk - Barbas Barbarer FC 1 - 4
+Örgryte United - Nosaby IF 3 - 5
+week 4
+2006-12-31
+Örgryte United - Xpander 1 - 1
+Skåre Fiskares FF - Skulk 3 - 1
+Nosaby IF - Barbas Barbarer FC 2 - 3
+Pungpinan FF - Glenn IF 4 - 1
+week 5
+2007-01-07
+Glenn IF - Örgryte United 5 - 2
+Barbas Barbarer FC - Skåre Fiskares FF 5 - 0
+Xpander - Nosaby IF 0 - 1
+Skulk - Pungpinan FF 5 - 0
+week 6
+2007-01-14
+Pungpinan FF - Barbas Barbarer FC 2 - 3
+Xpander - Glenn IF 3 - 4
+Nosaby IF - Skåre Fiskares FF 2 - 2
+Örgryte United - Skulk 2 - 3
+week 7
+2007-01-21
+Glenn IF - Nosaby IF 4 - 1
+Skulk - Xpander 1 - 1
+Skåre Fiskares FF - Pungpinan FF 2 - 3
+Barbas Barbarer FC - Örgryte United 5 - 1
+week 8
+2007-01-28
+Pungpinan FF - Skåre Fiskares FF 3 - 0
+Xpander - Skulk 1 - 2
+Nosaby IF - Glenn IF 2 - 1
+Örgryte United - Barbas Barbarer FC 1 - 2
+week 9
+2007-02-04
+Barbas Barbarer FC - Pungpinan FF 5 - 1
+Glenn IF - Xpander 1 - 2
+Skulk - Örgryte United 2 - 4
+Skåre Fiskares FF - Nosaby IF 0 - 2
+week 10
+2007-02-11
+Pungpinan FF - Skulk 3 - 3
+Nosaby IF - Xpander 0 - 0
+Skåre Fiskares FF - Barbas Barbarer FC 5 - 1
+Örgryte United - Glenn IF 1 - 6
+week 11
+2007-02-18
+Barbas Barbarer FC - Nosaby IF 2 - 0
+Xpander - Örgryte United 0 - 2
+Skulk - Skåre Fiskares FF 2 - 3
+Glenn IF - Pungpinan FF 6 - 4
+week 12
+2007-02-25
+Skåre Fiskares FF - Glenn IF 1 - 2
+Barbas Barbarer FC - Skulk 5 - 2
+Nosaby IF - Örgryte United 2 - 3
+Pungpinan FF - Xpander 3 - 0
+week 13
+2007-03-04
+Glenn IF - Barbas Barbarer FC 5 - 3
+Örgryte United - Pungpinan FF 3 - 3
+Nosaby IF - Skulk 2 - 0
+Xpander - Skåre Fiskares FF 3 - 0
+week 14
+2007-03-11
+Skåre Fiskares FF - Örgryte United 2 - 4
+Skulk - Glenn IF 3 - 3
+Pungpinan FF - Nosaby IF 4 - 0
+Barbas Barbarer FC - Xpander 1 - 0

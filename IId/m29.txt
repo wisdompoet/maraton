@@ -1,0 +1,84 @@
+week 1
+2006-04-30
+Starwars - Kingdom Raiders 1 - 3
+Salomon Islands - The Gargoyles 3 - 1
+Kullavik Bluefingers - Flykälens BK 3 - 1
+The Soccer of Our Lives - FIK 3 - 2
+week 2
+2006-05-07
+Flykälens BK - Starwars 1 - 1
+Kingdom Raiders - Salomon Islands 3 - 1
+The Gargoyles - The Soccer of Our Lives 4 - 1
+FIK - Kullavik Bluefingers 2 - 1
+week 3
+2006-05-14
+Flykälens BK - FIK 2 - 3
+Salomon Islands - Starwars 2 - 0
+The Soccer of Our Lives - Kingdom Raiders 3 - 2
+Kullavik Bluefingers - The Gargoyles 3 - 4
+week 4
+2006-05-21
+Starwars - FIK 2 - 1
+The Gargoyles - Flykälens BK 1 - 0
+Kingdom Raiders - Kullavik Bluefingers 4 - 0
+Salomon Islands - The Soccer of Our Lives 0 - 4
+week 5
+2006-05-28
+Kullavik Bluefingers - Salomon Islands 4 - 4
+The Soccer of Our Lives - Starwars 4 - 1
+Flykälens BK - Kingdom Raiders 2 - 0
+FIK - The Gargoyles 5 - 1
+week 6
+2006-06-04
+The Soccer of Our Lives - Kullavik Bluefingers 3 - 0
+Salomon Islands - Flykälens BK 1 - 2
+Kingdom Raiders - FIK 4 - 1
+Starwars - The Gargoyles 0 - 3
+week 7
+2006-06-11
+Flykälens BK - The Soccer of Our Lives 0 - 4
+The Gargoyles - Kingdom Raiders 3 - 0
+Kullavik Bluefingers - Starwars 5 - 0
+FIK - Salomon Islands 6 - 1
+week 8
+2006-06-18
+Kingdom Raiders - The Gargoyles 3 - 1
+Starwars - Kullavik Bluefingers 2 - 2
+The Soccer of Our Lives - Flykälens BK 2 - 4
+Salomon Islands - FIK 3 - 3
+week 9
+2006-06-25
+Flykälens BK - Salomon Islands 7 - 0
+The Gargoyles - Starwars 2 - 0
+FIK - Kingdom Raiders 3 - 3
+Kullavik Bluefingers - The Soccer of Our Lives 4 - 4
+week 10
+2006-07-02
+The Gargoyles - FIK 4 - 0
+Kingdom Raiders - Flykälens BK 3 - 1
+Starwars - The Soccer of Our Lives 0 - 5
+Salomon Islands - Kullavik Bluefingers 3 - 2
+week 11
+2006-07-09
+FIK - Starwars 3 - 2
+Kullavik Bluefingers - Kingdom Raiders 3 - 4
+The Soccer of Our Lives - Salomon Islands 4 - 1
+Flykälens BK - The Gargoyles 1 - 3
+week 12
+2006-07-16
+Starwars - Salomon Islands 3 - 1
+The Gargoyles - Kullavik Bluefingers 5 - 2
+FIK - Flykälens BK 5 - 1
+Kingdom Raiders - The Soccer of Our Lives 0 - 3
+week 13
+2006-07-23
+The Soccer of Our Lives - The Gargoyles 1 - 1
+Kullavik Bluefingers - FIK 2 - 0
+Starwars - Flykälens BK 2 - 2
+Salomon Islands - Kingdom Raiders 0 - 1
+week 14
+2006-07-30
+The Gargoyles - Salomon Islands 3 - 1
+Flykälens BK - Kullavik Bluefingers 2 - 3
+Kingdom Raiders - Starwars 4 - 0
+FIK - The Soccer of Our Lives 3 - 2

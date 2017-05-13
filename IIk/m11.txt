@@ -1,0 +1,84 @@
+week 1
+2000-10-22
+Bajsgupparna - FK Sturm 4 - 0
+AC Fipplerz - Fogdaröd Invalidos 1 - 1
+Skåne United - BK Marx 1 - 1
+Rundvik United - The Elven Lords 1 - 2
+week 2
+2000-10-29
+BK Marx - Bajsgupparna 1 - 3
+The Elven Lords - AC Fipplerz 1 - 0
+FK Sturm - Rundvik United 2 - 2
+Fogdaröd Invalidos - Skåne United 1 - 1
+week 3
+2000-11-05
+AC Fipplerz - FK Sturm 2 - 0
+Skåne United - The Elven Lords 1 - 1
+BK Marx - Fogdaröd Invalidos 4 - 1
+Rundvik United - Bajsgupparna 5 - 2
+week 4
+2000-11-12
+Bajsgupparna - Fogdaröd Invalidos 3 - 0
+The Elven Lords - BK Marx 0 - 3
+FK Sturm - Skåne United 2 - 2
+Rundvik United - AC Fipplerz 6 - 0
+week 5
+2000-11-19
+AC Fipplerz - Bajsgupparna 1 - 1
+Skåne United - Rundvik United 3 - 0
+BK Marx - FK Sturm 4 - 0
+Fogdaröd Invalidos - The Elven Lords 1 - 0
+week 6
+2000-11-26
+Bajsgupparna - The Elven Lords 2 - 0
+AC Fipplerz - Skåne United 2 - 1
+FK Sturm - Fogdaröd Invalidos 1 - 1
+Rundvik United - BK Marx 5 - 0
+week 7
+2000-12-03
+Skåne United - Bajsgupparna 4 - 2
+BK Marx - AC Fipplerz 2 - 3
+The Elven Lords - FK Sturm 0 - 0
+Fogdaröd Invalidos - Rundvik United 0 - 0
+week 8
+2000-12-10
+Rundvik United - Fogdaröd Invalidos 5 - 0
+FK Sturm - The Elven Lords 0 - 1
+AC Fipplerz - BK Marx 3 - 0
+Bajsgupparna - Skåne United 5 - 1
+week 9
+2000-12-17
+BK Marx - Rundvik United 2 - 1
+Fogdaröd Invalidos - FK Sturm 2 - 0
+Skåne United - AC Fipplerz 2 - 0
+The Elven Lords - Bajsgupparna 0 - 2
+week 10
+2000-12-24
+The Elven Lords - Fogdaröd Invalidos 0 - 1
+FK Sturm - BK Marx 4 - 0
+Rundvik United - Skåne United 4 - 1
+Bajsgupparna - AC Fipplerz 1 - 2
+week 11
+2000-12-31
+AC Fipplerz - Rundvik United 3 - 0
+Skåne United - FK Sturm 2 - 2
+BK Marx - The Elven Lords 1 - 0
+Fogdaröd Invalidos - Bajsgupparna 2 - 0
+week 12
+2001-01-07
+Bajsgupparna - Rundvik United 4 - 0
+Fogdaröd Invalidos - BK Marx 2 - 1
+The Elven Lords - Skåne United 2 - 0
+FK Sturm - AC Fipplerz 2 - 0
+week 13
+2001-01-14
+Skåne United - Fogdaröd Invalidos 2 - 3
+Rundvik United - FK Sturm 3 - 2
+AC Fipplerz - The Elven Lords 2 - 2
+Bajsgupparna - BK Marx 4 - 3
+week 14
+2001-01-21
+The Elven Lords - Rundvik United 0 - 1
+BK Marx - Skåne United 3 - 2
+Fogdaröd Invalidos - AC Fipplerz 2 - 1
+FK Sturm - Bajsgupparna 4 - 2

@@ -1,84 +1,84 @@
-Omgång 1
-2001-06-03 (1/13) 			
-	Juveby IF - Norsgatan Kickers 	2 - 4 	HT Re-Live
-	Starwars - Hebbes vänner 	2 - 2 	HT Re-Live
-	Frispel - Panos Mörtviken FC 	2 - 0 	HT Re-Live
-	Hofors AIF - Vinterviken FC 	0 - 5 	HT Re-Live
-Omgång 2
-2001-06-10 (2/13) 			
-	Panos Mörtviken FC - Juveby IF 	1 - 3 	HT Re-Live
-	Vinterviken FC - Starwars 	1 - 4 	HT Re-Live
-	Norsgatan Kickers - Hofors AIF 	5 - 0 	HT Re-Live
-	Hebbes vänner - Frispel 	2 - 0 	HT Re-Live
-Omgång 3
-2001-06-17 (3/13) 			
-	Starwars - Norsgatan Kickers 	5 - 0 	HT Re-Live
-	Frispel - Vinterviken FC 	0 - 2 	HT Re-Live
-	Panos Mörtviken FC - Hebbes vänner 	2 - 3 	HT Re-Live
-	Hofors AIF - Juveby IF 	0 - 5 	HT Re-Live
-Omgång 4
-2001-06-24 (4/13) 			
-	Juveby IF - Hebbes vänner 	2 - 2 	HT Re-Live
-	Vinterviken FC - Panos Mörtviken FC 	1 - 2 	HT Re-Live
-	Norsgatan Kickers - Frispel 	4 - 0 	HT Re-Live
-	Hofors AIF - Starwars 	0 - 5 	HT Re-Live
-Omgång 5
-2001-07-01 (5/13) 			
-	Starwars - Juveby IF 	5 - 1 	HT Re-Live
-	Frispel - Hofors AIF 	5 - 0 	HT Re-Live
-	Panos Mörtviken FC - Norsgatan Kickers 	1 - 4 	HT Re-Live
-	Hebbes vänner - Vinterviken FC 	3 - 0 	HT Re-Live
-Omgång 6
-2001-07-08 (6/13) 			
-	Juveby IF - Vinterviken FC 	0 - 1 	HT Re-Live
-	Starwars - Frispel 	6 - 0 	HT Re-Live
-	Norsgatan Kickers - Hebbes vänner 	4 - 2 	HT Re-Live
-	Hofors AIF - Panos Mörtviken FC 	0 - 5 	HT Re-Live
-Omgång 7
-2001-07-15 (7/13) 			
-	Frispel - Juveby IF 	3 - 2 	HT Re-Live
-	Panos Mörtviken FC - Starwars 	0 - 4 	HT Re-Live
-	Vinterviken FC - Norsgatan Kickers 	3 - 3 	HT Re-Live
-	Hebbes vänner - Hofors AIF 	5 - 0 	HT Re-Live
-Omgång 8
-2001-07-22 (8/13) 			
-	Hofors AIF - Hebbes vänner 	0 - 5 	HT Re-Live
-	Norsgatan Kickers - Vinterviken FC 	3 - 0 	HT Re-Live
-	Starwars - Panos Mörtviken FC 	3 - 1 	HT Re-Live
-	Juveby IF - Frispel 	1 - 3 	HT Re-Live
-Omgång 9
-2001-07-29 (9/13) 			
-	Panos Mörtviken FC - Hofors AIF 	5 - 0 	HT Re-Live
-	Hebbes vänner - Norsgatan Kickers 	3 - 0 	HT Re-Live
-	Frispel - Starwars 	1 - 2 	HT Re-Live
-	Vinterviken FC - Juveby IF 	1 - 2 	HT Re-Live
-Omgång 10
-2001-08-05 (10/13) 			
-	Vinterviken FC - Hebbes vänner 	1 - 4 	HT Re-Live
-	Norsgatan Kickers - Panos Mörtviken FC 	3 - 2 	HT Re-Live
-	Hofors AIF - Frispel 	0 - 5 	HT Re-Live
-	Juveby IF - Starwars 	0 - 3 	HT Re-Live
-Omgång 11
-2001-08-12 (11/13) 			
-	Starwars - Hofors AIF 	5 - 0 	HT Re-Live
-	Frispel - Norsgatan Kickers 	1 - 1 	HT Re-Live
-	Panos Mörtviken FC - Vinterviken FC 	0 - 0 	HT Re-Live
-	Hebbes vänner - Juveby IF 	5 - 0 	HT Re-Live
-Omgång 12
-2001-08-19 (12/13) 			
-	Juveby IF - Hofors AIF 	5 - 0 	HT Re-Live
-	Hebbes vänner - Panos Mörtviken FC 	2 - 0 	HT Re-Live
-	Vinterviken FC - Frispel 	1 - 0 	HT Re-Live
-	Norsgatan Kickers - Starwars 	2 - 0 	HT Re-Live
-Omgång 13
-2001-08-26 (13/13) 			
-	Frispel - Hebbes vänner 	1 - 2 	HT Re-Live
-	Hofors AIF - Norsgatan Kickers 	0 - 5 	HT Re-Live
-	Starwars - Vinterviken FC 	5 - 0 	HT Re-Live
-	Juveby IF - Panos Mörtviken FC 	2 - 1 	HT Re-Live
-Omgång 14
-2001-09-02 (14/13) 			
-	Vinterviken FC - Hofors AIF 	5 - 0 	HT Re-Live
-	Panos Mörtviken FC - Frispel 	2 - 0 	HT Re-Live
-	Hebbes vänner - Starwars 	4 - 2 	HT Re-Live
-	Norsgatan Kickers - Juveby IF 	5 - 1 	HT Re-Live
+week 1
+2001-06-03
+Juveby IF - Norsgatan Kickers 2 - 4
+Starwars - Hebbes vänner 2 - 2
+Frispel - Panos Mörtviken FC 2 - 0
+Hofors AIF - Vinterviken FC 0 - 5
+week 2
+2001-06-10
+Panos Mörtviken FC - Juveby IF 1 - 3
+Vinterviken FC - Starwars 1 - 4
+Norsgatan Kickers - Hofors AIF 5 - 0
+Hebbes vänner - Frispel 2 - 0
+week 3
+2001-06-17
+Starwars - Norsgatan Kickers 5 - 0
+Frispel - Vinterviken FC 0 - 2
+Panos Mörtviken FC - Hebbes vänner 2 - 3
+Hofors AIF - Juveby IF 0 - 5
+week 4
+2001-06-24
+Juveby IF - Hebbes vänner 2 - 2
+Vinterviken FC - Panos Mörtviken FC 1 - 2
+Norsgatan Kickers - Frispel 4 - 0
+Hofors AIF - Starwars 0 - 5
+week 5
+2001-07-01
+Starwars - Juveby IF 5 - 1
+Frispel - Hofors AIF 5 - 0
+Panos Mörtviken FC - Norsgatan Kickers 1 - 4
+Hebbes vänner - Vinterviken FC 3 - 0
+week 6
+2001-07-08
+Juveby IF - Vinterviken FC 0 - 1
+Starwars - Frispel 6 - 0
+Norsgatan Kickers - Hebbes vänner 4 - 2
+Hofors AIF - Panos Mörtviken FC 0 - 5
+week 7
+2001-07-15
+Frispel - Juveby IF 3 - 2
+Panos Mörtviken FC - Starwars 0 - 4
+Vinterviken FC - Norsgatan Kickers 3 - 3
+Hebbes vänner - Hofors AIF 5 - 0
+week 8
+2001-07-22
+Hofors AIF - Hebbes vänner 0 - 5
+Norsgatan Kickers - Vinterviken FC 3 - 0
+Starwars - Panos Mörtviken FC 3 - 1
+Juveby IF - Frispel 1 - 3
+week 9
+2001-07-29
+Panos Mörtviken FC - Hofors AIF 5 - 0
+Hebbes vänner - Norsgatan Kickers 3 - 0
+Frispel - Starwars 1 - 2
+Vinterviken FC - Juveby IF 1 - 2
+week 10
+2001-08-05
+Vinterviken FC - Hebbes vänner 1 - 4
+Norsgatan Kickers - Panos Mörtviken FC 3 - 2
+Hofors AIF - Frispel 0 - 5
+Juveby IF - Starwars 0 - 3
+week 11
+2001-08-12
+Starwars - Hofors AIF 5 - 0
+Frispel - Norsgatan Kickers 1 - 1
+Panos Mörtviken FC - Vinterviken FC 0 - 0
+Hebbes vänner - Juveby IF 5 - 0
+week 12
+2001-08-19
+Juveby IF - Hofors AIF 5 - 0
+Hebbes vänner - Panos Mörtviken FC 2 - 0
+Vinterviken FC - Frispel 1 - 0
+Norsgatan Kickers - Starwars 2 - 0
+week 13
+2001-08-26
+Frispel - Hebbes vänner 1 - 2
+Hofors AIF - Norsgatan Kickers 0 - 5
+Starwars - Vinterviken FC 5 - 0
+Juveby IF - Panos Mörtviken FC 2 - 1
+week 14
+2001-09-02
+Vinterviken FC - Hofors AIF 5 - 0
+Panos Mörtviken FC - Frispel 2 - 0
+Hebbes vänner - Starwars 4 - 2
+Norsgatan Kickers - Juveby IF 5 - 1

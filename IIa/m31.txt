@@ -1,84 +1,84 @@
-Omgång 1
-2006-12-10 (1/31) 			
-	Schenströmska BK - Keffs Tigers 	3 - 0 	HT Re-Live
-	Reggae FF - Älghult 	3 - 4 	HT Re-Live
-	Vissefjärda Trashers  - Ditry deeds 	5 - 2 	HT Re-Live
-	Hawkwing FF - Ondpors BK 	3 - 0 	HT Re-Live
-Omgång 2
-2006-12-17 (2/31) 			
-	Ondpors BK - Schenströmska BK 	3 - 2 	HT Re-Live
-	Älghult - Hawkwing FF 	4 - 1 	HT Re-Live
-	Keffs Tigers - Vissefjärda Trashers 	3 - 0 	HT Re-Live
-	Ditry deeds - Reggae FF 	8 - 1 	HT Re-Live
-Omgång 3
-2006-12-24 (3/31) 			
-	Vissefjärda Trashers  - Ondpors BK 	2 - 1 	HT Re-Live
-	Schenströmska BK - Hawkwing FF 	7 - 1 	HT Re-Live
-	Reggae FF - Keffs Tigers 	1 - 4 	HT Re-Live
-	Älghult - Ditry deeds 	4 - 1 	HT Re-Live
-Omgång 4
-2006-12-31 (4/31) 			
-	Keffs Tigers - Älghult 	2 - 1 	HT Re-Live
-	Schenströmska BK - Vissefjärda Trashers 	6 - 0 	HT Re-Live
-	Ondpors BK - Reggae FF 	3 - 2 	HT Re-Live
-	Hawkwing FF - Ditry deeds 	5 - 1 	HT Re-Live
-Omgång 5
-2007-01-07 (5/31) 			
-	Älghult - Ondpors BK 	4 - 1 	HT Re-Live
-	Reggae FF - Schenströmska BK 	0 - 6 	HT Re-Live
-	Ditry deeds - Keffs Tigers 	6 - 1 	HT Re-Live
-	Vissefjärda Trashers  - Hawkwing FF 	1 - 2 	HT Re-Live
-Omgång 6
-2007-01-14 (6/31) 			
-	Hawkwing FF - Keffs Tigers 	3 - 0 	HT Re-Live
-	Vissefjärda Trashers  - Reggae FF 	5 - 2 	HT Re-Live
-	Ondpors BK - Ditry deeds 	1 - 4 	HT Re-Live
-	Schenströmska BK - Älghult 	5 - 0 	HT Re-Live
-Omgång 7
-2007-01-21 (7/31) 			
-	Keffs Tigers - Ondpors BK 	3 - 1 	HT Re-Live
-	Ditry deeds - Schenströmska BK 	3 - 3 	HT Re-Live
-	Älghult - Vissefjärda Trashers 	4 - 0 	HT Re-Live
-	Reggae FF - Hawkwing FF 	2 - 1 	HT Re-Live
-Omgång 8
-2007-01-28 (8/31) 			
-	Schenströmska BK - Ditry deeds 	8 - 0 	HT Re-Live
-	Ondpors BK - Keffs Tigers 	2 - 2 	HT Re-Live
-	Vissefjärda Trashers  - Älghult 	1 - 3 	HT Re-Live
-	Hawkwing FF - Reggae FF 	2 - 0 	HT Re-Live
-Omgång 9
-2007-02-04 (9/31) 			
-	Älghult - Schenströmska BK 	0 - 5 	HT Re-Live
-	Ditry deeds - Ondpors BK 	8 - 1 	HT Re-Live
-	Reggae FF - Vissefjärda Trashers 	4 - 2 	HT Re-Live
-	Keffs Tigers - Hawkwing FF 	0 - 0 	HT Re-Live
-Omgång 10
-2007-02-11 (10/31) 			
-	Schenströmska BK - Reggae FF 	8 - 1 	HT Re-Live
-	Ondpors BK - Älghult 	0 - 3 	HT Re-Live
-	Keffs Tigers - Ditry deeds 	4 - 1 	HT Re-Live
-	Hawkwing FF - Vissefjärda Trashers 	6 - 0 	HT Re-Live
-Omgång 11
-2007-02-18 (11/31) 			
-	Vissefjärda Trashers  - Schenströmska BK 	0 - 7 	HT Re-Live
-	Reggae FF - Ondpors BK 	3 - 0 	HT Re-Live
-	Älghult - Keffs Tigers 	0 - 1 	HT Re-Live
-	Ditry deeds - Hawkwing FF 	3 - 4 	HT Re-Live
-Omgång 12
-2007-02-25 (12/31) 			
-	Hawkwing FF - Schenströmska BK 	1 - 5 	HT Re-Live
-	Ditry deeds - Älghult 	2 - 1 	HT Re-Live
-	Keffs Tigers - Reggae FF 	8 - 0 	HT Re-Live
-	Ondpors BK - Vissefjärda Trashers 	0 - 0 	HT Re-Live
-Omgång 13
-2007-03-04 (13/31) 			
-	Reggae FF - Ditry deeds 	2 - 4 	HT Re-Live
-	Schenströmska BK - Ondpors BK 	5 - 0 	HT Re-Live
-	Vissefjärda Trashers  - Keffs Tigers 	1 - 1 	HT Re-Live
-	Hawkwing FF - Älghult 	2 - 0 	HT Re-Live
-Omgång 14
-2007-03-11 (14/31) 			
-	Keffs Tigers - Schenströmska BK 	2 - 4 	HT Re-Live
-	Älghult - Reggae FF 	7 - 3 	HT Re-Live
-	Ditry deeds - Vissefjärda Trashers 	5 - 1 	HT Re-Live
-	Ondpors BK - Hawkwing FF 	0 - 2 	HT Re-Live
+week 1
+2006-12-10
+Schenströmska BK - Keffs Tigers 3 - 0
+Reggae FF - Älghult 3 - 4
+Vissefjärda Trashers  - Ditry deeds 5 - 2
+Hawkwing FF - Ondpors BK 3 - 0
+week 2
+2006-12-17
+Ondpors BK - Schenströmska BK 3 - 2
+Älghult - Hawkwing FF 4 - 1
+Keffs Tigers - Vissefjärda Trashers  3 - 0
+Ditry deeds - Reggae FF 8 - 1
+week 3
+2006-12-24
+Vissefjärda Trashers  - Ondpors BK 2 - 1
+Schenströmska BK - Hawkwing FF 7 - 1
+Reggae FF - Keffs Tigers 1 - 4
+Älghult - Ditry deeds 4 - 1
+week 4
+2006-12-31
+Keffs Tigers - Älghult 2 - 1
+Schenströmska BK - Vissefjärda Trashers  6 - 0
+Ondpors BK - Reggae FF 3 - 2
+Hawkwing FF - Ditry deeds 5 - 1
+week 5
+2007-01-07
+Älghult - Ondpors BK 4 - 1
+Reggae FF - Schenströmska BK 0 - 6
+Ditry deeds - Keffs Tigers 6 - 1
+Vissefjärda Trashers  - Hawkwing FF 1 - 2
+week 6
+2007-01-14
+Hawkwing FF - Keffs Tigers 3 - 0
+Vissefjärda Trashers  - Reggae FF 5 - 2
+Ondpors BK - Ditry deeds 1 - 4
+Schenströmska BK - Älghult 5 - 0
+week 7
+2007-01-21
+Keffs Tigers - Ondpors BK 3 - 1
+Ditry deeds - Schenströmska BK 3 - 3
+Älghult - Vissefjärda Trashers  4 - 0
+Reggae FF - Hawkwing FF 2 - 1
+week 8
+2007-01-28
+Schenströmska BK - Ditry deeds 8 - 0
+Ondpors BK - Keffs Tigers 2 - 2
+Vissefjärda Trashers  - Älghult 1 - 3
+Hawkwing FF - Reggae FF 2 - 0
+week 9
+2007-02-04
+Älghult - Schenströmska BK 0 - 5
+Ditry deeds - Ondpors BK 8 - 1
+Reggae FF - Vissefjärda Trashers  4 - 2
+Keffs Tigers - Hawkwing FF 0 - 0
+week 10
+2007-02-11
+Schenströmska BK - Reggae FF 8 - 1
+Ondpors BK - Älghult 0 - 3
+Keffs Tigers - Ditry deeds 4 - 1
+Hawkwing FF - Vissefjärda Trashers  6 - 0
+week 11
+2007-02-18
+Vissefjärda Trashers  - Schenströmska BK 0 - 7
+Reggae FF - Ondpors BK 3 - 0
+Älghult - Keffs Tigers 0 - 1
+Ditry deeds - Hawkwing FF 3 - 4
+week 12
+2007-02-25
+Hawkwing FF - Schenströmska BK 1 - 5
+Ditry deeds - Älghult 2 - 1
+Keffs Tigers - Reggae FF 8 - 0
+Ondpors BK - Vissefjärda Trashers  0 - 0
+week 13
+2007-03-04
+Reggae FF - Ditry deeds 2 - 4
+Schenströmska BK - Ondpors BK 5 - 0
+Vissefjärda Trashers  - Keffs Tigers 1 - 1
+Hawkwing FF - Älghult 2 - 0
+week 14
+2007-03-11
+Keffs Tigers - Schenströmska BK 2 - 4
+Älghult - Reggae FF 7 - 3
+Ditry deeds - Vissefjärda Trashers  5 - 1
+Ondpors BK - Hawkwing FF 0 - 2

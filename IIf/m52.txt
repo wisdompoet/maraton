@@ -1,89 +1,84 @@
-Omgång 1
-2013-05-19 (1/52)			
-AMTrix - Pennybridge	2 - 1	HT Re-Live
-Barkarby XL - AIK	3 - 0	HT Re-Live
-Fjommens FF - Scoring Xtreme	4 - 2	HT Re-Live
-REAL mln - Frölunda killers	2 - 1	HT Re-Live
-Omgång 2
-2013-05-26 (2/52)			
-Pennybridge - Barkarby XL	1 - 0	HT Re-Live
-Scoring Xtreme - AMTrix	0 - 3	HT Re-Live
-AIK - REAL mln	1 - 0	HT Re-Live
-Frölunda killers - Fjommens FF	4 - 2	HT Re-Live
-Omgång 3
-2013-06-02 (3/52)			
-Fjommens FF - Pennybridge	3 - 3	HT Re-Live
-Barkarby XL - AMTrix	2 - 0	HT Re-Live
-REAL mln - Scoring Xtreme	0 - 1	HT Re-Live
-AIK - Frölunda killers	2 - 3	HT Re-Live
-Omgång 4
-2013-06-09 (4/52)			
-Scoring Xtreme - AIK	1 - 1	HT Re-Live
-AMTrix - Fjommens FF	0 - 0	HT Re-Live
-Frölunda killers - Barkarby XL	4 - 1	HT Re-Live
-Pennybridge - REAL mln	0 - 0	HT Re-Live
-Omgång 5
-2013-06-16 (5/52)			
-Frölunda killers - Pennybridge	3 - 0	HT Re-Live
-Barkarby XL - Scoring Xtreme	0 - 0	HT Re-Live
-REAL mln - Fjommens FF	0 - 0	HT Re-Live
-AIK - AMTrix	5 - 1	HT Re-Live
-Omgång 6
-2013-06-23 (6/52)			
-Fjommens FF - Barkarby XL	1 - 1	HT Re-Live
-Scoring Xtreme - Frölunda killers	5 - 1	HT Re-Live
-Pennybridge - AIK	2 - 2	HT Re-Live
-AMTrix - REAL mln	2 - 0	HT Re-Live
-Omgång 7
-2013-06-30 (7/52)			
-AIK - Fjommens FF	2 - 3	HT Re-Live
-Pennybridge - Scoring Xtreme	3 - 0	HT Re-Live
-Frölunda killers - AMTrix	2 - 1	HT Re-Live
-REAL mln - Barkarby XL	0 - 1	HT Re-Live
-Omgång 8
-2013-07-07 (8/52)			
-Scoring Xtreme - Pennybridge	2 - 1	HT Re-Live
-Barkarby XL - REAL mln	2 - 0	HT Re-Live
-AMTrix - Frölunda killers	4 - 1	HT Re-Live
-Fjommens FF - AIK	1 - 0	HT Re-Live
-Omgång 9
-2013-07-14 (9/52)			
-Barkarby XL - Fjommens FF	3 - 0	HT Re-Live
-REAL mln - AMTrix	0 - 3	HT Re-Live
-AIK - Pennybridge	3 - 0	HT Re-Live
-Frölunda killers - Scoring Xtreme	4 - 1	HT Re-Live
-Omgång 10
-2013-07-21 (10/52)			
-AMTrix - AIK	2 - 2	HT Re-Live
-Fjommens FF - REAL mln	5 - 0	HT Re-Live
-Scoring Xtreme - Barkarby XL	3 - 0	HT Re-Live
-Pennybridge - Frölunda killers	4 - 4	HT Re-Live
-Omgång 11
-2013-07-28 (11/52)			
-Barkarby XL - Frölunda killers	1 - 1	HT Re-Live
-REAL mln - Pennybridge	0 - 7	HT Re-Live
-Fjommens FF - AMTrix	0 - 1	HT Re-Live
-AIK - Scoring Xtreme	3 - 0	HT Re-Live
-Omgång 12
-2013-08-04 (12/52)			
-Scoring Xtreme - REAL mln	9 - 0	HT Re-Live
-AMTrix - Barkarby XL	4 - 0	HT Re-Live
-Frölunda killers - AIK	3 - 1	HT Re-Live
-Pennybridge - Fjommens FF	2 - 2	HT Re-Live
-Omgång 13
-2013-08-11 (13/52)			
-REAL mln - AIK	0 - 9	HT Re-Live
-Fjommens FF - Frölunda killers	2 - 2	HT Re-Live
-AMTrix - Scoring Xtreme	1 - 0	HT Re-Live
-Barkarby XL - Pennybridge	2 - 1	HT Re-Live
-Omgång 14
-2013-08-18 (14/52)			
-Frölunda killers - REAL mln	5 - 0	HT Re-Live
-AIK - Barkarby XL	4 - 1	HT Re-Live
-Pennybridge - AMTrix	1 - 1	HT Re-Live
-Scoring Xtreme - Fjommens FF	3 - 2	HT Re-Live
-
-
-
-
-
+week 1
+2013-05-19
+AMTrix - Pennybridge 2 - 1
+Barkarby XL - AIK 3 - 0
+Fjommens FF - Scoring Xtreme 4 - 2
+REAL mln - FrÃ¶lunda killers 2 - 1
+week 2
+2013-05-26
+Pennybridge - Barkarby XL 1 - 0
+Scoring Xtreme - AMTrix 0 - 3
+AIK - REAL mln 1 - 0
+FrÃ¶lunda killers - Fjommens FF 4 - 2
+week 3
+2013-06-02
+Fjommens FF - Pennybridge 3 - 3
+Barkarby XL - AMTrix 2 - 0
+REAL mln - Scoring Xtreme 0 - 1
+AIK - FrÃ¶lunda killers 2 - 3
+week 4
+2013-06-09
+Scoring Xtreme - AIK 1 - 1
+AMTrix - Fjommens FF 0 - 0
+FrÃ¶lunda killers - Barkarby XL 4 - 1
+Pennybridge - REAL mln 0 - 0
+week 5
+2013-06-16
+FrÃ¶lunda killers - Pennybridge 3 - 0
+Barkarby XL - Scoring Xtreme 0 - 0
+REAL mln - Fjommens FF 0 - 0
+AIK - AMTrix 5 - 1
+week 6
+2013-06-23
+Fjommens FF - Barkarby XL 1 - 1
+Scoring Xtreme - FrÃ¶lunda killers 5 - 1
+Pennybridge - AIK 2 - 2
+AMTrix - REAL mln 2 - 0
+week 7
+2013-06-30
+AIK - Fjommens FF 2 - 3
+Pennybridge - Scoring Xtreme 3 - 0
+FrÃ¶lunda killers - AMTrix 2 - 1
+REAL mln - Barkarby XL 0 - 1
+week 8
+2013-07-07
+Scoring Xtreme - Pennybridge 2 - 1
+Barkarby XL - REAL mln 2 - 0
+AMTrix - FrÃ¶lunda killers 4 - 1
+Fjommens FF - AIK 1 - 0
+week 9
+2013-07-14
+Barkarby XL - Fjommens FF 3 - 0
+REAL mln - AMTrix 0 - 3
+AIK - Pennybridge 3 - 0
+FrÃ¶lunda killers - Scoring Xtreme 4 - 1
+week 10
+2013-07-21
+AMTrix - AIK 2 - 2
+Fjommens FF - REAL mln 5 - 0
+Scoring Xtreme - Barkarby XL 3 - 0
+Pennybridge - FrÃ¶lunda killers 4 - 4
+week 11
+2013-07-28
+Barkarby XL - FrÃ¶lunda killers 1 - 1
+REAL mln - Pennybridge 0 - 7
+Fjommens FF - AMTrix 0 - 1
+AIK - Scoring Xtreme 3 - 0
+week 12
+2013-08-04
+Scoring Xtreme - REAL mln 9 - 0
+AMTrix - Barkarby XL 4 - 0
+FrÃ¶lunda killers - AIK 3 - 1
+Pennybridge - Fjommens FF 2 - 2
+week 13
+2013-08-11
+REAL mln - AIK 0 - 9
+Fjommens FF - FrÃ¶lunda killers 2 - 2
+AMTrix - Scoring Xtreme 1 - 0
+Barkarby XL - Pennybridge 2 - 1
+week 14
+2013-08-18
+FrÃ¶lunda killers - REAL mln 5 - 0
+AIK - Barkarby XL 4 - 1
+Pennybridge - AMTrix 1 - 1
+Scoring Xtreme - Fjommens FF 3 - 2

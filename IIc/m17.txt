@@ -1,0 +1,84 @@
+week 1
+2002-08-25
+Prince Park Rangers - BuggSoft OS 6 - 1
+Skalbolaget - Bernt I Boas BK 1 - 3
+Ceasar - Torsås tappra tigrar 1 - 2
+NK Hajduk - Vagabundos FC 1 - 4
+week 2
+2002-09-01
+Torsås tappra tigrar - Prince Park Rangers 4 - 1
+Vagabundos FC - Skalbolaget 5 - 1
+BuggSoft OS - NK Hajduk 6 - 1
+Bernt I Boas BK - Ceasar 1 - 0
+week 3
+2002-09-08
+Skalbolaget - BuggSoft OS 2 - 4
+Ceasar - Vagabundos FC 2 - 2
+Torsås tappra tigrar - Bernt I Boas BK 2 - 0
+NK Hajduk - Prince Park Rangers 0 - 2
+week 4
+2002-09-15
+Prince Park Rangers - Bernt I Boas BK 3 - 1
+Vagabundos FC - Torsås tappra tigrar 4 - 0
+BuggSoft OS - Ceasar 0 - 6
+NK Hajduk - Skalbolaget 2 - 4
+week 5
+2002-09-22
+Skalbolaget - Prince Park Rangers 3 - 0
+Ceasar - NK Hajduk 4 - 2
+Torsås tappra tigrar - BuggSoft OS 0 - 1
+Bernt I Boas BK - Vagabundos FC 0 - 2
+week 6
+2002-09-29
+Prince Park Rangers - Vagabundos FC 2 - 3
+Skalbolaget - Ceasar 3 - 2
+BuggSoft OS - Bernt I Boas BK 2 - 1
+NK Hajduk - Torsås tappra tigrar 2 - 0
+week 7
+2002-10-06
+Ceasar - Prince Park Rangers 2 - 3
+Torsås tappra tigrar - Skalbolaget 2 - 3
+Vagabundos FC - BuggSoft OS 7 - 1
+Bernt I Boas BK - NK Hajduk 0 - 1
+week 8
+2002-10-13
+NK Hajduk - Bernt I Boas BK 0 - 0
+BuggSoft OS - Vagabundos FC 1 - 4
+Skalbolaget - Torsås tappra tigrar 1 - 3
+Prince Park Rangers - Ceasar 6 - 0
+week 9
+2002-10-20
+Torsås tappra tigrar - NK Hajduk 1 - 1
+Bernt I Boas BK - BuggSoft OS 0 - 3
+Ceasar - Skalbolaget 2 - 3
+Vagabundos FC - Prince Park Rangers 2 - 3
+week 10
+2002-10-27
+Vagabundos FC - Bernt I Boas BK 7 - 0
+BuggSoft OS - Torsås tappra tigrar 3 - 0
+NK Hajduk - Ceasar 3 - 2
+Prince Park Rangers - Skalbolaget 2 - 2
+week 11
+2002-11-03
+Skalbolaget - NK Hajduk 2 - 3
+Ceasar - BuggSoft OS 1 - 5
+Torsås tappra tigrar - Vagabundos FC 0 - 2
+Bernt I Boas BK - Prince Park Rangers 0 - 5
+week 12
+2002-11-10
+Prince Park Rangers - NK Hajduk 3 - 1
+Bernt I Boas BK - Torsås tappra tigrar 0 - 2
+Vagabundos FC - Ceasar 2 - 1
+BuggSoft OS - Skalbolaget 3 - 0
+week 13
+2002-11-17
+Ceasar - Bernt I Boas BK 0 - 3
+NK Hajduk - BuggSoft OS 1 - 4
+Skalbolaget - Vagabundos FC 6 - 0
+Prince Park Rangers - Torsås tappra tigrar 2 - 3
+week 14
+2002-11-24
+Vagabundos FC - NK Hajduk 1 - 2
+Torsås tappra tigrar - Ceasar 0 - 5
+Bernt I Boas BK - Skalbolaget 1 - 0
+BuggSoft OS - Prince Park Rangers 1 - 6

@@ -1,0 +1,84 @@
+week 1
+2013-01-27
+Real Jakobsdal - FC Donsen 0 - 1
+KingRiver BK - Bearpool FC 3 - 4
+Tigers Of Tibble - bonk IS 0 - 5
+Lilltroll FC - Vike BK 2 - 3
+week 2
+2013-02-03
+Bearpool FC - Lilltroll FC 3 - 1
+Vike BK - Real Jakobsdal 3 - 1
+bonk IS - KingRiver BK 3 - 2
+FC Donsen - Tigers Of Tibble 5 - 0
+week 3
+2013-02-10
+Real Jakobsdal - Lilltroll FC 2 - 0
+Tigers Of Tibble - Bearpool FC 0 - 5
+FC Donsen - bonk IS 1 - 1
+KingRiver BK - Vike BK 3 - 2
+week 4
+2013-02-17
+Bearpool FC - FC Donsen 1 - 4
+bonk IS - Real Jakobsdal 3 - 0
+Lilltroll FC - KingRiver BK 3 - 2
+Vike BK - Tigers Of Tibble 10 - 0
+week 5
+2013-02-24
+Tigers Of Tibble - KingRiver BK 0 - 5
+FC Donsen - Lilltroll FC 1 - 1
+Real Jakobsdal - Bearpool FC 2 - 2
+bonk IS - Vike BK 7 - 3
+week 6
+2013-03-03
+KingRiver BK - Real Jakobsdal 4 - 0
+Vike BK - FC Donsen 6 - 4
+Bearpool FC - bonk IS 4 - 0
+Lilltroll FC - Tigers Of Tibble 5 - 0
+week 7
+2013-03-10
+Tigers Of Tibble - Real Jakobsdal 0 - 5
+bonk IS - Lilltroll FC 2 - 1
+FC Donsen - KingRiver BK 3 - 0
+Vike BK - Bearpool FC 4 - 2
+week 8
+2013-03-17
+Bearpool FC - Vike BK 1 - 4
+Lilltroll FC - bonk IS 2 - 1
+KingRiver BK - FC Donsen 4 - 1
+Real Jakobsdal - Tigers Of Tibble 5 - 0
+week 9
+2013-03-24
+bonk IS - Bearpool FC 4 - 1
+FC Donsen - Vike BK 5 - 0
+Real Jakobsdal - KingRiver BK 0 - 2
+Tigers Of Tibble - Lilltroll FC 0 - 5
+week 10
+2013-03-31
+Vike BK - bonk IS 3 - 2
+Bearpool FC - Real Jakobsdal 2 - 1
+Lilltroll FC - FC Donsen 1 - 2
+KingRiver BK - Tigers Of Tibble 5 - 0
+week 11
+2013-04-07
+KingRiver BK - Lilltroll FC 1 - 1
+FC Donsen - Bearpool FC 2 - 3
+Real Jakobsdal - bonk IS 1 - 0
+Tigers Of Tibble - Vike BK 0 - 5
+week 12
+2013-04-14
+Vike BK - KingRiver BK 5 - 1
+Lilltroll FC - Real Jakobsdal 3 - 1
+Bearpool FC - Tigers Of Tibble 5 - 0
+bonk IS - FC Donsen 4 - 0
+week 13
+2013-04-21
+Lilltroll FC - Bearpool FC 3 - 1
+Real Jakobsdal - Vike BK 2 - 0
+Tigers Of Tibble - FC Donsen 0 - 5
+KingRiver BK - bonk IS 1 - 2
+week 14
+2013-04-28
+FC Donsen - Real Jakobsdal 0 - 2
+Bearpool FC - KingRiver BK 2 - 0
+Vike BK - Lilltroll FC 4 - 0
+bonk IS - Tigers Of Tibble 5 - 0

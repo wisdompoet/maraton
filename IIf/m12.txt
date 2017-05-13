@@ -1,84 +1,84 @@
-Omgång 1
-2001-02-11 (1/12)			
-Appelkvist F.K. - Puacas Änglar	0 - 6	HT Re-Live
-Valium Vikings - Krilles Kometer	2 - 0	HT Re-Live
-BK Liljans Lyckliga Lirare - Alpha Lipoic AC	0 - 3	HT Re-Live
-Råssbyn United - FC Macaronis	3 - 3	HT Re-Live
-Omgång 2
-2001-02-18 (2/12)			
-Alpha Lipoic AC - Appelkvist F.K.	7 - 0	HT Re-Live
-FC Macaronis - Valium Vikings	2 - 3	HT Re-Live
-Puacas Änglar - Råssbyn United	0 - 3	HT Re-Live
-Krilles Kometer - BK Liljans Lyckliga Lirare	1 - 0	HT Re-Live
-Omgång 3
-2001-02-25 (3/12)			
-Valium Vikings - Puacas Änglar	0 - 1	HT Re-Live
-BK Liljans Lyckliga Lirare - FC Macaronis	0 - 1	HT Re-Live
-Alpha Lipoic AC - Krilles Kometer	3 - 1	HT Re-Live
-Råssbyn United - Appelkvist F.K.	3 - 0	HT Re-Live
-Omgång 4
-2001-03-04 (4/12)			
-Appelkvist F.K. - Krilles Kometer	0 - 7	HT Re-Live
-FC Macaronis - Alpha Lipoic AC	2 - 2	HT Re-Live
-Puacas Änglar - BK Liljans Lyckliga Lirare	1 - 0	HT Re-Live
-Råssbyn United - Valium Vikings	0 - 1	HT Re-Live
-Omgång 5
-2001-03-11 (5/12)			
-Valium Vikings - Appelkvist F.K.	2 - 1	HT Re-Live
-BK Liljans Lyckliga Lirare - Råssbyn United	1 - 0	HT Re-Live
-Alpha Lipoic AC - Puacas Änglar	3 - 0	HT Re-Live
-Krilles Kometer - FC Macaronis	4 - 1	HT Re-Live
-Omgång 6
-2001-03-18 (6/12)			
-Appelkvist F.K. - FC Macaronis	1 - 5	HT Re-Live
-Valium Vikings - BK Liljans Lyckliga Lirare	3 - 0	HT Re-Live
-Puacas Änglar - Krilles Kometer	3 - 1	HT Re-Live
-Råssbyn United - Alpha Lipoic AC	1 - 5	HT Re-Live
-Omgång 7
-2001-03-25 (7/12)			
-BK Liljans Lyckliga Lirare - Appelkvist F.K.	0 - 1	HT Re-Live
-Alpha Lipoic AC - Valium Vikings	4 - 1	HT Re-Live
-FC Macaronis - Puacas Änglar	1 - 0	HT Re-Live
-Krilles Kometer - Råssbyn United	3 - 2	HT Re-Live
-Omgång 8
-2001-04-01 (8/12)			
-Råssbyn United - Krilles Kometer	5 - 0	HT Re-Live
-Puacas Änglar - FC Macaronis	1 - 5	HT Re-Live
-Valium Vikings - Alpha Lipoic AC	0 - 3	HT Re-Live
-Appelkvist F.K. - BK Liljans Lyckliga Lirare	2 - 1	HT Re-Live
-Omgång 9
-2001-04-08 (9/12)			
-Alpha Lipoic AC - Råssbyn United	2 - 0	HT Re-Live
-Krilles Kometer - Puacas Änglar	1 - 0	HT Re-Live
-BK Liljans Lyckliga Lirare - Valium Vikings	2 - 0	HT Re-Live
-FC Macaronis - Appelkvist F.K.	7 - 0	HT Re-Live
-Omgång 10
-2001-04-15 (10/12)			
-FC Macaronis - Krilles Kometer	6 - 1	HT Re-Live
-Puacas Änglar - Alpha Lipoic AC	3 - 1	HT Re-Live
-Råssbyn United - BK Liljans Lyckliga Lirare	3 - 1	HT Re-Live
-Appelkvist F.K. - Valium Vikings	0 - 2	HT Re-Live
-Omgång 11
-2001-04-22 (11/12)			
-Valium Vikings - Råssbyn United	0 - 2	HT Re-Live
-BK Liljans Lyckliga Lirare - Puacas Änglar	0 - 1	HT Re-Live
-Alpha Lipoic AC - FC Macaronis	3 - 3	HT Re-Live
-Krilles Kometer - Appelkvist F.K.	6 - 0	HT Re-Live
-Omgång 12
-2001-04-29 (12/12)			
-Appelkvist F.K. - Råssbyn United	0 - 5	HT Re-Live
-Krilles Kometer - Alpha Lipoic AC	3 - 4	HT Re-Live
-FC Macaronis - BK Liljans Lyckliga Lirare	3 - 0	HT Re-Live
-Puacas Änglar - Valium Vikings	3 - 0	HT Re-Live
-Omgång 13
-2001-05-06 (13/12)			
-BK Liljans Lyckliga Lirare - Krilles Kometer	0 - 2	HT Re-Live
-Råssbyn United - Puacas Änglar	1 - 4	HT Re-Live
-Valium Vikings - FC Macaronis	1 - 2	HT Re-Live
-Appelkvist F.K. - Alpha Lipoic AC	1 - 6	HT Re-Live
-Omgång 14
-2001-05-13 (14/12)			
-FC Macaronis - Råssbyn United	0 - 0	HT Re-Live
-Alpha Lipoic AC - BK Liljans Lyckliga Lirare	1 - 0	HT Re-Live
-Krilles Kometer - Valium Vikings	3 - 0	HT Re-Live
-Puacas Änglar - Appelkvist F.K.	3 - 0	HT Re-Live
+week 1
+2001-02-11
+Appelkvist F.K. - Puacas Ã„nglar 0 - 6
+Valium Vikings - Krilles Kometer 2 - 0
+BK Liljans Lyckliga Lirare - Alpha Lipoic AC 0 - 3
+RÃ¥ssbyn United - FC Macaronis 3 - 3
+week 2
+2001-02-18
+Alpha Lipoic AC - Appelkvist F.K. 7 - 0
+FC Macaronis - Valium Vikings 2 - 3
+Puacas Ã„nglar - RÃ¥ssbyn United 0 - 3
+Krilles Kometer - BK Liljans Lyckliga Lirare 1 - 0
+week 3
+2001-02-25
+Valium Vikings - Puacas Ã„nglar 0 - 1
+BK Liljans Lyckliga Lirare - FC Macaronis 0 - 1
+Alpha Lipoic AC - Krilles Kometer 3 - 1
+RÃ¥ssbyn United - Appelkvist F.K. 3 - 0
+week 4
+2001-03-04
+Appelkvist F.K. - Krilles Kometer 0 - 7
+FC Macaronis - Alpha Lipoic AC 2 - 2
+Puacas Ã„nglar - BK Liljans Lyckliga Lirare 1 - 0
+RÃ¥ssbyn United - Valium Vikings 0 - 1
+week 5
+2001-03-11
+Valium Vikings - Appelkvist F.K. 2 - 1
+BK Liljans Lyckliga Lirare - RÃ¥ssbyn United 1 - 0
+Alpha Lipoic AC - Puacas Ã„nglar 3 - 0
+Krilles Kometer - FC Macaronis 4 - 1
+week 6
+2001-03-18
+Appelkvist F.K. - FC Macaronis 1 - 5
+Valium Vikings - BK Liljans Lyckliga Lirare 3 - 0
+Puacas Ã„nglar - Krilles Kometer 3 - 1
+RÃ¥ssbyn United - Alpha Lipoic AC 1 - 5
+week 7
+2001-03-25
+BK Liljans Lyckliga Lirare - Appelkvist F.K. 0 - 1
+Alpha Lipoic AC - Valium Vikings 4 - 1
+FC Macaronis - Puacas Ã„nglar 1 - 0
+Krilles Kometer - RÃ¥ssbyn United 3 - 2
+week 8
+2001-04-01
+RÃ¥ssbyn United - Krilles Kometer 5 - 0
+Puacas Ã„nglar - FC Macaronis 1 - 5
+Valium Vikings - Alpha Lipoic AC 0 - 3
+Appelkvist F.K. - BK Liljans Lyckliga Lirare 2 - 1
+week 9
+2001-04-08
+Alpha Lipoic AC - RÃ¥ssbyn United 2 - 0
+Krilles Kometer - Puacas Ã„nglar 1 - 0
+BK Liljans Lyckliga Lirare - Valium Vikings 2 - 0
+FC Macaronis - Appelkvist F.K. 7 - 0
+week 10
+2001-04-15
+FC Macaronis - Krilles Kometer 6 - 1
+Puacas Ã„nglar - Alpha Lipoic AC 3 - 1
+RÃ¥ssbyn United - BK Liljans Lyckliga Lirare 3 - 1
+Appelkvist F.K. - Valium Vikings 0 - 2
+week 11
+2001-04-22
+Valium Vikings - RÃ¥ssbyn United 0 - 2
+BK Liljans Lyckliga Lirare - Puacas Ã„nglar 0 - 1
+Alpha Lipoic AC - FC Macaronis 3 - 3
+Krilles Kometer - Appelkvist F.K. 6 - 0
+week 12
+2001-04-29
+Appelkvist F.K. - RÃ¥ssbyn United 0 - 5
+Krilles Kometer - Alpha Lipoic AC 3 - 4
+FC Macaronis - BK Liljans Lyckliga Lirare 3 - 0
+Puacas Ã„nglar - Valium Vikings 3 - 0
+week 13
+2001-05-06
+BK Liljans Lyckliga Lirare - Krilles Kometer 0 - 2
+RÃ¥ssbyn United - Puacas Ã„nglar 1 - 4
+Valium Vikings - FC Macaronis 1 - 2
+Appelkvist F.K. - Alpha Lipoic AC 1 - 6
+week 14
+2001-05-13
+FC Macaronis - RÃ¥ssbyn United 0 - 0
+Alpha Lipoic AC - BK Liljans Lyckliga Lirare 1 - 0
+Krilles Kometer - Valium Vikings 3 - 0
+Puacas Ã„nglar - Appelkvist F.K. 3 - 0

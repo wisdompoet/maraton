@@ -1,0 +1,84 @@
+week 1
+2009-02-01
+BK Filla - Ornö BK 4 - 3
+Flaming Homers - Hariwulafar AIK 6 - 0
+Midas FC - Magarats United 4 - 2
+Cirkus Brazil Jack - Kebnekaise 4 - 2
+week 2
+2009-02-08
+Magarats United - Flaming Homers 4 - 1
+Ornö BK - Midas FC 5 - 5
+Hariwulafar AIK - Cirkus Brazil Jack 1 - 3
+Kebnekaise - BK Filla 3 - 6
+week 3
+2009-02-15
+Kebnekaise - Hariwulafar AIK 3 - 3
+Flaming Homers - Ornö BK 5 - 1
+Cirkus Brazil Jack - Magarats United 4 - 2
+Midas FC - BK Filla 1 - 5
+week 4
+2009-02-22
+Midas FC - Flaming Homers 1 - 4
+BK Filla - Hariwulafar AIK 4 - 0
+Magarats United - Kebnekaise 3 - 1
+Ornö BK - Cirkus Brazil Jack 1 - 1
+week 5
+2009-03-01
+Flaming Homers - BK Filla 3 - 1
+Cirkus Brazil Jack - Midas FC 0 - 1
+Kebnekaise - Ornö BK 2 - 3
+Hariwulafar AIK - Magarats United 4 - 4
+week 6
+2009-03-08
+BK Filla - Magarats United 4 - 3
+Flaming Homers - Cirkus Brazil Jack 4 - 2
+Ornö BK - Hariwulafar AIK 0 - 3
+Midas FC - Kebnekaise 3 - 2
+week 7
+2009-03-15
+Magarats United - Ornö BK 8 - 0
+Cirkus Brazil Jack - BK Filla 1 - 0
+Kebnekaise - Flaming Homers 0 - 5
+Hariwulafar AIK - Midas FC 3 - 5
+week 8
+2009-03-22
+Flaming Homers - Kebnekaise 3 - 1
+Ornö BK - Magarats United 0 - 12
+BK Filla - Cirkus Brazil Jack 5 - 1
+Midas FC - Hariwulafar AIK 3 - 4
+week 9
+2009-03-29
+Kebnekaise - Midas FC 1 - 6
+Hariwulafar AIK - Ornö BK 8 - 0
+Cirkus Brazil Jack - Flaming Homers 0 - 3
+Magarats United - BK Filla 3 - 3
+week 10
+2009-04-05
+BK Filla - Flaming Homers 5 - 0
+Magarats United - Hariwulafar AIK 4 - 4
+Midas FC - Cirkus Brazil Jack 0 - 3
+Ornö BK - Kebnekaise 0 - 0
+week 11
+2009-04-12
+Flaming Homers - Midas FC 3 - 1
+Cirkus Brazil Jack - Ornö BK 7 - 0
+Hariwulafar AIK - BK Filla 5 - 5
+Kebnekaise - Magarats United 0 - 4
+week 12
+2009-04-19
+Ornö BK - Flaming Homers 0 - 8
+BK Filla - Midas FC 5 - 4
+Hariwulafar AIK - Kebnekaise 6 - 1
+Magarats United - Cirkus Brazil Jack 1 - 2
+week 13
+2009-04-26
+Cirkus Brazil Jack - Hariwulafar AIK 2 - 0
+Midas FC - Ornö BK 10 - 0
+Flaming Homers - Magarats United 2 - 0
+BK Filla - Kebnekaise 1 - 0
+week 14
+2009-05-03
+Hariwulafar AIK - Flaming Homers 4 - 3
+Kebnekaise - Cirkus Brazil Jack 0 - 2
+Ornö BK - BK Filla 1 - 7
+Magarats United - Midas FC 3 - 1

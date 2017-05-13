@@ -1,0 +1,84 @@
+week 1
+2015-03-22
+Falköpings BK - Lokomotiv Höjden 6 - 0
+FK Sarajevo BiH - Forza IF 2 - 0
+Maersta Mongoloids - AC Almby 1 - 1
+Ballerina BoJS - Lajka Dobbs lirare 4 - 0
+week 2
+2015-03-29
+Lajka Dobbs lirare - FK Sarajevo BiH 1 - 1
+Forza IF - Falköpings BK 2 - 1
+AC Almby - Ballerina BoJS 1 - 1
+Lokomotiv Höjden - Maersta Mongoloids 3 - 0
+week 3
+2015-04-05
+Falköpings BK - AC Almby 3 - 3
+FK Sarajevo BiH - Lokomotiv Höjden 3 - 0
+Lajka Dobbs lirare - Forza IF 1 - 1
+Ballerina BoJS - Maersta Mongoloids 5 - 1
+week 4
+2015-04-12
+AC Almby - FK Sarajevo BiH 0 - 4
+Forza IF - Ballerina BoJS 4 - 3
+Maersta Mongoloids - Falköpings BK 0 - 5
+Lokomotiv Höjden - Lajka Dobbs lirare 0 - 1
+week 5
+2015-04-19
+Lajka Dobbs lirare - Maersta Mongoloids 3 - 1
+FK Sarajevo BiH - Falköpings BK 8 - 1
+Forza IF - AC Almby 3 - 1
+Ballerina BoJS - Lokomotiv Höjden 6 - 0
+week 6
+2015-04-26
+Lokomotiv Höjden - Forza IF 1 - 3
+Maersta Mongoloids - FK Sarajevo BiH 2 - 5
+Falköpings BK - Ballerina BoJS 2 - 2
+AC Almby - Lajka Dobbs lirare 1 - 4
+week 7
+2015-05-03
+FK Sarajevo BiH - Ballerina BoJS 0 - 0
+Forza IF - Maersta Mongoloids 4 - 1
+Lajka Dobbs lirare - Falköpings BK 6 - 1
+AC Almby - Lokomotiv Höjden 1 - 3
+week 8
+2015-05-10
+Lokomotiv Höjden - AC Almby 3 - 2
+Falköpings BK - Lajka Dobbs lirare 7 - 1
+Maersta Mongoloids - Forza IF 4 - 0
+Ballerina BoJS - FK Sarajevo BiH 1 - 1
+week 9
+2015-05-17
+Forza IF - Lokomotiv Höjden 1 - 1
+Lajka Dobbs lirare - AC Almby 1 - 1
+Ballerina BoJS - Falköpings BK 5 - 2
+FK Sarajevo BiH - Maersta Mongoloids 4 - 1
+week 10
+2015-05-24
+AC Almby - Forza IF 2 - 1
+Lokomotiv Höjden - Ballerina BoJS 1 - 4
+Maersta Mongoloids - Lajka Dobbs lirare 5 - 0
+Falköpings BK - FK Sarajevo BiH 0 - 6
+week 11
+2015-05-31
+Ballerina BoJS - Forza IF 2 - 0
+FK Sarajevo BiH - AC Almby 3 - 0
+Falköpings BK - Maersta Mongoloids 3 - 4
+Lajka Dobbs lirare - Lokomotiv Höjden 2 - 0
+week 12
+2015-06-07
+AC Almby - Falköpings BK 3 - 1
+Forza IF - Lajka Dobbs lirare 1 - 0
+Lokomotiv Höjden - FK Sarajevo BiH 0 - 2
+Maersta Mongoloids - Ballerina BoJS 0 - 1
+week 13
+2015-06-14
+Ballerina BoJS - AC Almby 3 - 0
+Falköpings BK - Forza IF 1 - 5
+FK Sarajevo BiH - Lajka Dobbs lirare 7 - 0
+Maersta Mongoloids - Lokomotiv Höjden 2 - 2
+week 14
+2015-06-21
+AC Almby - Maersta Mongoloids 3 - 4
+Forza IF - FK Sarajevo BiH 1 - 4
+Lajka Dobbs lirare - Ballerina BoJS 0 - 3
+Lokomotiv Höjden - Falköpings BK 6 - 1

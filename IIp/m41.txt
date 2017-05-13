@@ -1,0 +1,84 @@
+week 1
+2010-01-03
+Källa BK - Täljstenens AIK 2 - 4
+Hemliga Klubben - David Brent 2 - 2
+MIA - Countrycrown 5 - 2
+Bagarns FF - Forza Leijonhielm 4 - 2
+week 2
+2010-01-10
+David Brent - Källa BK 1 - 2
+Countrycrown - Hemliga Klubben 2 - 2
+Forza Leijonhielm - MIA 3 - 3
+Täljstenens AIK - Bagarns FF 1 - 2
+week 3
+2010-01-17
+Källa BK - Countrycrown 4 - 0
+Forza Leijonhielm - Täljstenens AIK 2 - 3
+Hemliga Klubben - MIA 2 - 2
+Bagarns FF - David Brent 2 - 0
+week 4
+2010-01-24
+MIA - Täljstenens AIK 0 - 0
+David Brent - Forza Leijonhielm 7 - 1
+Countrycrown - Bagarns FF 1 - 2
+Hemliga Klubben - Källa BK 3 - 2
+week 5
+2010-01-31
+Källa BK - MIA 0 - 3
+Bagarns FF - Hemliga Klubben 7 - 0
+Forza Leijonhielm - Countrycrown 4 - 1
+Täljstenens AIK - David Brent 1 - 0
+week 6
+2010-02-07
+Källa BK - Bagarns FF 1 - 1
+MIA - David Brent 2 - 1
+Countrycrown - Täljstenens AIK 1 - 1
+Hemliga Klubben - Forza Leijonhielm 3 - 2
+week 7
+2010-02-14
+Bagarns FF - MIA 0 - 3
+Forza Leijonhielm - Källa BK 4 - 2
+David Brent - Countrycrown 4 - 0
+Täljstenens AIK - Hemliga Klubben 1 - 2
+week 8
+2010-02-21
+Hemliga Klubben - Täljstenens AIK 2 - 0
+Countrycrown - David Brent 1 - 3
+MIA - Bagarns FF 3 - 0
+Källa BK - Forza Leijonhielm 3 - 0
+week 9
+2010-02-28
+Täljstenens AIK - Countrycrown 4 - 0
+Forza Leijonhielm - Hemliga Klubben 5 - 3
+Bagarns FF - Källa BK 2 - 0
+David Brent - MIA 2 - 2
+week 10
+2010-03-07
+David Brent - Täljstenens AIK 2 - 1
+Hemliga Klubben - Bagarns FF 1 - 3
+Countrycrown - Forza Leijonhielm 0 - 3
+MIA - Källa BK 3 - 2
+week 11
+2010-03-14
+Bagarns FF - Countrycrown 8 - 0
+Forza Leijonhielm - David Brent 1 - 1
+Källa BK - Hemliga Klubben 2 - 2
+Täljstenens AIK - MIA 1 - 0
+week 12
+2010-03-21
+David Brent - Bagarns FF 5 - 4
+Täljstenens AIK - Forza Leijonhielm 1 - 3
+Countrycrown - Källa BK 1 - 4
+MIA - Hemliga Klubben 5 - 0
+week 13
+2010-03-28
+Bagarns FF - Täljstenens AIK 4 - 2
+Källa BK - David Brent 2 - 2
+Hemliga Klubben - Countrycrown 3 - 0
+MIA - Forza Leijonhielm 2 - 2
+week 14
+2010-04-04
+David Brent - Hemliga Klubben 2 - 1
+Täljstenens AIK - Källa BK 0 - 1
+Countrycrown - MIA 0 - 9
+Forza Leijonhielm - Bagarns FF 2 - 6

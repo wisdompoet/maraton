@@ -1,0 +1,84 @@
+week 1
+2008-06-22
+Zlatan_BK - Hasselbanne Sk 4 - 2
+Glenn IF - Bude  1 - 7
+zeljko - Kungsholmen Kickers 7 - 1
+Kaiser FC - Team Nisse Kickers 4 - 1
+week 2
+2008-06-29
+Team Nisse Kickers - Glenn IF 7 - 0
+Kungsholmen Kickers - Kaiser FC 2 - 2
+Hasselbanne Sk - zeljko 4 - 0
+Bude  - Zlatan_BK 1 - 4
+week 3
+2008-07-06
+Bude  - Team Nisse Kickers 2 - 0
+Glenn IF - Kungsholmen Kickers 4 - 1
+Kaiser FC - Hasselbanne Sk 0 - 3
+zeljko - Zlatan_BK 2 - 5
+week 4
+2008-07-13
+Zlatan_BK - Team Nisse Kickers 5 - 2
+Kungsholmen Kickers - Bude  0 - 1
+Hasselbanne Sk - Glenn IF 8 - 1
+zeljko - Kaiser FC 5 - 1
+week 5
+2008-07-20
+Kaiser FC - Zlatan_BK 0 - 6
+Glenn IF - zeljko 2 - 5
+Bude  - Hasselbanne Sk 3 - 1
+Team Nisse Kickers - Kungsholmen Kickers 5 - 2
+week 6
+2008-07-27
+Zlatan_BK - Kungsholmen Kickers 1 - 0
+Kaiser FC - Glenn IF 1 - 5
+Hasselbanne Sk - Team Nisse Kickers 3 - 3
+zeljko - Bude  1 - 2
+week 7
+2008-08-03
+Glenn IF - Zlatan_BK 2 - 6
+Bude  - Kaiser FC 3 - 0
+Kungsholmen Kickers - Hasselbanne Sk 4 - 1
+Team Nisse Kickers - zeljko 6 - 0
+week 8
+2008-08-10
+zeljko - Team Nisse Kickers 4 - 4
+Hasselbanne Sk - Kungsholmen Kickers 3 - 1
+Zlatan_BK - Glenn IF 5 - 2
+Kaiser FC - Bude  2 - 0
+week 9
+2008-08-17
+Bude  - zeljko 4 - 1
+Team Nisse Kickers - Hasselbanne Sk 0 - 9
+Glenn IF - Kaiser FC 6 - 2
+Kungsholmen Kickers - Zlatan_BK 3 - 2
+week 10
+2008-08-24
+Hasselbanne Sk - Bude  0 - 4
+zeljko - Glenn IF 5 - 0
+Zlatan_BK - Kaiser FC 5 - 2
+Kungsholmen Kickers - Team Nisse Kickers 9 - 0
+week 11
+2008-08-31
+Kaiser FC - zeljko 0 - 7
+Glenn IF - Hasselbanne Sk 1 - 4
+Bude  - Kungsholmen Kickers 5 - 2
+Team Nisse Kickers - Zlatan_BK 0 - 5
+week 12
+2008-09-07
+Zlatan_BK - zeljko 3 - 2
+Team Nisse Kickers - Bude  0 - 7
+Kungsholmen Kickers - Glenn IF 4 - 0
+Hasselbanne Sk - Kaiser FC 4 - 0
+week 13
+2008-09-14
+Glenn IF - Team Nisse Kickers 8 - 0
+zeljko - Hasselbanne Sk 5 - 0
+Kaiser FC - Kungsholmen Kickers 0 - 6
+Zlatan_BK - Bude  5 - 0
+week 14
+2008-09-21
+Kungsholmen Kickers - zeljko 1 - 4
+Bude  - Glenn IF 2 - 2
+Hasselbanne Sk - Zlatan_BK 0 - 5
+Team Nisse Kickers - Kaiser FC 0 - 2

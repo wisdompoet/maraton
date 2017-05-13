@@ -1,0 +1,84 @@
+week 1
+2002-05-05
+Zigma UTD - Team ABC 1 - 1
+Byalaget - Lundens BK 0 - 1
+Lappträsk FC - Team Millenium 2 - 0
+DÖ Långsamt FC - Brallorna BK 4 - 1
+week 2
+2002-05-12
+Team Millenium - Zigma UTD 2 - 2
+Brallorna BK - Byalaget 0 - 0
+Team ABC - DÖ Långsamt FC 1 - 2
+Lundens BK - Lappträsk FC 5 - 2
+week 3
+2002-05-19
+Byalaget - Team ABC 0 - 3
+Lappträsk FC - Brallorna BK 0 - 4
+Team Millenium - Lundens BK 1 - 0
+DÖ Långsamt FC - Zigma UTD 4 - 1
+week 4
+2002-05-26
+Zigma UTD - Lundens BK 0 - 9
+Brallorna BK - Team Millenium 1 - 0
+Team ABC - Lappträsk FC 5 - 1
+DÖ Långsamt FC - Byalaget 3 - 0
+week 5
+2002-06-02
+Byalaget - Zigma UTD 2 - 0
+Lappträsk FC - DÖ Långsamt FC 2 - 3
+Team Millenium - Team ABC 0 - 0
+Lundens BK - Brallorna BK 0 - 2
+week 6
+2002-06-09
+Zigma UTD - Brallorna BK 0 - 1
+Byalaget - Lappträsk FC 2 - 1
+Team ABC - Lundens BK 2 - 2
+DÖ Långsamt FC - Team Millenium 2 - 0
+week 7
+2002-06-16
+Lappträsk FC - Zigma UTD 5 - 0
+Team Millenium - Byalaget 2 - 0
+Brallorna BK - Team ABC 2 - 0
+Lundens BK - DÖ Långsamt FC 1 - 0
+week 8
+2002-06-23
+DÖ Långsamt FC - Lundens BK 1 - 1
+Team ABC - Brallorna BK 2 - 1
+Byalaget - Team Millenium 3 - 1
+Zigma UTD - Lappträsk FC 0 - 3
+week 9
+2002-06-30
+Team Millenium - DÖ Långsamt FC 2 - 2
+Lundens BK - Team ABC 1 - 2
+Lappträsk FC - Byalaget 1 - 5
+Brallorna BK - Zigma UTD 5 - 0
+week 10
+2002-07-07
+Brallorna BK - Lundens BK 1 - 0
+Team ABC - Team Millenium 1 - 0
+DÖ Långsamt FC - Lappträsk FC 5 - 0
+Zigma UTD - Byalaget 0 - 5
+week 11
+2002-07-14
+Byalaget - DÖ Långsamt FC 0 - 1
+Lappträsk FC - Team ABC 0 - 3
+Team Millenium - Brallorna BK 0 - 0
+Lundens BK - Zigma UTD 3 - 0
+week 12
+2002-07-21
+Zigma UTD - DÖ Långsamt FC 0 - 5
+Lundens BK - Team Millenium 4 - 1
+Brallorna BK - Lappträsk FC 3 - 2
+Team ABC - Byalaget 1 - 0
+week 13
+2002-07-28
+Lappträsk FC - Lundens BK 3 - 2
+DÖ Långsamt FC - Team ABC 1 - 1
+Byalaget - Brallorna BK 0 - 1
+Zigma UTD - Team Millenium 0 - 5
+week 14
+2002-08-04
+Brallorna BK - DÖ Långsamt FC 2 - 0
+Team Millenium - Lappträsk FC 2 - 1
+Lundens BK - Byalaget 0 - 0
+Team ABC - Zigma UTD 0 - 0

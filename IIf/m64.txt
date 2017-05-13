@@ -1,84 +1,84 @@
-Omgång 1
-2017-01-22 (1/64)			
-BOTT FC - IFK Pölsebo	1 - 5	HT Re-Live
-Westhisk FC - Starcraft United	8 - 0	HT Re-Live
-FC Dengue Fever - Bäverdödarna	2 - 1	HT Re-Live
-Tall Diablo - Falköpings BK	4 - 2	HT Re-Live
-Omgång 2
-2017-01-29 (2/64)			
-Starcraft United - BOTT FC	4 - 0	HT Re-Live
-IFK Pölsebo - Tall Diablo	3 - 0	HT Re-Live
-Bäverdödarna - Westhisk FC	2 - 6	HT Re-Live
-Falköpings BK - FC Dengue Fever	3 - 1	HT Re-Live
-Omgång 3
-2017-02-05 (3/64)			
-BOTT FC - Falköpings BK	1 - 8	HT Re-Live
-Westhisk FC - FC Dengue Fever	4 - 0	HT Re-Live
-Starcraft United - IFK Pölsebo	0 - 8	HT Re-Live
-Tall Diablo - Bäverdödarna	4 - 3	HT Re-Live
-Omgång 4
-2017-02-12 (4/64)			
-Falköpings BK - Starcraft United	9 - 0	HT Re-Live
-IFK Pölsebo - Westhisk FC	3 - 2	HT Re-Live
-FC Dengue Fever - Tall Diablo	2 - 1	HT Re-Live
-Bäverdödarna - BOTT FC	7 - 0	HT Re-Live
-Omgång 5
-2017-02-19 (5/64)			
-Starcraft United - FC Dengue Fever	0 - 5	HT Re-Live
-Westhisk FC - Falköpings BK	4 - 0	HT Re-Live
-IFK Pölsebo - Bäverdödarna	5 - 0	HT Re-Live
-BOTT FC - Tall Diablo	0 - 6	HT Re-Live
-Omgång 6
-2017-02-26 (6/64)			
-FC Dengue Fever - BOTT FC	7 - 0	HT Re-Live
-Tall Diablo - Westhisk FC	3 - 2	HT Re-Live
-Falköpings BK - IFK Pölsebo	3 - 4	HT Re-Live
-Bäverdödarna - Starcraft United	5 - 0	HT Re-Live
-Omgång 7
-2017-03-05 (7/64)			
-BOTT FC - Westhisk FC	0 - 6	HT Re-Live
-IFK Pölsebo - FC Dengue Fever	4 - 0	HT Re-Live
-Bäverdödarna - Falköpings BK	1 - 2	HT Re-Live
-Starcraft United - Tall Diablo	0 - 6	HT Re-Live
-Omgång 8
-2017-03-12 (8/64)			
-Falköpings BK - Bäverdödarna	2 - 4	HT Re-Live
-Tall Diablo - Starcraft United	5 - 0	HT Re-Live
-FC Dengue Fever - IFK Pölsebo	1 - 3	HT Re-Live
-Westhisk FC - BOTT FC	7 - 0	HT Re-Live
-Omgång 9
-2017-03-19 (9/64)			
-IFK Pölsebo - Falköpings BK	5 - 1	HT Re-Live
-Starcraft United - Bäverdödarna	0 - 5	HT Re-Live
-Westhisk FC - Tall Diablo	6 - 4	HT Re-Live
-BOTT FC - FC Dengue Fever	0 - 3	HT Re-Live
-Omgång 10
-2017-03-26 (10/64)			
-Bäverdödarna - IFK Pölsebo	2 - 3	HT Re-Live
-Falköpings BK - Westhisk FC	4 - 2	HT Re-Live
-Tall Diablo - BOTT FC	4 - 0	HT Re-Live
-FC Dengue Fever - Starcraft United	3 - 0	HT Re-Live
-Omgång 11
-2017-04-02 (11/64)			
-Starcraft United - Falköpings BK	1 - 6	HT Re-Live
-Westhisk FC - IFK Pölsebo	4 - 3	HT Re-Live
-BOTT FC - Bäverdödarna	0 - 2	HT Re-Live
-Tall Diablo - FC Dengue Fever	1 - 1	HT Re-Live
-Omgång 12
-2017-04-09 (12/64)			
-Bäverdödarna - Tall Diablo	1 - 0	HT Re-Live
-FC Dengue Fever - Westhisk FC	3 - 2	HT Re-Live
-IFK Pölsebo - Starcraft United	6 - 0	HT Re-Live
-Falköpings BK - BOTT FC	4 - 0	HT Re-Live
-Omgång 13
-2017-04-16 (13/64)			
-FC Dengue Fever - Falköpings BK	1 - 2	HT Re-Live
-Westhisk FC - Bäverdödarna	2 - 1	HT Re-Live
-Tall Diablo - IFK Pölsebo	3 - 3	HT Re-Live
-BOTT FC - Starcraft United	3 - 1	HT Re-Live
-Omgång 14
-2017-04-23 (14/64)			
-Falköpings BK - Tall Diablo	4 - 0	HT Re-Live
-Bäverdödarna - FC Dengue Fever	2 - 1	HT Re-Live
-Starcraft United - Westhisk FC	0 - 6	HT Re-Live
-IFK Pölsebo - BOTT FC	8 - 1	HT Re-Live
+week 1
+2017-01-22
+BOTT FC - IFK PÃ¶lsebo 1 - 5
+Westhisk FC - Starcraft United 8 - 0
+FC Dengue Fever - BÃ¤verdÃ¶darna 2 - 1
+Tall Diablo - FalkÃ¶pings BK 4 - 2
+week 2
+2017-01-29
+Starcraft United - BOTT FC 4 - 0
+IFK PÃ¶lsebo - Tall Diablo 3 - 0
+BÃ¤verdÃ¶darna - Westhisk FC 2 - 6
+FalkÃ¶pings BK - FC Dengue Fever 3 - 1
+week 3
+2017-02-05
+BOTT FC - FalkÃ¶pings BK 1 - 8
+Westhisk FC - FC Dengue Fever 4 - 0
+Starcraft United - IFK PÃ¶lsebo 0 - 8
+Tall Diablo - BÃ¤verdÃ¶darna 4 - 3
+week 4
+2017-02-12
+FalkÃ¶pings BK - Starcraft United 9 - 0
+IFK PÃ¶lsebo - Westhisk FC 3 - 2
+FC Dengue Fever - Tall Diablo 2 - 1
+BÃ¤verdÃ¶darna - BOTT FC 7 - 0
+week 5
+2017-02-19
+Starcraft United - FC Dengue Fever 0 - 5
+Westhisk FC - FalkÃ¶pings BK 4 - 0
+IFK PÃ¶lsebo - BÃ¤verdÃ¶darna 5 - 0
+BOTT FC - Tall Diablo 0 - 6
+week 6
+2017-02-26
+FC Dengue Fever - BOTT FC 7 - 0
+Tall Diablo - Westhisk FC 3 - 2
+FalkÃ¶pings BK - IFK PÃ¶lsebo 3 - 4
+BÃ¤verdÃ¶darna - Starcraft United 5 - 0
+week 7
+2017-03-05
+BOTT FC - Westhisk FC 0 - 6
+IFK PÃ¶lsebo - FC Dengue Fever 4 - 0
+BÃ¤verdÃ¶darna - FalkÃ¶pings BK 1 - 2
+Starcraft United - Tall Diablo 0 - 6
+week 8
+2017-03-12
+FalkÃ¶pings BK - BÃ¤verdÃ¶darna 2 - 4
+Tall Diablo - Starcraft United 5 - 0
+FC Dengue Fever - IFK PÃ¶lsebo 1 - 3
+Westhisk FC - BOTT FC 7 - 0
+week 9
+2017-03-19
+IFK PÃ¶lsebo - FalkÃ¶pings BK 5 - 1
+Starcraft United - BÃ¤verdÃ¶darna 0 - 5
+Westhisk FC - Tall Diablo 6 - 4
+BOTT FC - FC Dengue Fever 0 - 3
+week 10
+2017-03-26
+BÃ¤verdÃ¶darna - IFK PÃ¶lsebo 2 - 3
+FalkÃ¶pings BK - Westhisk FC 4 - 2
+Tall Diablo - BOTT FC 4 - 0
+FC Dengue Fever - Starcraft United 3 - 0
+week 11
+2017-04-02
+Starcraft United - FalkÃ¶pings BK 1 - 6
+Westhisk FC - IFK PÃ¶lsebo 4 - 3
+BOTT FC - BÃ¤verdÃ¶darna 0 - 2
+Tall Diablo - FC Dengue Fever 1 - 1
+week 12
+2017-04-09
+BÃ¤verdÃ¶darna - Tall Diablo 1 - 0
+FC Dengue Fever - Westhisk FC 3 - 2
+IFK PÃ¶lsebo - Starcraft United 6 - 0
+FalkÃ¶pings BK - BOTT FC 4 - 0
+week 13
+2017-04-16
+FC Dengue Fever - FalkÃ¶pings BK 1 - 2
+Westhisk FC - BÃ¤verdÃ¶darna 2 - 1
+Tall Diablo - IFK PÃ¶lsebo 3 - 3
+BOTT FC - Starcraft United 3 - 1
+week 14
+2017-04-23
+FalkÃ¶pings BK - Tall Diablo 4 - 0
+BÃ¤verdÃ¶darna - FC Dengue Fever 2 - 1
+Starcraft United - Westhisk FC 0 - 6
+IFK PÃ¶lsebo - BOTT FC 8 - 1

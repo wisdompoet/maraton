@@ -1,0 +1,84 @@
+week 1
+2002-05-05
+Menlösa IF - Gothenburg 2 - 0
+Anabolica - Humlekärrets IF 1 - 1
+Ryd Rangers FC - Arsenal FF Stars 5 - 0
+Bollelvan - Ambient Underground 3 - 1
+week 2
+2002-05-12
+Arsenal FF Stars - Menlösa IF 0 - 5
+Ambient Underground - Anabolica 2 - 2
+Gothenburg - Bollelvan 2 - 2
+Humlekärrets IF - Ryd Rangers FC 1 - 1
+week 3
+2002-05-19
+Anabolica - Gothenburg 0 - 3
+Ryd Rangers FC - Ambient Underground 0 - 3
+Arsenal FF Stars - Humlekärrets IF 0 - 5
+Bollelvan - Menlösa IF 4 - 2
+week 4
+2002-05-26
+Menlösa IF - Humlekärrets IF 1 - 1
+Ambient Underground - Arsenal FF Stars 5 - 0
+Gothenburg - Ryd Rangers FC 1 - 0
+Bollelvan - Anabolica 2 - 2
+week 5
+2002-06-02
+Anabolica - Menlösa IF 4 - 0
+Ryd Rangers FC - Bollelvan 2 - 0
+Arsenal FF Stars - Gothenburg 0 - 5
+Humlekärrets IF - Ambient Underground 0 - 2
+week 6
+2002-06-09
+Menlösa IF - Ambient Underground 3 - 4
+Anabolica - Ryd Rangers FC 1 - 0
+Gothenburg - Humlekärrets IF 2 - 0
+Bollelvan - Arsenal FF Stars 5 - 0
+week 7
+2002-06-16
+Ryd Rangers FC - Menlösa IF 0 - 0
+Arsenal FF Stars - Anabolica 0 - 5
+Ambient Underground - Gothenburg 3 - 0
+Humlekärrets IF - Bollelvan 1 - 0
+week 8
+2002-06-23
+Bollelvan - Humlekärrets IF 3 - 1
+Gothenburg - Ambient Underground 1 - 1
+Anabolica - Arsenal FF Stars 5 - 0
+Menlösa IF - Ryd Rangers FC 2 - 0
+week 9
+2002-06-30
+Arsenal FF Stars - Bollelvan 0 - 5
+Humlekärrets IF - Gothenburg 2 - 0
+Ryd Rangers FC - Anabolica 2 - 2
+Ambient Underground - Menlösa IF 2 - 0
+week 10
+2002-07-07
+Ambient Underground - Humlekärrets IF 0 - 2
+Gothenburg - Arsenal FF Stars 5 - 0
+Bollelvan - Ryd Rangers FC 3 - 2
+Menlösa IF - Anabolica 2 - 1
+week 11
+2002-07-14
+Anabolica - Bollelvan 5 - 1
+Ryd Rangers FC - Gothenburg 4 - 0
+Arsenal FF Stars - Ambient Underground 0 - 5
+Humlekärrets IF - Menlösa IF 1 - 3
+week 12
+2002-07-21
+Menlösa IF - Bollelvan 2 - 0
+Humlekärrets IF - Arsenal FF Stars 5 - 0
+Ambient Underground - Ryd Rangers FC 0 - 0
+Gothenburg - Anabolica 1 - 5
+week 13
+2002-07-28
+Ryd Rangers FC - Humlekärrets IF 2 - 1
+Bollelvan - Gothenburg 1 - 2
+Anabolica - Ambient Underground 0 - 3
+Menlösa IF - Arsenal FF Stars 5 - 0
+week 14
+2002-08-04
+Ambient Underground - Bollelvan 4 - 4
+Arsenal FF Stars - Ryd Rangers FC 0 - 5
+Humlekärrets IF - Anabolica 3 - 0
+Gothenburg - Menlösa IF 3 - 0

@@ -1,0 +1,84 @@
+week 1
+2006-01-08
+Megadawe FC - Spurs FC 0 - 2
+Bajen HIF - Aplared FC 1 - 1
+club Belmondo - Exorcisterna 3 - 1
+Snider BK - Coffin Nibblers 3 - 0
+week 2
+2006-01-15
+Exorcisterna - Megadawe FC 2 - 1
+Coffin Nibblers - Bajen HIF 1 - 0
+Spurs FC - Snider BK 5 - 1
+Aplared FC - club Belmondo 4 - 1
+week 3
+2006-01-22
+Bajen HIF - Spurs FC 1 - 3
+club Belmondo - Coffin Nibblers 5 - 1
+Exorcisterna - Aplared FC 2 - 4
+Snider BK - Megadawe FC 2 - 3
+week 4
+2006-01-29
+Megadawe FC - Aplared FC 3 - 3
+Coffin Nibblers - Exorcisterna 1 - 5
+Spurs FC - club Belmondo 2 - 0
+Snider BK - Bajen HIF 1 - 3
+week 5
+2006-02-05
+Bajen HIF - Megadawe FC 2 - 1
+club Belmondo - Snider BK 3 - 0
+Exorcisterna - Spurs FC 2 - 2
+Aplared FC - Coffin Nibblers 0 - 1
+week 6
+2006-02-12
+Megadawe FC - Coffin Nibblers 1 - 1
+Bajen HIF - club Belmondo 2 - 1
+Spurs FC - Aplared FC 1 - 1
+Snider BK - Exorcisterna 4 - 1
+week 7
+2006-02-19
+club Belmondo - Megadawe FC 1 - 1
+Exorcisterna - Bajen HIF 1 - 0
+Coffin Nibblers - Spurs FC 2 - 2
+Aplared FC - Snider BK 3 - 1
+week 8
+2006-02-26
+Snider BK - Aplared FC 5 - 1
+Spurs FC - Coffin Nibblers 2 - 2
+Bajen HIF - Exorcisterna 3 - 1
+Megadawe FC - club Belmondo 5 - 0
+week 9
+2006-03-05
+Exorcisterna - Snider BK 1 - 2
+Aplared FC - Spurs FC 3 - 3
+club Belmondo - Bajen HIF 5 - 2
+Coffin Nibblers - Megadawe FC 0 - 1
+week 10
+2006-03-12
+Coffin Nibblers - Aplared FC 3 - 0
+Spurs FC - Exorcisterna 3 - 2
+Snider BK - club Belmondo 2 - 2
+Megadawe FC - Bajen HIF 1 - 3
+week 11
+2006-03-19
+Bajen HIF - Snider BK 4 - 0
+club Belmondo - Spurs FC 1 - 2
+Exorcisterna - Coffin Nibblers 2 - 1
+Aplared FC - Megadawe FC 5 - 1
+week 12
+2006-03-26
+Megadawe FC - Snider BK 3 - 0
+Aplared FC - Exorcisterna 5 - 0
+Coffin Nibblers - club Belmondo 4 - 5
+Spurs FC - Bajen HIF 4 - 1
+week 13
+2006-04-02
+club Belmondo - Aplared FC 2 - 0
+Snider BK - Spurs FC 3 - 2
+Bajen HIF - Coffin Nibblers 1 - 3
+Megadawe FC - Exorcisterna 0 - 2
+week 14
+2006-04-09
+Coffin Nibblers - Snider BK 1 - 1
+Exorcisterna - club Belmondo 2 - 0
+Aplared FC - Bajen HIF 3 - 4
+Spurs FC - Megadawe FC 2 - 1

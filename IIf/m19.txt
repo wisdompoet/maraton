@@ -1,84 +1,84 @@
-Omgång 1
-2003-04-06 (1/19)			
-Quatro Staggione AC - Barbas Barbarer FC	5 - 0	HT Re-Live
-Hoseanna - Källstorps FF	3 - 2	HT Re-Live
-Western Warriors - Foton IK	3 - 0	HT Re-Live
-Morgoths horder - Luke Fotboll	3 - 3	HT Re-Live
-Omgång 2
-2003-04-13 (2/19)			
-Foton IK - Quatro Staggione AC	0 - 2	HT Re-Live
-Luke Fotboll - Hoseanna	5 - 2	HT Re-Live
-Barbas Barbarer FC - Morgoths horder	0 - 1	HT Re-Live
-Källstorps FF - Western Warriors	1 - 4	HT Re-Live
-Omgång 3
-2003-04-20 (3/19)			
-Hoseanna - Barbas Barbarer FC	2 - 0	HT Re-Live
-Western Warriors - Luke Fotboll	2 - 2	HT Re-Live
-Foton IK - Källstorps FF	2 - 0	HT Re-Live
-Morgoths horder - Quatro Staggione AC	1 - 1	HT Re-Live
-Omgång 4
-2003-04-27 (4/19)			
-Quatro Staggione AC - Källstorps FF	3 - 3	HT Re-Live
-Luke Fotboll - Foton IK	1 - 3	HT Re-Live
-Barbas Barbarer FC - Western Warriors	6 - 1	HT Re-Live
-Morgoths horder - Hoseanna	3 - 1	HT Re-Live
-Omgång 5
-2003-05-04 (5/19)			
-Hoseanna - Quatro Staggione AC	5 - 1	HT Re-Live
-Western Warriors - Morgoths horder	0 - 2	HT Re-Live
-Foton IK - Barbas Barbarer FC	3 - 2	HT Re-Live
-Källstorps FF - Luke Fotboll	5 - 2	HT Re-Live
-Omgång 6
-2003-05-11 (6/19)			
-Quatro Staggione AC - Luke Fotboll	2 - 0	HT Re-Live
-Hoseanna - Western Warriors	6 - 1	HT Re-Live
-Barbas Barbarer FC - Källstorps FF	3 - 0	HT Re-Live
-Morgoths horder - Foton IK	0 - 2	HT Re-Live
-Omgång 7
-2003-05-18 (7/19)			
-Western Warriors - Quatro Staggione AC	1 - 0	HT Re-Live
-Foton IK - Hoseanna	1 - 1	HT Re-Live
-Luke Fotboll - Barbas Barbarer FC	2 - 3	HT Re-Live
-Källstorps FF - Morgoths horder	0 - 2	HT Re-Live
-Omgång 8
-2003-05-25 (8/19)			
-Morgoths horder - Källstorps FF	4 - 1	HT Re-Live
-Barbas Barbarer FC - Luke Fotboll	4 - 0	HT Re-Live
-Hoseanna - Foton IK	1 - 1	HT Re-Live
-Quatro Staggione AC - Western Warriors	6 - 0	HT Re-Live
-Omgång 9
-2003-06-01 (9/19)			
-Foton IK - Morgoths horder	1 - 1	HT Re-Live
-Källstorps FF - Barbas Barbarer FC	0 - 3	HT Re-Live
-Western Warriors - Hoseanna	1 - 1	HT Re-Live
-Luke Fotboll - Quatro Staggione AC	2 - 1	HT Re-Live
-Omgång 10
-2003-06-08 (10/19)			
-Luke Fotboll - Källstorps FF	2 - 1	HT Re-Live
-Barbas Barbarer FC - Foton IK	1 - 2	HT Re-Live
-Morgoths horder - Western Warriors	2 - 1	HT Re-Live
-Quatro Staggione AC - Hoseanna	3 - 1	HT Re-Live
-Omgång 11
-2003-06-15 (11/19)			
-Hoseanna - Morgoths horder	2 - 2	HT Re-Live
-Western Warriors - Barbas Barbarer FC	4 - 0	HT Re-Live
-Foton IK - Luke Fotboll	2 - 1	HT Re-Live
-Källstorps FF - Quatro Staggione AC	0 - 2	HT Re-Live
-Omgång 12
-2003-06-22 (12/19)			
-Quatro Staggione AC - Morgoths horder	0 - 6	HT Re-Live
-Källstorps FF - Foton IK	1 - 3	HT Re-Live
-Luke Fotboll - Western Warriors	4 - 0	HT Re-Live
-Barbas Barbarer FC - Hoseanna	4 - 1	HT Re-Live
-Omgång 13
-2003-06-29 (13/19)			
-Western Warriors - Källstorps FF	2 - 4	HT Re-Live
-Morgoths horder - Barbas Barbarer FC	4 - 2	HT Re-Live
-Hoseanna - Luke Fotboll	2 - 2	HT Re-Live
-Quatro Staggione AC - Foton IK	1 - 1	HT Re-Live
-Omgång 14
-2003-07-06 (14/19)			
-Luke Fotboll - Morgoths horder	2 - 1	HT Re-Live
-Foton IK - Western Warriors	2 - 1	HT Re-Live
-Källstorps FF - Hoseanna	4 - 0	HT Re-Live
-Barbas Barbarer FC - Quatro Staggione AC	1 - 3	HT Re-Live
+week 1
+2003-04-06
+Quatro Staggione AC - Barbas Barbarer FC 5 - 0
+Hoseanna - KÃ¤llstorps FF 3 - 2
+Western Warriors - Foton IK 3 - 0
+Morgoths horder - Luke Fotboll 3 - 3
+week 2
+2003-04-13
+Foton IK - Quatro Staggione AC 0 - 2
+Luke Fotboll - Hoseanna 5 - 2
+Barbas Barbarer FC - Morgoths horder 0 - 1
+KÃ¤llstorps FF - Western Warriors 1 - 4
+week 3
+2003-04-20
+Hoseanna - Barbas Barbarer FC 2 - 0
+Western Warriors - Luke Fotboll 2 - 2
+Foton IK - KÃ¤llstorps FF 2 - 0
+Morgoths horder - Quatro Staggione AC 1 - 1
+week 4
+2003-04-27
+Quatro Staggione AC - KÃ¤llstorps FF 3 - 3
+Luke Fotboll - Foton IK 1 - 3
+Barbas Barbarer FC - Western Warriors 6 - 1
+Morgoths horder - Hoseanna 3 - 1
+week 5
+2003-05-04
+Hoseanna - Quatro Staggione AC 5 - 1
+Western Warriors - Morgoths horder 0 - 2
+Foton IK - Barbas Barbarer FC 3 - 2
+KÃ¤llstorps FF - Luke Fotboll 5 - 2
+week 6
+2003-05-11
+Quatro Staggione AC - Luke Fotboll 2 - 0
+Hoseanna - Western Warriors 6 - 1
+Barbas Barbarer FC - KÃ¤llstorps FF 3 - 0
+Morgoths horder - Foton IK 0 - 2
+week 7
+2003-05-18
+Western Warriors - Quatro Staggione AC 1 - 0
+Foton IK - Hoseanna 1 - 1
+Luke Fotboll - Barbas Barbarer FC 2 - 3
+KÃ¤llstorps FF - Morgoths horder 0 - 2
+week 8
+2003-05-25
+Morgoths horder - KÃ¤llstorps FF 4 - 1
+Barbas Barbarer FC - Luke Fotboll 4 - 0
+Hoseanna - Foton IK 1 - 1
+Quatro Staggione AC - Western Warriors 6 - 0
+week 9
+2003-06-01
+Foton IK - Morgoths horder 1 - 1
+KÃ¤llstorps FF - Barbas Barbarer FC 0 - 3
+Western Warriors - Hoseanna 1 - 1
+Luke Fotboll - Quatro Staggione AC 2 - 1
+week 10
+2003-06-08
+Luke Fotboll - KÃ¤llstorps FF 2 - 1
+Barbas Barbarer FC - Foton IK 1 - 2
+Morgoths horder - Western Warriors 2 - 1
+Quatro Staggione AC - Hoseanna 3 - 1
+week 11
+2003-06-15
+Hoseanna - Morgoths horder 2 - 2
+Western Warriors - Barbas Barbarer FC 4 - 0
+Foton IK - Luke Fotboll 2 - 1
+KÃ¤llstorps FF - Quatro Staggione AC 0 - 2
+week 12
+2003-06-22
+Quatro Staggione AC - Morgoths horder 0 - 6
+KÃ¤llstorps FF - Foton IK 1 - 3
+Luke Fotboll - Western Warriors 4 - 0
+Barbas Barbarer FC - Hoseanna 4 - 1
+week 13
+2003-06-29
+Western Warriors - KÃ¤llstorps FF 2 - 4
+Morgoths horder - Barbas Barbarer FC 4 - 2
+Hoseanna - Luke Fotboll 2 - 2
+Quatro Staggione AC - Foton IK 1 - 1
+week 14
+2003-07-06
+Luke Fotboll - Morgoths horder 2 - 1
+Foton IK - Western Warriors 2 - 1
+KÃ¤llstorps FF - Hoseanna 4 - 0
+Barbas Barbarer FC - Quatro Staggione AC 1 - 3

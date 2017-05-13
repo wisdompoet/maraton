@@ -1,0 +1,84 @@
+week 1
+2009-02-01
+FC Montesvano - Segmon BK 1 - 1
+Piteteam - FC Uberlirarna 11 - 0
+Mantorp Rangers - Bora BK 2 - 2
+SkalBolaget BK - FC Anfield 4 - 1
+week 2
+2009-02-08
+FC Anfield - Piteteam 4 - 4
+Segmon BK - SkalBolaget BK 3 - 4
+FC Uberlirarna - Mantorp Rangers 0 - 8
+Bora BK - FC Montesvano 0 - 1
+week 3
+2009-02-15
+Mantorp Rangers - FC Anfield 5 - 1
+Piteteam - Segmon BK 7 - 2
+SkalBolaget BK - FC Montesvano 2 - 0
+Bora BK - FC Uberlirarna 9 - 0
+week 4
+2009-02-22
+FC Montesvano - FC Uberlirarna 6 - 0
+FC Anfield - Bora BK 2 - 3
+Segmon BK - Mantorp Rangers 4 - 4
+SkalBolaget BK - Piteteam 5 - 1
+week 5
+2009-03-01
+Piteteam - FC Montesvano 2 - 0
+Mantorp Rangers - SkalBolaget BK 1 - 2
+Bora BK - Segmon BK 1 - 3
+FC Uberlirarna - FC Anfield 0 - 6
+week 6
+2009-03-08
+FC Montesvano - FC Anfield 2 - 2
+Piteteam - Mantorp Rangers 3 - 0
+Segmon BK - FC Uberlirarna 5 - 0
+SkalBolaget BK - Bora BK 4 - 2
+week 7
+2009-03-15
+Mantorp Rangers - FC Montesvano 0 - 0
+Bora BK - Piteteam 5 - 0
+FC Uberlirarna - SkalBolaget BK 1 - 7
+FC Anfield - Segmon BK 4 - 3
+week 8
+2009-03-22
+SkalBolaget BK - FC Uberlirarna 8 - 0
+Piteteam - Bora BK 2 - 1
+FC Montesvano - Mantorp Rangers 1 - 1
+Segmon BK - FC Anfield 6 - 1
+week 9
+2009-03-29
+Bora BK - SkalBolaget BK 0 - 2
+Mantorp Rangers - Piteteam 6 - 0
+FC Uberlirarna - Segmon BK 0 - 7
+FC Anfield - FC Montesvano 1 - 2
+week 10
+2009-04-05
+FC Anfield - FC Uberlirarna 10 - 0
+Segmon BK - Bora BK 4 - 4
+SkalBolaget BK - Mantorp Rangers 6 - 1
+FC Montesvano - Piteteam 1 - 2
+week 11
+2009-04-12
+Piteteam - SkalBolaget BK 3 - 4
+Mantorp Rangers - Segmon BK 4 - 1
+FC Uberlirarna - FC Montesvano 0 - 6
+Bora BK - FC Anfield 1 - 8
+week 12
+2009-04-19
+FC Anfield - Mantorp Rangers 2 - 3
+Segmon BK - Piteteam 3 - 1
+FC Montesvano - SkalBolaget BK 3 - 5
+FC Uberlirarna - Bora BK 0 - 8
+week 13
+2009-04-26
+Piteteam - FC Anfield 9 - 0
+Mantorp Rangers - FC Uberlirarna 8 - 0
+SkalBolaget BK - Segmon BK 4 - 3
+FC Montesvano - Bora BK 2 - 2
+week 14
+2009-05-03
+FC Anfield - SkalBolaget BK 3 - 0
+Bora BK - Mantorp Rangers 2 - 6
+FC Uberlirarna - Piteteam 0 - 7
+Segmon BK - FC Montesvano 2 - 2

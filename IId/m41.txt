@@ -1,0 +1,84 @@
+week 1
+2010-01-03
+FC Volrat - Helags FF 0 - 9
+Samuraj BK(r) - Sunnersta Cowboys 4 - 1
+Team Cecilia - IFK Pking 2 - 0
+Sleeping team - BK Torpet 1 - 1
+week 2
+2010-01-10
+IFK Pking - Samuraj BK(r) 2 - 0
+BK Torpet - FC Volrat 9 - 0
+Sunnersta Cowboys - Sleeping team 3 - 0
+Helags FF - Team Cecilia 3 - 3
+week 3
+2010-01-17
+Team Cecilia - FC Volrat 8 - 0
+BK Torpet - Sunnersta Cowboys 4 - 1
+Samuraj BK(r) - Helags FF 1 - 2
+Sleeping team - IFK Pking 0 - 7
+week 4
+2010-01-24
+Helags FF - Sleeping team 11 - 0
+IFK Pking - BK Torpet 2 - 0
+FC Volrat - Sunnersta Cowboys 0 - 7
+Team Cecilia - Samuraj BK(r) 1 - 1
+week 5
+2010-01-31
+Samuraj BK(r) - FC Volrat 6 - 0
+Sleeping team - Team Cecilia 0 - 10
+BK Torpet - Helags FF 2 - 2
+Sunnersta Cowboys - IFK Pking 2 - 0
+week 6
+2010-02-07
+FC Volrat - IFK Pking 0 - 6
+Team Cecilia - BK Torpet 1 - 0
+Samuraj BK(r) - Sleeping team 10 - 0
+Helags FF - Sunnersta Cowboys 2 - 0
+week 7
+2010-02-14
+Sleeping team - FC Volrat 1 - 6
+BK Torpet - Samuraj BK(r) 4 - 0
+IFK Pking - Helags FF 1 - 1
+Sunnersta Cowboys - Team Cecilia 3 - 0
+week 8
+2010-02-21
+Samuraj BK(r) - BK Torpet 1 - 1
+FC Volrat - Sleeping team 5 - 0
+Team Cecilia - Sunnersta Cowboys 2 - 0
+Helags FF - IFK Pking 1 - 0
+week 9
+2010-02-28
+BK Torpet - Team Cecilia 2 - 1
+Sunnersta Cowboys - Helags FF 5 - 6
+Sleeping team - Samuraj BK(r) 0 - 8
+IFK Pking - FC Volrat 7 - 0
+week 10
+2010-03-07
+IFK Pking - Sunnersta Cowboys 3 - 1
+Helags FF - BK Torpet 3 - 3
+FC Volrat - Samuraj BK(r) 1 - 4
+Team Cecilia - Sleeping team 8 - 0
+week 11
+2010-03-14
+BK Torpet - IFK Pking 2 - 0
+Sleeping team - Helags FF 0 - 8
+Samuraj BK(r) - Team Cecilia 2 - 2
+Sunnersta Cowboys - FC Volrat 6 - 0
+week 12
+2010-03-21
+Sunnersta Cowboys - BK Torpet 5 - 3
+Helags FF - Samuraj BK(r) 4 - 0
+IFK Pking - Sleeping team 7 - 0
+FC Volrat - Team Cecilia 0 - 7
+week 13
+2010-03-28
+Team Cecilia - Helags FF 4 - 3
+Samuraj BK(r) - IFK Pking 4 - 0
+FC Volrat - BK Torpet 0 - 6
+Sleeping team - Sunnersta Cowboys 0 - 9
+week 14
+2010-04-04
+IFK Pking - Team Cecilia 5 - 1
+BK Torpet - Sleeping team 8 - 0
+Sunnersta Cowboys - Samuraj BK(r) 3 - 1
+Helags FF - FC Volrat 7 - 0

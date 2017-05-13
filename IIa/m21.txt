@@ -1,84 +1,84 @@
-Omgång 1
-2003-11-16 (1/21) 			
-	Juveby IF - Hawkwing FF 	5 - 0 	HT Re-Live
-	Dynga Kryss - FC Flowsta 	2 - 2 	HT Re-Live
-	Krylbo United - Lundens BK 	2 - 0 	HT Re-Live
-	Busan Kimchikids - Uppsala Heights 	5 - 0 	HT Re-Live
-Omgång 2
-2003-11-23 (2/21) 			
-	Lundens BK - Juveby IF 	2 - 1 	HT Re-Live
-	Uppsala Heights - Dynga Kryss 	2 - 4 	HT Re-Live
-	Hawkwing FF - Busan Kimchikids 	6 - 1 	HT Re-Live
-	FC Flowsta - Krylbo United 	1 - 2 	HT Re-Live
-Omgång 3
-2003-11-30 (3/21) 			
-	Dynga Kryss - Hawkwing FF 	3 - 2 	HT Re-Live
-	Krylbo United - Uppsala Heights 	5 - 1 	HT Re-Live
-	Lundens BK - FC Flowsta 	2 - 1 	HT Re-Live
-	Busan Kimchikids - Juveby IF 	5 - 0 	HT Re-Live
-Omgång 4
-2003-12-07 (4/21) 			
-	Juveby IF - FC Flowsta 	0 - 5 	HT Re-Live
-	Uppsala Heights - Lundens BK 	1 - 2 	HT Re-Live
-	Hawkwing FF - Krylbo United 	3 - 3 	HT Re-Live
-	Busan Kimchikids - Dynga Kryss 	3 - 0 	HT Re-Live
-Omgång 5
-2003-12-14 (5/21) 			
-	Dynga Kryss - Juveby IF 	5 - 0 	HT Re-Live
-	Krylbo United - Busan Kimchikids 	4 - 2 	HT Re-Live
-	Lundens BK - Hawkwing FF 	4 - 2 	HT Re-Live
-	FC Flowsta - Uppsala Heights 	4 - 5 	HT Re-Live
-Omgång 6
-2003-12-21 (6/21) 			
-	Juveby IF - Uppsala Heights 	0 - 5 	HT Re-Live
-	Dynga Kryss - Krylbo United 	3 - 2 	HT Re-Live
-	Hawkwing FF - FC Flowsta 	4 - 2 	HT Re-Live
-	Busan Kimchikids - Lundens BK 	3 - 1 	HT Re-Live
-Omgång 7
-2003-12-28 (7/21) 			
-	Krylbo United - Juveby IF 	5 - 0 	HT Re-Live
-	Lundens BK - Dynga Kryss 	4 - 0 	HT Re-Live
-	Uppsala Heights - Hawkwing FF 	0 - 9 	HT Re-Live
-	FC Flowsta - Busan Kimchikids 	2 - 2 	HT Re-Live
-Omgång 8
-2004-01-04 (8/21) 			
-	Busan Kimchikids - FC Flowsta 	4 - 1 	HT Re-Live
-	Hawkwing FF - Uppsala Heights 	5 - 0 	HT Re-Live
-	Dynga Kryss - Lundens BK 	2 - 3 	HT Re-Live
-	Juveby IF - Krylbo United 	0 - 5 	HT Re-Live
-Omgång 9
-2004-01-11 (9/21) 			
-	Lundens BK - Busan Kimchikids 	1 - 0 	HT Re-Live
-	FC Flowsta - Hawkwing FF 	1 - 4 	HT Re-Live
-	Krylbo United - Dynga Kryss 	0 - 2 	HT Re-Live
-	Uppsala Heights - Juveby IF 	0 - 0 	HT Re-Live
-Omgång 10
-2004-01-18 (10/21) 			
-	Uppsala Heights - FC Flowsta 	0 - 5 	HT Re-Live
-	Hawkwing FF - Lundens BK 	4 - 1 	HT Re-Live
-	Busan Kimchikids - Krylbo United 	4 - 0 	HT Re-Live
-	Juveby IF - Dynga Kryss 	0 - 9 	HT Re-Live
-Omgång 11
-2004-01-25 (11/21) 			
-	Dynga Kryss - Busan Kimchikids 	1 - 2 	HT Re-Live
-	Krylbo United - Hawkwing FF 	3 - 3 	HT Re-Live
-	Lundens BK - Uppsala Heights 	5 - 0 	HT Re-Live
-	FC Flowsta - Juveby IF 	6 - 0 	HT Re-Live
-Omgång 12
-2004-02-01 (12/21) 			
-	Juveby IF - Busan Kimchikids 	0 - 1 	HT Re-Live
-	FC Flowsta - Lundens BK 	1 - 0 	HT Re-Live
-	Uppsala Heights - Krylbo United 	0 - 5 	HT Re-Live
-	Hawkwing FF - Dynga Kryss 	3 - 2 	HT Re-Live
-Omgång 13
-2004-02-08 (13/21) 			
-	Krylbo United - FC Flowsta 	1 - 0 	HT Re-Live
-	Busan Kimchikids - Hawkwing FF 	1 - 3 	HT Re-Live
-	Dynga Kryss - Uppsala Heights 	5 - 0 	HT Re-Live
-	Juveby IF - Lundens BK 	0 - 3 	HT Re-Live
-Omgång 14
-2004-02-15 (14/21) 			
-	Uppsala Heights - Busan Kimchikids 	0 - 5 	HT Re-Live
-	Lundens BK - Krylbo United 	5 - 1 	HT Re-Live
-	FC Flowsta - Dynga Kryss 	7 - 1 	HT Re-Live
-	Hawkwing FF - Juveby IF 	5 - 0 	HT Re-Live
+week 1
+2003-11-16
+Juveby IF - Hawkwing FF 5 - 0
+Dynga Kryss - FC Flowsta 2 - 2
+Krylbo United - Lundens BK 2 - 0
+Busan Kimchikids - Uppsala Heights 5 - 0
+week 2
+2003-11-23
+Lundens BK - Juveby IF 2 - 1
+Uppsala Heights - Dynga Kryss 2 - 4
+Hawkwing FF - Busan Kimchikids 6 - 1
+FC Flowsta - Krylbo United 1 - 2
+week 3
+2003-11-30
+Dynga Kryss - Hawkwing FF 3 - 2
+Krylbo United - Uppsala Heights 5 - 1
+Lundens BK - FC Flowsta 2 - 1
+Busan Kimchikids - Juveby IF 5 - 0
+week 4
+2003-12-07
+Juveby IF - FC Flowsta 0 - 5
+Uppsala Heights - Lundens BK 1 - 2
+Hawkwing FF - Krylbo United 3 - 3
+Busan Kimchikids - Dynga Kryss 3 - 0
+week 5
+2003-12-14
+Dynga Kryss - Juveby IF 5 - 0
+Krylbo United - Busan Kimchikids 4 - 2
+Lundens BK - Hawkwing FF 4 - 2
+FC Flowsta - Uppsala Heights 4 - 5
+week 6
+2003-12-21
+Juveby IF - Uppsala Heights 0 - 5
+Dynga Kryss - Krylbo United 3 - 2
+Hawkwing FF - FC Flowsta 4 - 2
+Busan Kimchikids - Lundens BK 3 - 1
+week 7
+2003-12-28
+Krylbo United - Juveby IF 5 - 0
+Lundens BK - Dynga Kryss 4 - 0
+Uppsala Heights - Hawkwing FF 0 - 9
+FC Flowsta - Busan Kimchikids 2 - 2
+week 8
+2004-01-04
+Busan Kimchikids - FC Flowsta 4 - 1
+Hawkwing FF - Uppsala Heights 5 - 0
+Dynga Kryss - Lundens BK 2 - 3
+Juveby IF - Krylbo United 0 - 5
+week 9
+2004-01-11
+Lundens BK - Busan Kimchikids 1 - 0
+FC Flowsta - Hawkwing FF 1 - 4
+Krylbo United - Dynga Kryss 0 - 2
+Uppsala Heights - Juveby IF 0 - 0
+week 10
+2004-01-18
+Uppsala Heights - FC Flowsta 0 - 5
+Hawkwing FF - Lundens BK 4 - 1
+Busan Kimchikids - Krylbo United 4 - 0
+Juveby IF - Dynga Kryss 0 - 9
+week 11
+2004-01-25
+Dynga Kryss - Busan Kimchikids 1 - 2
+Krylbo United - Hawkwing FF 3 - 3
+Lundens BK - Uppsala Heights 5 - 0
+FC Flowsta - Juveby IF 6 - 0
+week 12
+2004-02-01
+Juveby IF - Busan Kimchikids 0 - 1
+FC Flowsta - Lundens BK 1 - 0
+Uppsala Heights - Krylbo United 0 - 5
+Hawkwing FF - Dynga Kryss 3 - 2
+week 13
+2004-02-08
+Krylbo United - FC Flowsta 1 - 0
+Busan Kimchikids - Hawkwing FF 1 - 3
+Dynga Kryss - Uppsala Heights 5 - 0
+Juveby IF - Lundens BK 0 - 3
+week 14
+2004-02-15
+Uppsala Heights - Busan Kimchikids 0 - 5
+Lundens BK - Krylbo United 5 - 1
+FC Flowsta - Dynga Kryss 7 - 1
+Hawkwing FF - Juveby IF 5 - 0

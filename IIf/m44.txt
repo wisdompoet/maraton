@@ -1,84 +1,84 @@
-Omgång 1
-2010-12-05 (1/44)			
-Dicanio - BK Bredaberg	0 - 1	HT Re-Live
-AC Söder - IFK Godtemplarna	5 - 2	HT Re-Live
-jumbotronerna - BOTT FC	3 - 0	HT Re-Live
-IFK Magpies - Midas FC	3 - 1	HT Re-Live
-Omgång 2
-2010-12-12 (2/44)			
-BK Bredaberg - AC Söder	6 - 2	HT Re-Live
-IFK Godtemplarna - IFK Magpies	5 - 4	HT Re-Live
-BOTT FC - Dicanio	4 - 0	HT Re-Live
-Midas FC - jumbotronerna	2 - 3	HT Re-Live
-Omgång 3
-2010-12-19 (3/44)			
-AC Söder - Midas FC	7 - 1	HT Re-Live
-BK Bredaberg - IFK Godtemplarna	2 - 6	HT Re-Live
-Dicanio - jumbotronerna	1 - 1	HT Re-Live
-IFK Magpies - BOTT FC	5 - 0	HT Re-Live
-Omgång 4
-2010-12-26 (4/44)			
-BOTT FC - AC Söder	3 - 2	HT Re-Live
-IFK Godtemplarna - Dicanio	4 - 2	HT Re-Live
-jumbotronerna - IFK Magpies	2 - 1	HT Re-Live
-Midas FC - BK Bredaberg	4 - 2	HT Re-Live
-Omgång 5
-2011-01-02 (5/44)			
-BK Bredaberg - jumbotronerna	2 - 0	HT Re-Live
-Dicanio - Midas FC	0 - 3	HT Re-Live
-IFK Godtemplarna - BOTT FC	3 - 0	HT Re-Live
-AC Söder - IFK Magpies	2 - 0	HT Re-Live
-Omgång 6
-2011-01-09 (6/44)			
-IFK Magpies - Dicanio	6 - 0	HT Re-Live
-jumbotronerna - AC Söder	1 - 3	HT Re-Live
-BOTT FC - BK Bredaberg	9 - 3	HT Re-Live
-Midas FC - IFK Godtemplarna	0 - 6	HT Re-Live
-Omgång 7
-2011-01-16 (7/44)			
-AC Söder - Dicanio	4 - 0	HT Re-Live
-IFK Godtemplarna - jumbotronerna	5 - 2	HT Re-Live
-BK Bredaberg - IFK Magpies	4 - 5	HT Re-Live
-BOTT FC - Midas FC	5 - 1	HT Re-Live
-Omgång 8
-2011-01-23 (8/44)			
-jumbotronerna - IFK Godtemplarna	1 - 2	HT Re-Live
-IFK Magpies - BK Bredaberg	4 - 3	HT Re-Live
-Dicanio - AC Söder	0 - 6	HT Re-Live
-Midas FC - BOTT FC	2 - 2	HT Re-Live
-Omgång 9
-2011-01-30 (9/44)			
-IFK Godtemplarna - Midas FC	3 - 2	HT Re-Live
-BK Bredaberg - BOTT FC	2 - 0	HT Re-Live
-Dicanio - IFK Magpies	1 - 5	HT Re-Live
-AC Söder - jumbotronerna	4 - 1	HT Re-Live
-Omgång 10
-2011-02-06 (10/44)			
-jumbotronerna - BK Bredaberg	1 - 4	HT Re-Live
-BOTT FC - IFK Godtemplarna	2 - 4	HT Re-Live
-IFK Magpies - AC Söder	3 - 1	HT Re-Live
-Midas FC - Dicanio	2 - 4	HT Re-Live
-Omgång 11
-2011-02-13 (11/44)			
-Dicanio - IFK Godtemplarna	0 - 6	HT Re-Live
-AC Söder - BOTT FC	3 - 0	HT Re-Live
-BK Bredaberg - Midas FC	5 - 0	HT Re-Live
-IFK Magpies - jumbotronerna	5 - 2	HT Re-Live
-Omgång 12
-2011-02-20 (12/44)			
-jumbotronerna - Dicanio	3 - 2	HT Re-Live
-Midas FC - AC Söder	4 - 4	HT Re-Live
-BOTT FC - IFK Magpies	4 - 2	HT Re-Live
-IFK Godtemplarna - BK Bredaberg	5 - 1	HT Re-Live
-Omgång 13
-2011-02-27 (13/44)			
-jumbotronerna - Midas FC	3 - 2	HT Re-Live
-Dicanio - BOTT FC	1 - 1	HT Re-Live
-IFK Magpies - IFK Godtemplarna	2 - 0	HT Re-Live
-AC Söder - BK Bredaberg	6 - 1	HT Re-Live
-Omgång 14
-2011-03-06 (14/44)			
-Midas FC - IFK Magpies	1 - 5	HT Re-Live
-IFK Godtemplarna - AC Söder	4 - 1	HT Re-Live
-BK Bredaberg - Dicanio	4 - 1	HT Re-Live
-BOTT FC - jumbotronerna	7 - 0	HT Re-Live
+week 1
+2010-12-05
+Dicanio - BK Bredaberg 0 - 1
+AC SÃ¶der - IFK Godtemplarna 5 - 2
+jumbotronerna - BOTT FC 3 - 0
+IFK Magpies - Midas FC 3 - 1
+week 2
+2010-12-12
+BK Bredaberg - AC SÃ¶der 6 - 2
+IFK Godtemplarna - IFK Magpies 5 - 4
+BOTT FC - Dicanio 4 - 0
+Midas FC - jumbotronerna 2 - 3
+week 3
+2010-12-19
+AC SÃ¶der - Midas FC 7 - 1
+BK Bredaberg - IFK Godtemplarna 2 - 6
+Dicanio - jumbotronerna 1 - 1
+IFK Magpies - BOTT FC 5 - 0
+week 4
+2010-12-26
+BOTT FC - AC SÃ¶der 3 - 2
+IFK Godtemplarna - Dicanio 4 - 2
+jumbotronerna - IFK Magpies 2 - 1
+Midas FC - BK Bredaberg 4 - 2
+week 5
+2011-01-02
+BK Bredaberg - jumbotronerna 2 - 0
+Dicanio - Midas FC 0 - 3
+IFK Godtemplarna - BOTT FC 3 - 0
+AC SÃ¶der - IFK Magpies 2 - 0
+week 6
+2011-01-09
+IFK Magpies - Dicanio 6 - 0
+jumbotronerna - AC SÃ¶der 1 - 3
+BOTT FC - BK Bredaberg 9 - 3
+Midas FC - IFK Godtemplarna 0 - 6
+week 7
+2011-01-16
+AC SÃ¶der - Dicanio 4 - 0
+IFK Godtemplarna - jumbotronerna 5 - 2
+BK Bredaberg - IFK Magpies 4 - 5
+BOTT FC - Midas FC 5 - 1
+week 8
+2011-01-23
+jumbotronerna - IFK Godtemplarna 1 - 2
+IFK Magpies - BK Bredaberg 4 - 3
+Dicanio - AC SÃ¶der 0 - 6
+Midas FC - BOTT FC 2 - 2
+week 9
+2011-01-30
+IFK Godtemplarna - Midas FC 3 - 2
+BK Bredaberg - BOTT FC 2 - 0
+Dicanio - IFK Magpies 1 - 5
+AC SÃ¶der - jumbotronerna 4 - 1
+week 10
+2011-02-06
+jumbotronerna - BK Bredaberg 1 - 4
+BOTT FC - IFK Godtemplarna 2 - 4
+IFK Magpies - AC SÃ¶der 3 - 1
+Midas FC - Dicanio 2 - 4
+week 11
+2011-02-13
+Dicanio - IFK Godtemplarna 0 - 6
+AC SÃ¶der - BOTT FC 3 - 0
+BK Bredaberg - Midas FC 5 - 0
+IFK Magpies - jumbotronerna 5 - 2
+week 12
+2011-02-20
+jumbotronerna - Dicanio 3 - 2
+Midas FC - AC SÃ¶der 4 - 4
+BOTT FC - IFK Magpies 4 - 2
+IFK Godtemplarna - BK Bredaberg 5 - 1
+week 13
+2011-02-27
+jumbotronerna - Midas FC 3 - 2
+Dicanio - BOTT FC 1 - 1
+IFK Magpies - IFK Godtemplarna 2 - 0
+AC SÃ¶der - BK Bredaberg 6 - 1
+week 14
+2011-03-06
+Midas FC - IFK Magpies 1 - 5
+IFK Godtemplarna - AC SÃ¶der 4 - 1
+BK Bredaberg - Dicanio 4 - 1
+BOTT FC - jumbotronerna 7 - 0

@@ -1,0 +1,84 @@
+week 1
+2011-03-27
+BK Wolfram - FC Mackan 1 - 0
+Rednaxela - Tingvalla BK 4 - 3
+Beutlins - Södermalm City 3 - 1
+Valencia BoIF - Kistbärarna 2 - 0
+week 2
+2011-04-03
+Södermalm City - BK Wolfram 1 - 0
+FC Mackan - Valencia BoIF 2 - 2
+Tingvalla BK - Beutlins 3 - 3
+Kistbärarna - Rednaxela 1 - 2
+week 3
+2011-04-10
+Valencia BoIF - Tingvalla BK 2 - 0
+Beutlins - Rednaxela 2 - 2
+BK Wolfram - Kistbärarna 0 - 1
+Södermalm City - FC Mackan 3 - 4
+week 4
+2011-04-17
+FC Mackan - Beutlins 3 - 0
+Rednaxela - Valencia BoIF 3 - 1
+Kistbärarna - Södermalm City 2 - 4
+Tingvalla BK - BK Wolfram 0 - 1
+week 5
+2011-04-24
+FC Mackan - Tingvalla BK 6 - 2
+BK Wolfram - Valencia BoIF 1 - 0
+Södermalm City - Rednaxela 3 - 2
+Beutlins - Kistbärarna 1 - 2
+week 6
+2011-05-01
+Rednaxela - BK Wolfram 0 - 0
+Valencia BoIF - Beutlins 1 - 0
+Tingvalla BK - Södermalm City 3 - 2
+Kistbärarna - FC Mackan 0 - 2
+week 7
+2011-05-08
+FC Mackan - Rednaxela 4 - 1
+Södermalm City - Valencia BoIF 3 - 2
+BK Wolfram - Beutlins 1 - 2
+Tingvalla BK - Kistbärarna 1 - 2
+week 8
+2011-05-15
+Kistbärarna - Tingvalla BK 2 - 2
+Rednaxela - FC Mackan 2 - 2
+Valencia BoIF - Södermalm City 0 - 1
+Beutlins - BK Wolfram 1 - 2
+week 9
+2011-05-22
+Beutlins - Valencia BoIF 0 - 0
+Södermalm City - Tingvalla BK 6 - 0
+BK Wolfram - Rednaxela 3 - 0
+FC Mackan - Kistbärarna 2 - 1
+week 10
+2011-05-29
+Tingvalla BK - FC Mackan 1 - 4
+Kistbärarna - Beutlins 1 - 2
+Rednaxela - Södermalm City 2 - 4
+Valencia BoIF - BK Wolfram 2 - 1
+week 11
+2011-06-05
+Södermalm City - Kistbärarna 5 - 0
+Valencia BoIF - Rednaxela 2 - 1
+BK Wolfram - Tingvalla BK 4 - 1
+Beutlins - FC Mackan 0 - 3
+week 12
+2011-06-12
+Tingvalla BK - Valencia BoIF 1 - 3
+Kistbärarna - BK Wolfram 2 - 0
+Rednaxela - Beutlins 0 - 3
+FC Mackan - Södermalm City 4 - 3
+week 13
+2011-06-19
+Rednaxela - Kistbärarna 3 - 2
+Beutlins - Tingvalla BK 3 - 1
+Valencia BoIF - FC Mackan 0 - 0
+BK Wolfram - Södermalm City 1 - 1
+week 14
+2011-06-26
+Tingvalla BK - Rednaxela 0 - 3
+FC Mackan - BK Wolfram 1 - 0
+Södermalm City - Beutlins 3 - 2
+Kistbärarna - Valencia BoIF 0 - 2

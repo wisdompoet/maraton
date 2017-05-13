@@ -1,0 +1,84 @@
+week 1
+2000-10-22
+Ormestorp - FC Strong Bears 0 - 0
+Kistbärarna - Marvel City 2 - 2
+Mercenaries - Karlskoga SK 4 - 1
+Surte Earthquakes - FC Bjeagle 1 - 1
+week 2
+2000-10-29
+Karlskoga SK - Ormestorp 0 - 2
+FC Bjeagle - Kistbärarna 0 - 0
+FC Strong Bears - Surte Earthquakes 2 - 1
+Marvel City - Mercenaries 4 - 2
+week 3
+2000-11-05
+Kistbärarna - FC Strong Bears 3 - 0
+Mercenaries - FC Bjeagle 4 - 1
+Karlskoga SK - Marvel City 0 - 3
+Surte Earthquakes - Ormestorp 1 - 2
+week 4
+2000-11-12
+Ormestorp - Marvel City 3 - 1
+FC Bjeagle - Karlskoga SK 1 - 1
+FC Strong Bears - Mercenaries 1 - 4
+Surte Earthquakes - Kistbärarna 0 - 3
+week 5
+2000-11-19
+Kistbärarna - Ormestorp 2 - 0
+Mercenaries - Surte Earthquakes 2 - 0
+Karlskoga SK - FC Strong Bears 0 - 5
+Marvel City - FC Bjeagle 1 - 1
+week 6
+2000-11-26
+Ormestorp - FC Bjeagle 1 - 0
+Kistbärarna - Mercenaries 2 - 2
+FC Strong Bears - Marvel City 3 - 0
+Surte Earthquakes - Karlskoga SK 2 - 3
+week 7
+2000-12-03
+Mercenaries - Ormestorp 1 - 2
+Karlskoga SK - Kistbärarna 0 - 4
+FC Bjeagle - FC Strong Bears 1 - 2
+Marvel City - Surte Earthquakes 3 - 0
+week 8
+2000-12-10
+Surte Earthquakes - Marvel City 0 - 3
+FC Strong Bears - FC Bjeagle 2 - 0
+Kistbärarna - Karlskoga SK 5 - 0
+Ormestorp - Mercenaries 1 - 3
+week 9
+2000-12-17
+Karlskoga SK - Surte Earthquakes 2 - 1
+Marvel City - FC Strong Bears 2 - 0
+Mercenaries - Kistbärarna 5 - 0
+FC Bjeagle - Ormestorp 1 - 4
+week 10
+2000-12-24
+FC Bjeagle - Marvel City 0 - 1
+FC Strong Bears - Karlskoga SK 4 - 0
+Surte Earthquakes - Mercenaries 0 - 3
+Ormestorp - Kistbärarna 1 - 3
+week 11
+2000-12-31
+Kistbärarna - Surte Earthquakes 2 - 0
+Mercenaries - FC Strong Bears 4 - 1
+Karlskoga SK - FC Bjeagle 0 - 2
+Marvel City - Ormestorp 2 - 1
+week 12
+2001-01-07
+Ormestorp - Surte Earthquakes 4 - 0
+Marvel City - Karlskoga SK 3 - 0
+FC Bjeagle - Mercenaries 1 - 3
+FC Strong Bears - Kistbärarna 5 - 0
+week 13
+2001-01-14
+Mercenaries - Marvel City 0 - 4
+Surte Earthquakes - FC Strong Bears 0 - 0
+Kistbärarna - FC Bjeagle 3 - 1
+Ormestorp - Karlskoga SK 4 - 0
+week 14
+2001-01-21
+FC Bjeagle - Surte Earthquakes 1 - 0
+Karlskoga SK - Mercenaries 2 - 3
+Marvel City - Kistbärarna 2 - 3
+FC Strong Bears - Ormestorp 2 - 0

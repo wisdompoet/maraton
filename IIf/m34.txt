@@ -1,84 +1,84 @@
-Omgång 1
-2007-11-11 (1/34)			
-FC Corvus Corax - FC Anfield	7 - 1	HT Re-Live
-ChapmanS BK - BusbyBabes	1 - 0	HT Re-Live
-A.I.F. - Lee Lakers	1 - 3	HT Re-Live
-Burners FBC - Flamman IF	1 - 2	HT Re-Live
-Omgång 2
-2007-11-18 (2/34)			
-FC Anfield - A.I.F.	3 - 3	HT Re-Live
-Flamman IF - ChapmanS BK	3 - 2	HT Re-Live
-Lee Lakers - Burners FBC	0 - 6	HT Re-Live
-BusbyBabes - FC Corvus Corax	3 - 0	HT Re-Live
-Omgång 3
-2007-11-25 (3/34)			
-FC Corvus Corax - Flamman IF	1 - 2	HT Re-Live
-Lee Lakers - FC Anfield	0 - 7	HT Re-Live
-ChapmanS BK - Burners FBC	3 - 5	HT Re-Live
-A.I.F. - BusbyBabes	3 - 1	HT Re-Live
-Omgång 4
-2007-12-02 (4/34)			
-ChapmanS BK - FC Corvus Corax	4 - 2	HT Re-Live
-Burners FBC - FC Anfield	2 - 0	HT Re-Live
-Flamman IF - A.I.F.	2 - 1	HT Re-Live
-BusbyBabes - Lee Lakers	9 - 0	HT Re-Live
-Omgång 5
-2007-12-09 (5/34)			
-Lee Lakers - Flamman IF	0 - 7	HT Re-Live
-FC Anfield - BusbyBabes	1 - 4	HT Re-Live
-FC Corvus Corax - Burners FBC	4 - 1	HT Re-Live
-A.I.F. - ChapmanS BK	1 - 5	HT Re-Live
-Omgång 6
-2007-12-16 (6/34)			
-Burners FBC - BusbyBabes	4 - 2	HT Re-Live
-FC Corvus Corax - A.I.F.	3 - 0	HT Re-Live
-Flamman IF - FC Anfield	5 - 1	HT Re-Live
-ChapmanS BK - Lee Lakers	5 - 1	HT Re-Live
-Omgång 7
-2007-12-23 (7/34)			
-A.I.F. - Burners FBC	6 - 0	HT Re-Live
-Lee Lakers - FC Corvus Corax	1 - 7	HT Re-Live
-FC Anfield - ChapmanS BK	1 - 2	HT Re-Live
-BusbyBabes - Flamman IF	0 - 0	HT Re-Live
-Omgång 8
-2007-12-30 (8/34)			
-Flamman IF - BusbyBabes	1 - 2	HT Re-Live
-ChapmanS BK - FC Anfield	8 - 1	HT Re-Live
-FC Corvus Corax - Lee Lakers	7 - 0	HT Re-Live
-Burners FBC - A.I.F.	3 - 0	HT Re-Live
-Omgång 9
-2008-01-06 (9/34)			
-Lee Lakers - ChapmanS BK	2 - 7	HT Re-Live
-FC Anfield - Flamman IF	0 - 8	HT Re-Live
-A.I.F. - FC Corvus Corax	3 - 1	HT Re-Live
-BusbyBabes - Burners FBC	3 - 0	HT Re-Live
-Omgång 10
-2008-01-13 (10/34)			
-BusbyBabes - FC Anfield	7 - 0	HT Re-Live
-Burners FBC - FC Corvus Corax	3 - 0	HT Re-Live
-ChapmanS BK - A.I.F.	4 - 3	HT Re-Live
-Flamman IF - Lee Lakers	7 - 0	HT Re-Live
-Omgång 11
-2008-01-20 (11/34)			
-A.I.F. - Flamman IF	3 - 2	HT Re-Live
-Lee Lakers - BusbyBabes	1 - 10	HT Re-Live
-FC Anfield - Burners FBC	2 - 2	HT Re-Live
-FC Corvus Corax - ChapmanS BK	3 - 2	HT Re-Live
-Omgång 12
-2008-01-27 (12/34)			
-FC Anfield - Lee Lakers	3 - 0	HT Re-Live
-Burners FBC - ChapmanS BK	3 - 3	HT Re-Live
-Flamman IF - FC Corvus Corax	1 - 0	HT Re-Live
-BusbyBabes - A.I.F.	3 - 1	HT Re-Live
-Omgång 13
-2008-02-03 (13/34)			
-A.I.F. - FC Anfield	4 - 2	HT Re-Live
-ChapmanS BK - Flamman IF	2 - 2	HT Re-Live
-FC Corvus Corax - BusbyBabes	0 - 2	HT Re-Live
-Burners FBC - Lee Lakers	8 - 0	HT Re-Live
-Omgång 14
-2008-02-10 (14/34)			
-BusbyBabes - ChapmanS BK	4 - 0	HT Re-Live
-Lee Lakers - A.I.F.	0 - 10	HT Re-Live
-FC Anfield - FC Corvus Corax	2 - 4	HT Re-Live
-Flamman IF - Burners FBC	1 - 0	HT Re-Live
+week 1
+2007-11-11
+FC Corvus Corax - FC Anfield 7 - 1
+ChapmanS BK - BusbyBabes 1 - 0
+A.I.F. - Lee Lakers 1 - 3
+Burners FBC - Flamman IF 1 - 2
+week 2
+2007-11-18
+FC Anfield - A.I.F. 3 - 3
+Flamman IF - ChapmanS BK 3 - 2
+Lee Lakers - Burners FBC 0 - 6
+BusbyBabes - FC Corvus Corax 3 - 0
+week 3
+2007-11-25
+FC Corvus Corax - Flamman IF 1 - 2
+Lee Lakers - FC Anfield 0 - 7
+ChapmanS BK - Burners FBC 3 - 5
+A.I.F. - BusbyBabes 3 - 1
+week 4
+2007-12-02
+ChapmanS BK - FC Corvus Corax 4 - 2
+Burners FBC - FC Anfield 2 - 0
+Flamman IF - A.I.F. 2 - 1
+BusbyBabes - Lee Lakers 9 - 0
+week 5
+2007-12-09
+Lee Lakers - Flamman IF 0 - 7
+FC Anfield - BusbyBabes 1 - 4
+FC Corvus Corax - Burners FBC 4 - 1
+A.I.F. - ChapmanS BK 1 - 5
+week 6
+2007-12-16
+Burners FBC - BusbyBabes 4 - 2
+FC Corvus Corax - A.I.F. 3 - 0
+Flamman IF - FC Anfield 5 - 1
+ChapmanS BK - Lee Lakers 5 - 1
+week 7
+2007-12-23
+A.I.F. - Burners FBC 6 - 0
+Lee Lakers - FC Corvus Corax 1 - 7
+FC Anfield - ChapmanS BK 1 - 2
+BusbyBabes - Flamman IF 0 - 0
+week 8
+2007-12-30
+Flamman IF - BusbyBabes 1 - 2
+ChapmanS BK - FC Anfield 8 - 1
+FC Corvus Corax - Lee Lakers 7 - 0
+Burners FBC - A.I.F. 3 - 0
+week 9
+2008-01-06
+Lee Lakers - ChapmanS BK 2 - 7
+FC Anfield - Flamman IF 0 - 8
+A.I.F. - FC Corvus Corax 3 - 1
+BusbyBabes - Burners FBC 3 - 0
+week 10
+2008-01-13
+BusbyBabes - FC Anfield 7 - 0
+Burners FBC - FC Corvus Corax 3 - 0
+ChapmanS BK - A.I.F. 4 - 3
+Flamman IF - Lee Lakers 7 - 0
+week 11
+2008-01-20
+A.I.F. - Flamman IF 3 - 2
+Lee Lakers - BusbyBabes 1 - 10
+FC Anfield - Burners FBC 2 - 2
+FC Corvus Corax - ChapmanS BK 3 - 2
+week 12
+2008-01-27
+FC Anfield - Lee Lakers 3 - 0
+Burners FBC - ChapmanS BK 3 - 3
+Flamman IF - FC Corvus Corax 1 - 0
+BusbyBabes - A.I.F. 3 - 1
+week 13
+2008-02-03
+A.I.F. - FC Anfield 4 - 2
+ChapmanS BK - Flamman IF 2 - 2
+FC Corvus Corax - BusbyBabes 0 - 2
+Burners FBC - Lee Lakers 8 - 0
+week 14
+2008-02-10
+BusbyBabes - ChapmanS BK 4 - 0
+Lee Lakers - A.I.F. 0 - 10
+FC Anfield - FC Corvus Corax 2 - 4
+Flamman IF - Burners FBC 1 - 0

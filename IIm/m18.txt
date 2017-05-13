@@ -1,0 +1,84 @@
+week 1
+2002-12-15
+Menlösa IF - Ambient Underground 1 - 3
+Bollelvan - Gothenburg 2 - 0
+Kungsbackas Kor - Vinterviken FC 0 - 5
+Tre Pleonasmer - Tyringe Kickers 3 - 0
+week 2
+2002-12-22
+Vinterviken FC - Menlösa IF 4 - 0
+Tyringe Kickers - Bollelvan 3 - 1
+Ambient Underground - Tre Pleonasmer 7 - 0
+Gothenburg - Kungsbackas Kor 1 - 1
+week 3
+2002-12-29
+Bollelvan - Ambient Underground 2 - 0
+Kungsbackas Kor - Tyringe Kickers 2 - 2
+Vinterviken FC - Gothenburg 2 - 0
+Tre Pleonasmer - Menlösa IF 3 - 1
+week 4
+2003-01-05
+Menlösa IF - Gothenburg 1 - 0
+Tyringe Kickers - Vinterviken FC 1 - 1
+Ambient Underground - Kungsbackas Kor 2 - 0
+Tre Pleonasmer - Bollelvan 5 - 2
+week 5
+2003-01-12
+Bollelvan - Menlösa IF 1 - 1
+Kungsbackas Kor - Tre Pleonasmer 0 - 3
+Vinterviken FC - Ambient Underground 0 - 4
+Gothenburg - Tyringe Kickers 0 - 1
+week 6
+2003-01-19
+Menlösa IF - Tyringe Kickers 0 - 0
+Bollelvan - Kungsbackas Kor 1 - 1
+Ambient Underground - Gothenburg 3 - 1
+Tre Pleonasmer - Vinterviken FC 2 - 0
+week 7
+2003-01-26
+Kungsbackas Kor - Menlösa IF 0 - 1
+Vinterviken FC - Bollelvan 1 - 4
+Tyringe Kickers - Ambient Underground 0 - 6
+Gothenburg - Tre Pleonasmer 1 - 5
+week 8
+2003-02-02
+Tre Pleonasmer - Gothenburg 2 - 0
+Ambient Underground - Tyringe Kickers 3 - 1
+Bollelvan - Vinterviken FC 2 - 1
+Menlösa IF - Kungsbackas Kor 5 - 0
+week 9
+2003-02-09
+Vinterviken FC - Tre Pleonasmer 1 - 0
+Gothenburg - Ambient Underground 3 - 4
+Kungsbackas Kor - Bollelvan 0 - 2
+Tyringe Kickers - Menlösa IF 1 - 0
+week 10
+2003-02-16
+Tyringe Kickers - Gothenburg 1 - 1
+Ambient Underground - Vinterviken FC 2 - 2
+Tre Pleonasmer - Kungsbackas Kor 1 - 0
+Menlösa IF - Bollelvan 3 - 0
+week 11
+2003-02-23
+Bollelvan - Tre Pleonasmer 2 - 1
+Kungsbackas Kor - Ambient Underground 4 - 3
+Vinterviken FC - Tyringe Kickers 1 - 0
+Gothenburg - Menlösa IF 1 - 3
+week 12
+2003-03-02
+Menlösa IF - Tre Pleonasmer 3 - 2
+Gothenburg - Vinterviken FC 2 - 3
+Tyringe Kickers - Kungsbackas Kor 1 - 0
+Ambient Underground - Bollelvan 5 - 1
+week 13
+2003-03-09
+Kungsbackas Kor - Gothenburg 1 - 1
+Tre Pleonasmer - Ambient Underground 4 - 2
+Bollelvan - Tyringe Kickers 4 - 0
+Menlösa IF - Vinterviken FC 2 - 1
+week 14
+2003-03-16
+Tyringe Kickers - Tre Pleonasmer 1 - 1
+Vinterviken FC - Kungsbackas Kor 3 - 0
+Gothenburg - Bollelvan 4 - 3
+Ambient Underground - Menlösa IF 2 - 3

@@ -1,84 +1,84 @@
-Omgång 1
-2009-05-24 (1/39)			
-Ambient Underground - Labrax lupus	2 - 4	HT Re-Live
-A.I.F. - Sluga BK	3 - 6	HT Re-Live
-Bjarke BoIS - Coconut Crusaders	0 - 1	HT Re-Live
-BOTT FC - Tjecko-85	3 - 3	HT Re-Live
-Omgång 2
-2009-05-31 (2/39)			
-Coconut Crusaders - Ambient Underground	2 - 1	HT Re-Live
-Tjecko-85 - A.I.F.	3 - 1	HT Re-Live
-Sluga BK - Bjarke BoIS	2 - 3	HT Re-Live
-Labrax lupus - BOTT FC	4 - 0	HT Re-Live
-Omgång 3
-2009-06-07 (3/39)			
-BOTT FC - Ambient Underground	4 - 2	HT Re-Live
-Bjarke BoIS - Tjecko-85	2 - 1	HT Re-Live
-A.I.F. - Labrax lupus	4 - 0	HT Re-Live
-Coconut Crusaders - Sluga BK	2 - 1	HT Re-Live
-Omgång 4
-2009-06-14 (4/39)			
-Tjecko-85 - Coconut Crusaders	0 - 1	HT Re-Live
-Ambient Underground - Sluga BK	4 - 1	HT Re-Live
-Labrax lupus - Bjarke BoIS	1 - 5	HT Re-Live
-BOTT FC - A.I.F.	5 - 3	HT Re-Live
-Omgång 5
-2009-06-21 (5/39)			
-Bjarke BoIS - BOTT FC	2 - 0	HT Re-Live
-Coconut Crusaders - Labrax lupus	0 - 0	HT Re-Live
-A.I.F. - Ambient Underground	0 - 8	HT Re-Live
-Sluga BK - Tjecko-85	1 - 3	HT Re-Live
-Omgång 6
-2009-06-28 (6/39)			
-A.I.F. - Bjarke BoIS	0 - 6	HT Re-Live
-BOTT FC - Coconut Crusaders	2 - 0	HT Re-Live
-Labrax lupus - Sluga BK	5 - 2	HT Re-Live
-Ambient Underground - Tjecko-85	4 - 1	HT Re-Live
-Omgång 7
-2009-07-05 (7/39)			
-Tjecko-85 - Labrax lupus	3 - 3	HT Re-Live
-Sluga BK - BOTT FC	4 - 2	HT Re-Live
-Bjarke BoIS - Ambient Underground	2 - 5	HT Re-Live
-Coconut Crusaders - A.I.F.	8 - 0	HT Re-Live
-Omgång 8
-2009-07-12 (8/39)			
-BOTT FC - Sluga BK	4 - 4	HT Re-Live
-Ambient Underground - Bjarke BoIS	3 - 1	HT Re-Live
-A.I.F. - Coconut Crusaders	0 - 4	HT Re-Live
-Labrax lupus - Tjecko-85	2 - 3	HT Re-Live
-Omgång 9
-2009-07-19 (9/39)			
-Sluga BK - Labrax lupus	4 - 1	HT Re-Live
-Coconut Crusaders - BOTT FC	1 - 2	HT Re-Live
-Bjarke BoIS - A.I.F.	8 - 0	HT Re-Live
-Tjecko-85 - Ambient Underground	1 - 0	HT Re-Live
-Omgång 10
-2009-07-26 (10/39)			
-Tjecko-85 - Sluga BK	5 - 3	HT Re-Live
-Labrax lupus - Coconut Crusaders	2 - 1	HT Re-Live
-BOTT FC - Bjarke BoIS	2 - 4	HT Re-Live
-Ambient Underground - A.I.F.	7 - 0	HT Re-Live
-Omgång 11
-2009-08-02 (11/39)			
-Bjarke BoIS - Labrax lupus	8 - 0	HT Re-Live
-Coconut Crusaders - Tjecko-85	2 - 0	HT Re-Live
-Sluga BK - Ambient Underground	0 - 5	HT Re-Live
-A.I.F. - BOTT FC	0 - 4	HT Re-Live
-Omgång 12
-2009-08-09 (12/39)			
-Sluga BK - Coconut Crusaders	1 - 1	HT Re-Live
-Labrax lupus - A.I.F.	8 - 0	HT Re-Live
-Tjecko-85 - Bjarke BoIS	3 - 2	HT Re-Live
-Ambient Underground - BOTT FC	3 - 1	HT Re-Live
-Omgång 13
-2009-08-16 (13/39)			
-Ambient Underground - Coconut Crusaders	2 - 3	HT Re-Live
-Bjarke BoIS - Sluga BK	2 - 2	HT Re-Live
-BOTT FC - Labrax lupus	5 - 2	HT Re-Live
-A.I.F. - Tjecko-85	0 - 11	HT Re-Live
-Omgång 14
-2009-08-23 (14/39)			
-Tjecko-85 - BOTT FC	4 - 0	HT Re-Live
-Coconut Crusaders - Bjarke BoIS	2 - 1	HT Re-Live
-Sluga BK - A.I.F.	8 - 0	HT Re-Live
-Labrax lupus - Ambient Underground	0 - 6	HT Re-Live
+week 1
+2009-05-24
+Ambient Underground - Labrax lupus 2 - 4
+A.I.F. - Sluga BK 3 - 6
+Bjarke BoIS - Coconut Crusaders 0 - 1
+BOTT FC - Tjecko-85 3 - 3
+week 2
+2009-05-31
+Coconut Crusaders - Ambient Underground 2 - 1
+Tjecko-85 - A.I.F. 3 - 1
+Sluga BK - Bjarke BoIS 2 - 3
+Labrax lupus - BOTT FC 4 - 0
+week 3
+2009-06-07
+BOTT FC - Ambient Underground 4 - 2
+Bjarke BoIS - Tjecko-85 2 - 1
+A.I.F. - Labrax lupus 4 - 0
+Coconut Crusaders - Sluga BK 2 - 1
+week 4
+2009-06-14
+Tjecko-85 - Coconut Crusaders 0 - 1
+Ambient Underground - Sluga BK 4 - 1
+Labrax lupus - Bjarke BoIS 1 - 5
+BOTT FC - A.I.F. 5 - 3
+week 5
+2009-06-21
+Bjarke BoIS - BOTT FC 2 - 0
+Coconut Crusaders - Labrax lupus 0 - 0
+A.I.F. - Ambient Underground 0 - 8
+Sluga BK - Tjecko-85 1 - 3
+week 6
+2009-06-28
+A.I.F. - Bjarke BoIS 0 - 6
+BOTT FC - Coconut Crusaders 2 - 0
+Labrax lupus - Sluga BK 5 - 2
+Ambient Underground - Tjecko-85 4 - 1
+week 7
+2009-07-05
+Tjecko-85 - Labrax lupus 3 - 3
+Sluga BK - BOTT FC 4 - 2
+Bjarke BoIS - Ambient Underground 2 - 5
+Coconut Crusaders - A.I.F. 8 - 0
+week 8
+2009-07-12
+BOTT FC - Sluga BK 4 - 4
+Ambient Underground - Bjarke BoIS 3 - 1
+A.I.F. - Coconut Crusaders 0 - 4
+Labrax lupus - Tjecko-85 2 - 3
+week 9
+2009-07-19
+Sluga BK - Labrax lupus 4 - 1
+Coconut Crusaders - BOTT FC 1 - 2
+Bjarke BoIS - A.I.F. 8 - 0
+Tjecko-85 - Ambient Underground 1 - 0
+week 10
+2009-07-26
+Tjecko-85 - Sluga BK 5 - 3
+Labrax lupus - Coconut Crusaders 2 - 1
+BOTT FC - Bjarke BoIS 2 - 4
+Ambient Underground - A.I.F. 7 - 0
+week 11
+2009-08-02
+Bjarke BoIS - Labrax lupus 8 - 0
+Coconut Crusaders - Tjecko-85 2 - 0
+Sluga BK - Ambient Underground 0 - 5
+A.I.F. - BOTT FC 0 - 4
+week 12
+2009-08-09
+Sluga BK - Coconut Crusaders 1 - 1
+Labrax lupus - A.I.F. 8 - 0
+Tjecko-85 - Bjarke BoIS 3 - 2
+Ambient Underground - BOTT FC 3 - 1
+week 13
+2009-08-16
+Ambient Underground - Coconut Crusaders 2 - 3
+Bjarke BoIS - Sluga BK 2 - 2
+BOTT FC - Labrax lupus 5 - 2
+A.I.F. - Tjecko-85 0 - 11
+week 14
+2009-08-23
+Tjecko-85 - BOTT FC 4 - 0
+Coconut Crusaders - Bjarke BoIS 2 - 1
+Sluga BK - A.I.F. 8 - 0
+Labrax lupus - Ambient Underground 0 - 6

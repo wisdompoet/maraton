@@ -1,0 +1,84 @@
+week 1
+2002-01-13
+Byalaget - Real Español 1 - 0
+Lappträsk FC - Team ABC 4 - 3
+Black Mountain FC - Lundens BK 0 - 1
+Slinkens FK - NET Stars 3 - 0
+week 2
+2002-01-20
+Lundens BK - Byalaget 1 - 1
+NET Stars - Lappträsk FC 2 - 0
+Real Español - Slinkens FK 4 - 1
+Team ABC - Black Mountain FC 4 - 0
+week 3
+2002-01-27
+Lappträsk FC - Real Español 4 - 0
+Black Mountain FC - NET Stars 1 - 0
+Lundens BK - Team ABC 2 - 2
+Slinkens FK - Byalaget 1 - 4
+week 4
+2002-02-03
+Byalaget - Team ABC 0 - 3
+NET Stars - Lundens BK 0 - 0
+Real Español - Black Mountain FC 2 - 0
+Slinkens FK - Lappträsk FC 0 - 3
+week 5
+2002-02-10
+Lappträsk FC - Byalaget 1 - 0
+Black Mountain FC - Slinkens FK 1 - 1
+Lundens BK - Real Español 2 - 0
+Team ABC - NET Stars 5 - 0
+week 6
+2002-02-17
+Byalaget - NET Stars 0 - 0
+Lappträsk FC - Black Mountain FC 2 - 0
+Real Español - Team ABC 2 - 1
+Slinkens FK - Lundens BK 1 - 3
+week 7
+2002-02-24
+Black Mountain FC - Byalaget 0 - 1
+Lundens BK - Lappträsk FC 1 - 1
+NET Stars - Real Español 0 - 3
+Team ABC - Slinkens FK 6 - 2
+week 8
+2002-03-03
+Slinkens FK - Team ABC 4 - 1
+Real Español - NET Stars 4 - 0
+Lappträsk FC - Lundens BK 0 - 0
+Byalaget - Black Mountain FC 0 - 1
+week 9
+2002-03-10
+Lundens BK - Slinkens FK 5 - 1
+Team ABC - Real Español 4 - 0
+Black Mountain FC - Lappträsk FC 1 - 2
+NET Stars - Byalaget 0 - 1
+week 10
+2002-03-17
+NET Stars - Team ABC 3 - 0
+Real Español - Lundens BK 4 - 1
+Slinkens FK - Black Mountain FC 1 - 2
+Byalaget - Lappträsk FC 8 - 0
+week 11
+2002-03-24
+Lappträsk FC - Slinkens FK 2 - 3
+Black Mountain FC - Real Español 1 - 2
+Lundens BK - NET Stars 2 - 1
+Team ABC - Byalaget 2 - 0
+week 12
+2002-03-31
+Byalaget - Slinkens FK 2 - 1
+Team ABC - Lundens BK 3 - 2
+NET Stars - Black Mountain FC 0 - 0
+Real Español - Lappträsk FC 2 - 0
+week 13
+2002-04-07
+Black Mountain FC - Team ABC 4 - 0
+Slinkens FK - Real Español 1 - 1
+Lappträsk FC - NET Stars 0 - 3
+Byalaget - Lundens BK 2 - 0
+week 14
+2002-04-14
+NET Stars - Slinkens FK 2 - 1
+Lundens BK - Black Mountain FC 2 - 1
+Team ABC - Lappträsk FC 1 - 0
+Real Español - Byalaget 1 - 0

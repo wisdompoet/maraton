@@ -1,0 +1,84 @@
+week 1
+2013-01-27
+Humlegården - AC_Campoine 0 - 9
+ViHarBoll - Vealgarden´s Sailing Bois United 2 - 0
+Tåfjutt FF - Prinskorv FC 1 - 1
+Bensparkers - Maråker Flyers 2 - 1
+week 2
+2013-02-03
+Maråker Flyers - Humlegården 7 - 1
+Vealgarden´s Sailing Bois United - Tåfjutt FF 2 - 0
+Prinskorv FC - Bensparkers 3 - 2
+AC_Campoine - ViHarBoll 1 - 2
+week 3
+2013-02-10
+Bensparkers - Tåfjutt FF 1 - 2
+Humlegården - Vealgarden´s Sailing Bois United 0 - 10
+ViHarBoll - Prinskorv FC 1 - 3
+Maråker Flyers - AC_Campoine 3 - 1
+week 4
+2013-02-17
+Vealgarden´s Sailing Bois United - Maråker Flyers 2 - 1
+AC_Campoine - Bensparkers 0 - 4
+Tåfjutt FF - ViHarBoll 2 - 2
+Prinskorv FC - Humlegården 9 - 0
+week 5
+2013-02-24
+Maråker Flyers - Tåfjutt FF 0 - 0
+AC_Campoine - Prinskorv FC 2 - 3
+Bensparkers - Vealgarden´s Sailing Bois United 3 - 3
+Humlegården - ViHarBoll 0 - 4
+week 6
+2013-03-03
+Vealgarden´s Sailing Bois United - AC_Campoine 5 - 0
+Prinskorv FC - Maråker Flyers 3 - 1
+Tåfjutt FF - Humlegården 6 - 0
+ViHarBoll - Bensparkers 0 - 2
+week 7
+2013-03-10
+Maråker Flyers - ViHarBoll 2 - 1
+Prinskorv FC - Vealgarden´s Sailing Bois United 1 - 2
+AC_Campoine - Tåfjutt FF 2 - 1
+Humlegården - Bensparkers 0 - 8
+week 8
+2013-03-17
+Bensparkers - Humlegården 8 - 0
+Vealgarden´s Sailing Bois United - Prinskorv FC 2 - 0
+ViHarBoll - Maråker Flyers 2 - 1
+Tåfjutt FF - AC_Campoine 3 - 1
+week 9
+2013-03-24
+Bensparkers - ViHarBoll 4 - 0
+Humlegården - Tåfjutt FF 0 - 10
+Maråker Flyers - Prinskorv FC 2 - 1
+AC_Campoine - Vealgarden´s Sailing Bois United 2 - 2
+week 10
+2013-03-31
+ViHarBoll - Humlegården 11 - 0
+Tåfjutt FF - Maråker Flyers 2 - 0
+Vealgarden´s Sailing Bois United - Bensparkers 2 - 1
+Prinskorv FC - AC_Campoine 3 - 1
+week 11
+2013-04-07
+Bensparkers - AC_Campoine 2 - 0
+Humlegården - Prinskorv FC 0 - 7
+Maråker Flyers - Vealgarden´s Sailing Bois United 3 - 0
+ViHarBoll - Tåfjutt FF 3 - 1
+week 12
+2013-04-14
+Vealgarden´s Sailing Bois United - Humlegården 9 - 0
+Tåfjutt FF - Bensparkers 0 - 0
+AC_Campoine - Maråker Flyers 2 - 5
+Prinskorv FC - ViHarBoll 5 - 0
+week 13
+2013-04-21
+Humlegården - Maråker Flyers 0 - 10
+ViHarBoll - AC_Campoine 2 - 0
+Bensparkers - Prinskorv FC 5 - 1
+Tåfjutt FF - Vealgarden´s Sailing Bois United 2 - 2
+week 14
+2013-04-28
+Maråker Flyers - Bensparkers 2 - 2
+AC_Campoine - Humlegården 7 - 0
+Vealgarden´s Sailing Bois United - ViHarBoll 3 - 0
+Prinskorv FC - Tåfjutt FF 0 - 3

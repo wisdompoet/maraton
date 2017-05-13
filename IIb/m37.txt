@@ -1,0 +1,84 @@
+week 1
+2008-10-12
+Los Pebbos - Segmon BK 0 - 7
+tuba - FC Uberlirarna 3 - 2
+Piteteam - Morebeer FC 5 - 4
+IFK Warta - Falcon Flames 5 - 0
+week 2
+2008-10-19
+Falcon Flames - Los Pebbos 0 - 5
+Segmon BK - tuba 5 - 2
+FC Uberlirarna - Piteteam 6 - 2
+Morebeer FC - IFK Warta 4 - 1
+week 3
+2008-10-26
+Piteteam - Segmon BK 5 - 3
+IFK Warta - FC Uberlirarna 2 - 5
+Falcon Flames - Morebeer FC 0 - 5
+tuba - Los Pebbos 4 - 3
+week 4
+2008-11-02
+Los Pebbos - Morebeer FC 0 - 7
+FC Uberlirarna - Falcon Flames 5 - 0
+Segmon BK - IFK Warta 3 - 1
+tuba - Piteteam 2 - 9
+week 5
+2008-11-09
+Piteteam - Los Pebbos 12 - 0
+IFK Warta - tuba 8 - 1
+Falcon Flames - Segmon BK 0 - 5
+Morebeer FC - FC Uberlirarna 5 - 1
+week 6
+2008-11-16
+Los Pebbos - FC Uberlirarna 0 - 9
+Piteteam - IFK Warta 1 - 1
+Segmon BK - Morebeer FC 4 - 1
+tuba - Falcon Flames 5 - 0
+week 7
+2008-11-23
+IFK Warta - Los Pebbos 7 - 1
+Falcon Flames - Piteteam 0 - 5
+FC Uberlirarna - Segmon BK 3 - 5
+Morebeer FC - tuba 11 - 0
+week 8
+2008-11-30
+tuba - Morebeer FC 0 - 7
+Segmon BK - FC Uberlirarna 3 - 4
+Piteteam - Falcon Flames 11 - 0
+Los Pebbos - IFK Warta 0 - 0
+week 9
+2008-12-07
+Falcon Flames - tuba 2 - 3
+Morebeer FC - Segmon BK 4 - 2
+IFK Warta - Piteteam 0 - 4
+FC Uberlirarna - Los Pebbos 7 - 0
+week 10
+2008-12-14
+Segmon BK - Falcon Flames 10 - 0
+tuba - IFK Warta 0 - 8
+FC Uberlirarna - Morebeer FC 2 - 1
+Los Pebbos - Piteteam 1 - 2
+week 11
+2008-12-21
+IFK Warta - Segmon BK 2 - 1
+Piteteam - tuba 8 - 0
+Falcon Flames - FC Uberlirarna 0 - 11
+Morebeer FC - Los Pebbos 10 - 0
+week 12
+2008-12-28
+Los Pebbos - tuba 6 - 0
+Morebeer FC - Falcon Flames 10 - 0
+Segmon BK - Piteteam 4 - 1
+FC Uberlirarna - IFK Warta 5 - 1
+week 13
+2009-01-04
+IFK Warta - Morebeer FC 0 - 4
+tuba - Segmon BK 1 - 6
+Los Pebbos - Falcon Flames 11 - 0
+Piteteam - FC Uberlirarna 4 - 4
+week 14
+2009-01-11
+Morebeer FC - Piteteam 3 - 2
+FC Uberlirarna - tuba 1 - 2
+Segmon BK - Los Pebbos 4 - 3
+Falcon Flames - IFK Warta 0 - 8

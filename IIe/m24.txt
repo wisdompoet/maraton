@@ -1,0 +1,84 @@
+week 1
+2004-10-17
+Bernt I Boas BK - FK Glow 3 - 1
+Heyking Owles - Stendalskamraterna 2 - 1
+Chewbacca - BK Dajmkrysset 2 - 1
+Prieststreet FC - Bender ICNxDBD 2 - 1
+week 2
+2004-10-24
+BK Dajmkrysset - Bernt I Boas BK 3 - 2
+Bender ICNxDBD - Heyking Owles 0 - 1
+FK Glow - Prieststreet FC 3 - 1
+Stendalskamraterna - Chewbacca 1 - 0
+week 3
+2004-10-31
+Heyking Owles - FK Glow 3 - 2
+Chewbacca - Bender ICNxDBD 1 - 0
+BK Dajmkrysset - Stendalskamraterna 2 - 0
+Prieststreet FC - Bernt I Boas BK 3 - 0
+week 4
+2004-11-07
+Bernt I Boas BK - Stendalskamraterna 2 - 1
+Bender ICNxDBD - BK Dajmkrysset 3 - 1
+FK Glow - Chewbacca 2 - 1
+Prieststreet FC - Heyking Owles 3 - 1
+week 5
+2004-11-14
+Heyking Owles - Bernt I Boas BK 1 - 4
+Chewbacca - Prieststreet FC 2 - 1
+BK Dajmkrysset - FK Glow 3 - 4
+Stendalskamraterna - Bender ICNxDBD 1 - 2
+week 6
+2004-11-21
+Bernt I Boas BK - Bender ICNxDBD 0 - 1
+Heyking Owles - Chewbacca 1 - 3
+FK Glow - Stendalskamraterna 5 - 0
+Prieststreet FC - BK Dajmkrysset 3 - 3
+week 7
+2004-11-28
+Chewbacca - Bernt I Boas BK 2 - 2
+BK Dajmkrysset - Heyking Owles 1 - 4
+Bender ICNxDBD - FK Glow 1 - 2
+Stendalskamraterna - Prieststreet FC 4 - 2
+week 8
+2004-12-05
+Prieststreet FC - Stendalskamraterna 2 - 0
+FK Glow - Bender ICNxDBD 3 - 2
+Heyking Owles - BK Dajmkrysset 2 - 0
+Bernt I Boas BK - Chewbacca 1 - 1
+week 9
+2004-12-12
+BK Dajmkrysset - Prieststreet FC 3 - 2
+Stendalskamraterna - FK Glow 1 - 3
+Chewbacca - Heyking Owles 0 - 4
+Bender ICNxDBD - Bernt I Boas BK 1 - 2
+week 10
+2004-12-19
+Bender ICNxDBD - Stendalskamraterna 4 - 0
+FK Glow - BK Dajmkrysset 3 - 2
+Prieststreet FC - Chewbacca 1 - 0
+Bernt I Boas BK - Heyking Owles 5 - 2
+week 11
+2004-12-26
+Heyking Owles - Prieststreet FC 2 - 3
+Chewbacca - FK Glow 2 - 3
+BK Dajmkrysset - Bender ICNxDBD 2 - 2
+Stendalskamraterna - Bernt I Boas BK 2 - 1
+week 12
+2005-01-02
+Bernt I Boas BK - Prieststreet FC 3 - 0
+Stendalskamraterna - BK Dajmkrysset 1 - 2
+Bender ICNxDBD - Chewbacca 0 - 1
+FK Glow - Heyking Owles 3 - 1
+week 13
+2005-01-09
+Chewbacca - Stendalskamraterna 0 - 0
+Prieststreet FC - FK Glow 3 - 2
+Heyking Owles - Bender ICNxDBD 2 - 2
+Bernt I Boas BK - BK Dajmkrysset 2 - 3
+week 14
+2005-01-16
+Bender ICNxDBD - Prieststreet FC 4 - 0
+BK Dajmkrysset - Chewbacca 2 - 1
+Stendalskamraterna - Heyking Owles 0 - 10
+FK Glow - Bernt I Boas BK 4 - 0

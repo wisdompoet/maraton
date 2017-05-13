@@ -1,0 +1,84 @@
+week 1
+2000-10-22
+Psychedelic Bumbibears - NET Stars 1 - 2
+Redboys - Bloom_County 2 - 2
+Gothenburg - Team Falcon Export 5 - 1
+Vinterviken FC - Greveröd FF 2 - 1
+week 2
+2000-10-29
+Team Falcon Export - Psychedelic Bumbibears 0 - 0
+Greveröd FF - Redboys 1 - 2
+NET Stars - Vinterviken FC 4 - 2
+Bloom_County - Gothenburg 2 - 0
+week 3
+2000-11-05
+Redboys - NET Stars 2 - 0
+Gothenburg - Greveröd FF 4 - 3
+Team Falcon Export - Bloom_County 4 - 0
+Vinterviken FC - Psychedelic Bumbibears 0 - 3
+week 4
+2000-11-12
+Psychedelic Bumbibears - Bloom_County 1 - 1
+Greveröd FF - Team Falcon Export 0 - 2
+NET Stars - Gothenburg 3 - 0
+Vinterviken FC - Redboys 2 - 3
+week 5
+2000-11-19
+Redboys - Psychedelic Bumbibears 3 - 1
+Gothenburg - Vinterviken FC 5 - 0
+Team Falcon Export - NET Stars 2 - 0
+Bloom_County - Greveröd FF 5 - 0
+week 6
+2000-11-26
+Psychedelic Bumbibears - Greveröd FF 3 - 2
+Redboys - Gothenburg 3 - 0
+NET Stars - Bloom_County 1 - 2
+Vinterviken FC - Team Falcon Export 0 - 1
+week 7
+2000-12-03
+Gothenburg - Psychedelic Bumbibears 2 - 2
+Team Falcon Export - Redboys 1 - 2
+Greveröd FF - NET Stars 0 - 0
+Bloom_County - Vinterviken FC 1 - 0
+week 8
+2000-12-10
+Vinterviken FC - Bloom_County 0 - 5
+NET Stars - Greveröd FF 4 - 0
+Redboys - Team Falcon Export 2 - 2
+Psychedelic Bumbibears - Gothenburg 4 - 3
+week 9
+2000-12-17
+Team Falcon Export - Vinterviken FC 1 - 1
+Bloom_County - NET Stars 3 - 0
+Gothenburg - Redboys 4 - 0
+Greveröd FF - Psychedelic Bumbibears 1 - 3
+week 10
+2000-12-24
+Greveröd FF - Bloom_County 0 - 3
+NET Stars - Team Falcon Export 2 - 3
+Vinterviken FC - Gothenburg 0 - 4
+Psychedelic Bumbibears - Redboys 2 - 4
+week 11
+2000-12-31
+Redboys - Vinterviken FC 2 - 1
+Gothenburg - NET Stars 6 - 1
+Team Falcon Export - Greveröd FF 1 - 1
+Bloom_County - Psychedelic Bumbibears 5 - 0
+week 12
+2001-01-07
+Psychedelic Bumbibears - Vinterviken FC 0 - 0
+Bloom_County - Team Falcon Export 5 - 1
+Greveröd FF - Gothenburg 4 - 0
+NET Stars - Redboys 1 - 2
+week 13
+2001-01-14
+Gothenburg - Bloom_County 6 - 1
+Vinterviken FC - NET Stars 1 - 1
+Redboys - Greveröd FF 1 - 1
+Psychedelic Bumbibears - Team Falcon Export 4 - 2
+week 14
+2001-01-21
+Greveröd FF - Vinterviken FC 2 - 3
+Team Falcon Export - Gothenburg 0 - 10
+Bloom_County - Redboys 3 - 1
+NET Stars - Psychedelic Bumbibears 6 - 0

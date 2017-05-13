@@ -1,0 +1,84 @@
+week 1
+2016-02-21
+Spartak Vallentuna - Cirkus Brazil Jack 2 - 1
+Jösses Boys - Real Karlskrona 0 - 7
+Bengan_Bois - Meilo FC 1 - 2
+F.C. Barcelona Nordic - Kästerbüse IF 1 - 4
+week 2
+2016-02-28
+Meilo FC - Jösses Boys 7 - 1
+Cirkus Brazil Jack - Bengan_Bois 3 - 1
+Real Karlskrona - F.C. Barcelona Nordic 5 - 1
+Kästerbüse IF - Spartak Vallentuna 3 - 2
+week 3
+2016-03-06
+Jösses Boys - Kästerbüse IF 0 - 6
+Meilo FC - Real Karlskrona 4 - 1
+Bengan_Bois - Spartak Vallentuna 7 - 1
+F.C. Barcelona Nordic - Cirkus Brazil Jack 1 - 6
+week 4
+2016-03-13
+Cirkus Brazil Jack - Jösses Boys 7 - 0
+Real Karlskrona - Bengan_Bois 1 - 1
+Spartak Vallentuna - F.C. Barcelona Nordic 4 - 3
+Kästerbüse IF - Meilo FC 2 - 4
+week 5
+2016-03-20
+Bengan_Bois - Kästerbüse IF 3 - 0
+Real Karlskrona - Cirkus Brazil Jack 4 - 1
+Meilo FC - Spartak Vallentuna 5 - 0
+Jösses Boys - F.C. Barcelona Nordic 0 - 6
+week 6
+2016-03-27
+Spartak Vallentuna - Jösses Boys 5 - 0
+F.C. Barcelona Nordic - Bengan_Bois 4 - 2
+Cirkus Brazil Jack - Meilo FC 1 - 4
+Kästerbüse IF - Real Karlskrona 1 - 2
+week 7
+2016-04-03
+Jösses Boys - Bengan_Bois 0 - 5
+Real Karlskrona - Spartak Vallentuna 3 - 2
+Meilo FC - F.C. Barcelona Nordic 5 - 0
+Cirkus Brazil Jack - Kästerbüse IF 1 - 2
+week 8
+2016-04-10
+F.C. Barcelona Nordic - Meilo FC 2 - 2
+Kästerbüse IF - Cirkus Brazil Jack 0 - 2
+Spartak Vallentuna - Real Karlskrona 2 - 1
+Bengan_Bois - Jösses Boys 5 - 0
+week 9
+2016-04-17
+Meilo FC - Cirkus Brazil Jack 3 - 1
+Real Karlskrona - Kästerbüse IF 5 - 0
+Jösses Boys - Spartak Vallentuna 0 - 7
+Bengan_Bois - F.C. Barcelona Nordic 6 - 0
+week 10
+2016-04-24
+Kästerbüse IF - Bengan_Bois 1 - 2
+Cirkus Brazil Jack - Real Karlskrona 3 - 2
+Spartak Vallentuna - Meilo FC 2 - 4
+F.C. Barcelona Nordic - Jösses Boys 8 - 0
+week 11
+2016-05-01
+Meilo FC - Kästerbüse IF 2 - 1
+F.C. Barcelona Nordic - Spartak Vallentuna 1 - 5
+Bengan_Bois - Real Karlskrona 3 - 0
+Jösses Boys - Cirkus Brazil Jack 0 - 8
+week 12
+2016-05-08
+Cirkus Brazil Jack - F.C. Barcelona Nordic 5 - 1
+Real Karlskrona - Meilo FC 1 - 4
+Kästerbüse IF - Jösses Boys 7 - 0
+Spartak Vallentuna - Bengan_Bois 1 - 4
+week 13
+2016-05-15
+Jösses Boys - Meilo FC 0 - 9
+Spartak Vallentuna - Kästerbüse IF 1 - 1
+Bengan_Bois - Cirkus Brazil Jack 4 - 0
+F.C. Barcelona Nordic - Real Karlskrona 1 - 4
+week 14
+2016-05-22
+Kästerbüse IF - F.C. Barcelona Nordic 4 - 0
+Cirkus Brazil Jack - Spartak Vallentuna 7 - 1
+Meilo FC - Bengan_Bois 2 - 1
+Real Karlskrona - Jösses Boys 9 - 0

@@ -1,0 +1,84 @@
+week 1
+2001-06-03
+Kungsbackas Kor - Gagnefs Fotboll 0 - 0
+Zanchester United - Jimmys Jältar 5 - 0
+Hummel AIS - The Soccer of Our Lives 1 - 0
+IFK Bolaget - Headless Chickens FC 0 - 4
+week 2
+2001-06-10
+The Soccer of Our Lives - Kungsbackas Kor 1 - 1
+Headless Chickens FC - Zanchester United 2 - 4
+Gagnefs Fotboll - IFK Bolaget 3 - 0
+Jimmys Jältar - Hummel AIS 0 - 5
+week 3
+2001-06-17
+Zanchester United - Gagnefs Fotboll 1 - 2
+Hummel AIS - Headless Chickens FC 1 - 1
+The Soccer of Our Lives - Jimmys Jältar 5 - 0
+IFK Bolaget - Kungsbackas Kor 0 - 0
+week 4
+2001-06-24
+Kungsbackas Kor - Jimmys Jältar 5 - 0
+Headless Chickens FC - The Soccer of Our Lives 3 - 1
+Gagnefs Fotboll - Hummel AIS 3 - 0
+IFK Bolaget - Zanchester United 1 - 2
+week 5
+2001-07-01
+Zanchester United - Kungsbackas Kor 3 - 3
+Hummel AIS - IFK Bolaget 2 - 0
+The Soccer of Our Lives - Gagnefs Fotboll 1 - 0
+Jimmys Jältar - Headless Chickens FC 0 - 5
+week 6
+2001-07-08
+Kungsbackas Kor - Headless Chickens FC 3 - 1
+Zanchester United - Hummel AIS 3 - 0
+Gagnefs Fotboll - Jimmys Jältar 5 - 0
+IFK Bolaget - The Soccer of Our Lives 3 - 0
+week 7
+2001-07-15
+Hummel AIS - Kungsbackas Kor 0 - 0
+The Soccer of Our Lives - Zanchester United 3 - 1
+Headless Chickens FC - Gagnefs Fotboll 0 - 5
+Jimmys Jältar - IFK Bolaget 0 - 5
+week 8
+2001-07-22
+IFK Bolaget - Jimmys Jältar 5 - 0
+Gagnefs Fotboll - Headless Chickens FC 1 - 1
+Zanchester United - The Soccer of Our Lives 5 - 1
+Kungsbackas Kor - Hummel AIS 5 - 0
+week 9
+2001-07-29
+The Soccer of Our Lives - IFK Bolaget 3 - 1
+Jimmys Jältar - Gagnefs Fotboll 0 - 5
+Hummel AIS - Zanchester United 0 - 5
+Headless Chickens FC - Kungsbackas Kor 1 - 0
+week 10
+2001-08-05
+Headless Chickens FC - Jimmys Jältar 5 - 0
+Gagnefs Fotboll - The Soccer of Our Lives 4 - 0
+IFK Bolaget - Hummel AIS 5 - 0
+Kungsbackas Kor - Zanchester United 2 - 1
+week 11
+2001-08-12
+Zanchester United - IFK Bolaget 4 - 0
+Hummel AIS - Gagnefs Fotboll 0 - 5
+The Soccer of Our Lives - Headless Chickens FC 2 - 3
+Jimmys Jältar - Kungsbackas Kor 0 - 5
+week 12
+2001-08-19
+Kungsbackas Kor - IFK Bolaget 0 - 1
+Jimmys Jältar - The Soccer of Our Lives 0 - 5
+Headless Chickens FC - Hummel AIS 5 - 0
+Gagnefs Fotboll - Zanchester United 1 - 2
+week 13
+2001-08-26
+Hummel AIS - Jimmys Jältar 0 - 0
+IFK Bolaget - Gagnefs Fotboll 0 - 1
+Zanchester United - Headless Chickens FC 0 - 3
+Kungsbackas Kor - The Soccer of Our Lives 5 - 0
+week 14
+2001-09-02
+Headless Chickens FC - IFK Bolaget 2 - 0
+The Soccer of Our Lives - Hummel AIS 5 - 0
+Jimmys Jältar - Zanchester United 0 - 5
+Gagnefs Fotboll - Kungsbackas Kor 3 - 1

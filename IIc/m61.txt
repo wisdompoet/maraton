@@ -1,0 +1,84 @@
+week 1
+2016-02-21
+F.C. Pompadou - Beppolinos AS 4 - 3
+Mbuko IF - Didde United 0 - 0
+Manufactured Superstars - REAL mln 1 - 2
+Zorro Dribblers - Hestrafors IF 1 - 0
+week 2
+2016-02-28
+Beppolinos AS - Manufactured Superstars 5 - 3
+Didde United - Zorro Dribblers 1 - 1
+REAL mln - Mbuko IF 6 - 1
+Hestrafors IF - F.C. Pompadou 3 - 1
+week 3
+2016-03-06
+F.C. Pompadou - REAL mln 3 - 2
+Zorro Dribblers - Mbuko IF 6 - 0
+Manufactured Superstars - Didde United 4 - 1
+Hestrafors IF - Beppolinos AS 3 - 4
+week 4
+2016-03-13
+Didde United - F.C. Pompadou 4 - 0
+Beppolinos AS - Zorro Dribblers 2 - 5
+Mbuko IF - Manufactured Superstars 3 - 2
+REAL mln - Hestrafors IF 3 - 2
+week 5
+2016-03-20
+F.C. Pompadou - Manufactured Superstars 2 - 2
+Zorro Dribblers - REAL mln 3 - 1
+Hestrafors IF - Mbuko IF 6 - 0
+Beppolinos AS - Didde United 1 - 1
+week 6
+2016-03-27
+Mbuko IF - F.C. Pompadou 3 - 4
+Manufactured Superstars - Zorro Dribblers 4 - 2
+Didde United - Hestrafors IF 0 - 4
+REAL mln - Beppolinos AS 3 - 4
+week 7
+2016-04-03
+Beppolinos AS - Mbuko IF 2 - 0
+F.C. Pompadou - Zorro Dribblers 1 - 6
+Didde United - REAL mln 0 - 2
+Hestrafors IF - Manufactured Superstars 5 - 0
+week 8
+2016-04-10
+REAL mln - Didde United 2 - 4
+Manufactured Superstars - Hestrafors IF 3 - 4
+Mbuko IF - Beppolinos AS 3 - 1
+Zorro Dribblers - F.C. Pompadou 2 - 0
+week 9
+2016-04-17
+Beppolinos AS - REAL mln 5 - 2
+Hestrafors IF - Didde United 2 - 1
+Zorro Dribblers - Manufactured Superstars 6 - 2
+F.C. Pompadou - Mbuko IF 4 - 4
+week 10
+2016-04-24
+REAL mln - Zorro Dribblers 0 - 3
+Didde United - Beppolinos AS 7 - 1
+Mbuko IF - Hestrafors IF 1 - 3
+Manufactured Superstars - F.C. Pompadou 0 - 6
+week 11
+2016-05-01
+Zorro Dribblers - Beppolinos AS 2 - 3
+Manufactured Superstars - Mbuko IF 0 - 6
+Hestrafors IF - REAL mln 1 - 1
+F.C. Pompadou - Didde United 3 - 5
+week 12
+2016-05-08
+Didde United - Manufactured Superstars 7 - 0
+REAL mln - F.C. Pompadou 4 - 0
+Beppolinos AS - Hestrafors IF 3 - 2
+Mbuko IF - Zorro Dribblers 3 - 2
+week 13
+2016-05-15
+Zorro Dribblers - Didde United 3 - 2
+F.C. Pompadou - Hestrafors IF 0 - 6
+Manufactured Superstars - Beppolinos AS 0 - 6
+Mbuko IF - REAL mln 2 - 1
+week 14
+2016-05-22
+REAL mln - Manufactured Superstars 8 - 1
+Didde United - Mbuko IF 5 - 0
+Beppolinos AS - F.C. Pompadou 6 - 3
+Hestrafors IF - Zorro Dribblers 9 - 1

@@ -1,0 +1,84 @@
+week 1
+2009-05-24
+Flaming Homers - BK Filla 5 - 1
+Cirkus Brazil Jack - Lokomotiv Cosmopol 2 - 2
+Cricco United - Hariwulafar AIK 4 - 2
+Sunnydale FC - Viking FC 0 - 2
+week 2
+2009-05-31
+Hariwulafar AIK - Flaming Homers 3 - 2
+BK Filla - Sunnydale FC 3 - 0
+Viking FC - Cirkus Brazil Jack 3 - 0
+Lokomotiv Cosmopol - Cricco United 2 - 1
+week 3
+2009-06-07
+Cirkus Brazil Jack - BK Filla 3 - 2
+Cricco United - Viking FC 1 - 1
+Sunnydale FC - Flaming Homers 0 - 3
+Hariwulafar AIK - Lokomotiv Cosmopol 2 - 2
+week 4
+2009-06-14
+Viking FC - Hariwulafar AIK 3 - 2
+BK Filla - Cricco United 2 - 2
+Sunnydale FC - Cirkus Brazil Jack 0 - 3
+Flaming Homers - Lokomotiv Cosmopol 3 - 1
+week 5
+2009-06-21
+Cirkus Brazil Jack - Flaming Homers 3 - 2
+Cricco United - Sunnydale FC 1 - 0
+Hariwulafar AIK - BK Filla 6 - 2
+Lokomotiv Cosmopol - Viking FC 1 - 3
+week 6
+2009-06-28
+BK Filla - Lokomotiv Cosmopol 5 - 1
+Sunnydale FC - Hariwulafar AIK 3 - 5
+Flaming Homers - Viking FC 0 - 4
+Cirkus Brazil Jack - Cricco United 2 - 0
+week 7
+2009-07-05
+Cricco United - Flaming Homers 0 - 5
+Hariwulafar AIK - Cirkus Brazil Jack 2 - 2
+Lokomotiv Cosmopol - Sunnydale FC 3 - 1
+Viking FC - BK Filla 5 - 1
+week 8
+2009-07-12
+Cirkus Brazil Jack - Hariwulafar AIK 2 - 0
+Sunnydale FC - Lokomotiv Cosmopol 5 - 1
+BK Filla - Viking FC 1 - 2
+Flaming Homers - Cricco United 5 - 0
+week 9
+2009-07-19
+Hariwulafar AIK - Sunnydale FC 3 - 0
+Cricco United - Cirkus Brazil Jack 0 - 5
+Lokomotiv Cosmopol - BK Filla 1 - 3
+Viking FC - Flaming Homers 7 - 1
+week 10
+2009-07-26
+Viking FC - Lokomotiv Cosmopol 3 - 1
+BK Filla - Hariwulafar AIK 2 - 1
+Sunnydale FC - Cricco United 5 - 0
+Flaming Homers - Cirkus Brazil Jack 2 - 2
+week 11
+2009-08-02
+Cirkus Brazil Jack - Sunnydale FC 2 - 0
+Hariwulafar AIK - Viking FC 4 - 2
+Cricco United - BK Filla 0 - 5
+Lokomotiv Cosmopol - Flaming Homers 4 - 0
+week 12
+2009-08-09
+Flaming Homers - Sunnydale FC 1 - 0
+Viking FC - Cricco United 5 - 0
+Lokomotiv Cosmopol - Hariwulafar AIK 3 - 2
+BK Filla - Cirkus Brazil Jack 3 - 1
+week 13
+2009-08-16
+Cricco United - Lokomotiv Cosmopol 0 - 5
+Sunnydale FC - BK Filla 3 - 0
+Cirkus Brazil Jack - Viking FC 3 - 0
+Flaming Homers - Hariwulafar AIK 1 - 3
+week 14
+2009-08-23
+Viking FC - Sunnydale FC 1 - 1
+Hariwulafar AIK - Cricco United 5 - 0
+BK Filla - Flaming Homers 5 - 2
+Lokomotiv Cosmopol - Cirkus Brazil Jack 2 - 0

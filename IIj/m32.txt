@@ -1,0 +1,84 @@
+week 1
+2007-04-01
+Black Rhinos United - Newcastle Utd 4 - 1
+Getto - Rocco United FC 2 - 5
+Ornö BK - Auroville FC 2 - 4
+FC Flowsta - Bäcken IF 6 - 1
+week 2
+2007-04-08
+Newcastle Utd - Getto 0 - 2
+Bäcken IF - Black Rhinos United 1 - 6
+Rocco United FC - Ornö BK 9 - 4
+Auroville FC - FC Flowsta 2 - 2
+week 3
+2007-04-15
+Ornö BK - Newcastle Utd 3 - 2
+FC Flowsta - Rocco United FC 3 - 3
+Getto - Black Rhinos United 1 - 1
+Bäcken IF - Auroville FC 1 - 3
+week 4
+2007-04-22
+Black Rhinos United - Auroville FC 2 - 1
+Newcastle Utd - FC Flowsta 2 - 1
+Rocco United FC - Bäcken IF 1 - 3
+Getto - Ornö BK 3 - 3
+week 5
+2007-04-29
+Bäcken IF - Newcastle Utd 0 - 6
+Auroville FC - Rocco United FC 5 - 1
+Ornö BK - Black Rhinos United 2 - 4
+FC Flowsta - Getto 0 - 7
+week 6
+2007-05-06
+Black Rhinos United - Rocco United FC 4 - 0
+Newcastle Utd - Auroville FC 3 - 2
+Getto - Bäcken IF 2 - 1
+Ornö BK - FC Flowsta 4 - 0
+week 7
+2007-05-13
+FC Flowsta - Black Rhinos United 0 - 1
+Rocco United FC - Newcastle Utd 1 - 5
+Auroville FC - Getto 2 - 4
+Bäcken IF - Ornö BK 1 - 3
+week 8
+2007-05-20
+Newcastle Utd - Rocco United FC 2 - 4
+Black Rhinos United - FC Flowsta 3 - 0
+Getto - Auroville FC 1 - 1
+Ornö BK - Bäcken IF 4 - 0
+week 9
+2007-05-27
+Rocco United FC - Black Rhinos United 0 - 4
+Auroville FC - Newcastle Utd 3 - 2
+Bäcken IF - Getto 0 - 4
+FC Flowsta - Ornö BK 0 - 5
+week 10
+2007-06-03
+Getto - FC Flowsta 5 - 2
+Rocco United FC - Auroville FC 2 - 1
+Newcastle Utd - Bäcken IF 5 - 0
+Black Rhinos United - Ornö BK 5 - 1
+week 11
+2007-06-10
+Auroville FC - Black Rhinos United 2 - 0
+Ornö BK - Getto 1 - 3
+Bäcken IF - Rocco United FC 1 - 4
+FC Flowsta - Newcastle Utd 3 - 2
+week 12
+2007-06-17
+Black Rhinos United - Getto 3 - 2
+Auroville FC - Bäcken IF 2 - 0
+Rocco United FC - FC Flowsta 3 - 1
+Newcastle Utd - Ornö BK 0 - 4
+week 13
+2007-06-24
+Ornö BK - Rocco United FC 1 - 4
+Black Rhinos United - Bäcken IF 1 - 2
+Getto - Newcastle Utd 1 - 3
+FC Flowsta - Auroville FC 1 - 2
+week 14
+2007-07-01
+Bäcken IF - FC Flowsta 0 - 3
+Rocco United FC - Getto 4 - 2
+Newcastle Utd - Black Rhinos United 1 - 5
+Auroville FC - Ornö BK 4 - 0

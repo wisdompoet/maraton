@@ -1,0 +1,84 @@
+week 1
+2015-03-22
+FC Phazz - Zwobo United 5 - 1
+BK ROSEN - Prinskorv FC 4 - 2
+FC Snusen - Odens FC 2 - 1
+Picos Verdes - BoingBoing 1 - 0
+week 2
+2015-03-29
+BoingBoing - BK ROSEN 3 - 1
+Odens FC - Picos Verdes 3 - 1
+Prinskorv FC - FC Phazz 1 - 1
+Zwobo United - FC Snusen 5 - 2
+week 3
+2015-04-05
+BK ROSEN - Zwobo United 2 - 0
+Picos Verdes - FC Snusen 1 - 4
+BoingBoing - Prinskorv FC 4 - 2
+FC Phazz - Odens FC 0 - 6
+week 4
+2015-04-12
+Odens FC - BK ROSEN 3 - 1
+FC Snusen - FC Phazz 0 - 4
+Prinskorv FC - Picos Verdes 3 - 0
+Zwobo United - BoingBoing 3 - 4
+week 5
+2015-04-19
+BK ROSEN - FC Phazz 1 - 1
+BoingBoing - FC Snusen 4 - 2
+Picos Verdes - Zwobo United 2 - 1
+Prinskorv FC - Odens FC 4 - 2
+week 6
+2015-04-26
+FC Snusen - BK ROSEN 3 - 3
+Odens FC - BoingBoing 5 - 0
+FC Phazz - Picos Verdes 0 - 1
+Zwobo United - Prinskorv FC 2 - 4
+week 7
+2015-05-03
+BK ROSEN - Picos Verdes 4 - 1
+Prinskorv FC - FC Snusen 4 - 1
+BoingBoing - FC Phazz 1 - 0
+Odens FC - Zwobo United 1 - 4
+week 8
+2015-05-10
+Picos Verdes - BK ROSEN 3 - 1
+FC Phazz - BoingBoing 3 - 0
+FC Snusen - Prinskorv FC 0 - 4
+Zwobo United - Odens FC 0 - 5
+week 9
+2015-05-17
+Prinskorv FC - Zwobo United 4 - 1
+BoingBoing - Odens FC 3 - 2
+BK ROSEN - FC Snusen 5 - 1
+Picos Verdes - FC Phazz 0 - 1
+week 10
+2015-05-24
+Odens FC - Prinskorv FC 2 - 2
+Zwobo United - Picos Verdes 1 - 3
+FC Snusen - BoingBoing 4 - 0
+FC Phazz - BK ROSEN 0 - 1
+week 11
+2015-05-31
+BoingBoing - Zwobo United 0 - 2
+FC Phazz - FC Snusen 4 - 0
+BK ROSEN - Odens FC 1 - 2
+Picos Verdes - Prinskorv FC 1 - 4
+week 12
+2015-06-07
+FC Snusen - Picos Verdes 1 - 2
+Prinskorv FC - BoingBoing 0 - 0
+Zwobo United - BK ROSEN 0 - 1
+Odens FC - FC Phazz 0 - 0
+week 13
+2015-06-14
+Picos Verdes - Odens FC 4 - 2
+FC Phazz - Prinskorv FC 2 - 2
+BK ROSEN - BoingBoing 2 - 0
+FC Snusen - Zwobo United 5 - 2
+week 14
+2015-06-21
+Zwobo United - FC Phazz 1 - 1
+BoingBoing - Picos Verdes 2 - 3
+Odens FC - FC Snusen 5 - 2
+Prinskorv FC - BK ROSEN 1 - 2

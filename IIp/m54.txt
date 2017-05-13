@@ -1,0 +1,84 @@
+week 1
+2013-12-29
+LHPL FC - SkalBolaget BK 1 - 0
+VW Luebeck - Herrestad Heroes 2 - 4
+Alpha FC - Campus Killar 0 - 2
+Fastnet - Gloppas IF 1 - 2
+week 2
+2014-01-05
+SkalBolaget BK - Fastnet 1 - 1
+Campus Killar - VW Luebeck 1 - 2
+Herrestad Heroes - LHPL FC 4 - 1
+Gloppas IF - Alpha FC 5 - 1
+week 3
+2014-01-12
+VW Luebeck - SkalBolaget BK 0 - 1
+Alpha FC - Fastnet 2 - 1
+Campus Killar - Herrestad Heroes 0 - 4
+LHPL FC - Gloppas IF 2 - 3
+week 4
+2014-01-19
+Gloppas IF - VW Luebeck 4 - 4
+Fastnet - LHPL FC 2 - 2
+SkalBolaget BK - Campus Killar 4 - 1
+Herrestad Heroes - Alpha FC 2 - 2
+week 5
+2014-01-26
+VW Luebeck - LHPL FC 1 - 3
+Campus Killar - Fastnet 1 - 1
+Alpha FC - SkalBolaget BK 1 - 0
+Herrestad Heroes - Gloppas IF 0 - 1
+week 6
+2014-02-02
+Fastnet - VW Luebeck 1 - 0
+Gloppas IF - Campus Killar 3 - 2
+SkalBolaget BK - Herrestad Heroes 0 - 8
+LHPL FC - Alpha FC 3 - 0
+week 7
+2014-02-09
+VW Luebeck - Alpha FC 2 - 2
+Herrestad Heroes - Fastnet 2 - 2
+Campus Killar - LHPL FC 3 - 1
+Gloppas IF - SkalBolaget BK 6 - 0
+week 8
+2014-02-16
+LHPL FC - Campus Killar 4 - 1
+Fastnet - Herrestad Heroes 1 - 1
+Alpha FC - VW Luebeck 4 - 3
+SkalBolaget BK - Gloppas IF 0 - 3
+week 9
+2014-02-23
+Herrestad Heroes - SkalBolaget BK 5 - 0
+Campus Killar - Gloppas IF 4 - 1
+Alpha FC - LHPL FC 6 - 0
+VW Luebeck - Fastnet 1 - 2
+week 10
+2014-03-02
+Gloppas IF - Herrestad Heroes 1 - 0
+LHPL FC - VW Luebeck 1 - 0
+SkalBolaget BK - Alpha FC 0 - 6
+Fastnet - Campus Killar 1 - 1
+week 11
+2014-03-09
+Campus Killar - SkalBolaget BK 6 - 0
+LHPL FC - Fastnet 0 - 4
+Alpha FC - Herrestad Heroes 2 - 3
+VW Luebeck - Gloppas IF 1 - 2
+week 12
+2014-03-16
+Gloppas IF - LHPL FC 5 - 1
+Herrestad Heroes - Campus Killar 3 - 1
+Fastnet - Alpha FC 3 - 0
+SkalBolaget BK - VW Luebeck 0 - 7
+week 13
+2014-03-23
+Alpha FC - Gloppas IF 3 - 0
+Fastnet - SkalBolaget BK 4 - 0
+LHPL FC - Herrestad Heroes 2 - 1
+VW Luebeck - Campus Killar 3 - 0
+week 14
+2014-03-30
+SkalBolaget BK - LHPL FC 0 - 4
+Gloppas IF - Fastnet 2 - 0
+Campus Killar - Alpha FC 4 - 2
+Herrestad Heroes - VW Luebeck 4 - 0

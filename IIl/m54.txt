@@ -1,0 +1,84 @@
+week 1
+2013-12-29
+Cobra Fighters - Gargamelle 5 - 2
+Mörphy FC - FC Brallon 1 - 1
+Järfälla Banes IF - Bergnäsets AIK 3 - 1
+Skene IF  - IFK Benbrott 4 - 1
+week 2
+2014-01-05
+Gargamelle - Skene IF  4 - 1
+FC Brallon - Cobra Fighters 3 - 1
+Bergnäsets AIK - Mörphy FC 3 - 1
+IFK Benbrott - Järfälla Banes IF 3 - 2
+week 3
+2014-01-12
+Cobra Fighters - IFK Benbrott 3 - 0
+FC Brallon - Gargamelle 4 - 2
+Mörphy FC - Järfälla Banes IF 4 - 3
+Skene IF  - Bergnäsets AIK 0 - 0
+week 4
+2014-01-19
+Gargamelle - Mörphy FC 5 - 0
+Bergnäsets AIK - Cobra Fighters 4 - 2
+IFK Benbrott - FC Brallon 2 - 2
+Järfälla Banes IF - Skene IF  1 - 3
+week 5
+2014-01-26
+Cobra Fighters - Skene IF  2 - 2
+FC Brallon - Järfälla Banes IF 2 - 3
+Mörphy FC - IFK Benbrott 3 - 1
+Gargamelle - Bergnäsets AIK 3 - 0
+week 6
+2014-02-02
+Järfälla Banes IF - Cobra Fighters 1 - 1
+Skene IF  - Mörphy FC 2 - 4
+Bergnäsets AIK - FC Brallon 2 - 4
+IFK Benbrott - Gargamelle 1 - 3
+week 7
+2014-02-09
+Cobra Fighters - Mörphy FC 0 - 1
+Bergnäsets AIK - IFK Benbrott 1 - 0
+Gargamelle - Järfälla Banes IF 6 - 0
+FC Brallon - Skene IF  2 - 1
+week 8
+2014-02-16
+IFK Benbrott - Bergnäsets AIK 0 - 0
+Skene IF  - FC Brallon 3 - 2
+Järfälla Banes IF - Gargamelle 5 - 1
+Mörphy FC - Cobra Fighters 2 - 0
+week 9
+2014-02-23
+Cobra Fighters - Järfälla Banes IF 3 - 1
+Gargamelle - IFK Benbrott 3 - 0
+FC Brallon - Bergnäsets AIK 0 - 1
+Mörphy FC - Skene IF  3 - 1
+week 10
+2014-03-02
+Skene IF  - Cobra Fighters 4 - 0
+Järfälla Banes IF - FC Brallon 2 - 4
+Bergnäsets AIK - Gargamelle 4 - 2
+IFK Benbrott - Mörphy FC 1 - 2
+week 11
+2014-03-09
+Mörphy FC - Gargamelle 1 - 2
+Skene IF  - Järfälla Banes IF 6 - 0
+FC Brallon - IFK Benbrott 3 - 1
+Cobra Fighters - Bergnäsets AIK 1 - 2
+week 12
+2014-03-16
+Järfälla Banes IF - Mörphy FC 1 - 2
+IFK Benbrott - Cobra Fighters 1 - 0
+Gargamelle - FC Brallon 4 - 0
+Bergnäsets AIK - Skene IF  1 - 4
+week 13
+2014-03-23
+Mörphy FC - Bergnäsets AIK 1 - 0
+Skene IF  - Gargamelle 2 - 0
+Cobra Fighters - FC Brallon 2 - 0
+Järfälla Banes IF - IFK Benbrott 1 - 0
+week 14
+2014-03-30
+Bergnäsets AIK - Järfälla Banes IF 2 - 1
+Gargamelle - Cobra Fighters 5 - 4
+FC Brallon - Mörphy FC 2 - 2
+IFK Benbrott - Skene IF  1 - 3

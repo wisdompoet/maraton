@@ -1,84 +1,84 @@
-Omgång 1
-2009-02-01 (1/38)			
-Sluga BK - hallabackens pågar	2 - 3	HT Re-Live
-Ambient Underground - NGOIF	0 - 1	HT Re-Live
-Bjarke BoIS - Labrax lupus	4 - 1	HT Re-Live
-Coconut Crusaders - A.I.F.	1 - 1	HT Re-Live
-Omgång 2
-2009-02-08 (2/38)			
-A.I.F. - Ambient Underground	4 - 2	HT Re-Live
-NGOIF - Sluga BK	1 - 5	HT Re-Live
-hallabackens pågar  - Bjarke BoIS	1 - 4	HT Re-Live
-Labrax lupus - Coconut Crusaders	1 - 1	HT Re-Live
-Omgång 3
-2009-02-15 (3/38)			
-A.I.F. - Labrax lupus	0 - 0	HT Re-Live
-Bjarke BoIS - NGOIF	5 - 1	HT Re-Live
-Sluga BK - Ambient Underground	2 - 2	HT Re-Live
-Coconut Crusaders - hallabackens pågar	4 - 0	HT Re-Live
-Omgång 4
-2009-02-22 (4/38)			
-hallabackens pågar  - A.I.F.	0 - 2	HT Re-Live
-Ambient Underground - Labrax lupus	3 - 1	HT Re-Live
-NGOIF - Coconut Crusaders	1 - 1	HT Re-Live
-Sluga BK - Bjarke BoIS	0 - 5	HT Re-Live
-Omgång 5
-2009-03-01 (5/38)			
-Bjarke BoIS - Ambient Underground	4 - 5	HT Re-Live
-Coconut Crusaders - Sluga BK	1 - 2	HT Re-Live
-A.I.F. - NGOIF	1 - 0	HT Re-Live
-Labrax lupus - hallabackens pågar	7 - 0	HT Re-Live
-Omgång 6
-2009-03-08 (6/38)			
-Ambient Underground - hallabackens pågar	6 - 0	HT Re-Live
-Bjarke BoIS - Coconut Crusaders	0 - 2	HT Re-Live
-NGOIF - Labrax lupus	0 - 1	HT Re-Live
-Sluga BK - A.I.F.	7 - 1	HT Re-Live
-Omgång 7
-2009-03-15 (7/38)			
-Coconut Crusaders - Ambient Underground	0 - 1	HT Re-Live
-hallabackens pågar  - NGOIF	0 - 6	HT Re-Live
-A.I.F. - Bjarke BoIS	2 - 1	HT Re-Live
-Labrax lupus - Sluga BK	4 - 3	HT Re-Live
-Omgång 8
-2009-03-22 (8/38)			
-Sluga BK - Labrax lupus	2 - 3	HT Re-Live
-NGOIF - hallabackens pågar	5 - 0	HT Re-Live
-Bjarke BoIS - A.I.F.	5 - 3	HT Re-Live
-Ambient Underground - Coconut Crusaders	3 - 2	HT Re-Live
-Omgång 9
-2009-03-29 (9/38)			
-A.I.F. - Sluga BK	1 - 2	HT Re-Live
-Labrax lupus - NGOIF	4 - 1	HT Re-Live
-Coconut Crusaders - Bjarke BoIS	2 - 0	HT Re-Live
-hallabackens pågar  - Ambient Underground	0 - 10	HT Re-Live
-Omgång 10
-2009-04-05 (10/38)			
-NGOIF - A.I.F.	1 - 4	HT Re-Live
-Sluga BK - Coconut Crusaders	2 - 0	HT Re-Live
-hallabackens pågar  - Labrax lupus	0 - 9	HT Re-Live
-Ambient Underground - Bjarke BoIS	4 - 1	HT Re-Live
-Omgång 11
-2009-04-12 (11/38)			
-A.I.F. - hallabackens pågar	10 - 0	HT Re-Live
-Labrax lupus - Ambient Underground	2 - 4	HT Re-Live
-Bjarke BoIS - Sluga BK	4 - 1	HT Re-Live
-Coconut Crusaders - NGOIF	4 - 0	HT Re-Live
-Omgång 12
-2009-04-19 (12/38)			
-Labrax lupus - A.I.F.	1 - 2	HT Re-Live
-hallabackens pågar  - Coconut Crusaders	0 - 9	HT Re-Live
-Ambient Underground - Sluga BK	5 - 0	HT Re-Live
-NGOIF - Bjarke BoIS	4 - 0	HT Re-Live
-Omgång 13
-2009-04-26 (13/38)			
-Sluga BK - NGOIF	3 - 0	HT Re-Live
-Bjarke BoIS - hallabackens pågar	8 - 0	HT Re-Live
-Ambient Underground - A.I.F.	3 - 0	HT Re-Live
-Coconut Crusaders - Labrax lupus	0 - 0	HT Re-Live
-Omgång 14
-2009-05-03 (14/38)			
-A.I.F. - Coconut Crusaders	1 - 1	HT Re-Live
-hallabackens pågar  - Sluga BK	0 - 10	HT Re-Live
-NGOIF - Ambient Underground	1 - 1	HT Re-Live
-Labrax lupus - Bjarke BoIS	7 - 1	HT Re-Live
+week 1
+2009-02-01
+Sluga BK - hallabackens pÃ¥gar  2 - 3
+Ambient Underground - NGOIF 0 - 1
+Bjarke BoIS - Labrax lupus 4 - 1
+Coconut Crusaders - A.I.F. 1 - 1
+week 2
+2009-02-08
+A.I.F. - Ambient Underground 4 - 2
+NGOIF - Sluga BK 1 - 5
+hallabackens pÃ¥gar  - Bjarke BoIS 1 - 4
+Labrax lupus - Coconut Crusaders 1 - 1
+week 3
+2009-02-15
+A.I.F. - Labrax lupus 0 - 0
+Bjarke BoIS - NGOIF 5 - 1
+Sluga BK - Ambient Underground 2 - 2
+Coconut Crusaders - hallabackens pÃ¥gar  4 - 0
+week 4
+2009-02-22
+hallabackens pÃ¥gar  - A.I.F. 0 - 2
+Ambient Underground - Labrax lupus 3 - 1
+NGOIF - Coconut Crusaders 1 - 1
+Sluga BK - Bjarke BoIS 0 - 5
+week 5
+2009-03-01
+Bjarke BoIS - Ambient Underground 4 - 5
+Coconut Crusaders - Sluga BK 1 - 2
+A.I.F. - NGOIF 1 - 0
+Labrax lupus - hallabackens pÃ¥gar  7 - 0
+week 6
+2009-03-08
+Ambient Underground - hallabackens pÃ¥gar  6 - 0
+Bjarke BoIS - Coconut Crusaders 0 - 2
+NGOIF - Labrax lupus 0 - 1
+Sluga BK - A.I.F. 7 - 1
+week 7
+2009-03-15
+Coconut Crusaders - Ambient Underground 0 - 1
+hallabackens pÃ¥gar  - NGOIF 0 - 6
+A.I.F. - Bjarke BoIS 2 - 1
+Labrax lupus - Sluga BK 4 - 3
+week 8
+2009-03-22
+Sluga BK - Labrax lupus 2 - 3
+NGOIF - hallabackens pÃ¥gar  5 - 0
+Bjarke BoIS - A.I.F. 5 - 3
+Ambient Underground - Coconut Crusaders 3 - 2
+week 9
+2009-03-29
+A.I.F. - Sluga BK 1 - 2
+Labrax lupus - NGOIF 4 - 1
+Coconut Crusaders - Bjarke BoIS 2 - 0
+hallabackens pÃ¥gar  - Ambient Underground 0 - 10
+week 10
+2009-04-05
+NGOIF - A.I.F. 1 - 4
+Sluga BK - Coconut Crusaders 2 - 0
+hallabackens pÃ¥gar  - Labrax lupus 0 - 9
+Ambient Underground - Bjarke BoIS 4 - 1
+week 11
+2009-04-12
+A.I.F. - hallabackens pÃ¥gar  10 - 0
+Labrax lupus - Ambient Underground 2 - 4
+Bjarke BoIS - Sluga BK 4 - 1
+Coconut Crusaders - NGOIF 4 - 0
+week 12
+2009-04-19
+Labrax lupus - A.I.F. 1 - 2
+hallabackens pÃ¥gar  - Coconut Crusaders 0 - 9
+Ambient Underground - Sluga BK 5 - 0
+NGOIF - Bjarke BoIS 4 - 0
+week 13
+2009-04-26
+Sluga BK - NGOIF 3 - 0
+Bjarke BoIS - hallabackens pÃ¥gar  8 - 0
+Ambient Underground - A.I.F. 3 - 0
+Coconut Crusaders - Labrax lupus 0 - 0
+week 14
+2009-05-03
+A.I.F. - Coconut Crusaders 1 - 1
+hallabackens pÃ¥gar  - Sluga BK 0 - 10
+NGOIF - Ambient Underground 1 - 1
+Labrax lupus - Bjarke BoIS 7 - 1

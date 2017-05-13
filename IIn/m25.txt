@@ -1,0 +1,84 @@
+week 1
+2005-02-06
+Nätets FF - Team Falcon Export 3 - 2
+team_ekos - Titleist Pro 2 - 2
+TAB united - Krilles Kometer 0 - 3
+Förort Allstars - Los butcheros 4 - 0
+week 2
+2005-02-13
+Krilles Kometer - Nätets FF 4 - 0
+Los butcheros - team_ekos 1 - 4
+Team Falcon Export - Förort Allstars 1 - 3
+Titleist Pro - TAB united 2 - 0
+week 3
+2005-02-20
+team_ekos - Team Falcon Export 7 - 2
+TAB united - Los butcheros 3 - 2
+Krilles Kometer - Titleist Pro 4 - 1
+Förort Allstars - Nätets FF 3 - 2
+week 4
+2005-02-27
+Nätets FF - Titleist Pro 2 - 4
+Los butcheros - Krilles Kometer 3 - 3
+Team Falcon Export - TAB united 2 - 1
+Förort Allstars - team_ekos 2 - 5
+week 5
+2005-03-06
+team_ekos - Nätets FF 7 - 2
+TAB united - Förort Allstars 1 - 4
+Krilles Kometer - Team Falcon Export 5 - 1
+Titleist Pro - Los butcheros 6 - 0
+week 6
+2005-03-13
+Nätets FF - Los butcheros 2 - 2
+team_ekos - TAB united 4 - 3
+Team Falcon Export - Titleist Pro 5 - 1
+Förort Allstars - Krilles Kometer 1 - 1
+week 7
+2005-03-20
+TAB united - Nätets FF 2 - 2
+Krilles Kometer - team_ekos 1 - 2
+Los butcheros - Team Falcon Export 5 - 3
+Titleist Pro - Förort Allstars 0 - 3
+week 8
+2005-03-27
+Förort Allstars - Titleist Pro 0 - 7
+Team Falcon Export - Los butcheros 2 - 4
+team_ekos - Krilles Kometer 5 - 1
+Nätets FF - TAB united 0 - 5
+week 9
+2005-04-03
+Krilles Kometer - Förort Allstars 0 - 3
+Titleist Pro - Team Falcon Export 2 - 4
+TAB united - team_ekos 2 - 4
+Los butcheros - Nätets FF 5 - 0
+week 10
+2005-04-10
+Los butcheros - Titleist Pro 2 - 3
+Team Falcon Export - Krilles Kometer 2 - 1
+Förort Allstars - TAB united 3 - 0
+Nätets FF - team_ekos 0 - 5
+week 11
+2005-04-17
+team_ekos - Förort Allstars 2 - 2
+TAB united - Team Falcon Export 0 - 5
+Krilles Kometer - Los butcheros 3 - 1
+Titleist Pro - Nätets FF 5 - 0
+week 12
+2005-04-24
+Nätets FF - Förort Allstars 0 - 5
+Titleist Pro - Krilles Kometer 3 - 0
+Los butcheros - TAB united 8 - 1
+Team Falcon Export - team_ekos 0 - 4
+week 13
+2005-05-01
+TAB united - Titleist Pro 2 - 3
+Förort Allstars - Team Falcon Export 5 - 3
+team_ekos - Los butcheros 6 - 2
+Nätets FF - Krilles Kometer 0 - 5
+week 14
+2005-05-08
+Los butcheros - Förort Allstars 1 - 2
+Krilles Kometer - TAB united 4 - 0
+Titleist Pro - team_ekos 0 - 4
+Team Falcon Export - Nätets FF 5 - 0

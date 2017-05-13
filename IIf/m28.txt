@@ -1,84 +1,84 @@
-Omgång 1
-2006-01-08 (1/28)			
-Black Ivory - Tyresö Drifters	1 - 0	HT Re-Live
-Angels of Gothenburg - Reelers	1 - 1	HT Re-Live
-Rotselleri FK - Svearikes Finaste	1 - 4	HT Re-Live
-IFK Dalle - Sandro Haverbusch	3 - 0	HT Re-Live
-Omgång 2
-2006-01-15 (2/28)			
-Svearikes Finaste - Black Ivory	4 - 1	HT Re-Live
-Sandro Haverbusch - Angels of Gothenburg	1 - 0	HT Re-Live
-Tyresö Drifters - IFK Dalle	4 - 0	HT Re-Live
-Reelers - Rotselleri FK	0 - 1	HT Re-Live
-Omgång 3
-2006-01-22 (3/28)			
-Angels of Gothenburg - Tyresö Drifters	2 - 1	HT Re-Live
-Rotselleri FK - Sandro Haverbusch	3 - 2	HT Re-Live
-Svearikes Finaste - Reelers	2 - 3	HT Re-Live
-IFK Dalle - Black Ivory	1 - 1	HT Re-Live
-Omgång 4
-2006-01-29 (4/28)			
-Black Ivory - Reelers	2 - 0	HT Re-Live
-Sandro Haverbusch - Svearikes Finaste	4 - 0	HT Re-Live
-Tyresö Drifters - Rotselleri FK	4 - 1	HT Re-Live
-IFK Dalle - Angels of Gothenburg	3 - 2	HT Re-Live
-Omgång 5
-2006-02-05 (5/28)			
-Angels of Gothenburg - Black Ivory	0 - 3	HT Re-Live
-Rotselleri FK - IFK Dalle	0 - 0	HT Re-Live
-Svearikes Finaste - Tyresö Drifters	2 - 2	HT Re-Live
-Reelers - Sandro Haverbusch	1 - 0	HT Re-Live
-Omgång 6
-2006-02-12 (6/28)			
-Black Ivory - Sandro Haverbusch	3 - 0	HT Re-Live
-Angels of Gothenburg - Rotselleri FK	3 - 2	HT Re-Live
-Tyresö Drifters - Reelers	2 - 1	HT Re-Live
-IFK Dalle - Svearikes Finaste	5 - 3	HT Re-Live
-Omgång 7
-2006-02-19 (7/28)			
-Rotselleri FK - Black Ivory	1 - 1	HT Re-Live
-Svearikes Finaste - Angels of Gothenburg	1 - 2	HT Re-Live
-Sandro Haverbusch - Tyresö Drifters	2 - 0	HT Re-Live
-Reelers - IFK Dalle	1 - 1	HT Re-Live
-Omgång 8
-2006-02-26 (8/28)			
-IFK Dalle - Reelers	1 - 0	HT Re-Live
-Tyresö Drifters - Sandro Haverbusch	2 - 0	HT Re-Live
-Angels of Gothenburg - Svearikes Finaste	4 - 4	HT Re-Live
-Black Ivory - Rotselleri FK	0 - 2	HT Re-Live
-Omgång 9
-2006-03-05 (9/28)			
-Svearikes Finaste - IFK Dalle	1 - 2	HT Re-Live
-Reelers - Tyresö Drifters	2 - 1	HT Re-Live
-Rotselleri FK - Angels of Gothenburg	2 - 3	HT Re-Live
-Sandro Haverbusch - Black Ivory	2 - 3	HT Re-Live
-Omgång 10
-2006-03-12 (10/28)			
-Sandro Haverbusch - Reelers	2 - 2	HT Re-Live
-Tyresö Drifters - Svearikes Finaste	2 - 0	HT Re-Live
-IFK Dalle - Rotselleri FK	3 - 1	HT Re-Live
-Black Ivory - Angels of Gothenburg	1 - 1	HT Re-Live
-Omgång 11
-2006-03-19 (11/28)			
-Angels of Gothenburg - IFK Dalle	2 - 0	HT Re-Live
-Rotselleri FK - Tyresö Drifters	2 - 3	HT Re-Live
-Svearikes Finaste - Sandro Haverbusch	1 - 2	HT Re-Live
-Reelers - Black Ivory	0 - 0	HT Re-Live
-Omgång 12
-2006-03-26 (12/28)			
-Black Ivory - IFK Dalle	0 - 2	HT Re-Live
-Reelers - Svearikes Finaste	0 - 4	HT Re-Live
-Sandro Haverbusch - Rotselleri FK	0 - 3	HT Re-Live
-Tyresö Drifters - Angels of Gothenburg	2 - 2	HT Re-Live
-Omgång 13
-2006-04-02 (13/28)			
-Rotselleri FK - Reelers	0 - 1	HT Re-Live
-IFK Dalle - Tyresö Drifters	3 - 1	HT Re-Live
-Angels of Gothenburg - Sandro Haverbusch	0 - 0	HT Re-Live
-Black Ivory - Svearikes Finaste	0 - 3	HT Re-Live
-Omgång 14
-2006-04-09 (14/28)			
-Sandro Haverbusch - IFK Dalle	0 - 3	HT Re-Live
-Svearikes Finaste - Rotselleri FK	3 - 0	HT Re-Live
-Reelers - Angels of Gothenburg	2 - 0	HT Re-Live
-Tyresö Drifters - Black Ivory	1 - 0	HT Re-Live
+week 1
+2006-01-08
+Black Ivory - TyresÃ¶ Drifters 1 - 0
+Angels of Gothenburg - Reelers 1 - 1
+Rotselleri FK - Svearikes Finaste 1 - 4
+IFK Dalle - Sandro Haverbusch 3 - 0
+week 2
+2006-01-15
+Svearikes Finaste - Black Ivory 4 - 1
+Sandro Haverbusch - Angels of Gothenburg 1 - 0
+TyresÃ¶ Drifters - IFK Dalle 4 - 0
+Reelers - Rotselleri FK 0 - 1
+week 3
+2006-01-22
+Angels of Gothenburg - TyresÃ¶ Drifters 2 - 1
+Rotselleri FK - Sandro Haverbusch 3 - 2
+Svearikes Finaste - Reelers 2 - 3
+IFK Dalle - Black Ivory 1 - 1
+week 4
+2006-01-29
+Black Ivory - Reelers 2 - 0
+Sandro Haverbusch - Svearikes Finaste 4 - 0
+TyresÃ¶ Drifters - Rotselleri FK 4 - 1
+IFK Dalle - Angels of Gothenburg 3 - 2
+week 5
+2006-02-05
+Angels of Gothenburg - Black Ivory 0 - 3
+Rotselleri FK - IFK Dalle 0 - 0
+Svearikes Finaste - TyresÃ¶ Drifters 2 - 2
+Reelers - Sandro Haverbusch 1 - 0
+week 6
+2006-02-12
+Black Ivory - Sandro Haverbusch 3 - 0
+Angels of Gothenburg - Rotselleri FK 3 - 2
+TyresÃ¶ Drifters - Reelers 2 - 1
+IFK Dalle - Svearikes Finaste 5 - 3
+week 7
+2006-02-19
+Rotselleri FK - Black Ivory 1 - 1
+Svearikes Finaste - Angels of Gothenburg 1 - 2
+Sandro Haverbusch - TyresÃ¶ Drifters 2 - 0
+Reelers - IFK Dalle 1 - 1
+week 8
+2006-02-26
+IFK Dalle - Reelers 1 - 0
+TyresÃ¶ Drifters - Sandro Haverbusch 2 - 0
+Angels of Gothenburg - Svearikes Finaste 4 - 4
+Black Ivory - Rotselleri FK 0 - 2
+week 9
+2006-03-05
+Svearikes Finaste - IFK Dalle 1 - 2
+Reelers - TyresÃ¶ Drifters 2 - 1
+Rotselleri FK - Angels of Gothenburg 2 - 3
+Sandro Haverbusch - Black Ivory 2 - 3
+week 10
+2006-03-12
+Sandro Haverbusch - Reelers 2 - 2
+TyresÃ¶ Drifters - Svearikes Finaste 2 - 0
+IFK Dalle - Rotselleri FK 3 - 1
+Black Ivory - Angels of Gothenburg 1 - 1
+week 11
+2006-03-19
+Angels of Gothenburg - IFK Dalle 2 - 0
+Rotselleri FK - TyresÃ¶ Drifters 2 - 3
+Svearikes Finaste - Sandro Haverbusch 1 - 2
+Reelers - Black Ivory 0 - 0
+week 12
+2006-03-26
+Black Ivory - IFK Dalle 0 - 2
+Reelers - Svearikes Finaste 0 - 4
+Sandro Haverbusch - Rotselleri FK 0 - 3
+TyresÃ¶ Drifters - Angels of Gothenburg 2 - 2
+week 13
+2006-04-02
+Rotselleri FK - Reelers 0 - 1
+IFK Dalle - TyresÃ¶ Drifters 3 - 1
+Angels of Gothenburg - Sandro Haverbusch 0 - 0
+Black Ivory - Svearikes Finaste 0 - 3
+week 14
+2006-04-09
+Sandro Haverbusch - IFK Dalle 0 - 3
+Svearikes Finaste - Rotselleri FK 3 - 0
+Reelers - Angels of Gothenburg 2 - 0
+TyresÃ¶ Drifters - Black Ivory 1 - 0

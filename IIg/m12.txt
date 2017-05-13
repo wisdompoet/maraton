@@ -1,0 +1,84 @@
+week 1
+2001-02-11
+Mercenaries - Kistbärarna 2 - 1
+Marvel City - FC Strong Bears 1 - 2
+Ormestorp - FC Bjeagle 2 - 0
+BFG United - ZIEV AttacK 0 - 2
+week 2
+2001-02-18
+FC Bjeagle - Mercenaries 5 - 0
+ZIEV AttacK - Marvel City 2 - 2
+Kistbärarna - BFG United 1 - 1
+FC Strong Bears - Ormestorp 2 - 1
+week 3
+2001-02-25
+Marvel City - Kistbärarna 6 - 0
+Ormestorp - ZIEV AttacK 0 - 4
+FC Bjeagle - FC Strong Bears 0 - 1
+BFG United - Mercenaries 3 - 0
+week 4
+2001-03-04
+Mercenaries - FC Strong Bears 2 - 4
+ZIEV AttacK - FC Bjeagle 2 - 0
+Kistbärarna - Ormestorp 2 - 0
+BFG United - Marvel City 1 - 4
+week 5
+2001-03-11
+Marvel City - Mercenaries 2 - 2
+Ormestorp - BFG United 2 - 0
+FC Bjeagle - Kistbärarna 0 - 3
+FC Strong Bears - ZIEV AttacK 3 - 1
+week 6
+2001-03-18
+Mercenaries - ZIEV AttacK 2 - 1
+Marvel City - Ormestorp 1 - 0
+Kistbärarna - FC Strong Bears 1 - 0
+BFG United - FC Bjeagle 2 - 0
+week 7
+2001-03-25
+Ormestorp - Mercenaries 5 - 1
+FC Bjeagle - Marvel City 0 - 2
+ZIEV AttacK - Kistbärarna 1 - 0
+FC Strong Bears - BFG United 3 - 0
+week 8
+2001-04-01
+BFG United - FC Strong Bears 0 - 1
+Kistbärarna - ZIEV AttacK 2 - 3
+Marvel City - FC Bjeagle 4 - 0
+Mercenaries - Ormestorp 0 - 5
+week 9
+2001-04-08
+FC Bjeagle - BFG United 1 - 0
+FC Strong Bears - Kistbärarna 0 - 3
+Ormestorp - Marvel City 3 - 2
+ZIEV AttacK - Mercenaries 5 - 0
+week 10
+2001-04-15
+ZIEV AttacK - FC Strong Bears 1 - 0
+Kistbärarna - FC Bjeagle 4 - 1
+BFG United - Ormestorp 0 - 2
+Mercenaries - Marvel City 0 - 5
+week 11
+2001-04-22
+Marvel City - BFG United 1 - 0
+Ormestorp - Kistbärarna 2 - 3
+FC Bjeagle - ZIEV AttacK 0 - 1
+FC Strong Bears - Mercenaries 5 - 0
+week 12
+2001-04-29
+Mercenaries - BFG United 0 - 5
+FC Strong Bears - FC Bjeagle 4 - 0
+ZIEV AttacK - Ormestorp 5 - 0
+Kistbärarna - Marvel City 1 - 4
+week 13
+2001-05-06
+Ormestorp - FC Strong Bears 0 - 0
+BFG United - Kistbärarna 3 - 0
+Marvel City - ZIEV AttacK 4 - 1
+Mercenaries - FC Bjeagle 0 - 5
+week 14
+2001-05-13
+ZIEV AttacK - BFG United 1 - 0
+FC Bjeagle - Ormestorp 1 - 0
+FC Strong Bears - Marvel City 1 - 1
+Kistbärarna - Mercenaries 5 - 0

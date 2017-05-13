@@ -1,0 +1,84 @@
+week 1
+2016-10-02
+X-men United - Team Awesome FF 0 - 3
+watbois - Maximus FF 0 - 9
+PL.FC - The Stars 4 - 1
+Kvarnåsen SK - Steso FC 2 - 2
+week 2
+2016-10-09
+Team Awesome FF - watbois 6 - 0
+Maximus FF - Kvarnåsen SK 2 - 0
+The Stars - X-men United 0 - 1
+Steso FC - PL.FC 3 - 1
+week 3
+2016-10-16
+watbois - Steso FC 0 - 8
+Team Awesome FF - Maximus FF 5 - 3
+X-men United - PL.FC 7 - 0
+Kvarnåsen SK - The Stars 1 - 1
+week 4
+2016-10-23
+The Stars - watbois 4 - 0
+Maximus FF - X-men United 3 - 4
+PL.FC - Kvarnåsen SK 1 - 0
+Steso FC - Team Awesome FF 0 - 4
+week 5
+2016-10-30
+watbois - Kvarnåsen SK 0 - 6
+Team Awesome FF - PL.FC 7 - 0
+X-men United - Steso FC 4 - 0
+Maximus FF - The Stars 1 - 1
+week 6
+2016-11-06
+PL.FC - watbois 4 - 0
+Kvarnåsen SK - X-men United 5 - 3
+Steso FC - Maximus FF 1 - 2
+The Stars - Team Awesome FF 4 - 1
+week 7
+2016-11-13
+Maximus FF - PL.FC 5 - 1
+The Stars - Steso FC 5 - 1
+watbois - X-men United 0 - 6
+Team Awesome FF - Kvarnåsen SK 4 - 1
+week 8
+2016-11-20
+Kvarnåsen SK - Team Awesome FF 3 - 3
+Steso FC - The Stars 0 - 0
+PL.FC - Maximus FF 3 - 3
+X-men United - watbois 5 - 0
+week 9
+2016-11-27
+Maximus FF - Steso FC 2 - 0
+Team Awesome FF - The Stars 4 - 0
+X-men United - Kvarnåsen SK 2 - 2
+watbois - PL.FC 0 - 8
+week 10
+2016-12-04
+Steso FC - X-men United 3 - 3
+PL.FC - Team Awesome FF 0 - 7
+The Stars - Maximus FF 2 - 3
+Kvarnåsen SK - watbois 5 - 0
+week 11
+2016-12-11
+Team Awesome FF - Steso FC 4 - 1
+Kvarnåsen SK - PL.FC 7 - 3
+X-men United - Maximus FF 0 - 5
+watbois - The Stars 0 - 6
+week 12
+2016-12-18
+The Stars - Kvarnåsen SK 4 - 0
+Maximus FF - Team Awesome FF 3 - 0
+Steso FC - watbois 5 - 0
+PL.FC - X-men United 8 - 0
+week 13
+2016-12-25
+PL.FC - Steso FC 3 - 2
+X-men United - The Stars 0 - 10
+Kvarnåsen SK - Maximus FF 2 - 6
+watbois - Team Awesome FF 0 - 2
+week 14
+2017-01-01
+Team Awesome FF - X-men United 12 - 0
+The Stars - PL.FC 6 - 0
+Steso FC - Kvarnåsen SK 5 - 0
+Maximus FF - watbois 3 - 0

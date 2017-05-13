@@ -1,0 +1,84 @@
+week 1
+2010-01-03
+BK Mazeda - Smörsoppens BK 4 - 1
+Isle of Wight FC - FC Mackan 3 - 3
+Ränneskit IF - thestones 1 - 1
+Maximus FF - Zakrock Rooch Reloaded 0 - 0
+week 2
+2010-01-10
+thestones - Isle of Wight FC 2 - 1
+Zakrock Rooch Reloaded - Ränneskit IF 0 - 1
+FC Mackan - BK Mazeda 3 - 0
+Smörsoppens BK - Maximus FF 3 - 2
+week 3
+2010-01-17
+BK Mazeda - thestones 3 - 1
+Isle of Wight FC - Zakrock Rooch Reloaded 0 - 2
+Ränneskit IF - Maximus FF 2 - 4
+Smörsoppens BK - FC Mackan 1 - 1
+week 4
+2010-01-24
+Maximus FF - FC Mackan 0 - 2
+thestones - Smörsoppens BK 0 - 3
+Zakrock Rooch Reloaded - BK Mazeda 3 - 4
+Ränneskit IF - Isle of Wight FC 2 - 4
+week 5
+2010-01-31
+Smörsoppens BK - Zakrock Rooch Reloaded 1 - 0
+BK Mazeda - Ränneskit IF 4 - 4
+Isle of Wight FC - Maximus FF 3 - 0
+FC Mackan - thestones 7 - 1
+week 6
+2010-02-07
+Maximus FF - thestones 3 - 0
+Isle of Wight FC - BK Mazeda 3 - 2
+Zakrock Rooch Reloaded - FC Mackan 1 - 3
+Ränneskit IF - Smörsoppens BK 1 - 3
+week 7
+2010-02-14
+BK Mazeda - Maximus FF 4 - 5
+Smörsoppens BK - Isle of Wight FC 4 - 3
+thestones - Zakrock Rooch Reloaded 1 - 0
+FC Mackan - Ränneskit IF 3 - 0
+week 8
+2010-02-21
+Zakrock Rooch Reloaded - thestones 2 - 0
+Isle of Wight FC - Smörsoppens BK 1 - 0
+Maximus FF - BK Mazeda 3 - 0
+Ränneskit IF - FC Mackan 1 - 4
+week 9
+2010-02-28
+Smörsoppens BK - Ränneskit IF 1 - 0
+FC Mackan - Zakrock Rooch Reloaded 2 - 0
+BK Mazeda - Isle of Wight FC 0 - 3
+thestones - Maximus FF 1 - 4
+week 10
+2010-03-07
+Maximus FF - Isle of Wight FC 1 - 0
+Zakrock Rooch Reloaded - Smörsoppens BK 3 - 3
+Ränneskit IF - BK Mazeda 4 - 1
+thestones - FC Mackan 0 - 5
+week 11
+2010-03-14
+Isle of Wight FC - Ränneskit IF 1 - 1
+BK Mazeda - Zakrock Rooch Reloaded 0 - 3
+Smörsoppens BK - thestones 4 - 0
+FC Mackan - Maximus FF 2 - 1
+week 12
+2010-03-21
+FC Mackan - Smörsoppens BK 3 - 1
+thestones - BK Mazeda 4 - 1
+Zakrock Rooch Reloaded - Isle of Wight FC 2 - 0
+Maximus FF - Ränneskit IF 4 - 0
+week 13
+2010-03-28
+BK Mazeda - FC Mackan 1 - 1
+Ränneskit IF - Zakrock Rooch Reloaded 1 - 4
+Isle of Wight FC - thestones 7 - 0
+Maximus FF - Smörsoppens BK 2 - 0
+week 14
+2010-04-04
+thestones - Ränneskit IF 2 - 3
+Zakrock Rooch Reloaded - Maximus FF 0 - 2
+Smörsoppens BK - BK Mazeda 2 - 3
+FC Mackan - Isle of Wight FC 1 - 1

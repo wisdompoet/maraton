@@ -1,0 +1,84 @@
+week 1
+2010-04-25
+Tidelaget - Tjugosjö IF 3 - 1
+All In Flames - Red Pool 0 - 10
+Bro Broilers - Granviks BK 3 - 2
+IF Söderkamraterna Herr - MacGyver 2 - 1
+week 2
+2010-05-02
+MacGyver - Tidelaget 1 - 3
+Granviks BK - All In Flames 3 - 0
+Red Pool - IF Söderkamraterna Herr 3 - 2
+Tjugosjö IF - Bro Broilers 3 - 3
+week 3
+2010-05-09
+All In Flames - Tjugosjö IF 0 - 1
+IF Söderkamraterna Herr - Granviks BK 1 - 1
+MacGyver - Red Pool 6 - 2
+Bro Broilers - Tidelaget 2 - 2
+week 4
+2010-05-16
+Tjugosjö IF - IF Söderkamraterna Herr 2 - 1
+Bro Broilers - All In Flames 8 - 0
+Tidelaget - Red Pool 4 - 1
+Granviks BK - MacGyver 6 - 2
+week 5
+2010-05-23
+All In Flames - Tidelaget 0 - 5
+IF Söderkamraterna Herr - Bro Broilers 4 - 2
+MacGyver - Tjugosjö IF 3 - 2
+Red Pool - Granviks BK 3 - 1
+week 6
+2010-05-30
+Tidelaget - Granviks BK 2 - 0
+Tjugosjö IF - Red Pool 2 - 3
+Bro Broilers - MacGyver 3 - 2
+All In Flames - IF Söderkamraterna Herr 0 - 1
+week 7
+2010-06-06
+MacGyver - All In Flames 4 - 1
+Granviks BK - Tjugosjö IF 5 - 2
+Red Pool - Bro Broilers 4 - 3
+IF Söderkamraterna Herr - Tidelaget 1 - 2
+week 8
+2010-06-13
+All In Flames - MacGyver 2 - 2
+Bro Broilers - Red Pool 4 - 0
+Tjugosjö IF - Granviks BK 0 - 2
+Tidelaget - IF Söderkamraterna Herr 3 - 0
+week 9
+2010-06-20
+MacGyver - Bro Broilers 4 - 2
+Red Pool - Tjugosjö IF 4 - 0
+IF Söderkamraterna Herr - All In Flames 1 - 0
+Granviks BK - Tidelaget 4 - 3
+week 10
+2010-06-27
+Granviks BK - Red Pool 3 - 0
+Bro Broilers - IF Söderkamraterna Herr 3 - 0
+Tjugosjö IF - MacGyver 3 - 1
+Tidelaget - All In Flames 7 - 0
+week 11
+2010-07-04
+All In Flames - Bro Broilers 0 - 6
+IF Söderkamraterna Herr - Tjugosjö IF 1 - 1
+MacGyver - Granviks BK 2 - 0
+Red Pool - Tidelaget 2 - 4
+week 12
+2010-07-11
+Red Pool - MacGyver 3 - 5
+Tidelaget - Bro Broilers 7 - 3
+Tjugosjö IF - All In Flames 4 - 0
+Granviks BK - IF Söderkamraterna Herr 2 - 0
+week 13
+2010-07-18
+All In Flames - Granviks BK 0 - 4
+Bro Broilers - Tjugosjö IF 4 - 0
+IF Söderkamraterna Herr - Red Pool 0 - 2
+Tidelaget - MacGyver 3 - 0
+week 14
+2010-07-25
+Red Pool - All In Flames 3 - 2
+Granviks BK - Bro Broilers 5 - 1
+Tjugosjö IF - Tidelaget 0 - 6
+MacGyver - IF Söderkamraterna Herr 1 - 0

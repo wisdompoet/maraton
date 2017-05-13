@@ -1,84 +1,84 @@
-Omgång 1
-2013-12-29 (1/54) 			
-	Tampes United - BK Swissmad 	4 - 0 	HT Re-Live
-	Holmen Bois - Kardoz Boys 	0 - 3 	HT Re-Live
-	Spader Dam - Kistbärarna 	0 - 7 	HT Re-Live
-	BK Rapp - Manana 	1 - 1 	HT Re-Live
-Omgång 2
-2014-01-05 (2/54) 			
-	Manana - Spader Dam 	6 - 0 	HT Re-Live
-	BK Swissmad - Holmen Bois 	1 - 0 	HT Re-Live
-	Kardoz Boys - BK Rapp 	4 - 2 	HT Re-Live
-	Kistbärarna - Tampes United 	2 - 1 	HT Re-Live
-Omgång 3
-2014-01-12 (3/54) 			
-	Tampes United - Kardoz Boys 	6 - 3 	HT Re-Live
-	Manana - Kistbärarna 	2 - 1 	HT Re-Live
-	Spader Dam - BK Swissmad 	0 - 6 	HT Re-Live
-	BK Rapp - Holmen Bois 	2 - 2 	HT Re-Live
-Omgång 4
-2014-01-19 (4/54) 			
-	Kardoz Boys - Spader Dam 	8 - 0 	HT Re-Live
-	BK Swissmad - Manana 	1 - 1 	HT Re-Live
-	Holmen Bois - Tampes United 	4 - 4 	HT Re-Live
-	Kistbärarna - BK Rapp 	3 - 0 	HT Re-Live
-Omgång 5
-2014-01-26 (5/54) 			
-	Kistbärarna - Kardoz Boys 	4 - 0 	HT Re-Live
-	BK Rapp - BK Swissmad 	2 - 0 	HT Re-Live
-	Manana - Holmen Bois 	1 - 1 	HT Re-Live
-	Spader Dam - Tampes United 	0 - 8 	HT Re-Live
-Omgång 6
-2014-02-02 (6/54) 			
-	Holmen Bois - Spader Dam 	9 - 0 	HT Re-Live
-	BK Swissmad - Kistbärarna 	1 - 2 	HT Re-Live
-	Kardoz Boys - Manana 	4 - 2 	HT Re-Live
-	Tampes United - BK Rapp 	5 - 0 	HT Re-Live
-Omgång 7
-2014-02-09 (7/54) 			
-	Kardoz Boys - BK Swissmad 	0 - 3 	HT Re-Live
-	Kistbärarna - Holmen Bois 	2 - 0 	HT Re-Live
-	Manana - Tampes United 	4 - 1 	HT Re-Live
-	Spader Dam - BK Rapp 	1 - 8 	HT Re-Live
-Omgång 8
-2014-02-16 (8/54) 			
-	Holmen Bois - Kistbärarna 	2 - 2 	HT Re-Live
-	Tampes United - Manana 	3 - 1 	HT Re-Live
-	BK Swissmad - Kardoz Boys 	1 - 5 	HT Re-Live
-	BK Rapp - Spader Dam 	9 - 0 	HT Re-Live
-Omgång 9
-2014-02-23 (9/54) 			
-	Spader Dam - Holmen Bois 	0 - 11 	HT Re-Live
-	Kistbärarna - BK Swissmad 	2 - 1 	HT Re-Live
-	Manana - Kardoz Boys 	3 - 2 	HT Re-Live
-	BK Rapp - Tampes United 	2 - 1 	HT Re-Live
-Omgång 10
-2014-03-02 (10/54) 			
-	Holmen Bois - Manana 	3 - 1 	HT Re-Live
-	Tampes United - Spader Dam 	7 - 0 	HT Re-Live
-	Kardoz Boys - Kistbärarna 	3 - 2 	HT Re-Live
-	BK Swissmad - BK Rapp 	4 - 0 	HT Re-Live
-Omgång 11
-2014-03-09 (11/54) 			
-	BK Rapp - Kistbärarna 	1 - 1 	HT Re-Live
-	Spader Dam - Kardoz Boys 	0 - 10 	HT Re-Live
-	Tampes United - Holmen Bois 	0 - 2 	HT Re-Live
-	Manana - BK Swissmad 	4 - 1 	HT Re-Live
-Omgång 12
-2014-03-16 (12/54) 			
-	Holmen Bois - BK Rapp 	4 - 1 	HT Re-Live
-	BK Swissmad - Spader Dam 	3 - 0 	HT Re-Live
-	Kistbärarna - Manana 	3 - 2 	HT Re-Live
-	Kardoz Boys - Tampes United 	2 - 1 	HT Re-Live
-Omgång 13
-2014-03-23 (13/54) 			
-	Tampes United - Kistbärarna 	2 - 2 	HT Re-Live
-	Holmen Bois - BK Swissmad 	7 - 3 	HT Re-Live
-	BK Rapp - Kardoz Boys 	1 - 3 	HT Re-Live
-	Spader Dam - Manana 	2 - 4 	HT Re-Live
-Omgång 14
-2014-03-30 (14/54) 			
-	Manana - BK Rapp 	4 - 1 	HT Re-Live
-	BK Swissmad - Tampes United 	2 - 3 	HT Re-Live
-	Kistbärarna - Spader Dam 	9 - 0 	HT Re-Live
-	Kardoz Boys - Holmen Bois 	5 - 1 	HT Re-Live
+week 1
+2013-12-29
+BK Rapp - Manana 1 - 1
+Spader Dam - Kistbärarna 0 - 7
+Holmen Bois - Kardoz Boys 0 - 3
+Tampes United - BK Swissmad 4 - 0
+week 2
+2014-01-05
+Kistbärarna - Tampes United 2 - 1
+Kardoz Boys - BK Rapp 4 - 2
+BK Swissmad - Holmen Bois 1 - 0
+Manana - Spader Dam 6 - 0
+week 3
+2014-01-12
+BK Rapp - Holmen Bois 2 - 2
+Spader Dam - BK Swissmad 0 - 6
+Manana - Kistbärarna 2 - 1
+Tampes United - Kardoz Boys 6 - 3
+week 4
+2014-01-19
+Kistbärarna - BK Rapp 3 - 0
+Holmen Bois - Tampes United 4 - 4
+BK Swissmad - Manana 1 - 1
+Kardoz Boys - Spader Dam 8 - 0
+week 5
+2014-01-26
+Spader Dam - Tampes United 0 - 8
+Manana - Holmen Bois 1 - 1
+BK Rapp - BK Swissmad 2 - 0
+Kistbärarna - Kardoz Boys 4 - 0
+week 6
+2014-02-02
+Tampes United - BK Rapp 5 - 0
+Kardoz Boys - Manana 4 - 2
+BK Swissmad - Kistbärarna 1 - 2
+Holmen Bois - Spader Dam 9 - 0
+week 7
+2014-02-09
+Kardoz Boys - BK Swissmad 0 - 3
+Kistbärarna - Holmen Bois 2 - 0
+Manana - Tampes United 4 - 1
+Spader Dam - BK Rapp 1 - 8
+week 8
+2014-02-16
+Holmen Bois - Kistbärarna 2 - 2
+Tampes United - Manana 3 - 1
+BK Swissmad - Kardoz Boys 1 - 5
+BK Rapp - Spader Dam 9 - 0
+week 9
+2014-02-23
+Spader Dam - Holmen Bois 0 - 11
+Kistbärarna - BK Swissmad 2 - 1
+Manana - Kardoz Boys 3 - 2
+BK Rapp - Tampes United 2 - 1
+week 10
+2014-03-02
+Holmen Bois - Manana 3 - 1
+Tampes United - Spader Dam 7 - 0
+Kardoz Boys - Kistbärarna 3 - 2
+BK Swissmad - BK Rapp 4 - 0
+week 11
+2014-03-09
+BK Rapp - Kistbärarna 1 - 1
+Spader Dam - Kardoz Boys 0 - 10
+Tampes United - Holmen Bois 0 - 2
+Manana - BK Swissmad 4 - 1
+week 12
+2014-03-16
+Holmen Bois - BK Rapp 4 - 1
+BK Swissmad - Spader Dam 3 - 0
+Kistbärarna - Manana 3 - 2
+Kardoz Boys - Tampes United 2 - 1
+week 13
+2014-03-23
+Holmen Bois - BK Swissmad 7 - 3
+Tampes United - Kistbärarna 2 - 2
+BK Rapp - Kardoz Boys 1 - 3
+Spader Dam - Manana 2 - 4
+week 14
+2014-03-30
+Manana - BK Rapp 4 - 1
+BK Swissmad - Tampes United 2 - 3
+Kistbärarna - Spader Dam 9 - 0
+Kardoz Boys - Holmen Bois 5 - 1

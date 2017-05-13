@@ -1,0 +1,84 @@
+week 1
+2005-09-18
+Spurs FC - BK Glenn 2 - 2
+Megadawe FC - Bajen HIF 0 - 3
+Topeka Gators - Aplared FC 3 - 2
+club Belmondo - Rastorps BK 0 - 5
+week 2
+2005-09-25
+Aplared FC - Spurs FC 0 - 2
+Rastorps BK - Megadawe FC 1 - 3
+BK Glenn - club Belmondo 3 - 0
+Bajen HIF - Topeka Gators 3 - 1
+week 3
+2005-10-02
+Megadawe FC - BK Glenn 1 - 0
+Topeka Gators - Rastorps BK 3 - 2
+Aplared FC - Bajen HIF 3 - 4
+club Belmondo - Spurs FC 0 - 0
+week 4
+2005-10-09
+Spurs FC - Bajen HIF 3 - 2
+Rastorps BK - Aplared FC 1 - 6
+BK Glenn - Topeka Gators 1 - 2
+club Belmondo - Megadawe FC 1 - 2
+week 5
+2005-10-16
+Megadawe FC - Spurs FC 3 - 0
+Topeka Gators - club Belmondo 0 - 1
+Aplared FC - BK Glenn 2 - 2
+Bajen HIF - Rastorps BK 6 - 1
+week 6
+2005-10-23
+Spurs FC - Rastorps BK 3 - 1
+Megadawe FC - Topeka Gators 4 - 1
+BK Glenn - Bajen HIF 5 - 1
+club Belmondo - Aplared FC 2 - 2
+week 7
+2005-10-30
+Topeka Gators - Spurs FC 1 - 3
+Aplared FC - Megadawe FC 4 - 0
+Rastorps BK - BK Glenn 6 - 2
+Bajen HIF - club Belmondo 2 - 2
+week 8
+2005-11-06
+club Belmondo - Bajen HIF 0 - 2
+BK Glenn - Rastorps BK 1 - 4
+Megadawe FC - Aplared FC 0 - 0
+Spurs FC - Topeka Gators 2 - 1
+week 9
+2005-11-13
+Aplared FC - club Belmondo 3 - 3
+Bajen HIF - BK Glenn 1 - 1
+Topeka Gators - Megadawe FC 2 - 2
+Rastorps BK - Spurs FC 3 - 4
+week 10
+2005-11-20
+Rastorps BK - Bajen HIF 7 - 2
+BK Glenn - Aplared FC 1 - 2
+club Belmondo - Topeka Gators 3 - 0
+Spurs FC - Megadawe FC 0 - 0
+week 11
+2005-11-27
+Megadawe FC - club Belmondo 2 - 0
+Topeka Gators - BK Glenn 0 - 0
+Aplared FC - Rastorps BK 5 - 1
+Bajen HIF - Spurs FC 1 - 1
+week 12
+2005-12-04
+Spurs FC - club Belmondo 2 - 2
+Bajen HIF - Aplared FC 4 - 0
+Rastorps BK - Topeka Gators 4 - 4
+BK Glenn - Megadawe FC 0 - 1
+week 13
+2005-12-11
+Topeka Gators - Bajen HIF 1 - 1
+club Belmondo - BK Glenn 5 - 0
+Megadawe FC - Rastorps BK 5 - 0
+Spurs FC - Aplared FC 0 - 2
+week 14
+2005-12-18
+Rastorps BK - club Belmondo 3 - 4
+Aplared FC - Topeka Gators 1 - 2
+Bajen HIF - Megadawe FC 2 - 3
+BK Glenn - Spurs FC 0 - 2

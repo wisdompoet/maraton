@@ -1,0 +1,84 @@
+week 1
+2006-01-08
+A.I.F. - Nosaby IF 4 - 3
+Pharmen Tigers - Prieststreet FC 1 - 6
+Umeå Stars - red wing 4 - 1
+Ingareds FF - Guided Stars FC 4 - 1
+week 2
+2006-01-15
+red wing - A.I.F. 8 - 1
+Guided Stars FC - Pharmen Tigers 4 - 2
+Nosaby IF - Ingareds FF 4 - 1
+Prieststreet FC - Umeå Stars 5 - 1
+week 3
+2006-01-22
+Pharmen Tigers - Nosaby IF 2 - 6
+Umeå Stars - Guided Stars FC 3 - 3
+red wing - Prieststreet FC 0 - 0
+Ingareds FF - A.I.F. 4 - 4
+week 4
+2006-01-29
+A.I.F. - Prieststreet FC 2 - 4
+Guided Stars FC - red wing 1 - 3
+Nosaby IF - Umeå Stars 3 - 4
+Ingareds FF - Pharmen Tigers 3 - 0
+week 5
+2006-02-05
+Pharmen Tigers - A.I.F. 5 - 5
+Umeå Stars - Ingareds FF 3 - 3
+red wing - Nosaby IF 4 - 0
+Prieststreet FC - Guided Stars FC 3 - 1
+week 6
+2006-02-12
+A.I.F. - Guided Stars FC 0 - 5
+Pharmen Tigers - Umeå Stars 4 - 1
+Nosaby IF - Prieststreet FC 3 - 3
+Ingareds FF - red wing 2 - 0
+week 7
+2006-02-19
+Umeå Stars - A.I.F. 6 - 0
+red wing - Pharmen Tigers 5 - 0
+Guided Stars FC - Nosaby IF 2 - 5
+Prieststreet FC - Ingareds FF 4 - 2
+week 8
+2006-02-26
+Ingareds FF - Prieststreet FC 4 - 1
+Nosaby IF - Guided Stars FC 6 - 0
+Pharmen Tigers - red wing 1 - 0
+A.I.F. - Umeå Stars 6 - 4
+week 9
+2006-03-05
+red wing - Ingareds FF 1 - 0
+Prieststreet FC - Nosaby IF 1 - 2
+Umeå Stars - Pharmen Tigers 5 - 3
+Guided Stars FC - A.I.F. 4 - 1
+week 10
+2006-03-12
+Guided Stars FC - Prieststreet FC 2 - 3
+Nosaby IF - red wing 1 - 0
+Ingareds FF - Umeå Stars 6 - 0
+A.I.F. - Pharmen Tigers 4 - 2
+week 11
+2006-03-19
+Pharmen Tigers - Ingareds FF 4 - 3
+Umeå Stars - Nosaby IF 2 - 1
+red wing - Guided Stars FC 4 - 0
+Prieststreet FC - A.I.F. 1 - 6
+week 12
+2006-03-26
+A.I.F. - Ingareds FF 5 - 4
+Prieststreet FC - red wing 0 - 1
+Guided Stars FC - Umeå Stars 6 - 3
+Nosaby IF - Pharmen Tigers 3 - 1
+week 13
+2006-04-02
+Umeå Stars - Prieststreet FC 4 - 1
+Ingareds FF - Nosaby IF 5 - 0
+Pharmen Tigers - Guided Stars FC 6 - 2
+A.I.F. - red wing 0 - 0
+week 14
+2006-04-09
+Guided Stars FC - Ingareds FF 2 - 3
+red wing - Umeå Stars 4 - 0
+Prieststreet FC - Pharmen Tigers 2 - 4
+Nosaby IF - A.I.F. 2 - 2

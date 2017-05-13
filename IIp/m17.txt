@@ -1,0 +1,84 @@
+week 1
+2002-08-25
+Ponsbach HK - Thrash City 0 - 1
+IFK Bolaget - Bloom_County 3 - 0
+Luke Fotboll - Första Femman FF 6 - 2
+FK Roof - Juveby IF 1 - 2
+week 2
+2002-09-01
+Första Femman FF - Ponsbach HK 0 - 2
+Juveby IF - IFK Bolaget 4 - 0
+Thrash City - FK Roof 1 - 2
+Bloom_County - Luke Fotboll 1 - 2
+week 3
+2002-09-08
+IFK Bolaget - Thrash City 4 - 0
+Luke Fotboll - Juveby IF 1 - 5
+Första Femman FF - Bloom_County 0 - 9
+FK Roof - Ponsbach HK 2 - 0
+week 4
+2002-09-15
+Ponsbach HK - Bloom_County 2 - 1
+Juveby IF - Första Femman FF 9 - 0
+Thrash City - Luke Fotboll 0 - 7
+FK Roof - IFK Bolaget 3 - 1
+week 5
+2002-09-22
+IFK Bolaget - Ponsbach HK 3 - 1
+Luke Fotboll - FK Roof 1 - 2
+Första Femman FF - Thrash City 2 - 2
+Bloom_County - Juveby IF 1 - 4
+week 6
+2002-09-29
+Ponsbach HK - Juveby IF 1 - 2
+IFK Bolaget - Luke Fotboll 5 - 1
+Thrash City - Bloom_County 0 - 4
+FK Roof - Första Femman FF 3 - 0
+week 7
+2002-10-06
+Luke Fotboll - Ponsbach HK 3 - 4
+Första Femman FF - IFK Bolaget 3 - 0
+Juveby IF - Thrash City 4 - 0
+Bloom_County - FK Roof 3 - 1
+week 8
+2002-10-13
+FK Roof - Bloom_County 5 - 2
+Thrash City - Juveby IF 2 - 3
+IFK Bolaget - Första Femman FF 2 - 0
+Ponsbach HK - Luke Fotboll 4 - 1
+week 9
+2002-10-20
+Första Femman FF - FK Roof 1 - 2
+Bloom_County - Thrash City 5 - 1
+Luke Fotboll - IFK Bolaget 2 - 1
+Juveby IF - Ponsbach HK 7 - 0
+week 10
+2002-10-27
+Juveby IF - Bloom_County 6 - 0
+Thrash City - Första Femman FF 4 - 0
+FK Roof - Luke Fotboll 2 - 1
+Ponsbach HK - IFK Bolaget 1 - 1
+week 11
+2002-11-03
+IFK Bolaget - FK Roof 0 - 1
+Luke Fotboll - Thrash City 5 - 2
+Första Femman FF - Juveby IF 1 - 7
+Bloom_County - Ponsbach HK 1 - 0
+week 12
+2002-11-10
+Ponsbach HK - FK Roof 2 - 1
+Bloom_County - Första Femman FF 4 - 1
+Juveby IF - Luke Fotboll 4 - 1
+Thrash City - IFK Bolaget 0 - 1
+week 13
+2002-11-17
+Luke Fotboll - Bloom_County 1 - 4
+FK Roof - Thrash City 2 - 2
+IFK Bolaget - Juveby IF 0 - 1
+Ponsbach HK - Första Femman FF 4 - 0
+week 14
+2002-11-24
+Juveby IF - FK Roof 4 - 2
+Första Femman FF - Luke Fotboll 0 - 3
+Bloom_County - IFK Bolaget 2 - 1
+Thrash City - Ponsbach HK 1 - 1

@@ -1,0 +1,84 @@
+week 1
+2012-02-26
+Massive Attack - Green Boys FC 2 - 1
+Peking IF - Hökens BK 3 - 1
+Castle Black - Viking FC 0 - 4
+LFLB - Fastnet 1 - 0
+week 2
+2012-03-04
+Fastnet - Castle Black 3 - 2
+Viking FC - Massive Attack 1 - 4
+Hökens BK - LFLB 5 - 2
+Green Boys FC - Peking IF 2 - 1
+week 3
+2012-03-11
+LFLB - Peking IF 3 - 0
+Castle Black - Green Boys FC 1 - 0
+Fastnet - Viking FC 1 - 3
+Massive Attack - Hökens BK 5 - 1
+week 4
+2012-03-18
+Hökens BK - Castle Black 1 - 0
+Viking FC - LFLB 3 - 1
+Peking IF - Massive Attack 2 - 5
+Green Boys FC - Fastnet 1 - 1
+week 5
+2012-03-25
+Castle Black - Massive Attack 0 - 1
+Fastnet - Peking IF 5 - 3
+Viking FC - Hökens BK 2 - 2
+LFLB - Green Boys FC 4 - 2
+week 6
+2012-04-01
+Massive Attack - LFLB 3 - 2
+Hökens BK - Fastnet 4 - 0
+Green Boys FC - Viking FC 1 - 0
+Peking IF - Castle Black 2 - 0
+week 7
+2012-04-08
+Castle Black - LFLB 3 - 1
+Hökens BK - Green Boys FC 3 - 0
+Viking FC - Peking IF 5 - 0
+Fastnet - Massive Attack 0 - 3
+week 8
+2012-04-15
+Massive Attack - Fastnet 2 - 0
+Peking IF - Viking FC 1 - 2
+LFLB - Castle Black 1 - 1
+Green Boys FC - Hökens BK 4 - 1
+week 9
+2012-04-22
+Fastnet - Hökens BK 5 - 0
+LFLB - Massive Attack 1 - 4
+Viking FC - Green Boys FC 0 - 0
+Castle Black - Peking IF 1 - 1
+week 10
+2012-04-29
+Hökens BK - Viking FC 5 - 3
+Massive Attack - Castle Black 2 - 2
+Peking IF - Fastnet 0 - 6
+Green Boys FC - LFLB 5 - 2
+week 11
+2012-05-06
+Fastnet - Green Boys FC 3 - 0
+Massive Attack - Peking IF 8 - 0
+LFLB - Viking FC 3 - 0
+Castle Black - Hökens BK 2 - 0
+week 12
+2012-05-13
+Hökens BK - Massive Attack 2 - 4
+Viking FC - Fastnet 4 - 0
+Green Boys FC - Castle Black 1 - 1
+Peking IF - LFLB 0 - 8
+week 13
+2012-05-20
+Massive Attack - Viking FC 4 - 1
+LFLB - Hökens BK 4 - 1
+Peking IF - Green Boys FC 0 - 4
+Castle Black - Fastnet 1 - 0
+week 14
+2012-05-27
+Green Boys FC - Massive Attack 1 - 2
+Fastnet - LFLB 1 - 1
+Viking FC - Castle Black 0 - 5
+Hökens BK - Peking IF 8 - 0

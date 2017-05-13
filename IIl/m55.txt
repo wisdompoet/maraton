@@ -1,0 +1,84 @@
+week 1
+2014-04-20
+inget av lagen - Gargamelle 3 - 0
+Skene IF  - Bergnäsets AIK 2 - 0
+Sthlm-Fanatix - Bossedog 1 - 3
+FC Brallon - Cobra Fighters 1 - 0
+week 2
+2014-04-27
+Bossedog - FC Brallon 3 - 1
+Cobra Fighters - Skene IF  0 - 5
+Gargamelle - Sthlm-Fanatix 3 - 0
+Bergnäsets AIK - inget av lagen 3 - 1
+week 3
+2014-05-04
+Skene IF  - FC Brallon 7 - 0
+inget av lagen - Bossedog 1 - 3
+Bergnäsets AIK - Gargamelle 3 - 3
+Sthlm-Fanatix - Cobra Fighters 7 - 1
+week 4
+2014-05-11
+Gargamelle - Skene IF  4 - 2
+FC Brallon - Sthlm-Fanatix 0 - 5
+Bossedog - Bergnäsets AIK 1 - 0
+Cobra Fighters - inget av lagen 3 - 4
+week 5
+2014-05-18
+Bergnäsets AIK - FC Brallon 5 - 0
+Skene IF  - Bossedog 3 - 3
+inget av lagen - Sthlm-Fanatix 3 - 1
+Gargamelle - Cobra Fighters 6 - 2
+week 6
+2014-05-25
+Sthlm-Fanatix - Skene IF  2 - 2
+Cobra Fighters - Bergnäsets AIK 1 - 3
+Bossedog - Gargamelle 3 - 4
+FC Brallon - inget av lagen 0 - 5
+week 7
+2014-06-01
+inget av lagen - Skene IF  0 - 4
+Gargamelle - FC Brallon 7 - 1
+Bergnäsets AIK - Sthlm-Fanatix 2 - 2
+Cobra Fighters - Bossedog 2 - 4
+week 8
+2014-06-08
+FC Brallon - Gargamelle 0 - 10
+Bossedog - Cobra Fighters 6 - 1
+Sthlm-Fanatix - Bergnäsets AIK 3 - 0
+Skene IF  - inget av lagen 5 - 0
+week 9
+2014-06-15
+Gargamelle - Bossedog 2 - 1
+Skene IF  - Sthlm-Fanatix 4 - 0
+Bergnäsets AIK - Cobra Fighters 2 - 1
+inget av lagen - FC Brallon 7 - 0
+week 10
+2014-06-22
+Cobra Fighters - Gargamelle 2 - 2
+Bossedog - Skene IF  0 - 3
+FC Brallon - Bergnäsets AIK 0 - 5
+Sthlm-Fanatix - inget av lagen 3 - 0
+week 11
+2014-06-29
+Bergnäsets AIK - Bossedog 1 - 3
+inget av lagen - Cobra Fighters 0 - 2
+Skene IF  - Gargamelle 5 - 4
+Sthlm-Fanatix - FC Brallon 10 - 0
+week 12
+2014-07-06
+Cobra Fighters - Sthlm-Fanatix 1 - 4
+Gargamelle - Bergnäsets AIK 2 - 0
+FC Brallon - Skene IF  0 - 11
+Bossedog - inget av lagen 4 - 1
+week 13
+2014-07-13
+Sthlm-Fanatix - Gargamelle 4 - 3
+Skene IF  - Cobra Fighters 6 - 0
+FC Brallon - Bossedog 0 - 10
+inget av lagen - Bergnäsets AIK 1 - 2
+week 14
+2014-07-20
+Bossedog - Sthlm-Fanatix 2 - 2
+Cobra Fighters - FC Brallon 11 - 0
+Gargamelle - inget av lagen 3 - 2
+Bergnäsets AIK - Skene IF  0 - 0

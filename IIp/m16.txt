@@ -1,0 +1,84 @@
+week 1
+2002-05-05
+Ponsbach HK - Thrash City 1 - 1
+Första Femman FF - IFK Bolaget 2 - 0
+Loo Loosers FC - Halifax United 0 - 2
+Bloom_County - Luke Fotboll 5 - 1
+week 2
+2002-05-12
+Halifax United - Ponsbach HK 0 - 4
+Luke Fotboll - Första Femman FF 3 - 1
+Thrash City - Bloom_County 4 - 3
+IFK Bolaget - Loo Loosers FC 1 - 0
+week 3
+2002-05-19
+Första Femman FF - Thrash City 2 - 0
+Loo Loosers FC - Luke Fotboll 3 - 0
+Halifax United - IFK Bolaget 2 - 0
+Bloom_County - Ponsbach HK 1 - 2
+week 4
+2002-05-26
+Ponsbach HK - IFK Bolaget 4 - 0
+Luke Fotboll - Halifax United 5 - 2
+Thrash City - Loo Loosers FC 5 - 1
+Bloom_County - Första Femman FF 3 - 1
+week 5
+2002-06-02
+Första Femman FF - Ponsbach HK 1 - 0
+Loo Loosers FC - Bloom_County 3 - 4
+Halifax United - Thrash City 2 - 5
+IFK Bolaget - Luke Fotboll 3 - 1
+week 6
+2002-06-09
+Ponsbach HK - Luke Fotboll 0 - 0
+Första Femman FF - Loo Loosers FC 2 - 1
+Thrash City - IFK Bolaget 1 - 3
+Bloom_County - Halifax United 7 - 0
+week 7
+2002-06-16
+Loo Loosers FC - Ponsbach HK 1 - 1
+Halifax United - Första Femman FF 2 - 1
+Luke Fotboll - Thrash City 1 - 1
+IFK Bolaget - Bloom_County 3 - 0
+week 8
+2002-06-23
+Bloom_County - IFK Bolaget 2 - 0
+Thrash City - Luke Fotboll 4 - 3
+Första Femman FF - Halifax United 1 - 3
+Ponsbach HK - Loo Loosers FC 5 - 1
+week 9
+2002-06-30
+Halifax United - Bloom_County 2 - 2
+IFK Bolaget - Thrash City 3 - 1
+Loo Loosers FC - Första Femman FF 4 - 1
+Luke Fotboll - Ponsbach HK 1 - 3
+week 10
+2002-07-07
+Luke Fotboll - IFK Bolaget 2 - 1
+Thrash City - Halifax United 4 - 1
+Bloom_County - Loo Loosers FC 2 - 0
+Ponsbach HK - Första Femman FF 0 - 1
+week 11
+2002-07-14
+Första Femman FF - Bloom_County 2 - 2
+Loo Loosers FC - Thrash City 1 - 3
+Halifax United - Luke Fotboll 4 - 1
+IFK Bolaget - Ponsbach HK 0 - 1
+week 12
+2002-07-21
+Ponsbach HK - Bloom_County 5 - 0
+IFK Bolaget - Halifax United 2 - 0
+Luke Fotboll - Loo Loosers FC 2 - 2
+Thrash City - Första Femman FF 0 - 0
+week 13
+2002-07-28
+Loo Loosers FC - IFK Bolaget 2 - 2
+Bloom_County - Thrash City 0 - 3
+Första Femman FF - Luke Fotboll 0 - 2
+Ponsbach HK - Halifax United 2 - 2
+week 14
+2002-08-04
+Luke Fotboll - Bloom_County 3 - 1
+Halifax United - Loo Loosers FC 3 - 4
+IFK Bolaget - Första Femman FF 2 - 0
+Thrash City - Ponsbach HK 3 - 4

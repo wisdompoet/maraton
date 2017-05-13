@@ -1,0 +1,84 @@
+week 1
+2012-06-17
+FC Donsen - Tidelaget 1 - 1
+Odens FC - Real Jakobsdal 1 - 1
+PERRES UNITED - Yeltzin Boyz 5 - 1
+BK Angus - bonk IS 2 - 0
+week 2
+2012-06-24
+bonk IS - FC Donsen 1 - 2
+Real Jakobsdal - BK Angus 3 - 0
+Yeltzin Boyz - Odens FC 2 - 5
+Tidelaget - PERRES UNITED 3 - 0
+week 3
+2012-07-01
+BK Angus - Odens FC 0 - 2
+bonk IS - Tidelaget 3 - 3
+PERRES UNITED - Real Jakobsdal 1 - 3
+FC Donsen - Yeltzin Boyz 6 - 1
+week 4
+2012-07-08
+Real Jakobsdal - FC Donsen 2 - 3
+Tidelaget - BK Angus 1 - 2
+Odens FC - PERRES UNITED 0 - 0
+Yeltzin Boyz - bonk IS 0 - 2
+week 5
+2012-07-15
+FC Donsen - PERRES UNITED 2 - 1
+bonk IS - Odens FC 3 - 2
+BK Angus - Yeltzin Boyz 5 - 0
+Tidelaget - Real Jakobsdal 1 - 1
+week 6
+2012-07-22
+Odens FC - FC Donsen 0 - 2
+Real Jakobsdal - bonk IS 1 - 0
+PERRES UNITED - BK Angus 3 - 1
+Yeltzin Boyz - Tidelaget 0 - 3
+week 7
+2012-07-29
+Tidelaget - Odens FC 2 - 2
+FC Donsen - BK Angus 3 - 1
+bonk IS - PERRES UNITED 2 - 1
+Real Jakobsdal - Yeltzin Boyz 2 - 0
+week 8
+2012-08-05
+Odens FC - Tidelaget 1 - 0
+BK Angus - FC Donsen 2 - 1
+PERRES UNITED - bonk IS 2 - 0
+Yeltzin Boyz - Real Jakobsdal 0 - 5
+week 9
+2012-08-12
+BK Angus - PERRES UNITED 3 - 2
+Tidelaget - Yeltzin Boyz 3 - 0
+bonk IS - Real Jakobsdal 2 - 0
+FC Donsen - Odens FC 0 - 1
+week 10
+2012-08-19
+Odens FC - bonk IS 2 - 0
+Real Jakobsdal - Tidelaget 2 - 3
+PERRES UNITED - FC Donsen 1 - 0
+Yeltzin Boyz - BK Angus 0 - 2
+week 11
+2012-08-26
+FC Donsen - Real Jakobsdal 3 - 1
+bonk IS - Yeltzin Boyz 3 - 0
+BK Angus - Tidelaget 2 - 0
+PERRES UNITED - Odens FC 2 - 0
+week 12
+2012-09-02
+Real Jakobsdal - PERRES UNITED 4 - 0
+Odens FC - BK Angus 3 - 1
+Tidelaget - bonk IS 1 - 5
+Yeltzin Boyz - FC Donsen 0 - 1
+week 13
+2012-09-09
+Odens FC - Yeltzin Boyz 2 - 0
+BK Angus - Real Jakobsdal 2 - 1
+PERRES UNITED - Tidelaget 2 - 4
+FC Donsen - bonk IS 1 - 2
+week 14
+2012-09-16
+bonk IS - BK Angus 5 - 0
+Tidelaget - FC Donsen 1 - 3
+Yeltzin Boyz - PERRES UNITED 1 - 2
+Real Jakobsdal - Odens FC 2 - 1

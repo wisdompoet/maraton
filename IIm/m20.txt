@@ -1,0 +1,84 @@
+week 1
+2003-07-27
+Tre Pleonasmer - Lyckeby FF 2 - 1
+Ambient Underground - Olsfors FC 3 - 2
+Bollelvan - Vinterviken FC 5 - 0
+Frank`z Bröder - Halva Inne BK 6 - 2
+week 2
+2003-08-03
+Vinterviken FC - Tre Pleonasmer 0 - 4
+Halva Inne BK - Ambient Underground 6 - 2
+Lyckeby FF - Frank`z Bröder 4 - 1
+Olsfors FC - Bollelvan 6 - 1
+week 3
+2003-08-10
+Ambient Underground - Lyckeby FF 1 - 3
+Bollelvan - Halva Inne BK 3 - 5
+Vinterviken FC - Olsfors FC 0 - 5
+Frank`z Bröder - Tre Pleonasmer 2 - 5
+week 4
+2003-08-17
+Tre Pleonasmer - Olsfors FC 3 - 0
+Halva Inne BK - Vinterviken FC 2 - 2
+Lyckeby FF - Bollelvan 1 - 1
+Frank`z Bröder - Ambient Underground 1 - 4
+week 5
+2003-08-24
+Ambient Underground - Tre Pleonasmer 2 - 1
+Bollelvan - Frank`z Bröder 7 - 1
+Vinterviken FC - Lyckeby FF 1 - 2
+Olsfors FC - Halva Inne BK 3 - 2
+week 6
+2003-08-31
+Tre Pleonasmer - Halva Inne BK 1 - 2
+Ambient Underground - Bollelvan 5 - 1
+Lyckeby FF - Olsfors FC 0 - 3
+Frank`z Bröder - Vinterviken FC 2 - 2
+week 7
+2003-09-07
+Bollelvan - Tre Pleonasmer 4 - 2
+Vinterviken FC - Ambient Underground 0 - 4
+Halva Inne BK - Lyckeby FF 5 - 0
+Olsfors FC - Frank`z Bröder 2 - 0
+week 8
+2003-09-14
+Frank`z Bröder - Olsfors FC 4 - 3
+Lyckeby FF - Halva Inne BK 1 - 4
+Ambient Underground - Vinterviken FC 3 - 0
+Tre Pleonasmer - Bollelvan 2 - 2
+week 9
+2003-09-21
+Vinterviken FC - Frank`z Bröder 1 - 1
+Olsfors FC - Lyckeby FF 3 - 0
+Bollelvan - Ambient Underground 1 - 2
+Halva Inne BK - Tre Pleonasmer 4 - 0
+week 10
+2003-09-28
+Halva Inne BK - Olsfors FC 3 - 2
+Lyckeby FF - Vinterviken FC 1 - 1
+Frank`z Bröder - Bollelvan 3 - 0
+Tre Pleonasmer - Ambient Underground 3 - 1
+week 11
+2003-10-05
+Ambient Underground - Frank`z Bröder 4 - 2
+Bollelvan - Lyckeby FF 2 - 1
+Vinterviken FC - Halva Inne BK 1 - 2
+Olsfors FC - Tre Pleonasmer 2 - 1
+week 12
+2003-10-12
+Tre Pleonasmer - Frank`z Bröder 5 - 2
+Olsfors FC - Vinterviken FC 1 - 0
+Halva Inne BK - Bollelvan 0 - 0
+Lyckeby FF - Ambient Underground 0 - 4
+week 13
+2003-10-19
+Bollelvan - Olsfors FC 1 - 1
+Frank`z Bröder - Lyckeby FF 2 - 0
+Ambient Underground - Halva Inne BK 5 - 3
+Tre Pleonasmer - Vinterviken FC 4 - 2
+week 14
+2003-10-26
+Halva Inne BK - Frank`z Bröder 3 - 1
+Vinterviken FC - Bollelvan 8 - 0
+Olsfors FC - Ambient Underground 2 - 1
+Lyckeby FF - Tre Pleonasmer 1 - 1

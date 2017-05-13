@@ -1,0 +1,84 @@
+week 1
+2010-12-05
+FC Mackan - Södermalm City 3 - 4
+FC Roddelona - Beutlins 0 - 0
+Rednaxela - A-jaur Kings 1 - 3
+Tingvalla BK - Fulla Skinkan FC 4 - 0
+week 2
+2010-12-12
+Beutlins - FC Mackan 2 - 1
+Södermalm City - Tingvalla BK 2 - 2
+A-jaur Kings - FC Roddelona 5 - 0
+Fulla Skinkan FC - Rednaxela 0 - 4
+week 3
+2010-12-19
+Tingvalla BK - A-jaur Kings 3 - 3
+FC Mackan - Fulla Skinkan FC 5 - 0
+FC Roddelona - Rednaxela 2 - 1
+Beutlins - Södermalm City 3 - 1
+week 4
+2010-12-26
+A-jaur Kings - FC Mackan 2 - 0
+Södermalm City - FC Roddelona 4 - 0
+Rednaxela - Tingvalla BK 3 - 0
+Fulla Skinkan FC - Beutlins 1 - 3
+week 5
+2011-01-02
+FC Mackan - Tingvalla BK 2 - 1
+Beutlins - Rednaxela 2 - 1
+Södermalm City - A-jaur Kings 2 - 3
+FC Roddelona - Fulla Skinkan FC 0 - 0
+week 6
+2011-01-09
+Tingvalla BK - FC Roddelona 1 - 0
+Fulla Skinkan FC - Södermalm City 0 - 4
+A-jaur Kings - Beutlins 4 - 1
+Rednaxela - FC Mackan 3 - 2
+week 7
+2011-01-16
+Södermalm City - Rednaxela 3 - 2
+Beutlins - Tingvalla BK 3 - 2
+A-jaur Kings - Fulla Skinkan FC 4 - 0
+FC Mackan - FC Roddelona 4 - 0
+week 8
+2011-01-23
+Fulla Skinkan FC - A-jaur Kings 0 - 6
+Tingvalla BK - Beutlins 1 - 3
+FC Roddelona - FC Mackan 1 - 1
+Rednaxela - Södermalm City 1 - 3
+week 9
+2011-01-30
+Beutlins - A-jaur Kings 1 - 1
+FC Mackan - Rednaxela 5 - 0
+FC Roddelona - Tingvalla BK 1 - 1
+Södermalm City - Fulla Skinkan FC 2 - 1
+week 10
+2011-02-06
+A-jaur Kings - Södermalm City 4 - 4
+Fulla Skinkan FC - FC Roddelona 1 - 2
+Rednaxela - Beutlins 2 - 1
+Tingvalla BK - FC Mackan 1 - 6
+week 11
+2011-02-13
+Beutlins - Fulla Skinkan FC 2 - 0
+FC Roddelona - Södermalm City 0 - 0
+FC Mackan - A-jaur Kings 4 - 1
+Tingvalla BK - Rednaxela 1 - 2
+week 12
+2011-02-20
+A-jaur Kings - Tingvalla BK 4 - 1
+Södermalm City - Beutlins 2 - 2
+Rednaxela - FC Roddelona 4 - 0
+Fulla Skinkan FC - FC Mackan 0 - 4
+week 13
+2011-02-27
+FC Roddelona - A-jaur Kings 0 - 2
+Tingvalla BK - Södermalm City 0 - 6
+Rednaxela - Fulla Skinkan FC 4 - 1
+FC Mackan - Beutlins 3 - 0
+week 14
+2011-03-06
+Fulla Skinkan FC - Tingvalla BK 1 - 2
+A-jaur Kings - Rednaxela 2 - 2
+Södermalm City - FC Mackan 0 - 1
+Beutlins - FC Roddelona 5 - 0

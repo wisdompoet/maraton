@@ -1,0 +1,84 @@
+week 1
+2003-11-16
+IFK SPOKET - Fyruddens BK 1 - 0
+Bornholm IF - Tuppresor 3 - 1
+Vikingarna SK - Saxemara 1 - 2
+Bror BK - Gaylords 1 - 5
+week 2
+2003-11-23
+Saxemara - IFK SPOKET 1 - 1
+Gaylords - Bornholm IF 4 - 2
+Fyruddens BK - Bror BK 1 - 2
+Tuppresor - Vikingarna SK 2 - 0
+week 3
+2003-11-30
+Bornholm IF - Fyruddens BK 0 - 3
+Vikingarna SK - Gaylords 7 - 0
+Saxemara - Tuppresor 2 - 3
+Bror BK - IFK SPOKET 1 - 0
+week 4
+2003-12-07
+IFK SPOKET - Tuppresor 0 - 4
+Gaylords - Saxemara 3 - 3
+Fyruddens BK - Vikingarna SK 0 - 4
+Bror BK - Bornholm IF 5 - 2
+week 5
+2003-12-14
+Bornholm IF - IFK SPOKET 2 - 2
+Vikingarna SK - Bror BK 3 - 2
+Saxemara - Fyruddens BK 2 - 2
+Tuppresor - Gaylords 5 - 4
+week 6
+2003-12-21
+IFK SPOKET - Gaylords 2 - 4
+Bornholm IF - Vikingarna SK 2 - 0
+Fyruddens BK - Tuppresor 1 - 1
+Bror BK - Saxemara 4 - 1
+week 7
+2003-12-28
+Vikingarna SK - IFK SPOKET 3 - 1
+Saxemara - Bornholm IF 3 - 0
+Gaylords - Fyruddens BK 2 - 2
+Tuppresor - Bror BK 3 - 3
+week 8
+2004-01-04
+Bror BK - Tuppresor 3 - 1
+Fyruddens BK - Gaylords 1 - 5
+Bornholm IF - Saxemara 0 - 3
+IFK SPOKET - Vikingarna SK 4 - 0
+week 9
+2004-01-11
+Saxemara - Bror BK 1 - 3
+Tuppresor - Fyruddens BK 5 - 0
+Vikingarna SK - Bornholm IF 0 - 1
+Gaylords - IFK SPOKET 4 - 1
+week 10
+2004-01-18
+Gaylords - Tuppresor 4 - 3
+Fyruddens BK - Saxemara 4 - 0
+Bror BK - Vikingarna SK 2 - 0
+IFK SPOKET - Bornholm IF 2 - 1
+week 11
+2004-01-25
+Bornholm IF - Bror BK 2 - 2
+Vikingarna SK - Fyruddens BK 2 - 2
+Saxemara - Gaylords 3 - 4
+Tuppresor - IFK SPOKET 3 - 0
+week 12
+2004-02-01
+IFK SPOKET - Bror BK 3 - 1
+Tuppresor - Saxemara 4 - 1
+Gaylords - Vikingarna SK 3 - 3
+Fyruddens BK - Bornholm IF 4 - 2
+week 13
+2004-02-08
+Vikingarna SK - Tuppresor 2 - 0
+Bror BK - Fyruddens BK 4 - 0
+Bornholm IF - Gaylords 2 - 4
+IFK SPOKET - Saxemara 2 - 1
+week 14
+2004-02-15
+Gaylords - Bror BK 2 - 2
+Saxemara - Vikingarna SK 3 - 0
+Tuppresor - Bornholm IF 1 - 0
+Fyruddens BK - IFK SPOKET 1 - 3

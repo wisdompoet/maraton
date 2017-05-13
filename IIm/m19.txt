@@ -1,0 +1,84 @@
+week 1
+2003-04-06
+Ambient Underground - Tre Pleonasmer 4 - 2
+Menlösa IF - Vinterviken FC 3 - 3
+Bollelvan - Lyckeby FF 3 - 1
+Olsfors FC - Andens BK 0 - 4
+week 2
+2003-04-13
+Lyckeby FF - Ambient Underground 0 - 5
+Andens BK - Menlösa IF 2 - 2
+Tre Pleonasmer - Olsfors FC 4 - 1
+Vinterviken FC - Bollelvan 2 - 3
+week 3
+2003-04-20
+Menlösa IF - Tre Pleonasmer 1 - 3
+Bollelvan - Andens BK 1 - 0
+Lyckeby FF - Vinterviken FC 4 - 0
+Olsfors FC - Ambient Underground 5 - 0
+week 4
+2003-04-27
+Ambient Underground - Vinterviken FC 3 - 3
+Andens BK - Lyckeby FF 3 - 1
+Tre Pleonasmer - Bollelvan 2 - 1
+Olsfors FC - Menlösa IF 1 - 1
+week 5
+2003-05-04
+Menlösa IF - Ambient Underground 3 - 2
+Bollelvan - Olsfors FC 5 - 0
+Lyckeby FF - Tre Pleonasmer 3 - 0
+Vinterviken FC - Andens BK 1 - 0
+week 6
+2003-05-11
+Ambient Underground - Andens BK 1 - 4
+Menlösa IF - Bollelvan 2 - 0
+Tre Pleonasmer - Vinterviken FC 2 - 1
+Olsfors FC - Lyckeby FF 1 - 1
+week 7
+2003-05-18
+Bollelvan - Ambient Underground 6 - 2
+Lyckeby FF - Menlösa IF 5 - 0
+Andens BK - Tre Pleonasmer 0 - 3
+Vinterviken FC - Olsfors FC 0 - 1
+week 8
+2003-05-25
+Olsfors FC - Vinterviken FC 3 - 1
+Tre Pleonasmer - Andens BK 2 - 1
+Menlösa IF - Lyckeby FF 1 - 2
+Ambient Underground - Bollelvan 6 - 1
+week 9
+2003-06-01
+Lyckeby FF - Olsfors FC 5 - 3
+Vinterviken FC - Tre Pleonasmer 1 - 0
+Bollelvan - Menlösa IF 3 - 0
+Andens BK - Ambient Underground 2 - 3
+week 10
+2003-06-08
+Andens BK - Vinterviken FC 0 - 0
+Tre Pleonasmer - Lyckeby FF 3 - 3
+Olsfors FC - Bollelvan 2 - 0
+Ambient Underground - Menlösa IF 5 - 2
+week 11
+2003-06-15
+Menlösa IF - Olsfors FC 1 - 1
+Bollelvan - Tre Pleonasmer 2 - 3
+Lyckeby FF - Andens BK 3 - 0
+Vinterviken FC - Ambient Underground 2 - 2
+week 12
+2003-06-22
+Ambient Underground - Olsfors FC 2 - 1
+Vinterviken FC - Lyckeby FF 0 - 2
+Andens BK - Bollelvan 7 - 0
+Tre Pleonasmer - Menlösa IF 2 - 1
+week 13
+2003-06-29
+Bollelvan - Vinterviken FC 1 - 4
+Olsfors FC - Tre Pleonasmer 2 - 2
+Menlösa IF - Andens BK 2 - 2
+Ambient Underground - Lyckeby FF 3 - 1
+week 14
+2003-07-06
+Andens BK - Olsfors FC 1 - 3
+Lyckeby FF - Bollelvan 3 - 1
+Vinterviken FC - Menlösa IF 2 - 1
+Tre Pleonasmer - Ambient Underground 3 - 3

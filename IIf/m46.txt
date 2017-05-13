@@ -1,85 +1,84 @@
-Omgång 1
-2011-07-17 (1/46)			
-IFK Magpies - AC Söder	5 - 1	HT Re-Live
-Slick Vic - Södra Rovers	2 - 3	HT Re-Live
-Grimsby Town FC - Husker United	3 - 3	HT Re-Live
-Frölunda killers - Klocktornets Järnkaminer	4 - 4	HT Re-Live
-Omgång 2
-2011-07-24 (2/46)			
-Södra Rovers - Grimsby Town FC	5 - 0	HT Re-Live
-AC Söder - Frölunda killers	3 - 7	HT Re-Live
-Klocktornets Järnkaminer - Slick Vic	4 - 2	HT Re-Live
-Husker United - IFK Magpies	4 - 4	HT Re-Live
-Omgång 3
-2011-07-31 (3/46)			
-AC Söder - Klocktornets Järnkaminer	1 - 4	HT Re-Live
-IFK Magpies - Grimsby Town FC	2 - 2	HT Re-Live
-Slick Vic - Husker United	3 - 0	HT Re-Live
-Frölunda killers - Södra Rovers	2 - 4	HT Re-Live
-Omgång 4
-2011-08-07 (4/46)			
-Grimsby Town FC - Slick Vic	2 - 3	HT Re-Live
-Södra Rovers - AC Söder	5 - 1	HT Re-Live
-Husker United - Frölunda killers	1 - 4	HT Re-Live
-Klocktornets Järnkaminer - IFK Magpies	1 - 7	HT Re-Live
-Omgång 5
-2011-08-14 (5/46)			
-Frölunda killers - Slick Vic	2 - 2	HT Re-Live
-AC Söder - Grimsby Town FC	3 - 4	HT Re-Live
-IFK Magpies - Södra Rovers	6 - 2	HT Re-Live
-Klocktornets Järnkaminer - Husker United	3 - 1	HT Re-Live
-Omgång 6
-2011-08-21 (6/46)			
-Grimsby Town FC - Frölunda killers	2 - 4	HT Re-Live
-Slick Vic - IFK Magpies	2 - 3	HT Re-Live
-Södra Rovers - Klocktornets Järnkaminer	4 - 1	HT Re-Live
-Husker United - AC Söder	8 - 1	HT Re-Live
-Omgång 7
-2011-08-28 (7/46)			
-Klocktornets Järnkaminer - Grimsby Town FC	3 - 2	HT Re-Live
-AC Söder - Slick Vic	2 - 6	HT Re-Live
-Husker United - Södra Rovers	4 - 3	HT Re-Live
-Frölunda killers - IFK Magpies	4 - 1	HT Re-Live
-Omgång 8
-2011-09-04 (8/46)			
-Grimsby Town FC - Klocktornets Järnkaminer	4 - 3	HT Re-Live
-Södra Rovers - Husker United	5 - 1	HT Re-Live
-Slick Vic - AC Söder	4 - 0	HT Re-Live
-IFK Magpies - Frölunda killers	4 - 3	HT Re-Live
-Omgång 9
-2011-09-11 (9/46)			
-IFK Magpies - Slick Vic	4 - 2	HT Re-Live
-Klocktornets Järnkaminer - Södra Rovers	3 - 3	HT Re-Live
-AC Söder - Husker United	4 - 3	HT Re-Live
-Frölunda killers - Grimsby Town FC	3 - 2	HT Re-Live
-Omgång 10
-2011-09-18 (10/46)			
-Grimsby Town FC - AC Söder	4 - 1	HT Re-Live
-Södra Rovers - IFK Magpies	3 - 7	HT Re-Live
-Husker United - Klocktornets Järnkaminer	5 - 1	HT Re-Live
-Slick Vic - Frölunda killers	5 - 0	HT Re-Live
-Omgång 11
-2011-09-25 (11/46)			
-Slick Vic - Grimsby Town FC	3 - 0	HT Re-Live
-AC Söder - Södra Rovers	1 - 6	HT Re-Live
-IFK Magpies - Klocktornets Järnkaminer	5 - 3	HT Re-Live
-Frölunda killers - Husker United	5 - 0	HT Re-Live
-Omgång 12
-2011-10-02 (12/46)			
-Husker United - Slick Vic	3 - 2	HT Re-Live
-Grimsby Town FC - IFK Magpies	2 - 2	HT Re-Live
-Klocktornets Järnkaminer - AC Söder	6 - 1	HT Re-Live
-Södra Rovers - Frölunda killers	5 - 4	HT Re-Live
-Omgång 13
-2011-10-09 (13/46)			
-IFK Magpies - Husker United	5 - 0	HT Re-Live
-Slick Vic - Klocktornets Järnkaminer	6 - 0	HT Re-Live
-Grimsby Town FC - Södra Rovers	2 - 1	HT Re-Live
-Frölunda killers - AC Söder	7 - 0	HT Re-Live
-Omgång 14
-2011-10-16 (14/46)			
-Södra Rovers - Slick Vic	4 - 1	HT Re-Live
-Husker United - Grimsby Town FC	3 - 1	HT Re-Live
-AC Söder - IFK Magpies	2 - 4	HT Re-Live
-Klocktornets Järnkaminer - Frölunda killers	3 - 2	HT Re-Live
-
+week 1
+2011-07-17
+IFK Magpies - AC SÃ¶der 5 - 1
+Slick Vic - SÃ¶dra Rovers 2 - 3
+Grimsby Town FC - Husker United 3 - 3
+FrÃ¶lunda killers - Klocktornets JÃ¤rnkaminer 4 - 4
+week 2
+2011-07-24
+SÃ¶dra Rovers - Grimsby Town FC 5 - 0
+AC SÃ¶der - FrÃ¶lunda killers 3 - 7
+Klocktornets JÃ¤rnkaminer - Slick Vic 4 - 2
+Husker United - IFK Magpies 4 - 4
+week 3
+2011-07-31
+AC SÃ¶der - Klocktornets JÃ¤rnkaminer 1 - 4
+IFK Magpies - Grimsby Town FC 2 - 2
+Slick Vic - Husker United 3 - 0
+FrÃ¶lunda killers - SÃ¶dra Rovers 2 - 4
+week 4
+2011-08-07
+Grimsby Town FC - Slick Vic 2 - 3
+SÃ¶dra Rovers - AC SÃ¶der 5 - 1
+Husker United - FrÃ¶lunda killers 1 - 4
+Klocktornets JÃ¤rnkaminer - IFK Magpies 1 - 7
+week 5
+2011-08-14
+FrÃ¶lunda killers - Slick Vic 2 - 2
+AC SÃ¶der - Grimsby Town FC 3 - 4
+IFK Magpies - SÃ¶dra Rovers 6 - 2
+Klocktornets JÃ¤rnkaminer - Husker United 3 - 1
+week 6
+2011-08-21
+Grimsby Town FC - FrÃ¶lunda killers 2 - 4
+Slick Vic - IFK Magpies 2 - 3
+SÃ¶dra Rovers - Klocktornets JÃ¤rnkaminer 4 - 1
+Husker United - AC SÃ¶der 8 - 1
+week 7
+2011-08-28
+Klocktornets JÃ¤rnkaminer - Grimsby Town FC 3 - 2
+AC SÃ¶der - Slick Vic 2 - 6
+Husker United - SÃ¶dra Rovers 4 - 3
+FrÃ¶lunda killers - IFK Magpies 4 - 1
+week 8
+2011-09-04
+Grimsby Town FC - Klocktornets JÃ¤rnkaminer 4 - 3
+SÃ¶dra Rovers - Husker United 5 - 1
+Slick Vic - AC SÃ¶der 4 - 0
+IFK Magpies - FrÃ¶lunda killers 4 - 3
+week 9
+2011-09-11
+IFK Magpies - Slick Vic 4 - 2
+Klocktornets JÃ¤rnkaminer - SÃ¶dra Rovers 3 - 3
+AC SÃ¶der - Husker United 4 - 3
+FrÃ¶lunda killers - Grimsby Town FC 3 - 2
+week 10
+2011-09-18
+Grimsby Town FC - AC SÃ¶der 4 - 1
+SÃ¶dra Rovers - IFK Magpies 3 - 7
+Husker United - Klocktornets JÃ¤rnkaminer 5 - 1
+Slick Vic - FrÃ¶lunda killers 5 - 0
+week 11
+2011-09-25
+Slick Vic - Grimsby Town FC 3 - 0
+AC SÃ¶der - SÃ¶dra Rovers 1 - 6
+IFK Magpies - Klocktornets JÃ¤rnkaminer 5 - 3
+FrÃ¶lunda killers - Husker United 5 - 0
+week 12
+2011-10-02
+Husker United - Slick Vic 3 - 2
+Grimsby Town FC - IFK Magpies 2 - 2
+Klocktornets JÃ¤rnkaminer - AC SÃ¶der 6 - 1
+SÃ¶dra Rovers - FrÃ¶lunda killers 5 - 4
+week 13
+2011-10-09
+IFK Magpies - Husker United 5 - 0
+Slick Vic - Klocktornets JÃ¤rnkaminer 6 - 0
+Grimsby Town FC - SÃ¶dra Rovers 2 - 1
+FrÃ¶lunda killers - AC SÃ¶der 7 - 0
+week 14
+2011-10-16
+SÃ¶dra Rovers - Slick Vic 4 - 1
+Husker United - Grimsby Town FC 3 - 1
+AC SÃ¶der - IFK Magpies 2 - 4
+Klocktornets JÃ¤rnkaminer - FrÃ¶lunda killers 3 - 2

@@ -1,0 +1,84 @@
+week 1
+2000-10-22
+Vikingarna SK - Ölhävers 2 - 1
+Gubbängen IF - Bohemian cucumbers 5 - 0
+FC Frontpage - Uncas Bollpojkar 3 - 2
+Humlekärrets IF - Arvidsjaur BK 0 - 1
+week 2
+2000-10-29
+Uncas Bollpojkar - Vikingarna SK 1 - 5
+Arvidsjaur BK - Gubbängen IF 1 - 2
+Ölhävers - Humlekärrets IF 2 - 2
+Bohemian cucumbers - FC Frontpage 0 - 0
+week 3
+2000-11-05
+Gubbängen IF - Ölhävers 0 - 0
+FC Frontpage - Arvidsjaur BK 2 - 1
+Uncas Bollpojkar - Bohemian cucumbers 1 - 0
+Humlekärrets IF - Vikingarna SK 0 - 0
+week 4
+2000-11-12
+Vikingarna SK - Bohemian cucumbers 0 - 0
+Arvidsjaur BK - Uncas Bollpojkar 1 - 0
+Ölhävers - FC Frontpage 0 - 0
+Humlekärrets IF - Gubbängen IF 2 - 1
+week 5
+2000-11-19
+Gubbängen IF - Vikingarna SK 2 - 2
+FC Frontpage - Humlekärrets IF 3 - 0
+Uncas Bollpojkar - Ölhävers 1 - 1
+Bohemian cucumbers - Arvidsjaur BK 1 - 0
+week 6
+2000-11-26
+Vikingarna SK - Arvidsjaur BK 0 - 0
+Gubbängen IF - FC Frontpage 1 - 1
+Ölhävers - Bohemian cucumbers 0 - 0
+Humlekärrets IF - Uncas Bollpojkar 5 - 1
+week 7
+2000-12-03
+FC Frontpage - Vikingarna SK 1 - 0
+Uncas Bollpojkar - Gubbängen IF 1 - 4
+Arvidsjaur BK - Ölhävers 1 - 1
+Bohemian cucumbers - Humlekärrets IF 0 - 1
+week 8
+2000-12-10
+Humlekärrets IF - Bohemian cucumbers 3 - 0
+Ölhävers - Arvidsjaur BK 1 - 0
+Gubbängen IF - Uncas Bollpojkar 2 - 0
+Vikingarna SK - FC Frontpage 0 - 0
+week 9
+2000-12-17
+Uncas Bollpojkar - Humlekärrets IF 2 - 0
+Bohemian cucumbers - Ölhävers 3 - 0
+FC Frontpage - Gubbängen IF 0 - 0
+Arvidsjaur BK - Vikingarna SK 4 - 0
+week 10
+2000-12-24
+Arvidsjaur BK - Bohemian cucumbers 1 - 0
+Ölhävers - Uncas Bollpojkar 1 - 2
+Humlekärrets IF - FC Frontpage 1 - 0
+Vikingarna SK - Gubbängen IF 0 - 2
+week 11
+2000-12-31
+Gubbängen IF - Humlekärrets IF 3 - 1
+FC Frontpage - Ölhävers 0 - 2
+Uncas Bollpojkar - Arvidsjaur BK 1 - 2
+Bohemian cucumbers - Vikingarna SK 1 - 0
+week 12
+2001-01-07
+Vikingarna SK - Humlekärrets IF 1 - 1
+Bohemian cucumbers - Uncas Bollpojkar 3 - 0
+Arvidsjaur BK - FC Frontpage 1 - 0
+Ölhävers - Gubbängen IF 1 - 1
+week 13
+2001-01-14
+FC Frontpage - Bohemian cucumbers 1 - 1
+Humlekärrets IF - Ölhävers 2 - 2
+Gubbängen IF - Arvidsjaur BK 0 - 0
+Vikingarna SK - Uncas Bollpojkar 2 - 0
+week 14
+2001-01-21
+Arvidsjaur BK - Humlekärrets IF 6 - 2
+Uncas Bollpojkar - FC Frontpage 0 - 4
+Bohemian cucumbers - Gubbängen IF 1 - 1
+Ölhävers - Vikingarna SK 2 - 0

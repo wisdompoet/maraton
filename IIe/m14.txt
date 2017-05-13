@@ -1,0 +1,84 @@
+week 1
+2001-09-23
+FC Oldcastle - Stream Team 1 - 3
+Lappträsk FC - Moffans Hamsterförening 1 - 2
+Högsbo Hepstars - Real Español 3 - 2
+Secret Service - Team ABC 1 - 3
+week 2
+2001-09-30
+Real Español - FC Oldcastle 7 - 1
+Team ABC - Lappträsk FC 3 - 0
+Stream Team - Secret Service 2 - 0
+Moffans Hamsterförening - Högsbo Hepstars 4 - 0
+week 3
+2001-10-07
+Lappträsk FC - Stream Team 2 - 1
+Högsbo Hepstars - Team ABC 1 - 1
+Real Español - Moffans Hamsterförening 2 - 1
+Secret Service - FC Oldcastle 1 - 3
+week 4
+2001-10-14
+FC Oldcastle - Moffans Hamsterförening 2 - 1
+Team ABC - Real Español 1 - 2
+Stream Team - Högsbo Hepstars 2 - 0
+Secret Service - Lappträsk FC 0 - 4
+week 5
+2001-10-21
+Lappträsk FC - FC Oldcastle 5 - 0
+Högsbo Hepstars - Secret Service 2 - 0
+Real Español - Stream Team 2 - 3
+Moffans Hamsterförening - Team ABC 2 - 5
+week 6
+2001-10-28
+FC Oldcastle - Team ABC 1 - 5
+Lappträsk FC - Högsbo Hepstars 2 - 0
+Stream Team - Moffans Hamsterförening 6 - 0
+Secret Service - Real Español 1 - 4
+week 7
+2001-11-04
+Högsbo Hepstars - FC Oldcastle 1 - 2
+Real Español - Lappträsk FC 1 - 2
+Team ABC - Stream Team 1 - 4
+Moffans Hamsterförening - Secret Service 0 - 3
+week 8
+2001-11-11
+Secret Service - Moffans Hamsterförening 2 - 1
+Stream Team - Team ABC 6 - 0
+Lappträsk FC - Real Español 1 - 0
+FC Oldcastle - Högsbo Hepstars 4 - 2
+week 9
+2001-11-18
+Real Español - Secret Service 3 - 0
+Moffans Hamsterförening - Stream Team 1 - 3
+Högsbo Hepstars - Lappträsk FC 1 - 1
+Team ABC - FC Oldcastle 4 - 1
+week 10
+2001-11-25
+Team ABC - Moffans Hamsterförening 2 - 3
+Stream Team - Real Español 0 - 0
+Secret Service - Högsbo Hepstars 0 - 2
+FC Oldcastle - Lappträsk FC 2 - 2
+week 11
+2001-12-02
+Lappträsk FC - Secret Service 5 - 0
+Högsbo Hepstars - Stream Team 0 - 2
+Real Español - Team ABC 4 - 0
+Moffans Hamsterförening - FC Oldcastle 4 - 1
+week 12
+2001-12-09
+FC Oldcastle - Secret Service 7 - 1
+Moffans Hamsterförening - Real Español 0 - 1
+Team ABC - Högsbo Hepstars 1 - 1
+Stream Team - Lappträsk FC 4 - 0
+week 13
+2001-12-16
+Högsbo Hepstars - Moffans Hamsterförening 1 - 1
+Secret Service - Stream Team 1 - 4
+Lappträsk FC - Team ABC 0 - 0
+FC Oldcastle - Real Español 3 - 5
+week 14
+2001-12-23
+Team ABC - Secret Service 3 - 2
+Real Español - Högsbo Hepstars 1 - 3
+Moffans Hamsterförening - Lappträsk FC 3 - 1
+Stream Team - FC Oldcastle 2 - 0

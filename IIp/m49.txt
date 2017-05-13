@@ -1,0 +1,84 @@
+week 1
+2012-06-17
+Real Krantz - Foreign Forwards UTD 3 - 3
+Bjarke BoIS - FC Bengo 0 - 0
+Frank`z Bröder - Lambo Town BFC 2 - 2
+Tanto 20 - SESAM FC 3 - 2
+week 2
+2012-06-24
+Foreign Forwards UTD - Bjarke BoIS 2 - 2
+FC Bengo - Tanto 20 3 - 0
+SESAM FC - Frank`z Bröder 3 - 3
+Lambo Town BFC - Real Krantz 1 - 3
+week 3
+2012-07-01
+Bjarke BoIS - SESAM FC 2 - 0
+Real Krantz - FC Bengo 5 - 0
+Lambo Town BFC - Foreign Forwards UTD 3 - 2
+Frank`z Bröder - Tanto 20 4 - 1
+week 4
+2012-07-08
+SESAM FC - Real Krantz 5 - 3
+Foreign Forwards UTD - Frank`z Bröder 0 - 4
+Tanto 20 - Bjarke BoIS 2 - 2
+FC Bengo - Lambo Town BFC 1 - 1
+week 5
+2012-07-15
+Frank`z Bröder - FC Bengo 0 - 0
+Real Krantz - Bjarke BoIS 2 - 1
+Lambo Town BFC - Tanto 20 6 - 2
+Foreign Forwards UTD - SESAM FC 0 - 6
+week 6
+2012-07-22
+Tanto 20 - Real Krantz 1 - 6
+Bjarke BoIS - Frank`z Bröder 2 - 1
+FC Bengo - Foreign Forwards UTD 6 - 0
+SESAM FC - Lambo Town BFC 6 - 2
+week 7
+2012-07-29
+Foreign Forwards UTD - Tanto 20 0 - 5
+SESAM FC - FC Bengo 4 - 2
+Lambo Town BFC - Bjarke BoIS 3 - 1
+Real Krantz - Frank`z Bröder 3 - 1
+week 8
+2012-08-05
+Frank`z Bröder - Real Krantz 2 - 0
+Bjarke BoIS - Lambo Town BFC 0 - 1
+Tanto 20 - Foreign Forwards UTD 7 - 0
+FC Bengo - SESAM FC 2 - 3
+week 9
+2012-08-12
+Foreign Forwards UTD - FC Bengo 0 - 5
+Lambo Town BFC - SESAM FC 5 - 2
+Real Krantz - Tanto 20 4 - 1
+Frank`z Bröder - Bjarke BoIS 0 - 2
+week 10
+2012-08-19
+SESAM FC - Foreign Forwards UTD 6 - 0
+Bjarke BoIS - Real Krantz 5 - 4
+FC Bengo - Frank`z Bröder 1 - 0
+Tanto 20 - Lambo Town BFC 0 - 3
+week 11
+2012-08-26
+Lambo Town BFC - FC Bengo 1 - 0
+Bjarke BoIS - Tanto 20 6 - 0
+Frank`z Bröder - Foreign Forwards UTD 7 - 0
+Real Krantz - SESAM FC 3 - 0
+week 12
+2012-09-02
+Foreign Forwards UTD - Lambo Town BFC 0 - 10
+Tanto 20 - Frank`z Bröder 0 - 0
+SESAM FC - Bjarke BoIS 2 - 1
+FC Bengo - Real Krantz 2 - 3
+week 13
+2012-09-09
+Bjarke BoIS - Foreign Forwards UTD 7 - 0
+Frank`z Bröder - SESAM FC 1 - 1
+Real Krantz - Lambo Town BFC 5 - 1
+Tanto 20 - FC Bengo 1 - 0
+week 14
+2012-09-16
+FC Bengo - Bjarke BoIS 0 - 2
+SESAM FC - Tanto 20 4 - 2
+Lambo Town BFC - Frank`z Bröder 0 - 4
+Foreign Forwards UTD - Real Krantz 0 - 3

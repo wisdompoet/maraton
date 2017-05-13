@@ -1,84 +1,84 @@
-Omgång 1
-2008-06-22 (1/36) 			
-	CSKA KÅBÄCKEN - FC Forrest 	1 - 2 	HT Re-Live
-	Hawkwing FF - Junne Junited 	6 - 1 	HT Re-Live
-	Dynamo Kebab - The Alice Cooperz FC 	0 - 8 	HT Re-Live
-	AC Enbent - Keffs Tigers 	3 - 1 	HT Re-Live
-Omgång 2
-2008-06-29 (2/36) 			
-	FC Forrest - AC Enbent 	3 - 4 	HT Re-Live
-	Junne Junited - CSKA KÅBÄCKEN 	1 - 8 	HT Re-Live
-	Keffs Tigers - Dynamo Kebab 	3 - 3 	HT Re-Live
-	The Alice Cooperz FC - Hawkwing FF 	2 - 3 	HT Re-Live
-Omgång 3
-2008-07-06 (3/36) 			
-	The Alice Cooperz FC - Keffs Tigers 	5 - 2 	HT Re-Live
-	AC Enbent - Junne Junited 	3 - 2 	HT Re-Live
-	Dynamo Kebab - FC Forrest 	8 - 3 	HT Re-Live
-	CSKA KÅBÄCKEN - Hawkwing FF 	3 - 2 	HT Re-Live
-Omgång 4
-2008-07-13 (4/36) 			
-	Hawkwing FF - Keffs Tigers 	2 - 2 	HT Re-Live
-	Junne Junited - Dynamo Kebab 	0 - 5 	HT Re-Live
-	FC Forrest - The Alice Cooperz FC 	0 - 2 	HT Re-Live
-	CSKA KÅBÄCKEN - AC Enbent 	5 - 4 	HT Re-Live
-Omgång 5
-2008-07-20 (5/36) 			
-	AC Enbent - Hawkwing FF 	4 - 0 	HT Re-Live
-	Dynamo Kebab - CSKA KÅBÄCKEN 	0 - 3 	HT Re-Live
-	The Alice Cooperz FC - Junne Junited 	4 - 1 	HT Re-Live
-	Keffs Tigers - FC Forrest 	2 - 3 	HT Re-Live
-Omgång 6
-2008-07-27 (6/36) 			
-	Hawkwing FF - FC Forrest 	3 - 3 	HT Re-Live
-	AC Enbent - Dynamo Kebab 	7 - 1 	HT Re-Live
-	Junne Junited - Keffs Tigers 	0 - 4 	HT Re-Live
-	CSKA KÅBÄCKEN - The Alice Cooperz FC 	2 - 2 	HT Re-Live
-Omgång 7
-2008-08-03 (7/36) 			
-	The Alice Cooperz FC - AC Enbent 	4 - 0 	HT Re-Live
-	Dynamo Kebab - Hawkwing FF 	2 - 3 	HT Re-Live
-	FC Forrest - Junne Junited 	10 - 0 	HT Re-Live
-	Keffs Tigers - CSKA KÅBÄCKEN 	1 - 2 	HT Re-Live
-Omgång 8
-2008-08-10 (8/36) 			
-	CSKA KÅBÄCKEN - Keffs Tigers 	6 - 0 	HT Re-Live
-	AC Enbent - The Alice Cooperz FC 	3 - 1 	HT Re-Live
-	Junne Junited - FC Forrest 	1 - 6 	HT Re-Live
-	Hawkwing FF - Dynamo Kebab 	5 - 1 	HT Re-Live
-Omgång 9
-2008-08-17 (9/36) 			
-	The Alice Cooperz FC - CSKA KÅBÄCKEN 	3 - 4 	HT Re-Live
-	Dynamo Kebab - AC Enbent 	2 - 3 	HT Re-Live
-	Keffs Tigers - Junne Junited 	6 - 0 	HT Re-Live
-	FC Forrest - Hawkwing FF 	2 - 3 	HT Re-Live
-Omgång 10
-2008-08-24 (10/36) 			
-	FC Forrest - Keffs Tigers 	6 - 1 	HT Re-Live
-	Junne Junited - The Alice Cooperz FC 	1 - 7 	HT Re-Live
-	CSKA KÅBÄCKEN - Dynamo Kebab 	6 - 1 	HT Re-Live
-	Hawkwing FF - AC Enbent 	4 - 4 	HT Re-Live
-Omgång 11
-2008-08-31 (11/36) 			
-	AC Enbent - CSKA KÅBÄCKEN 	5 - 2 	HT Re-Live
-	Dynamo Kebab - Junne Junited 	8 - 0 	HT Re-Live
-	The Alice Cooperz FC - FC Forrest 	4 - 2 	HT Re-Live
-	Keffs Tigers - Hawkwing FF 	2 - 2 	HT Re-Live
-Omgång 12
-2008-09-07 (12/36) 			
-	Hawkwing FF - CSKA KÅBÄCKEN 	6 - 0 	HT Re-Live
-	Keffs Tigers - The Alice Cooperz FC 	2 - 2 	HT Re-Live
-	FC Forrest - Dynamo Kebab 	5 - 1 	HT Re-Live
-	Junne Junited - AC Enbent 	0 - 10 	HT Re-Live
-Omgång 13
-2008-09-14 (13/36) 			
-	Dynamo Kebab - Keffs Tigers 	2 - 1 	HT Re-Live
-	CSKA KÅBÄCKEN - Junne Junited 	10 - 0 	HT Re-Live
-	AC Enbent - FC Forrest 	5 - 4 	HT Re-Live
-	Hawkwing FF - The Alice Cooperz FC 	2 - 0 	HT Re-Live
-Omgång 14
-2008-09-21 (14/36) 			
-	FC Forrest - CSKA KÅBÄCKEN 	3 - 3 	HT Re-Live
-	The Alice Cooperz FC - Dynamo Kebab 	2 - 5 	HT Re-Live
-	Keffs Tigers - AC Enbent 	3 - 3 	HT Re-Live
-	Junne Junited - Hawkwing FF 	0 - 7 	HT Re-Live
+week 1
+2008-06-22
+CSKA KÅBÄCKEN - FC Forrest 1 - 2
+Hawkwing FF - Junne Junited 6 - 1
+Dynamo Kebab - The Alice Cooperz FC 0 - 8
+AC Enbent - Keffs Tigers 3 - 1
+week 2
+2008-06-29
+FC Forrest - AC Enbent 3 - 4
+Junne Junited - CSKA KÅBÄCKEN 1 - 8
+Keffs Tigers - Dynamo Kebab 3 - 3
+The Alice Cooperz FC - Hawkwing FF 2 - 3
+week 3
+2008-07-06
+The Alice Cooperz FC - Keffs Tigers 5 - 2
+AC Enbent - Junne Junited 3 - 2
+Dynamo Kebab - FC Forrest 8 - 3
+CSKA KÅBÄCKEN - Hawkwing FF 3 - 2
+week 4
+2008-07-13
+Hawkwing FF - Keffs Tigers 2 - 2
+Junne Junited - Dynamo Kebab 0 - 5
+FC Forrest - The Alice Cooperz FC 0 - 2
+CSKA KÅBÄCKEN - AC Enbent 5 - 4
+week 5
+2008-07-20
+AC Enbent - Hawkwing FF 4 - 0
+Dynamo Kebab - CSKA KÅBÄCKEN 0 - 3
+The Alice Cooperz FC - Junne Junited 4 - 1
+Keffs Tigers - FC Forrest 2 - 3
+week 6
+2008-07-27
+Hawkwing FF - FC Forrest 3 - 3
+AC Enbent - Dynamo Kebab 7 - 1
+Junne Junited - Keffs Tigers 0 - 4
+CSKA KÅBÄCKEN - The Alice Cooperz FC 2 - 2
+week 7
+2008-08-03
+The Alice Cooperz FC - AC Enbent 4 - 0
+Dynamo Kebab - Hawkwing FF 2 - 3
+FC Forrest - Junne Junited 10 - 0
+Keffs Tigers - CSKA KÅBÄCKEN 1 - 2
+week 8
+2008-08-10
+CSKA KÅBÄCKEN - Keffs Tigers 6 - 0
+AC Enbent - The Alice Cooperz FC 3 - 1
+Junne Junited - FC Forrest 1 - 6
+Hawkwing FF - Dynamo Kebab 5 - 1
+week 9
+2008-08-17
+The Alice Cooperz FC - CSKA KÅBÄCKEN 3 - 4
+Dynamo Kebab - AC Enbent 2 - 3
+Keffs Tigers - Junne Junited 6 - 0
+FC Forrest - Hawkwing FF 2 - 3
+week 10
+2008-08-24
+FC Forrest - Keffs Tigers 6 - 1
+Junne Junited - The Alice Cooperz FC 1 - 7
+CSKA KÅBÄCKEN - Dynamo Kebab 6 - 1
+Hawkwing FF - AC Enbent 4 - 4
+week 11
+2008-08-31
+AC Enbent - CSKA KÅBÄCKEN 5 - 2
+Dynamo Kebab - Junne Junited 8 - 0
+The Alice Cooperz FC - FC Forrest 4 - 2
+Keffs Tigers - Hawkwing FF 2 - 2
+week 12
+2008-09-07
+Hawkwing FF - CSKA KÅBÄCKEN 6 - 0
+Keffs Tigers - The Alice Cooperz FC 2 - 2
+FC Forrest - Dynamo Kebab 5 - 1
+Junne Junited - AC Enbent 0 - 10
+week 13
+2008-09-14
+Dynamo Kebab - Keffs Tigers 2 - 1
+CSKA KÅBÄCKEN - Junne Junited 10 - 0
+AC Enbent - FC Forrest 5 - 4
+Hawkwing FF - The Alice Cooperz FC 2 - 0
+week 14
+2008-09-21
+FC Forrest - CSKA KÅBÄCKEN 3 - 3
+The Alice Cooperz FC - Dynamo Kebab 2 - 5
+Keffs Tigers - AC Enbent 3 - 3
+Junne Junited - Hawkwing FF 0 - 7

@@ -1,87 +1,84 @@
-Omgång 1
-2014-04-20 (1/55)			
-AMTrix - The Romford Pelé FC	3 - 1	HT Re-Live
-AS Rotary - Mackans Gåsapågar	10 - 0	HT Re-Live
-CANTONERGO - AC Sätra Äng	1 - 4	HT Re-Live
-Loud Utd - Rectum United	5 - 3	HT Re-Live
-Omgång 2
-2014-04-27 (2/55)			
-AC Sätra Äng - AMTrix	1 - 2	HT Re-Live
-Rectum United - AS Rotary	2 - 1	HT Re-Live
-The Romford Pelé FC - Loud Utd	0 - 4	HT Re-Live
-Mackans Gåsapågar - CANTONERGO	0 - 8	HT Re-Live
-Omgång 3
-2014-05-04 (3/55)			
-CANTONERGO - The Romford Pelé FC	3 - 0	HT Re-Live
-Loud Utd - AMTrix	2 - 2	HT Re-Live
-Rectum United - Mackans Gåsapågar	8 - 0	HT Re-Live
-AS Rotary - AC Sätra Äng	3 - 1	HT Re-Live
-Omgång 4
-2014-05-11 (4/55)			
-AMTrix - CANTONERGO	4 - 0	HT Re-Live
-AC Sätra Äng - Rectum United	1 - 4	HT Re-Live
-Mackans Gåsapågar - Loud Utd	0 - 9	HT Re-Live
-The Romford Pelé FC - AS Rotary	0 - 3	HT Re-Live
-Omgång 5
-2014-05-18 (5/55)			
-Mackans Gåsapågar - The Romford Pelé FC	1 - 6	HT Re-Live
-Loud Utd - AC Sätra Äng	3 - 2	HT Re-Live
-Rectum United - AMTrix	2 - 3	HT Re-Live
-AS Rotary - CANTONERGO	3 - 1	HT Re-Live
-Omgång 6
-2014-05-25 (6/55)			
-AC Sätra Äng - Mackans Gåsapågar	6 - 0	HT Re-Live
-The Romford Pelé FC - Rectum United	3 - 2	HT Re-Live
-AMTrix - AS Rotary	2 - 1	HT Re-Live
-CANTONERGO - Loud Utd	0 - 4	HT Re-Live
-Omgång 7
-2014-06-01 (7/55)			
-The Romford Pelé FC - AC Sätra Äng	3 - 2	HT Re-Live
-Rectum United - CANTONERGO	7 - 2	HT Re-Live
-Mackans Gåsapågar - AMTrix	0 - 8	HT Re-Live
-AS Rotary - Loud Utd	4 - 4	HT Re-Live
-Omgång 8
-2014-06-08 (8/55)			
-Loud Utd - AS Rotary	1 - 2	HT Re-Live
-AMTrix - Mackans Gåsapågar	9 - 1	HT Re-Live
-CANTONERGO - Rectum United	2 - 2	HT Re-Live
-AC Sätra Äng - The Romford Pelé FC	4 - 2	HT Re-Live
-Omgång 9
-2014-06-15 (9/55)			
-Loud Utd - CANTONERGO	6 - 0	HT Re-Live
-AS Rotary - AMTrix	2 - 0	HT Re-Live
-Rectum United - The Romford Pelé FC	6 - 0	HT Re-Live
-Mackans Gåsapågar - AC Sätra Äng	0 - 8	HT Re-Live
-Omgång 10
-2014-06-22 (10/55)			
-CANTONERGO - AS Rotary	3 - 4	HT Re-Live
-AMTrix - Rectum United	0 - 1	HT Re-Live
-AC Sätra Äng - Loud Utd	2 - 4	HT Re-Live
-The Romford Pelé FC - Mackans Gåsapågar	9 - 0	HT Re-Live
-Omgång 11
-2014-06-29 (11/55)			
-AS Rotary - The Romford Pelé FC	3 - 0	HT Re-Live
-Loud Utd - Mackans Gåsapågar	6 - 0	HT Re-Live
-CANTONERGO - AMTrix	2 - 0	HT Re-Live
-Rectum United - AC Sätra Äng	6 - 0	HT Re-Live
-Omgång 12
-2014-07-06 (12/55)			
-AMTrix - Loud Utd	1 - 2	HT Re-Live
-AC Sätra Äng - AS Rotary	1 - 2	HT Re-Live
-Mackans Gåsapågar - Rectum United	0 - 4	HT Re-Live
-The Romford Pelé FC - CANTONERGO	2 - 6	HT Re-Live
-Omgång 13
-2014-07-13 (13/55)			
-AMTrix - AC Sätra Äng	1 - 2	HT Re-Live
-Loud Utd - The Romford Pelé FC	7 - 0	HT Re-Live
-AS Rotary - Rectum United	2 - 1	HT Re-Live
-CANTONERGO - Mackans Gåsapågar	9 - 0	HT Re-Live
-Omgång 14
-2014-07-20 (14/55)			
-Rectum United - Loud Utd	3 - 5	HT Re-Live
-Mackans Gåsapågar - AS Rotary	0 - 9	HT Re-Live
-The Romford Pelé FC - AMTrix	0 - 2	HT Re-Live
-AC Sätra Äng - CANTONERGO	1 - 0	HT Re-Live
-
-
-
+week 1
+2014-04-20
+Loud Utd - Rectum United 5 - 3
+AMTrix - The Romford PelÃ© FC 3 - 1
+AS Rotary - Mackans GÃ¥sapÃ¥gar 10 - 0
+CANTONERGO - AC SÃ¤tra Ã„ng 1 - 4
+week 2
+2014-04-27
+AC SÃ¤tra Ã„ng - AMTrix 1 - 2
+Mackans GÃ¥sapÃ¥gar - CANTONERGO 0 - 8
+The Romford PelÃ© FC - Loud Utd 0 - 4
+Rectum United - AS Rotary 2 - 1
+week 3
+2014-05-04
+CANTONERGO - The Romford PelÃ© FC 3 - 0
+Loud Utd - AMTrix 2 - 2
+Rectum United - Mackans GÃ¥sapÃ¥gar 8 - 0
+AS Rotary - AC SÃ¤tra Ã„ng 3 - 1
+week 4
+2014-05-11
+AMTrix - CANTONERGO 4 - 0
+AC SÃ¤tra Ã„ng - Rectum United 1 - 4
+Mackans GÃ¥sapÃ¥gar - Loud Utd 0 - 9
+The Romford PelÃ© FC - AS Rotary 0 - 3
+week 5
+2014-05-18
+Mackans GÃ¥sapÃ¥gar - The Romford PelÃ© FC 1 - 6
+Loud Utd - AC SÃ¤tra Ã„ng 3 - 2
+Rectum United - AMTrix 2 - 3
+AS Rotary - CANTONERGO 3 - 1
+week 6
+2014-05-25
+AC SÃ¤tra Ã„ng - Mackans GÃ¥sapÃ¥gar 6 - 0
+The Romford PelÃ© FC - Rectum United 3 - 2
+AMTrix - AS Rotary 2 - 1
+CANTONERGO - Loud Utd 0 - 4
+week 7
+2014-06-01
+The Romford PelÃ© FC - AC SÃ¤tra Ã„ng 3 - 2
+Rectum United - CANTONERGO 7 - 2
+Mackans GÃ¥sapÃ¥gar - AMTrix 0 - 8
+AS Rotary - Loud Utd 4 - 4
+week 8
+2014-06-08
+Loud Utd - AS Rotary 1 - 2
+AMTrix - Mackans GÃ¥sapÃ¥gar 9 - 1
+CANTONERGO - Rectum United 2 - 2
+AC SÃ¤tra Ã„ng - The Romford PelÃ© FC 4 - 2
+week 9
+2014-06-15
+Loud Utd - CANTONERGO 6 - 0
+AS Rotary - AMTrix 2 - 0
+Rectum United - The Romford PelÃ© FC 6 - 0
+Mackans GÃ¥sapÃ¥gar - AC SÃ¤tra Ã„ng 0 - 8
+week 10
+2014-06-22
+CANTONERGO - AS Rotary 3 - 4
+AMTrix - Rectum United 0 - 1
+AC SÃ¤tra Ã„ng - Loud Utd 2 - 4
+The Romford PelÃ© FC - Mackans GÃ¥sapÃ¥gar 9 - 0
+week 11
+2014-06-29
+AS Rotary - The Romford PelÃ© FC 3 - 0
+Loud Utd - Mackans GÃ¥sapÃ¥gar 6 - 0
+CANTONERGO - AMTrix 2 - 0
+Rectum United - AC SÃ¤tra Ã„ng 6 - 0
+week 12
+2014-07-06
+AMTrix - Loud Utd 1 - 2
+AC SÃ¤tra Ã„ng - AS Rotary 1 - 2
+Mackans GÃ¥sapÃ¥gar - Rectum United 0 - 4
+The Romford PelÃ© FC - CANTONERGO 2 - 6
+week 13
+2014-07-13
+AMTrix - AC SÃ¤tra Ã„ng 1 - 2
+Loud Utd - The Romford PelÃ© FC 7 - 0
+AS Rotary - Rectum United 2 - 1
+CANTONERGO - Mackans GÃ¥sapÃ¥gar 9 - 0
+week 14
+2014-07-20
+Rectum United - Loud Utd 3 - 5
+Mackans GÃ¥sapÃ¥gar - AS Rotary 0 - 9
+The Romford PelÃ© FC - AMTrix 0 - 2
+AC SÃ¤tra Ã„ng - CANTONERGO 1 - 0

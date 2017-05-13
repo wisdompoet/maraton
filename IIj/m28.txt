@@ -1,0 +1,84 @@
+week 1
+2006-01-08
+BK Marx - Team Valla Fotboll 2 - 0
+Stockan - Kransens BK 3 - 0
+William Tigers - Hunnarumpens BK 3 - 2
+Bornholm IF - Hubba Bubba Boys 4 - 0
+week 2
+2006-01-15
+Hunnarumpens BK - BK Marx 2 - 3
+Hubba Bubba Boys - Stockan 3 - 1
+Team Valla Fotboll - Bornholm IF 5 - 1
+Kransens BK - William Tigers 3 - 0
+week 3
+2006-01-22
+Stockan - Team Valla Fotboll 0 - 2
+William Tigers - Hubba Bubba Boys 3 - 1
+Hunnarumpens BK - Kransens BK 1 - 3
+Bornholm IF - BK Marx 1 - 0
+week 4
+2006-01-29
+BK Marx - Kransens BK 3 - 1
+Hubba Bubba Boys - Hunnarumpens BK 3 - 0
+Team Valla Fotboll - William Tigers 3 - 1
+Bornholm IF - Stockan 7 - 1
+week 5
+2006-02-05
+Stockan - BK Marx 0 - 1
+William Tigers - Bornholm IF 3 - 1
+Hunnarumpens BK - Team Valla Fotboll 1 - 1
+Kransens BK - Hubba Bubba Boys 0 - 3
+week 6
+2006-02-12
+BK Marx - Hubba Bubba Boys 6 - 0
+Stockan - William Tigers 1 - 2
+Team Valla Fotboll - Kransens BK 2 - 0
+Bornholm IF - Hunnarumpens BK 2 - 3
+week 7
+2006-02-19
+William Tigers - BK Marx 4 - 1
+Hunnarumpens BK - Stockan 3 - 0
+Hubba Bubba Boys - Team Valla Fotboll 1 - 1
+Kransens BK - Bornholm IF 2 - 1
+week 8
+2006-02-26
+Bornholm IF - Kransens BK 5 - 1
+Team Valla Fotboll - Hubba Bubba Boys 3 - 1
+Stockan - Hunnarumpens BK 0 - 2
+BK Marx - William Tigers 1 - 3
+week 9
+2006-03-05
+Hunnarumpens BK - Bornholm IF 4 - 2
+Kransens BK - Team Valla Fotboll 3 - 2
+William Tigers - Stockan 6 - 0
+Hubba Bubba Boys - BK Marx 3 - 3
+week 10
+2006-03-12
+Hubba Bubba Boys - Kransens BK 1 - 0
+Team Valla Fotboll - Hunnarumpens BK 3 - 1
+Bornholm IF - William Tigers 5 - 1
+BK Marx - Stockan 1 - 1
+week 11
+2006-03-19
+Stockan - Bornholm IF 1 - 4
+William Tigers - Team Valla Fotboll 3 - 5
+Hunnarumpens BK - Hubba Bubba Boys 2 - 1
+Kransens BK - BK Marx 4 - 0
+week 12
+2006-03-26
+BK Marx - Bornholm IF 1 - 3
+Kransens BK - Hunnarumpens BK 3 - 1
+Hubba Bubba Boys - William Tigers 4 - 0
+Team Valla Fotboll - Stockan 4 - 0
+week 13
+2006-04-02
+William Tigers - Kransens BK 1 - 1
+Bornholm IF - Team Valla Fotboll 3 - 5
+Stockan - Hubba Bubba Boys 0 - 4
+BK Marx - Hunnarumpens BK 3 - 1
+week 14
+2006-04-09
+Hubba Bubba Boys - Bornholm IF 5 - 0
+Hunnarumpens BK - William Tigers 5 - 2
+Kransens BK - Stockan 1 - 0
+Team Valla Fotboll - BK Marx 2 - 1

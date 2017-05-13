@@ -1,0 +1,84 @@
+week 1
+2012-06-17
+FC Krast - Hammerites 4 - 1
+Hagfors FC - Tokyo FF 2 - 1
+Evertonia FC - Reac Arándano 1 - 1
+Auroville FC - Kardoz Boys 3 - 1
+week 2
+2012-06-24
+Tokyo FF - FC Krast 1 - 2
+Hammerites - Evertonia FC 3 - 3
+Kardoz Boys - Hagfors FC 2 - 0
+Reac Arándano - Auroville FC 1 - 0
+week 3
+2012-07-01
+Hagfors FC - Hammerites 0 - 3
+Auroville FC - Evertonia FC 2 - 1
+Kardoz Boys - Tokyo FF 3 - 1
+FC Krast - Reac Arándano 2 - 1
+week 4
+2012-07-08
+Reac Arándano - Hagfors FC 2 - 1
+Evertonia FC - FC Krast 2 - 2
+Hammerites - Kardoz Boys 1 - 4
+Tokyo FF - Auroville FC 2 - 0
+week 5
+2012-07-15
+Kardoz Boys - Evertonia FC 2 - 0
+Hagfors FC - FC Krast 2 - 2
+Auroville FC - Hammerites 2 - 0
+Tokyo FF - Reac Arándano 4 - 2
+week 6
+2012-07-22
+Reac Arándano - Kardoz Boys 2 - 4
+Hammerites - Tokyo FF 1 - 5
+Evertonia FC - Hagfors FC 2 - 2
+FC Krast - Auroville FC 1 - 0
+week 7
+2012-07-29
+Tokyo FF - Evertonia FC 0 - 0
+Reac Arándano - Hammerites 1 - 1
+Kardoz Boys - FC Krast 4 - 0
+Hagfors FC - Auroville FC 0 - 2
+week 8
+2012-08-05
+FC Krast - Kardoz Boys 3 - 1
+Evertonia FC - Tokyo FF 6 - 2
+Auroville FC - Hagfors FC 1 - 0
+Hammerites - Reac Arándano 4 - 1
+week 9
+2012-08-12
+Auroville FC - FC Krast 3 - 1
+Tokyo FF - Hammerites 5 - 2
+Kardoz Boys - Reac Arándano 3 - 0
+Hagfors FC - Evertonia FC 4 - 0
+week 10
+2012-08-19
+Reac Arándano - Tokyo FF 2 - 2
+Evertonia FC - Kardoz Boys 2 - 1
+FC Krast - Hagfors FC 1 - 3
+Hammerites - Auroville FC 1 - 2
+week 11
+2012-08-26
+Kardoz Boys - Hammerites 3 - 3
+FC Krast - Evertonia FC 3 - 1
+Hagfors FC - Reac Arándano 2 - 1
+Auroville FC - Tokyo FF 2 - 0
+week 12
+2012-09-02
+Tokyo FF - Kardoz Boys 0 - 2
+Reac Arándano - FC Krast 4 - 0
+Hammerites - Hagfors FC 6 - 1
+Evertonia FC - Auroville FC 1 - 1
+week 13
+2012-09-09
+FC Krast - Tokyo FF 2 - 0
+Auroville FC - Reac Arándano 2 - 1
+Hagfors FC - Kardoz Boys 1 - 2
+Evertonia FC - Hammerites 4 - 0
+week 14
+2012-09-16
+Kardoz Boys - Auroville FC 3 - 0
+Hammerites - FC Krast 2 - 0
+Reac Arándano - Evertonia FC 6 - 0
+Tokyo FF - Hagfors FC 3 - 0

@@ -1,0 +1,84 @@
+week 1
+2003-11-16
+IFK FF - Hebbes vänner 2 - 1
+Charlton FC - NK Hajduk 3 - 1
+Bloom_County - Chocolate Synthesizers 1 - 4
+Tobys United - Sportfånarnas FC 4 - 2
+week 2
+2003-11-23
+Chocolate Synthesizers - IFK FF 0 - 1
+Sportfånarnas FC - Charlton FC 4 - 4
+Hebbes vänner - Tobys United 1 - 3
+NK Hajduk - Bloom_County 7 - 0
+week 3
+2003-11-30
+Charlton FC - Hebbes vänner 4 - 1
+Bloom_County - Sportfånarnas FC 0 - 7
+Chocolate Synthesizers - NK Hajduk 3 - 1
+Tobys United - IFK FF 1 - 4
+week 4
+2003-12-07
+IFK FF - NK Hajduk 2 - 1
+Sportfånarnas FC - Chocolate Synthesizers 3 - 1
+Hebbes vänner - Bloom_County 2 - 1
+Tobys United - Charlton FC 5 - 1
+week 5
+2003-12-14
+Charlton FC - IFK FF 4 - 1
+Bloom_County - Tobys United 6 - 2
+Chocolate Synthesizers - Hebbes vänner 1 - 0
+NK Hajduk - Sportfånarnas FC 5 - 1
+week 6
+2003-12-21
+IFK FF - Sportfånarnas FC 2 - 1
+Charlton FC - Bloom_County 2 - 2
+Hebbes vänner - NK Hajduk 1 - 0
+Tobys United - Chocolate Synthesizers 0 - 3
+week 7
+2003-12-28
+Bloom_County - IFK FF 0 - 5
+Chocolate Synthesizers - Charlton FC 0 - 0
+Sportfånarnas FC - Hebbes vänner 1 - 4
+NK Hajduk - Tobys United 4 - 1
+week 8
+2004-01-04
+Tobys United - NK Hajduk 0 - 2
+Hebbes vänner - Sportfånarnas FC 6 - 1
+Charlton FC - Chocolate Synthesizers 3 - 1
+IFK FF - Bloom_County 5 - 0
+week 9
+2004-01-11
+Chocolate Synthesizers - Tobys United 1 - 2
+NK Hajduk - Hebbes vänner 3 - 1
+Bloom_County - Charlton FC 1 - 3
+Sportfånarnas FC - IFK FF 1 - 4
+week 10
+2004-01-18
+Sportfånarnas FC - NK Hajduk 1 - 3
+Hebbes vänner - Chocolate Synthesizers 0 - 3
+Tobys United - Bloom_County 2 - 1
+IFK FF - Charlton FC 3 - 0
+week 11
+2004-01-25
+Charlton FC - Tobys United 3 - 1
+Bloom_County - Hebbes vänner 1 - 4
+Chocolate Synthesizers - Sportfånarnas FC 2 - 0
+NK Hajduk - IFK FF 3 - 0
+week 12
+2004-02-01
+IFK FF - Tobys United 5 - 2
+NK Hajduk - Chocolate Synthesizers 3 - 2
+Sportfånarnas FC - Bloom_County 3 - 3
+Hebbes vänner - Charlton FC 0 - 3
+week 13
+2004-02-08
+Bloom_County - NK Hajduk 5 - 4
+Tobys United - Hebbes vänner 1 - 1
+Charlton FC - Sportfånarnas FC 6 - 0
+IFK FF - Chocolate Synthesizers 3 - 2
+week 14
+2004-02-15
+Sportfånarnas FC - Tobys United 2 - 2
+Chocolate Synthesizers - Bloom_County 4 - 0
+NK Hajduk - Charlton FC 5 - 1
+Hebbes vänner - IFK FF 3 - 1

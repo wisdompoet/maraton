@@ -1,84 +1,84 @@
-Omgång 1
-2004-10-17 (1/24)			
-F.C Keeps - Reelers	4 - 2	HT Re-Live
-Svearikes Finaste - Elbow Rangers	3 - 4	HT Re-Live
-BorrensFK - Länna Wolves	3 - 1	HT Re-Live
-Murklan FC - FC Håla	5 - 2	HT Re-Live
-Omgång 2
-2004-10-24 (2/24)			
-Länna Wolves - F.C Keeps	0 - 6	HT Re-Live
-FC Håla - Svearikes Finaste	4 - 4	HT Re-Live
-Reelers - Murklan FC	1 - 4	HT Re-Live
-Elbow Rangers - BorrensFK	4 - 0	HT Re-Live
-Omgång 3
-2004-10-31 (3/24)			
-Svearikes Finaste - Reelers	1 - 5	HT Re-Live
-BorrensFK - FC Håla	6 - 2	HT Re-Live
-Länna Wolves - Elbow Rangers	1 - 2	HT Re-Live
-Murklan FC - F.C Keeps	5 - 0	HT Re-Live
-Omgång 4
-2004-11-07 (4/24)			
-F.C Keeps - Elbow Rangers	0 - 1	HT Re-Live
-FC Håla - Länna Wolves	0 - 1	HT Re-Live
-Reelers - BorrensFK	3 - 0	HT Re-Live
-Murklan FC - Svearikes Finaste	4 - 1	HT Re-Live
-Omgång 5
-2004-11-14 (5/24)			
-Svearikes Finaste - F.C Keeps	0 - 1	HT Re-Live
-BorrensFK - Murklan FC	0 - 7	HT Re-Live
-Länna Wolves - Reelers	2 - 1	HT Re-Live
-Elbow Rangers - FC Håla	5 - 0	HT Re-Live
-Omgång 6
-2004-11-21 (6/24)			
-F.C Keeps - FC Håla	3 - 2	HT Re-Live
-Svearikes Finaste - BorrensFK	2 - 1	HT Re-Live
-Reelers - Elbow Rangers	2 - 0	HT Re-Live
-Murklan FC - Länna Wolves	3 - 1	HT Re-Live
-Omgång 7
-2004-11-28 (7/24)			
-BorrensFK - F.C Keeps	1 - 0	HT Re-Live
-Länna Wolves - Svearikes Finaste	1 - 2	HT Re-Live
-FC Håla - Reelers	1 - 2	HT Re-Live
-Elbow Rangers - Murklan FC	1 - 4	HT Re-Live
-Omgång 8
-2004-12-05 (8/24)			
-Murklan FC - Elbow Rangers	4 - 1	HT Re-Live
-Reelers - FC Håla	3 - 1	HT Re-Live
-Svearikes Finaste - Länna Wolves	0 - 2	HT Re-Live
-F.C Keeps - BorrensFK	0 - 3	HT Re-Live
-Omgång 9
-2004-12-12 (9/24)			
-Länna Wolves - Murklan FC	3 - 5	HT Re-Live
-Elbow Rangers - Reelers	0 - 0	HT Re-Live
-BorrensFK - Svearikes Finaste	4 - 3	HT Re-Live
-FC Håla - F.C Keeps	4 - 0	HT Re-Live
-Omgång 10
-2004-12-19 (10/24)			
-FC Håla - Elbow Rangers	2 - 3	HT Re-Live
-Reelers - Länna Wolves	3 - 0	HT Re-Live
-Murklan FC - BorrensFK	3 - 1	HT Re-Live
-F.C Keeps - Svearikes Finaste	2 - 4	HT Re-Live
-Omgång 11
-2004-12-26 (11/24)			
-Svearikes Finaste - Murklan FC	0 - 6	HT Re-Live
-BorrensFK - Reelers	1 - 4	HT Re-Live
-Länna Wolves - FC Håla	5 - 0	HT Re-Live
-Elbow Rangers - F.C Keeps	1 - 0	HT Re-Live
-Omgång 12
-2005-01-02 (12/24)			
-F.C Keeps - Murklan FC	3 - 1	HT Re-Live
-Elbow Rangers - Länna Wolves	1 - 0	HT Re-Live
-FC Håla - BorrensFK	4 - 0	HT Re-Live
-Reelers - Svearikes Finaste	3 - 0	HT Re-Live
-Omgång 13
-2005-01-09 (13/24)			
-BorrensFK - Elbow Rangers	2 - 1	HT Re-Live
-Murklan FC - Reelers	1 - 3	HT Re-Live
-Svearikes Finaste - FC Håla	5 - 2	HT Re-Live
-F.C Keeps - Länna Wolves	3 - 0	HT Re-Live
-Omgång 14
-2005-01-16 (14/24)			
-FC Håla - Murklan FC	0 - 7	HT Re-Live
-Länna Wolves - BorrensFK	1 - 1	HT Re-Live
-Elbow Rangers - Svearikes Finaste	0 - 2	HT Re-Live
-Reelers - F.C Keeps	4 - 0	HT Re-Live
+week 1
+2004-10-17
+F.C Keeps - Reelers 4 - 2
+Svearikes Finaste - Elbow Rangers 3 - 4
+BorrensFK - LÃ¤nna Wolves 3 - 1
+Murklan FC - FC HÃ¥la 5 - 2
+week 2
+2004-10-24
+LÃ¤nna Wolves - F.C Keeps 0 - 6
+FC HÃ¥la - Svearikes Finaste 4 - 4
+Reelers - Murklan FC 1 - 4
+Elbow Rangers - BorrensFK 4 - 0
+week 3
+2004-10-31
+Svearikes Finaste - Reelers 1 - 5
+BorrensFK - FC HÃ¥la 6 - 2
+LÃ¤nna Wolves - Elbow Rangers 1 - 2
+Murklan FC - F.C Keeps 5 - 0
+week 4
+2004-11-07
+F.C Keeps - Elbow Rangers 0 - 1
+FC HÃ¥la - LÃ¤nna Wolves 0 - 1
+Reelers - BorrensFK 3 - 0
+Murklan FC - Svearikes Finaste 4 - 1
+week 5
+2004-11-14
+Svearikes Finaste - F.C Keeps 0 - 1
+BorrensFK - Murklan FC 0 - 7
+LÃ¤nna Wolves - Reelers 2 - 1
+Elbow Rangers - FC HÃ¥la 5 - 0
+week 6
+2004-11-21
+F.C Keeps - FC HÃ¥la 3 - 2
+Svearikes Finaste - BorrensFK 2 - 1
+Reelers - Elbow Rangers 2 - 0
+Murklan FC - LÃ¤nna Wolves 3 - 1
+week 7
+2004-11-28
+BorrensFK - F.C Keeps 1 - 0
+LÃ¤nna Wolves - Svearikes Finaste 1 - 2
+FC HÃ¥la - Reelers 1 - 2
+Elbow Rangers - Murklan FC 1 - 4
+week 8
+2004-12-05
+Murklan FC - Elbow Rangers 4 - 1
+Reelers - FC HÃ¥la 3 - 1
+Svearikes Finaste - LÃ¤nna Wolves 0 - 2
+F.C Keeps - BorrensFK 0 - 3
+week 9
+2004-12-12
+LÃ¤nna Wolves - Murklan FC 3 - 5
+Elbow Rangers - Reelers 0 - 0
+BorrensFK - Svearikes Finaste 4 - 3
+FC HÃ¥la - F.C Keeps 4 - 0
+week 10
+2004-12-19
+FC HÃ¥la - Elbow Rangers 2 - 3
+Reelers - LÃ¤nna Wolves 3 - 0
+Murklan FC - BorrensFK 3 - 1
+F.C Keeps - Svearikes Finaste 2 - 4
+week 11
+2004-12-26
+Svearikes Finaste - Murklan FC 0 - 6
+BorrensFK - Reelers 1 - 4
+LÃ¤nna Wolves - FC HÃ¥la 5 - 0
+Elbow Rangers - F.C Keeps 1 - 0
+week 12
+2005-01-02
+F.C Keeps - Murklan FC 3 - 1
+Elbow Rangers - LÃ¤nna Wolves 1 - 0
+FC HÃ¥la - BorrensFK 4 - 0
+Reelers - Svearikes Finaste 3 - 0
+week 13
+2005-01-09
+BorrensFK - Elbow Rangers 2 - 1
+Murklan FC - Reelers 1 - 3
+Svearikes Finaste - FC HÃ¥la 5 - 2
+F.C Keeps - LÃ¤nna Wolves 3 - 0
+week 14
+2005-01-16
+FC HÃ¥la - Murklan FC 0 - 7
+LÃ¤nna Wolves - BorrensFK 1 - 1
+Elbow Rangers - Svearikes Finaste 0 - 2
+Reelers - F.C Keeps 4 - 0

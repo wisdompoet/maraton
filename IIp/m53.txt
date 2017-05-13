@@ -1,0 +1,84 @@
+week 1
+2013-09-08
+Babylon Boys - Campus Killar 0 - 8
+Alpha FC - Fastnet 5 - 1
+VW Luebeck - Gloppas IF 3 - 3
+Morötterna FF - Herrestad Heroes 2 - 2
+week 2
+2013-09-15
+Herrestad Heroes - Babylon Boys 6 - 0
+Campus Killar - Alpha FC 6 - 0
+Gloppas IF - Morötterna FF 1 - 1
+Fastnet - VW Luebeck 0 - 1
+week 3
+2013-09-22
+Babylon Boys - Fastnet 0 - 7
+Herrestad Heroes - Campus Killar 2 - 1
+Alpha FC - Gloppas IF 4 - 2
+Morötterna FF - VW Luebeck 2 - 2
+week 4
+2013-09-29
+VW Luebeck - Alpha FC 6 - 2
+Gloppas IF - Babylon Boys 7 - 0
+Fastnet - Herrestad Heroes 2 - 1
+Campus Killar - Morötterna FF 2 - 1
+week 5
+2013-10-06
+Babylon Boys - Alpha FC 0 - 8
+Morötterna FF - Fastnet 0 - 1
+Campus Killar - Gloppas IF 2 - 2
+Herrestad Heroes - VW Luebeck 1 - 3
+week 6
+2013-10-13
+VW Luebeck - Babylon Boys 11 - 0
+Gloppas IF - Herrestad Heroes 0 - 2
+Fastnet - Campus Killar 1 - 0
+Alpha FC - Morötterna FF 2 - 0
+week 7
+2013-10-20
+Babylon Boys - Morötterna FF 0 - 6
+Herrestad Heroes - Alpha FC 4 - 1
+Campus Killar - VW Luebeck 4 - 2
+Gloppas IF - Fastnet 2 - 1
+week 8
+2013-10-27
+Fastnet - Gloppas IF 2 - 0
+Alpha FC - Herrestad Heroes 2 - 0
+VW Luebeck - Campus Killar 0 - 3
+Morötterna FF - Babylon Boys 9 - 0
+week 9
+2013-11-03
+Herrestad Heroes - Gloppas IF 2 - 0
+Campus Killar - Fastnet 2 - 0
+Morötterna FF - Alpha FC 4 - 1
+Babylon Boys - VW Luebeck 0 - 8
+week 10
+2013-11-10
+Gloppas IF - Campus Killar 4 - 1
+Fastnet - Morötterna FF 2 - 0
+Alpha FC - Babylon Boys 8 - 0
+VW Luebeck - Herrestad Heroes 1 - 1
+week 11
+2013-11-17
+Herrestad Heroes - Fastnet 1 - 1
+Babylon Boys - Gloppas IF 0 - 7
+Alpha FC - VW Luebeck 3 - 0
+Morötterna FF - Campus Killar 5 - 1
+week 12
+2013-11-24
+Gloppas IF - Alpha FC 4 - 0
+Campus Killar - Herrestad Heroes 0 - 1
+VW Luebeck - Morötterna FF 3 - 2
+Fastnet - Babylon Boys 3 - 0
+week 13
+2013-12-01
+VW Luebeck - Fastnet 3 - 2
+Morötterna FF - Gloppas IF 1 - 1
+Babylon Boys - Herrestad Heroes 0 - 5
+Alpha FC - Campus Killar 2 - 1
+week 14
+2013-12-08
+Fastnet - Alpha FC 0 - 3
+Gloppas IF - VW Luebeck 0 - 1
+Herrestad Heroes - Morötterna FF 3 - 2
+Campus Killar - Babylon Boys 6 - 0

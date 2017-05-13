@@ -1,0 +1,84 @@
+week 1
+2001-06-03
+Serifferna - en sko & en brun 0 - 5
+Björks Boyz - Goodtown Gangsters 4 - 1
+IFK Alva - Boston Baylers 0 - 2
+Knivsta Soccer - Saxemara 0 - 1
+week 2
+2001-06-10
+Boston Baylers - Serifferna 5 - 0
+Saxemara - Björks Boyz 2 - 3
+en sko & en brun - Knivsta Soccer 2 - 1
+Goodtown Gangsters - IFK Alva 2 - 2
+week 3
+2001-06-17
+Björks Boyz - en sko & en brun 0 - 2
+IFK Alva - Saxemara 0 - 3
+Boston Baylers - Goodtown Gangsters 1 - 4
+Knivsta Soccer - Serifferna 5 - 0
+week 4
+2001-06-24
+Serifferna - Goodtown Gangsters 0 - 5
+Saxemara - Boston Baylers 2 - 0
+en sko & en brun - IFK Alva 0 - 0
+Knivsta Soccer - Björks Boyz 2 - 4
+week 5
+2001-07-01
+Björks Boyz - Serifferna 5 - 0
+IFK Alva - Knivsta Soccer 0 - 1
+Boston Baylers - en sko & en brun 2 - 3
+Goodtown Gangsters - Saxemara 3 - 2
+week 6
+2001-07-08
+Serifferna - Saxemara 0 - 5
+Björks Boyz - IFK Alva 2 - 0
+en sko & en brun - Goodtown Gangsters 3 - 1
+Knivsta Soccer - Boston Baylers 0 - 0
+week 7
+2001-07-15
+IFK Alva - Serifferna 5 - 0
+Boston Baylers - Björks Boyz 2 - 0
+Saxemara - en sko & en brun 1 - 0
+Goodtown Gangsters - Knivsta Soccer 0 - 0
+week 8
+2001-07-22
+Knivsta Soccer - Goodtown Gangsters 2 - 0
+en sko & en brun - Saxemara 1 - 3
+Björks Boyz - Boston Baylers 3 - 1
+Serifferna - IFK Alva 0 - 5
+week 9
+2001-07-29
+Boston Baylers - Knivsta Soccer 2 - 0
+Goodtown Gangsters - en sko & en brun 3 - 1
+IFK Alva - Björks Boyz 1 - 0
+Saxemara - Serifferna 5 - 0
+week 10
+2001-08-05
+Saxemara - Goodtown Gangsters 4 - 1
+en sko & en brun - Boston Baylers 1 - 0
+Knivsta Soccer - IFK Alva 3 - 3
+Serifferna - Björks Boyz 0 - 5
+week 11
+2001-08-12
+Björks Boyz - Knivsta Soccer 5 - 0
+IFK Alva - en sko & en brun 0 - 0
+Boston Baylers - Saxemara 4 - 1
+Goodtown Gangsters - Serifferna 5 - 0
+week 12
+2001-08-19
+Serifferna - Knivsta Soccer 0 - 5
+Goodtown Gangsters - Boston Baylers 0 - 2
+Saxemara - IFK Alva 1 - 1
+en sko & en brun - Björks Boyz 2 - 0
+week 13
+2001-08-26
+IFK Alva - Goodtown Gangsters 0 - 1
+Knivsta Soccer - en sko & en brun 0 - 0
+Björks Boyz - Saxemara 2 - 3
+Serifferna - Boston Baylers 0 - 5
+week 14
+2001-09-02
+Saxemara - Knivsta Soccer 8 - 0
+Boston Baylers - IFK Alva 1 - 0
+Goodtown Gangsters - Björks Boyz 1 - 6
+en sko & en brun - Serifferna 5 - 0

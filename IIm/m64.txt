@@ -1,0 +1,84 @@
+week 1
+2017-01-22
+BK Torpet - FC Barcelona111 5 - 0
+Laxarna BK - Fridens Liljor 3 - 1
+IFK Kostigen - Exorcisterna 3 - 4
+Mbuko IF - Sagbab 2 - 0
+week 2
+2017-01-29
+Fridens Liljor - BK Torpet 2 - 3
+FC Barcelona111 - IFK Kostigen 1 - 7
+Exorcisterna - Mbuko IF 4 - 1
+Sagbab - Laxarna BK 1 - 3
+week 3
+2017-02-05
+IFK Kostigen - Sagbab 3 - 3
+BK Torpet - Laxarna BK 4 - 0
+FC Barcelona111 - Exorcisterna 0 - 5
+Mbuko IF - Fridens Liljor 5 - 1
+week 4
+2017-02-12
+Exorcisterna - BK Torpet 2 - 6
+Laxarna BK - Mbuko IF 2 - 1
+Fridens Liljor - IFK Kostigen 4 - 0
+Sagbab - FC Barcelona111 6 - 0
+week 5
+2017-02-19
+IFK Kostigen - Mbuko IF 0 - 5
+FC Barcelona111 - Laxarna BK 0 - 7
+BK Torpet - Sagbab 2 - 2
+Exorcisterna - Fridens Liljor 4 - 1
+week 6
+2017-02-26
+Laxarna BK - IFK Kostigen 6 - 0
+Fridens Liljor - FC Barcelona111 5 - 0
+Mbuko IF - BK Torpet 4 - 0
+Sagbab - Exorcisterna 3 - 3
+week 7
+2017-03-05
+IFK Kostigen - BK Torpet 1 - 3
+Exorcisterna - Laxarna BK 4 - 1
+FC Barcelona111 - Mbuko IF 1 - 8
+Fridens Liljor - Sagbab 0 - 2
+week 8
+2017-03-12
+Sagbab - Fridens Liljor 1 - 2
+Mbuko IF - FC Barcelona111 7 - 0
+Laxarna BK - Exorcisterna 3 - 2
+BK Torpet - IFK Kostigen 2 - 0
+week 9
+2017-03-19
+Exorcisterna - Sagbab 2 - 1
+BK Torpet - Mbuko IF 5 - 1
+FC Barcelona111 - Fridens Liljor 0 - 6
+IFK Kostigen - Laxarna BK 0 - 2
+week 10
+2017-03-26
+Sagbab - BK Torpet 4 - 2
+Laxarna BK - FC Barcelona111 8 - 0
+Mbuko IF - IFK Kostigen 6 - 0
+Fridens Liljor - Exorcisterna 0 - 6
+week 11
+2017-04-02
+FC Barcelona111 - Sagbab 0 - 7
+Mbuko IF - Laxarna BK 5 - 1
+BK Torpet - Exorcisterna 6 - 0
+IFK Kostigen - Fridens Liljor 0 - 4
+week 12
+2017-04-09
+Fridens Liljor - Mbuko IF 0 - 2
+Laxarna BK - BK Torpet 2 - 2
+Sagbab - IFK Kostigen 3 - 0
+Exorcisterna - FC Barcelona111 8 - 0
+week 13
+2017-04-16
+BK Torpet - Fridens Liljor 4 - 0
+Laxarna BK - Sagbab 2 - 3
+Mbuko IF - Exorcisterna 7 - 0
+IFK Kostigen - FC Barcelona111 1 - 0
+week 14
+2017-04-23
+Sagbab - Mbuko IF 0 - 5
+Fridens Liljor - Laxarna BK 0 - 0
+Exorcisterna - IFK Kostigen 8 - 0
+FC Barcelona111 - BK Torpet 0 - 2
