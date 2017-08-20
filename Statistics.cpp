@@ -2,11 +2,11 @@
 #include "Statistics.h"
 
 int main() {
-	Statistics s( 64 );
+	Statistics s( 65 );
 //	s.longestStreak( 1 );
-//	s.mostWinners( 0 );
-/*	s.marathon( 0 );
-	s.medals( 0 );
+	s.mostWinners( 0 );
+	s.marathon( 0 );
+/*	s.medals( 0 );
 	s.windifference( 0 );
 	s.points( 0 );
 	s.goalsfor( 0 );

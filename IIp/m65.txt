@@ -1,0 +1,84 @@
+Omgång 1
+2017-05-14 (1/65) 			
+	Ballerina BoJS - Maximus FF 	0 - 5 	HT Re-Live
+	Mierin Eronaile - Hookipa BK 	2 - 2 	HT Re-Live
+	Team Superior - Two Tents 	2 - 2 	HT Re-Live
+	Judarskogens SK - Cebbes pigga gäng 	2 - 1 	HT Re-Live
+Omgång 2
+2017-05-21 (2/65) 			
+	Two Tents - Ballerina BoJS 	8 - 0 	HT Re-Live
+	Hookipa BK - Team Superior 	1 - 1 	HT Re-Live
+	Maximus FF - Judarskogens SK 	6 - 1 	HT Re-Live
+	Cebbes pigga gäng - Mierin Eronaile 	1 - 2 	HT Re-Live
+Omgång 3
+2017-05-28 (3/65) 			
+	Ballerina BoJS - Cebbes pigga gäng 	0 - 8 	HT Re-Live
+	Team Superior - Mierin Eronaile 	4 - 3 	HT Re-Live
+	Judarskogens SK - Hookipa BK 	0 - 1 	HT Re-Live
+	Two Tents - Maximus FF 	0 - 2 	HT Re-Live
+Omgång 4
+2017-06-04 (4/65) 			
+	Hookipa BK - Ballerina BoJS 	4 - 0 	HT Re-Live
+	Mierin Eronaile - Judarskogens SK 	1 - 3 	HT Re-Live
+	Maximus FF - Team Superior 	2 - 1 	HT Re-Live
+	Cebbes pigga gäng - Two Tents 	0 - 5 	HT Re-Live
+Omgång 5
+2017-06-11 (5/65) 			
+	Ballerina BoJS - Judarskogens SK 	0 - 8 	HT Re-Live
+	Two Tents - Mierin Eronaile 	0 - 3 	HT Re-Live
+	Team Superior - Cebbes pigga gäng 	1 - 4 	HT Re-Live
+	Maximus FF - Hookipa BK 	1 - 1 	HT Re-Live
+Omgång 6
+2017-06-18 (6/65) 			
+	Mierin Eronaile - Ballerina BoJS 	9 - 1 	HT Re-Live
+	Judarskogens SK - Team Superior 	4 - 2 	HT Re-Live
+	Hookipa BK - Two Tents 	6 - 2 	HT Re-Live
+	Cebbes pigga gäng - Maximus FF 	1 - 1 	HT Re-Live
+Omgång 7
+2017-06-25 (7/65) 			
+	Ballerina BoJS - Team Superior 	0 - 5 	HT Re-Live
+	Maximus FF - Mierin Eronaile 	7 - 0 	HT Re-Live
+	Two Tents - Judarskogens SK 	2 - 1 	HT Re-Live
+	Hookipa BK - Cebbes pigga gäng 	1 - 2 	HT Re-Live
+Omgång 8
+2017-07-02 (8/65) 			
+	Cebbes pigga gäng - Hookipa BK 	2 - 0 	HT Re-Live
+	Judarskogens SK - Two Tents 	3 - 1 	HT Re-Live
+	Mierin Eronaile - Maximus FF 	0 - 3 	HT Re-Live
+	Team Superior - Ballerina BoJS 	11 - 0 	HT Re-Live
+Omgång 9
+2017-07-09 (9/65) 			
+	Maximus FF - Cebbes pigga gäng 	3 - 1 	HT Re-Live
+	Two Tents - Hookipa BK 	3 - 1 	HT Re-Live
+	Team Superior - Judarskogens SK 	5 - 2 	HT Re-Live
+	Ballerina BoJS - Mierin Eronaile 	1 - 6 	HT Re-Live
+Omgång 10
+2017-07-16 (10/65) 			
+	Hookipa BK - Maximus FF 	0 - 2 	HT Re-Live
+	Cebbes pigga gäng - Team Superior 	1 - 3 	HT Re-Live
+	Mierin Eronaile - Two Tents 	8 - 2 	HT Re-Live
+	Judarskogens SK - Ballerina BoJS 	9 - 0 	HT Re-Live
+Omgång 11
+2017-07-23 (11/65) 			
+	Two Tents - Cebbes pigga gäng 	0 - 2 	HT Re-Live
+	Judarskogens SK - Mierin Eronaile 	5 - 3 	HT Re-Live
+	Team Superior - Maximus FF 	1 - 3 	HT Re-Live
+	Ballerina BoJS - Hookipa BK 	0 - 6 	HT Re-Live
+Omgång 12
+2017-07-30 (12/65) 			
+	Hookipa BK - Judarskogens SK 	3 - 0 	HT Re-Live
+	Maximus FF - Two Tents 	6 - 0 	HT Re-Live
+	Mierin Eronaile - Team Superior 	2 - 4 	HT Re-Live
+	Cebbes pigga gäng - Ballerina BoJS 	11 - 0 	HT Re-Live
+Omgång 13
+2017-08-06 (13/65) 			
+	Mierin Eronaile - Cebbes pigga gäng 	1 - 3 	HT Re-Live
+	Team Superior - Hookipa BK 	1 - 2 	HT Re-Live
+	Judarskogens SK - Maximus FF 	0 - 6 	HT Re-Live
+	Ballerina BoJS - Two Tents 	0 - 8 	HT Re-Live
+Omgång 14
+2017-08-13 (14/65) 			
+	Cebbes pigga gäng - Judarskogens SK 	6 - 0 	HT Re-Live
+	Hookipa BK - Mierin Eronaile 	1 - 1 	HT Re-Live
+	Two Tents - Team Superior 	1 - 5 	HT Re-Live
+	Maximus FF - Ballerina BoJS 	9 - 1 	HT Re-Live

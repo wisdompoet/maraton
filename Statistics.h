@@ -4,7 +4,7 @@
 
 #include "Series.h"
 
-#define TOPLIST 60
+#define TOPLIST 100
 
 // different ways to sort teams
 
