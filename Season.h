@@ -105,6 +105,9 @@ public:
 		// hack to deal with "~DrPepper FC"
 		if ( s[0] == '~' ) s = s.substr( 1 );
 
+		// hack to deal with Zeta
+		if ( s.substr( 0, 3 ) == "Hov" ) s = "[" + s + "]";
+
 		unsigned i;
 		for ( i = 0; i < teams.size() && teams[i].names.find( s ) == teams[i].names.end(); ++i );
 		if ( i == teams.size() ) teams.push_back( Team( s ) );
