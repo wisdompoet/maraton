@@ -2,7 +2,7 @@
 #include "Statistics.h"
 
 int main() {
-	Statistics s( 66 );
+	Statistics s( 67 );
 //	s.longestStreak( 1 );
 	s.mostWinners( 0 );
 	s.marathon( 0 );

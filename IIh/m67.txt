@@ -1,0 +1,84 @@
+Omgång 1
+2017-12-24 (1/67) 			
+	IFK Pölsebo - Taco AS 	1 - 1 	HT Re-Live
+	BK Solen - Bällsta Bro BK 	9 - 0 	HT Re-Live
+	Lilltroll FC - Grangeus Grisfarm 	3 - 2 	HT Re-Live
+	AC Weah - FC SIMRISHAMN 	3 - 0 	HT Re-Live
+Omgång 2
+2017-12-31 (2/67) 			
+	Bällsta Bro BK - IFK Pölsebo 	0 - 7 	HT Re-Live
+	Taco AS - AC Weah 	3 - 1 	HT Re-Live
+	Grangeus Grisfarm - BK Solen 	2 - 2 	HT Re-Live
+	FC SIMRISHAMN - Lilltroll FC 	0 - 3 	HT Re-Live
+Omgång 3
+2018-01-07 (3/67) 			
+	IFK Pölsebo - FC SIMRISHAMN 	1 - 1 	HT Re-Live
+	Bällsta Bro BK - Taco AS 	1 - 7 	HT Re-Live
+	BK Solen - Lilltroll FC 	5 - 3 	HT Re-Live
+	AC Weah - Grangeus Grisfarm 	4 - 0 	HT Re-Live
+Omgång 4
+2018-01-14 (4/67) 			
+	Grangeus Grisfarm - IFK Pölsebo 	2 - 4 	HT Re-Live
+	Lilltroll FC - AC Weah 	2 - 2 	HT Re-Live
+	Taco AS - BK Solen 	2 - 1 	HT Re-Live
+	FC SIMRISHAMN - Bällsta Bro BK 	4 - 0 	HT Re-Live
+Omgång 5
+2018-01-21 (5/67) 			
+	IFK Pölsebo - AC Weah 	0 - 0 	HT Re-Live
+	Bällsta Bro BK - Lilltroll FC 	0 - 3 	HT Re-Live
+	BK Solen - FC SIMRISHAMN 	3 - 0 	HT Re-Live
+	Taco AS - Grangeus Grisfarm 	1 - 2 	HT Re-Live
+Omgång 6
+2018-01-28 (6/67) 			
+	AC Weah - BK Solen 	1 - 2 	HT Re-Live
+	Lilltroll FC - IFK Pölsebo 	2 - 4 	HT Re-Live
+	Grangeus Grisfarm - Bällsta Bro BK 	1 - 0 	HT Re-Live
+	FC SIMRISHAMN - Taco AS 	0 - 1 	HT Re-Live
+Omgång 7
+2018-02-04 (7/67) 			
+	IFK Pölsebo - BK Solen 	3 - 2 	HT Re-Live
+	Taco AS - Lilltroll FC 	3 - 1 	HT Re-Live
+	Bällsta Bro BK - AC Weah 	0 - 2 	HT Re-Live
+	Grangeus Grisfarm - FC SIMRISHAMN 	4 - 1 	HT Re-Live
+Omgång 8
+2018-02-11 (8/67) 			
+	FC SIMRISHAMN - Grangeus Grisfarm 	1 - 0 	HT Re-Live
+	AC Weah - Bällsta Bro BK 	2 - 0 	HT Re-Live
+	Lilltroll FC - Taco AS 	1 - 2 	HT Re-Live
+	BK Solen - IFK Pölsebo 	5 - 1 	HT Re-Live
+Omgång 9
+2018-02-18 (9/67) 			
+	Taco AS - FC SIMRISHAMN 	3 - 0 	HT Re-Live
+	Bällsta Bro BK - Grangeus Grisfarm 	0 - 2 	HT Re-Live
+	BK Solen - AC Weah 	1 - 1 	HT Re-Live
+	IFK Pölsebo - Lilltroll FC 	2 - 2 	HT Re-Live
+Omgång 10
+2018-02-25 (10/67) 			
+	Grangeus Grisfarm - Taco AS 	0 - 2 	HT Re-Live
+	FC SIMRISHAMN - BK Solen 	1 - 4 	HT Re-Live
+	Lilltroll FC - Bällsta Bro BK 	4 - 0 	HT Re-Live
+	AC Weah - IFK Pölsebo 	1 - 3 	HT Re-Live
+Omgång 11
+2018-03-04 (11/67) 			
+	AC Weah - Lilltroll FC 	2 - 2 	HT Re-Live
+	BK Solen - Taco AS 	0 - 1 	HT Re-Live
+	Bällsta Bro BK - FC SIMRISHAMN 	0 - 3 	HT Re-Live
+	IFK Pölsebo - Grangeus Grisfarm 	3 - 1 	HT Re-Live
+Omgång 12
+2018-03-11 (12/67) 			
+	Grangeus Grisfarm - AC Weah 	0 - 1 	HT Re-Live
+	Taco AS - Bällsta Bro BK 	5 - 0 	HT Re-Live
+	Lilltroll FC - BK Solen 	2 - 2 	HT Re-Live
+	FC SIMRISHAMN - IFK Pölsebo 	1 - 0 	HT Re-Live
+Omgång 13
+2018-03-18 (13/67) 			
+	Lilltroll FC - FC SIMRISHAMN 	3 - 0 	HT Re-Live
+	BK Solen - Grangeus Grisfarm 	2 - 2 	HT Re-Live
+	AC Weah - Taco AS 	2 - 3 	HT Re-Live
+	IFK Pölsebo - Bällsta Bro BK 	4 - 0 	HT Re-Live
+Omgång 14
+2018-03-25 (14/67) 			
+	FC SIMRISHAMN - AC Weah 	0 - 2 	HT Re-Live
+	Grangeus Grisfarm - Lilltroll FC 	0 - 3 	HT Re-Live
+	Bällsta Bro BK - BK Solen 	0 - 7 	HT Re-Live
+	Taco AS - IFK Pölsebo 	3 - 1 	HT Re-Live

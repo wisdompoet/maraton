@@ -1,0 +1,84 @@
+Omgång 1
+2018-04-15 (1/68) 			
+	FCS 1890 - Cebbes pigga gäng 	0 - 10 	HT Re-Live
+	IFK Wella - Mierin Eronaile 	4 - 0 	HT Re-Live
+	Reac Arándano - Fc Misery 	5 - 1 	HT Re-Live
+	Blaans pojkar - David Brent 	2 - 2 	HT Re-Live
+Omgång 2
+2018-04-22 (2/68) 			
+	Cebbes pigga gäng - Reac Arándano 	1 - 2 	HT Re-Live
+	Mierin Eronaile - Blaans pojkar 	1 - 2 	HT Re-Live
+	Fc Misery - IFK Wella 	2 - 1 	HT Re-Live
+	David Brent - FCS 1890 	6 - 0 	HT Re-Live
+Omgång 3
+2018-04-29 (3/68) 			
+	Blaans pojkar - IFK Wella 	6 - 0 	HT Re-Live
+	FCS 1890 - Fc Misery 	0 - 9 	HT Re-Live
+	Reac Arándano - Mierin Eronaile 	5 - 0 	HT Re-Live
+	David Brent - Cebbes pigga gäng 	3 - 1 	HT Re-Live
+Omgång 4
+2018-05-06 (4/68) 			
+	Mierin Eronaile - FCS 1890 	7 - 1 	HT Re-Live
+	Cebbes pigga gäng - Blaans pojkar 	0 - 2 	HT Re-Live
+	IFK Wella - Reac Arándano 	1 - 2 	HT Re-Live
+	Fc Misery - David Brent 	5 - 1 	HT Re-Live
+Omgång 5
+2018-05-13 (5/68) 			
+	FCS 1890 - Reac Arándano 	1 - 7 	HT Re-Live
+	Blaans pojkar - Fc Misery 	4 - 0 	HT Re-Live
+	David Brent - IFK Wella 	3 - 1 	HT Re-Live
+	Cebbes pigga gäng - Mierin Eronaile 	6 - 0 	HT Re-Live
+Omgång 6
+2018-05-20 (6/68) 			
+	IFK Wella - FCS 1890 	10 - 1 	HT Re-Live
+	Reac Arándano - Blaans pojkar 	1 - 1 	HT Re-Live
+	Mierin Eronaile - David Brent 	2 - 0 	HT Re-Live
+	Fc Misery - Cebbes pigga gäng 	6 - 4 	HT Re-Live
+Omgång 7
+2018-05-27 (7/68) 			
+	Cebbes pigga gäng - IFK Wella 	4 - 1 	HT Re-Live
+	David Brent - Reac Arándano 	0 - 2 	HT Re-Live
+	FCS 1890 - Blaans pojkar 	0 - 10 	HT Re-Live
+	Mierin Eronaile - Fc Misery 	2 - 2 	HT Re-Live
+Omgång 8
+2018-06-03 (8/68) 			
+	Fc Misery - Mierin Eronaile 	3 - 0 	HT Re-Live
+	IFK Wella - Cebbes pigga gäng 	0 - 2 	HT Re-Live
+	Reac Arándano - David Brent 	5 - 1 	HT Re-Live
+	Blaans pojkar - FCS 1890 	5 - 0 	HT Re-Live
+Omgång 9
+2018-06-10 (9/68) 			
+	Cebbes pigga gäng - Fc Misery 	1 - 0 	HT Re-Live
+	Blaans pojkar - Reac Arándano 	1 - 3 	HT Re-Live
+	FCS 1890 - IFK Wella 	0 - 4 	HT Re-Live
+	David Brent - Mierin Eronaile 	4 - 0 	HT Re-Live
+Omgång 10
+2018-06-17 (10/68) 			
+	Mierin Eronaile - Cebbes pigga gäng 	1 - 5 	HT Re-Live
+	IFK Wella - David Brent 	5 - 0 	HT Re-Live
+	Fc Misery - Blaans pojkar 	1 - 0 	HT Re-Live
+	Reac Arándano - FCS 1890 	6 - 0 	HT Re-Live
+Omgång 11
+2018-06-24 (11/68) 			
+	David Brent - Fc Misery 	2 - 3 	HT Re-Live
+	Reac Arándano - IFK Wella 	3 - 1 	HT Re-Live
+	FCS 1890 - Mierin Eronaile 	1 - 5 	HT Re-Live
+	Blaans pojkar - Cebbes pigga gäng 	3 - 1 	HT Re-Live
+Omgång 12
+2018-07-01 (12/68) 			
+	Mierin Eronaile - Reac Arándano 	0 - 0 	HT Re-Live
+	Cebbes pigga gäng - David Brent 	3 - 1 	HT Re-Live
+	IFK Wella - Blaans pojkar 	2 - 2 	HT Re-Live
+	Fc Misery - FCS 1890 	9 - 1 	HT Re-Live
+Omgång 13
+2018-07-08 (13/68) 			
+	IFK Wella - Fc Misery 	1 - 0 	HT Re-Live
+	Blaans pojkar - Mierin Eronaile 	3 - 1 	HT Re-Live
+	FCS 1890 - David Brent 	0 - 4 	HT Re-Live
+	Reac Arándano - Cebbes pigga gäng 	5 - 0 	HT Re-Live
+Omgång 14
+2018-07-15 (14/68) 			
+	Fc Misery - Reac Arándano 	3 - 1 	HT Re-Live
+	Mierin Eronaile - IFK Wella 	4 - 1 	HT Re-Live
+	David Brent - Blaans pojkar 	1 - 1 	HT Re-Live
+	Cebbes pigga gäng - FCS 1890 	8 - 0 	HT Re-Live
