@@ -33,7 +33,7 @@ public:
 	map< string, unsigned > teamMap;
 
 	Statistics( unsigned last ) {
-		series.push_back( Series( "A", 1, 11, last ) );
+		series.push_back( Series( "A", 1, 2, last ) );
 		if ( 10 < last ) {
 			for ( int i = 0; i < 4; ++i ) {
 				stringstream ss;

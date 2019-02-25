@@ -1,0 +1,84 @@
+Omgång 1
+2018-11-25 			
+	Green Boys FC - CAJ Maccers 	0 - 5 	
+	AC Weah - KobraAttack 	4 - 0 	
+	Tjugosjö IF - Olofsi 	2 - 3 	
+	Benke Beavers - Tallnäs Boys 	5 - 0 	
+Omgång 2
+2018-12-02 			
+	KobraAttack - Green Boys FC 	6 - 0 	
+	CAJ Maccers - Benke Beavers 	3 - 1 	
+	Olofsi - AC Weah 	0 - 3 	
+	Tallnäs Boys - Tjugosjö IF 	4 - 2 	
+Omgång 3
+2018-12-09 			
+	Green Boys FC - Tallnäs Boys 	2 - 3 	
+	AC Weah - Tjugosjö IF 	2 - 0 	
+	KobraAttack - CAJ Maccers 	1 - 6 	
+	Benke Beavers - Olofsi 	0 - 4 	
+Omgång 4
+2018-12-16 			
+	Olofsi - Green Boys FC 	7 - 0 	
+	Tjugosjö IF - Benke Beavers 	2 - 0 	
+	Tallnäs Boys - KobraAttack 	7 - 6 	
+	CAJ Maccers - AC Weah 	2 - 1 	
+Omgång 5
+2018-12-23 			
+	Green Boys FC - Benke Beavers 	0 - 3 	
+	AC Weah - Tallnäs Boys 	5 - 1 	
+	KobraAttack - Tjugosjö IF 	4 - 2 	
+	CAJ Maccers - Olofsi 	4 - 0 	
+Omgång 6
+2018-12-30 			
+	Tjugosjö IF - Green Boys FC 	7 - 1 	
+	Benke Beavers - AC Weah 	0 - 3 	
+	Olofsi - KobraAttack 	2 - 1 	
+	Tallnäs Boys - CAJ Maccers 	0 - 7 	
+Omgång 7
+2019-01-06 			
+	Green Boys FC - AC Weah 	0 - 7 	
+	CAJ Maccers - Tjugosjö IF 	6 - 0 	
+	KobraAttack - Benke Beavers 	3 - 4 	
+	Olofsi - Tallnäs Boys 	5 - 0 	
+Omgång 8
+2019-01-13 			
+	Tallnäs Boys - Olofsi 	1 - 3 	
+	Benke Beavers - KobraAttack 	0 - 5 	
+	Tjugosjö IF - CAJ Maccers 	2 - 2 	
+	AC Weah - Green Boys FC 	7 - 0 	
+Omgång 9
+2019-01-20 			
+	CAJ Maccers - Tallnäs Boys 	4 - 0 	
+	AC Weah - Benke Beavers 	2 - 1 	
+	KobraAttack - Olofsi 	3 - 4 	
+	Green Boys FC - Tjugosjö IF 	0 - 5 	
+Omgång 10
+2019-01-27 			
+	Olofsi - CAJ Maccers 	2 - 4 	
+	Tallnäs Boys - AC Weah 	1 - 3 	
+	Tjugosjö IF - KobraAttack 	5 - 1 	
+	Benke Beavers - Green Boys FC 	5 - 0 	
+Omgång 11
+2019-02-03 			
+	KobraAttack - Tallnäs Boys 	4 - 1 	
+	Benke Beavers - Tjugosjö IF 	1 - 0 	
+	AC Weah - CAJ Maccers 	1 - 2 	
+	Green Boys FC - Olofsi 	0 - 6 	
+Omgång 12
+2019-02-10 			
+	Tjugosjö IF - AC Weah 	0 - 2 	
+	CAJ Maccers - KobraAttack 	8 - 1 	
+	Tallnäs Boys - Green Boys FC 	5 - 0 	
+	Olofsi - Benke Beavers 	0 - 1 	
+Omgång 13
+2019-02-17 			
+	Tjugosjö IF - Tallnäs Boys 	1 - 0 	
+	AC Weah - Olofsi 	1 - 0 	
+	Benke Beavers - CAJ Maccers 	0 - 5 	
+	Green Boys FC - KobraAttack 	0 - 7 	
+Omgång 14
+2019-02-24 			
+	Tallnäs Boys - Benke Beavers 	0 - 1 	
+	Olofsi - Tjugosjö IF 	4 - 2 	
+	KobraAttack - AC Weah 	0 - 0 	
+	CAJ Maccers - Green Boys FC 	6 - 0

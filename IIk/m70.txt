@@ -1,0 +1,84 @@
+Omgång 1
+2018-11-25 			
+	Maximus FF - FC TUNA HILLBILLYS 	4 - 2 	
+	Nakorn Ratchasima FC - NK Hajduk 	5 - 1 	
+	Hawkwing FF - Gmanc FC 	2 - 2 	
+	Titans of Hammarberget - Råbergs råbusar 	0 - 0 	
+Omgång 2
+2018-12-02 			
+	NK Hajduk - Maximus FF 	4 - 1 	
+	FC TUNA HILLBILLYS - Titans of Hammarberget 	4 - 1 	
+	Gmanc FC - Nakorn Ratchasima FC 	3 - 0 	
+	Råbergs råbusar - Hawkwing FF 	4 - 1 	
+Omgång 3
+2018-12-09 			
+	Maximus FF - Råbergs råbusar 	2 - 0 	
+	Nakorn Ratchasima FC - Hawkwing FF 	3 - 2 	
+	NK Hajduk - FC TUNA HILLBILLYS 	4 - 6 	
+	Titans of Hammarberget - Gmanc FC 	2 - 0 	
+Omgång 4
+2018-12-16 			
+	Gmanc FC - Maximus FF 	2 - 3 	
+	FC TUNA HILLBILLYS - Nakorn Ratchasima FC 	3 - 0 	
+	Hawkwing FF - Titans of Hammarberget 	0 - 4 	
+	Råbergs råbusar - NK Hajduk 	1 - 0 	
+Omgång 5
+2018-12-23 			
+	Maximus FF - Titans of Hammarberget 	3 - 2 	
+	NK Hajduk - Hawkwing FF 	5 - 0 	
+	Nakorn Ratchasima FC - Råbergs råbusar 	2 - 0 	
+	FC TUNA HILLBILLYS - Gmanc FC 	6 - 1 	
+Omgång 6
+2018-12-30 			
+	Hawkwing FF - Maximus FF 	0 - 4 	
+	Titans of Hammarberget - Nakorn Ratchasima FC 	3 - 2 	
+	Gmanc FC - NK Hajduk 	2 - 4 	
+	Råbergs råbusar - FC TUNA HILLBILLYS 	0 - 3 	
+Omgång 7
+2019-01-06 			
+	Maximus FF - Nakorn Ratchasima FC 	5 - 1 	
+	NK Hajduk - Titans of Hammarberget 	4 - 0 	
+	FC TUNA HILLBILLYS - Hawkwing FF 	5 - 0 	
+	Gmanc FC - Råbergs råbusar 	1 - 0 	
+Omgång 8
+2019-01-13 			
+	Råbergs råbusar - Gmanc FC 	3 - 1 	
+	Titans of Hammarberget - NK Hajduk 	2 - 2 	
+	Hawkwing FF - FC TUNA HILLBILLYS 	3 - 0 	
+	Nakorn Ratchasima FC - Maximus FF 	1 - 1 	
+Omgång 9
+2019-01-20 			
+	FC TUNA HILLBILLYS - Råbergs råbusar 	0 - 4 	
+	NK Hajduk - Gmanc FC 	1 - 2 	
+	Nakorn Ratchasima FC - Titans of Hammarberget 	2 - 2 	
+	Maximus FF - Hawkwing FF 	4 - 0 	
+Omgång 10
+2019-01-27 			
+	Gmanc FC - FC TUNA HILLBILLYS 	6 - 0 	
+	Hawkwing FF - NK Hajduk 	1 - 3 	
+	Råbergs råbusar - Nakorn Ratchasima FC 	0 - 1 	
+	Titans of Hammarberget - Maximus FF 	1 - 3 	
+Omgång 11
+2019-02-03 			
+	NK Hajduk - Råbergs råbusar 	1 - 0 	
+	Titans of Hammarberget - Hawkwing FF 	1 - 0 	
+	Nakorn Ratchasima FC - FC TUNA HILLBILLYS 	9 - 0 	
+	Maximus FF - Gmanc FC 	2 - 3 	
+Omgång 12
+2019-02-10 			
+	Gmanc FC - Titans of Hammarberget 	1 - 2 	
+	FC TUNA HILLBILLYS - NK Hajduk 	0 - 8 	
+	Hawkwing FF - Nakorn Ratchasima FC 	0 - 3 	
+	Råbergs råbusar - Maximus FF 	0 - 1 	
+Omgång 13
+2019-02-17 			
+	Hawkwing FF - Råbergs råbusar 	0 - 1 	
+	Nakorn Ratchasima FC - Gmanc FC 	3 - 1 	
+	Titans of Hammarberget - FC TUNA HILLBILLYS 	9 - 0 	
+	Maximus FF - NK Hajduk 	2 - 1 	
+Omgång 14
+2019-02-24 			
+	Råbergs råbusar - Titans of Hammarberget 	1 - 1 	
+	Gmanc FC - Hawkwing FF 	5 - 0 	
+	NK Hajduk - Nakorn Ratchasima FC 	2 - 0 	
+	FC TUNA HILLBILLYS - Maximus FF 	1 - 5

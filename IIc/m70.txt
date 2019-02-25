@@ -1,0 +1,84 @@
+Omgång 1
+2018-11-25 			
+	Kvarnåsen SK - Keffs Tigers 	2 - 2 	
+	Himmelriket IF - Legend of Losers 	0 - 5 	
+	Starfighter - IFK Snedträff 	1 - 1 	
+	BK Granit - Bjärnums HK 	0 - 2 	
+Omgång 2
+2018-12-02 			
+	Legend of Losers - Kvarnåsen SK 	2 - 0 	
+	Keffs Tigers - BK Granit 	3 - 3 	
+	IFK Snedträff - Himmelriket IF 	6 - 0 	
+	Bjärnums HK - Starfighter 	1 - 0 	
+Omgång 3
+2018-12-09 			
+	Kvarnåsen SK - Bjärnums HK 	1 - 2 	
+	Himmelriket IF - Starfighter 	0 - 10 	
+	Legend of Losers - Keffs Tigers 	3 - 1 	
+	BK Granit - IFK Snedträff 	0 - 2 	
+Omgång 4
+2018-12-16 			
+	IFK Snedträff - Kvarnåsen SK 	1 - 0 	
+	Keffs Tigers - Himmelriket IF 	10 - 0 	
+	Starfighter - BK Granit 	2 - 1 	
+	Bjärnums HK - Legend of Losers 	2 - 1 	
+Omgång 5
+2018-12-23 			
+	Kvarnåsen SK - BK Granit 	1 - 2 	
+	Legend of Losers - Starfighter 	0 - 1 	
+	Himmelriket IF - Bjärnums HK 	0 - 5 	
+	Keffs Tigers - IFK Snedträff 	2 - 1 	
+Omgång 6
+2018-12-30 			
+	Starfighter - Kvarnåsen SK 	0 - 2 	
+	BK Granit - Himmelriket IF 	7 - 0 	
+	IFK Snedträff - Legend of Losers 	0 - 0 	
+	Bjärnums HK - Keffs Tigers 	3 - 0 	
+Omgång 7
+2019-01-06 			
+	Kvarnåsen SK - Himmelriket IF 	8 - 0 	
+	Keffs Tigers - Starfighter 	2 - 0 	
+	Legend of Losers - BK Granit 	2 - 0 	
+	IFK Snedträff - Bjärnums HK 	0 - 5 	
+Omgång 8
+2019-01-13 			
+	Bjärnums HK - IFK Snedträff 	2 - 0 	
+	Starfighter - Keffs Tigers 	2 - 1 	
+	BK Granit - Legend of Losers 	3 - 1 	
+	Himmelriket IF - Kvarnåsen SK 	0 - 8 	
+Omgång 9
+2019-01-20 			
+	Keffs Tigers - Bjärnums HK 	2 - 0 	
+	Legend of Losers - IFK Snedträff 	2 - 3 	
+	Himmelriket IF - BK Granit 	0 - 8 	
+	Kvarnåsen SK - Starfighter 	3 - 2 	
+Omgång 10
+2019-01-27 			
+	IFK Snedträff - Keffs Tigers 	4 - 2 	
+	Bjärnums HK - Himmelriket IF 	5 - 0 	
+	BK Granit - Kvarnåsen SK 	5 - 1 	
+	Starfighter - Legend of Losers 	3 - 4 	
+Omgång 11
+2019-02-03 			
+	Legend of Losers - Bjärnums HK 	0 - 2 	
+	BK Granit - Starfighter 	1 - 2 	
+	Himmelriket IF - Keffs Tigers 	1 - 7 	
+	Kvarnåsen SK - IFK Snedträff 	1 - 1 	
+Omgång 12
+2019-02-10 			
+	IFK Snedträff - BK Granit 	2 - 3 	
+	Starfighter - Himmelriket IF 	10 - 0 	
+	Bjärnums HK - Kvarnåsen SK 	3 - 1 	
+	Keffs Tigers - Legend of Losers 	4 - 1 	
+Omgång 13
+2019-02-17 			
+	BK Granit - Keffs Tigers 	5 - 1 	
+	Kvarnåsen SK - Legend of Losers 	1 - 1 	
+	Starfighter - Bjärnums HK 	0 - 0 	
+	Himmelriket IF - IFK Snedträff 	0 - 5 	
+Omgång 14
+2019-02-24 			
+	Bjärnums HK - BK Granit 	2 - 0 	
+	IFK Snedträff - Starfighter 	5 - 0 	
+	Legend of Losers - Himmelriket IF 	5 - 0 	
+	Keffs Tigers - Kvarnåsen SK 	2 - 2

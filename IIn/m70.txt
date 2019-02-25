@@ -1,0 +1,84 @@
+Omgång 1
+2018-11-25 			
+	IFK Ninweborg - Staffanstorps BK 	2 - 1 	
+	Golden Lions - The Elven Lords 	0 - 8 	
+	Claret & Blue - Zwitter 	1 - 2 	
+	IFK Rödupp - Zoo united 	4 - 1 	
+Omgång 2
+2018-12-02 			
+	Staffanstorps BK - IFK Rödupp 	2 - 1 	
+	Zwitter - Golden Lions 	6 - 0 	
+	The Elven Lords - IFK Ninweborg 	0 - 4 	
+	Zoo united - Claret & Blue 	4 - 2 	
+Omgång 3
+2018-12-09 			
+	IFK Ninweborg - Zoo united 	2 - 0 	
+	Golden Lions - Claret & Blue 	0 - 7 	
+	The Elven Lords - Staffanstorps BK 	1 - 1 	
+	IFK Rödupp - Zwitter 	4 - 2 	
+Omgång 4
+2018-12-16 			
+	Zwitter - IFK Ninweborg 	2 - 4 	
+	Claret & Blue - IFK Rödupp 	2 - 4 	
+	Staffanstorps BK - Golden Lions 	4 - 0 	
+	Zoo united - The Elven Lords 	4 - 1 	
+Omgång 5
+2018-12-23 			
+	IFK Ninweborg - IFK Rödupp 	4 - 1 	
+	The Elven Lords - Claret & Blue 	1 - 6 	
+	Golden Lions - Zoo united 	0 - 3 	
+	Staffanstorps BK - Zwitter 	3 - 0 	
+Omgång 6
+2018-12-30 			
+	Claret & Blue - IFK Ninweborg 	0 - 2 	
+	IFK Rödupp - Golden Lions 	8 - 0 	
+	Zwitter - The Elven Lords 	6 - 0 	
+	Zoo united - Staffanstorps BK 	0 - 1 	
+Omgång 7
+2019-01-06 			
+	IFK Ninweborg - Golden Lions 	6 - 0 	
+	Staffanstorps BK - Claret & Blue 	4 - 0 	
+	The Elven Lords - IFK Rödupp 	0 - 6 	
+	Zwitter - Zoo united 	4 - 0 	
+Omgång 8
+2019-01-13 			
+	Zoo united - Zwitter 	4 - 1 	
+	IFK Rödupp - The Elven Lords 	8 - 0 	
+	Golden Lions - IFK Ninweborg 	1 - 5 	
+	Claret & Blue - Staffanstorps BK 	2 - 0 	
+Omgång 9
+2019-01-20 			
+	Staffanstorps BK - Zoo united 	3 - 0 	
+	The Elven Lords - Zwitter 	1 - 8 	
+	Golden Lions - IFK Rödupp 	0 - 9 	
+	IFK Ninweborg - Claret & Blue 	2 - 1 	
+Omgång 10
+2019-01-27 			
+	Zwitter - Staffanstorps BK 	1 - 0 	
+	Zoo united - Golden Lions 	4 - 0 	
+	Claret & Blue - The Elven Lords 	12 - 0 	
+	IFK Rödupp - IFK Ninweborg 	2 - 2 	
+Omgång 11
+2019-02-03 			
+	IFK Ninweborg - Zwitter 	4 - 0 	
+	IFK Rödupp - Claret & Blue 	1 - 4 	
+	Golden Lions - Staffanstorps BK 	0 - 5 	
+	The Elven Lords - Zoo united 	0 - 5 	
+Omgång 12
+2019-02-10 			
+	Zwitter - IFK Rödupp 	3 - 1 	
+	Staffanstorps BK - The Elven Lords 	6 - 0 	
+	Claret & Blue - Golden Lions 	7 - 0 	
+	Zoo united - IFK Ninweborg 	2 - 4 	
+Omgång 13
+2019-02-17 			
+	Claret & Blue - Zoo united 	7 - 2 	
+	Golden Lions - Zwitter 	0 - 7 	
+	IFK Rödupp - Staffanstorps BK 	1 - 4 	
+	IFK Ninweborg - The Elven Lords 	8 - 0 	
+Omgång 14
+2019-02-24 			
+	Zoo united - IFK Rödupp 	2 - 5 	
+	Zwitter - Claret & Blue 	1 - 3 	
+	The Elven Lords - Golden Lions 	0 - 2 	
+	Staffanstorps BK - IFK Ninweborg 	2 - 1

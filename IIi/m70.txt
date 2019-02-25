@@ -1,0 +1,84 @@
+Omgång 1
+2018-11-25 			
+	Hallands Nation - Bockarna 	4 - 2 	
+	IFK Kostigen - Herr Swahn's Dirty Vikings 	3 - 2 	
+	Tingvalla BK - brp 	5 - 1 	
+	Schenströmska BK - Abbe FC 	2 - 0 	
+Omgång 2
+2018-12-02 			
+	Herr Swahn's Dirty Vikings - Hallands Nation 	2 - 3 	
+	Bockarna - Schenströmska BK 	2 - 3 	
+	brp - IFK Kostigen 	3 - 2 	
+	Abbe FC - Tingvalla BK 	1 - 2 	
+Omgång 3
+2018-12-09 			
+	IFK Kostigen - Tingvalla BK 	2 - 0 	
+	Hallands Nation - Abbe FC 	3 - 2 	
+	Schenströmska BK - brp 	5 - 0 	
+	Herr Swahn's Dirty Vikings - Bockarna 	2 - 1 	
+Omgång 4
+2018-12-16 			
+	brp - Hallands Nation 	0 - 4 	
+	Bockarna - IFK Kostigen 	1 - 2 	
+	Tingvalla BK - Schenströmska BK 	0 - 3 	
+	Abbe FC - Herr Swahn's Dirty Vikings 	0 - 0 	
+Omgång 5
+2018-12-23 			
+	Hallands Nation - Schenströmska BK 	2 - 1 	
+	Herr Swahn's Dirty Vikings - Tingvalla BK 	2 - 4 	
+	IFK Kostigen - Abbe FC 	2 - 0 	
+	Bockarna - brp 	4 - 2 	
+Omgång 6
+2018-12-30 			
+	Tingvalla BK - Hallands Nation 	1 - 3 	
+	Schenströmska BK - IFK Kostigen 	5 - 4 	
+	Abbe FC - Bockarna 	0 - 2 	
+	brp - Herr Swahn's Dirty Vikings 	3 - 1 	
+Omgång 7
+2019-01-06 			
+	Hallands Nation - IFK Kostigen 	1 - 3 	
+	Bockarna - Tingvalla BK 	3 - 3 	
+	Herr Swahn's Dirty Vikings - Schenströmska BK 	0 - 3 	
+	brp - Abbe FC 	2 - 0 	
+Omgång 8
+2019-01-13 			
+	Abbe FC - brp 	3 - 3 	
+	Schenströmska BK - Herr Swahn's Dirty Vikings 	3 - 0 	
+	Tingvalla BK - Bockarna 	1 - 3 	
+	IFK Kostigen - Hallands Nation 	2 - 2 	
+Omgång 9
+2019-01-20 			
+	Bockarna - Abbe FC 	3 - 1 	
+	Herr Swahn's Dirty Vikings - brp 	1 - 1 	
+	IFK Kostigen - Schenströmska BK 	4 - 0 	
+	Hallands Nation - Tingvalla BK 	3 - 0 	
+Omgång 10
+2019-01-27 			
+	brp - Bockarna 	1 - 2 	
+	Abbe FC - IFK Kostigen 	1 - 2 	
+	Schenströmska BK - Hallands Nation 	5 - 2 	
+	Tingvalla BK - Herr Swahn's Dirty Vikings 	1 - 1 	
+Omgång 11
+2019-02-03 			
+	Herr Swahn's Dirty Vikings - Abbe FC 	2 - 0 	
+	Schenströmska BK - Tingvalla BK 	3 - 0 	
+	IFK Kostigen - Bockarna 	2 - 2 	
+	Hallands Nation - brp 	2 - 0 	
+Omgång 12
+2019-02-10 			
+	brp - Schenströmska BK 	1 - 3 	
+	Bockarna - Herr Swahn's Dirty Vikings 	4 - 0 	
+	Tingvalla BK - IFK Kostigen 	1 - 4 	
+	Abbe FC - Hallands Nation 	0 - 4 	
+Omgång 13
+2019-02-17 			
+	Tingvalla BK - Abbe FC 	4 - 0 	
+	IFK Kostigen - brp 	6 - 1 	
+	Schenströmska BK - Bockarna 	3 - 0 	
+	Hallands Nation - Herr Swahn's Dirty Vikings 	2 - 0 	
+Omgång 14
+2019-02-24 			
+	Abbe FC - Schenströmska BK 	1 - 2 	
+	Herr Swahn's Dirty Vikings - IFK Kostigen 	0 - 1 	
+	brp - Tingvalla BK 	1 - 5 	
+	Bockarna - Hallands Nation 	6 - 1

@@ -1,0 +1,84 @@
+Omgång 1
+2018-11-25 			
+	Glumslövs BK - Kv_Kickers 	0 - 9 	
+	Scoring Xtreme - A.C. Bananas 	3 - 1 	
+	Grossbol Gringos - BK Stutsons 	5 - 3 	
+	Kristall Palatset - Sockerknarkarna 	4 - 2 	
+Omgång 2
+2018-12-02 			
+	A.C. Bananas - Glumslövs BK 	8 - 0 	
+	Kv_Kickers - Kristall Palatset 	4 - 1 	
+	BK Stutsons - Scoring Xtreme 	2 - 3 	
+	Sockerknarkarna - Grossbol Gringos 	1 - 1 	
+Omgång 3
+2018-12-09 			
+	Glumslövs BK - Sockerknarkarna 	0 - 6 	
+	Scoring Xtreme - Grossbol Gringos 	4 - 1 	
+	A.C. Bananas - Kv_Kickers 	4 - 1 	
+	Kristall Palatset - BK Stutsons 	2 - 7 	
+Omgång 4
+2018-12-16 			
+	BK Stutsons - Glumslövs BK 	7 - 0 	
+	Kv_Kickers - Scoring Xtreme 	2 - 3 	
+	Grossbol Gringos - Kristall Palatset 	6 - 2 	
+	Sockerknarkarna - A.C. Bananas 	1 - 3 	
+Omgång 5
+2018-12-23 			
+	Glumslövs BK - Kristall Palatset 	0 - 6 	
+	A.C. Bananas - Grossbol Gringos 	3 - 3 	
+	Scoring Xtreme - Sockerknarkarna 	2 - 0 	
+	Kv_Kickers - BK Stutsons 	1 - 2 	
+Omgång 6
+2018-12-30 			
+	Grossbol Gringos - Glumslövs BK 	7 - 2 	
+	Kristall Palatset - Scoring Xtreme 	2 - 1 	
+	BK Stutsons - A.C. Bananas 	3 - 2 	
+	Sockerknarkarna - Kv_Kickers 	0 - 3 	
+Omgång 7
+2019-01-06 			
+	Glumslövs BK - Scoring Xtreme 	1 - 6 	
+	Kv_Kickers - Grossbol Gringos 	1 - 3 	
+	A.C. Bananas - Kristall Palatset 	3 - 1 	
+	BK Stutsons - Sockerknarkarna 	2 - 0 	
+Omgång 8
+2019-01-13 			
+	Sockerknarkarna - BK Stutsons 	3 - 0 	
+	Kristall Palatset - A.C. Bananas 	1 - 1 	
+	Grossbol Gringos - Kv_Kickers 	5 - 1 	
+	Scoring Xtreme - Glumslövs BK 	7 - 0 	
+Omgång 9
+2019-01-20 			
+	Kv_Kickers - Sockerknarkarna 	1 - 2 	
+	Scoring Xtreme - Kristall Palatset 	3 - 1 	
+	A.C. Bananas - BK Stutsons 	2 - 0 	
+	Glumslövs BK - Grossbol Gringos 	0 - 8 	
+Omgång 10
+2019-01-27 			
+	BK Stutsons - Kv_Kickers 	3 - 3 	
+	Sockerknarkarna - Scoring Xtreme 	0 - 3 	
+	Grossbol Gringos - A.C. Bananas 	3 - 1 	
+	Kristall Palatset - Glumslövs BK 	10 - 0 	
+Omgång 11
+2019-02-03 			
+	Kristall Palatset - Grossbol Gringos 	1 - 3 	
+	Scoring Xtreme - Kv_Kickers 	2 - 0 	
+	Glumslövs BK - BK Stutsons 	0 - 8 	
+	A.C. Bananas - Sockerknarkarna 	2 - 1 	
+Omgång 12
+2019-02-10 			
+	BK Stutsons - Kristall Palatset 	1 - 2 	
+	Kv_Kickers - A.C. Bananas 	1 - 1 	
+	Grossbol Gringos - Scoring Xtreme 	1 - 5 	
+	Sockerknarkarna - Glumslövs BK 	8 - 0 	
+Omgång 13
+2019-02-17 			
+	Grossbol Gringos - Sockerknarkarna 	2 - 1 	
+	Scoring Xtreme - BK Stutsons 	4 - 1 	
+	Kristall Palatset - Kv_Kickers 	2 - 3 	
+	Glumslövs BK - A.C. Bananas 	0 - 5 	
+Omgång 14
+2019-02-24 			
+	Sockerknarkarna - Kristall Palatset 	3 - 0 	
+	BK Stutsons - Grossbol Gringos 	4 - 2 	
+	A.C. Bananas - Scoring Xtreme 	1 - 2 	
+	Kv_Kickers - Glumslövs BK 	9 - 0

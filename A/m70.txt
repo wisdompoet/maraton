@@ -1,0 +1,84 @@
+Omgång 1
+2018-11-25 			
+	Gäddträsket - Ursvikingarnas BK 	6 - 1 	
+	FBKkrossen - Playboys Us 	2 - 1 	
+	Zorro Dribblers - Rommeholen FC 	5 - 0 	
+	Prinskorv FC - Reac Arándano 	3 - 0 	
+Omgång 2
+2018-12-02 			
+	Rommeholen FC - Gäddträsket 	0 - 6 	
+	Ursvikingarnas BK - Prinskorv FC 	2 - 2 	
+	Playboys Us - Zorro Dribblers 	2 - 1 	
+	Reac Arándano - FBKkrossen 	3 - 1 	
+Omgång 3
+2018-12-09 			
+	Gäddträsket - Reac Arándano 	0 - 0 	
+	Rommeholen FC - Ursvikingarnas BK 	1 - 2 	
+	Zorro Dribblers - FBKkrossen 	1 - 5 	
+	Prinskorv FC - Playboys Us 	1 - 2 	
+Omgång 4
+2018-12-16 			
+	Playboys Us - Gäddträsket 	2 - 1 	
+	Ursvikingarnas BK - Zorro Dribblers 	2 - 2 	
+	FBKkrossen - Prinskorv FC 	2 - 0 	
+	Reac Arándano - Rommeholen FC 	5 - 0 	
+Omgång 5
+2018-12-23 			
+	Gäddträsket - Prinskorv FC 	1 - 2 	
+	Rommeholen FC - FBKkrossen 	0 - 3 	
+	Zorro Dribblers - Reac Arándano 	1 - 1 	
+	Ursvikingarnas BK - Playboys Us 	3 - 5 	
+Omgång 6
+2018-12-30 			
+	FBKkrossen - Gäddträsket 	2 - 3 	
+	Prinskorv FC - Zorro Dribblers 	4 - 2 	
+	Playboys Us - Rommeholen FC 	3 - 0 	
+	Reac Arándano - Ursvikingarnas BK 	5 - 1 	
+Omgång 7
+2019-01-06 			
+	Ursvikingarnas BK - FBKkrossen 	1 - 1 	
+	Gäddträsket - Zorro Dribblers 	1 - 2 	
+	Rommeholen FC - Prinskorv FC 	0 - 7 	
+	Playboys Us - Reac Arándano 	4 - 1 	
+Omgång 8
+2019-01-13 			
+	Reac Arándano - Playboys Us 	4 - 3 	
+	Prinskorv FC - Rommeholen FC 	2 - 0 	
+	FBKkrossen - Ursvikingarnas BK 	5 - 2 	
+	Zorro Dribblers - Gäddträsket 	2 - 1 	
+Omgång 9
+2019-01-20 			
+	Ursvikingarnas BK - Reac Arándano 	3 - 1 	
+	Rommeholen FC - Playboys Us 	0 - 7 	
+	Zorro Dribblers - Prinskorv FC 	3 - 1 	
+	Gäddträsket - FBKkrossen 	0 - 1 	
+Omgång 10
+2019-01-27 			
+	Playboys Us - Ursvikingarnas BK 	2 - 2 	
+	Reac Arándano - Zorro Dribblers 	1 - 3 	
+	FBKkrossen - Rommeholen FC 	4 - 0 	
+	Prinskorv FC - Gäddträsket 	4 - 0 	
+Omgång 11
+2019-02-03 			
+	Rommeholen FC - Reac Arándano 	0 - 9 	
+	Prinskorv FC - FBKkrossen 	2 - 2 	
+	Zorro Dribblers - Ursvikingarnas BK 	2 - 2 	
+	Gäddträsket - Playboys Us 	3 - 2 	
+Omgång 12
+2019-02-10 			
+	Playboys Us - Prinskorv FC 	5 - 5 	
+	Ursvikingarnas BK - Rommeholen FC 	2 - 0 	
+	FBKkrossen - Zorro Dribblers 	1 - 1 	
+	Reac Arándano - Gäddträsket 	0 - 2 	
+Omgång 13
+2019-02-17 			
+	Zorro Dribblers - Playboys Us 	1 - 2 	
+	Prinskorv FC - Ursvikingarnas BK 	2 - 0 	
+	Gäddträsket - Rommeholen FC 	6 - 0 	
+	FBKkrossen - Reac Arándano 	3 - 2 	
+Omgång 14
+2019-02-24 			
+	Rommeholen FC - Zorro Dribblers 	0 - 2 	
+	Ursvikingarnas BK - Gäddträsket 	0 - 2 	
+	Reac Arándano - Prinskorv FC 	0 - 0 	
+	Playboys Us - FBKkrossen 	3 - 5

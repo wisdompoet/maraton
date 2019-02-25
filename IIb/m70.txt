@@ -1,0 +1,84 @@
+Omgång 1
+2018-11-25 			
+	BK Torpet - Bonk IS 	2 - 3 	
+	THE MASTER - FC Linkopia 	4 - 1 	
+	Ik Blåbär - Fruängens BK 	1 - 2 	
+	Juventus.F.C. - Dånö FC 	2 - 0 	
+Omgång 2
+2018-12-02 			
+	FC Linkopia - BK Torpet 	1 - 0 	
+	Bonk IS - Juventus.F.C. 	5 - 3 	
+	Fruängens BK - THE MASTER 	2 - 1 	
+	Dånö FC - Ik Blåbär 	1 - 3 	
+Omgång 3
+2018-12-09 			
+	BK Torpet - Dånö FC 	4 - 0 	
+	THE MASTER - Ik Blåbär 	1 - 3 	
+	Juventus.F.C. - Fruängens BK 	2 - 1 	
+	FC Linkopia - Bonk IS 	2 - 3 	
+Omgång 4
+2018-12-16 			
+	Fruängens BK - BK Torpet 	7 - 0 	
+	Bonk IS - THE MASTER 	3 - 1 	
+	Ik Blåbär - Juventus.F.C. 	4 - 0 	
+	Dånö FC - FC Linkopia 	4 - 3 	
+Omgång 5
+2018-12-23 			
+	BK Torpet - Juventus.F.C. 	6 - 0 	
+	THE MASTER - Dånö FC 	4 - 1 	
+	FC Linkopia - Ik Blåbär 	2 - 1 	
+	Bonk IS - Fruängens BK 	0 - 0 	
+Omgång 6
+2018-12-30 			
+	Ik Blåbär - BK Torpet 	3 - 4 	
+	Juventus.F.C. - THE MASTER 	6 - 2 	
+	Fruängens BK - FC Linkopia 	3 - 1 	
+	Dånö FC - Bonk IS 	2 - 1 	
+Omgång 7
+2019-01-06 			
+	BK Torpet - THE MASTER 	8 - 1 	
+	Bonk IS - Ik Blåbär 	5 - 0 	
+	FC Linkopia - Juventus.F.C. 	4 - 2 	
+	Fruängens BK - Dånö FC 	2 - 1 	
+Omgång 8
+2019-01-13 			
+	Dånö FC - Fruängens BK 	1 - 2 	
+	Juventus.F.C. - FC Linkopia 	1 - 1 	
+	Ik Blåbär - Bonk IS 	1 - 4 	
+	THE MASTER - BK Torpet 	2 - 3 	
+Omgång 9
+2019-01-20 			
+	Bonk IS - Dånö FC 	2 - 2 	
+	FC Linkopia - Fruängens BK 	1 - 2 	
+	THE MASTER - Juventus.F.C. 	1 - 3 	
+	BK Torpet - Ik Blåbär 	3 - 1 	
+Omgång 10
+2019-01-27 			
+	Fruängens BK - Bonk IS 	3 - 2 	
+	Dånö FC - THE MASTER 	1 - 0 	
+	Ik Blåbär - FC Linkopia 	3 - 2 	
+	Juventus.F.C. - BK Torpet 	3 - 4 	
+Omgång 11
+2019-02-03 			
+	Juventus.F.C. - Ik Blåbär 	2 - 2 	
+	FC Linkopia - Dånö FC 	3 - 2 	
+	THE MASTER - Bonk IS 	3 - 1 	
+	BK Torpet - Fruängens BK 	5 - 2 	
+Omgång 12
+2019-02-10 			
+	Fruängens BK - Juventus.F.C. 	2 - 0 	
+	Ik Blåbär - THE MASTER 	2 - 1 	
+	Dånö FC - BK Torpet 	3 - 2 	
+	Bonk IS - FC Linkopia 	2 - 0 	
+Omgång 13
+2019-02-17 			
+	Ik Blåbär - Dånö FC 	5 - 3 	
+	THE MASTER - Fruängens BK 	3 - 3 	
+	Juventus.F.C. - Bonk IS 	2 - 0 	
+	BK Torpet - FC Linkopia 	3 - 1 	
+Omgång 14
+2019-02-24 			
+	Dånö FC - Juventus.F.C. 	4 - 2 	
+	Fruängens BK - Ik Blåbär 	4 - 1 	
+	FC Linkopia - THE MASTER 	5 - 3 	
+	Bonk IS - BK Torpet 	2 - 3

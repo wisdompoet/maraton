@@ -1,0 +1,84 @@
+Omgång 1
+2018-11-25 			
+	Picos Verdes - Los Pebbos 	3 - 1 	
+	Nobike - Lilltroll FC 	4 - 1 	
+	Vilse i pannkakan - Taco AS 	0 - 6 	
+	Steso FC - Brattforce 	0 - 5 	
+Omgång 2
+2018-12-02 			
+	Brattforce - Vilse i pannkakan 	5 - 0 	
+	Taco AS - Picos Verdes 	0 - 3 	
+	Lilltroll FC - Steso FC 	6 - 1 	
+	Los Pebbos - Nobike 	0 - 1 	
+Omgång 3
+2018-12-09 			
+	Vilse i pannkakan - Los Pebbos 	0 - 2 	
+	Steso FC - Nobike 	0 - 3 	
+	Brattforce - Taco AS 	4 - 0 	
+	Picos Verdes - Lilltroll FC 	2 - 2 	
+Omgång 4
+2018-12-16 			
+	Lilltroll FC - Vilse i pannkakan 	6 - 0 	
+	Taco AS - Steso FC 	3 - 1 	
+	Nobike - Picos Verdes 	0 - 4 	
+	Los Pebbos - Brattforce 	4 - 3 	
+Omgång 5
+2018-12-23 			
+	Vilse i pannkakan - Picos Verdes 	0 - 4 	
+	Brattforce - Nobike 	1 - 0 	
+	Steso FC - Los Pebbos 	2 - 1 	
+	Taco AS - Lilltroll FC 	0 - 6 	
+Omgång 6
+2018-12-30 			
+	Nobike - Vilse i pannkakan 	4 - 0 	
+	Picos Verdes - Steso FC 	4 - 1 	
+	Lilltroll FC - Brattforce 	1 - 6 	
+	Los Pebbos - Taco AS 	5 - 0 	
+Omgång 7
+2019-01-06 			
+	Vilse i pannkakan - Steso FC 	1 - 3 	
+	Taco AS - Nobike 	0 - 0 	
+	Brattforce - Picos Verdes 	3 - 4 	
+	Lilltroll FC - Los Pebbos 	0 - 4 	
+Omgång 8
+2019-01-13 			
+	Los Pebbos - Lilltroll FC 	4 - 1 	
+	Picos Verdes - Brattforce 	1 - 2 	
+	Nobike - Taco AS 	4 - 0 	
+	Steso FC - Vilse i pannkakan 	0 - 8 	
+Omgång 9
+2019-01-20 			
+	Taco AS - Los Pebbos 	0 - 5 	
+	Brattforce - Lilltroll FC 	2 - 0 	
+	Steso FC - Picos Verdes 	0 - 10 	
+	Vilse i pannkakan - Nobike 	0 - 7 	
+Omgång 10
+2019-01-27 			
+	Lilltroll FC - Taco AS 	6 - 0 	
+	Los Pebbos - Steso FC 	7 - 0 	
+	Nobike - Brattforce 	0 - 2 	
+	Picos Verdes - Vilse i pannkakan 	5 - 1 	
+Omgång 11
+2019-02-03 			
+	Brattforce - Los Pebbos 	8 - 1 	
+	Picos Verdes - Nobike 	1 - 1 	
+	Steso FC - Taco AS 	0 - 6 	
+	Vilse i pannkakan - Lilltroll FC 	0 - 6 	
+Omgång 12
+2019-02-10 			
+	Lilltroll FC - Picos Verdes 	2 - 2 	
+	Taco AS - Brattforce 	0 - 5 	
+	Nobike - Steso FC 	11 - 0 	
+	Los Pebbos - Vilse i pannkakan 	5 - 0 	
+Omgång 13
+2019-02-17 			
+	Nobike - Los Pebbos 	1 - 1 	
+	Steso FC - Lilltroll FC 	0 - 10 	
+	Picos Verdes - Taco AS 	4 - 0 	
+	Vilse i pannkakan - Brattforce 	1 - 6 	
+Omgång 14
+2019-02-24 			
+	Los Pebbos - Picos Verdes 	3 - 2 	
+	Lilltroll FC - Nobike 	0 - 2 	
+	Brattforce - Steso FC 	8 - 0 	
+	Taco AS - Vilse i pannkakan 	2 - 0

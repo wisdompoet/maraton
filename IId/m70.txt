@@ -1,0 +1,84 @@
+Omgång 1
+2018-11-25 			
+	Golden Hitz FF - Empoli 	0 - 2 	
+	Kristnas AIK - Goodwon FC 	0 - 2 	
+	Elora FC - SEM Tornet 	7 - 3 	
+	Blackpool FC - jumbotronerna 	3 - 0 	
+Omgång 2
+2018-12-02 			
+	Goodwon FC - Golden Hitz FF 	4 - 1 	
+	Empoli - Blackpool FC 	4 - 1 	
+	SEM Tornet - Kristnas AIK 	6 - 1 	
+	jumbotronerna - Elora FC 	4 - 2 	
+Omgång 3
+2018-12-09 			
+	Golden Hitz FF - jumbotronerna 	1 - 1 	
+	Kristnas AIK - Elora FC 	1 - 6 	
+	Goodwon FC - Empoli 	1 - 3 	
+	Blackpool FC - SEM Tornet 	7 - 0 	
+Omgång 4
+2018-12-16 			
+	SEM Tornet - Golden Hitz FF 	1 - 3 	
+	Empoli - Kristnas AIK 	7 - 0 	
+	Elora FC - Blackpool FC 	4 - 0 	
+	jumbotronerna - Goodwon FC 	3 - 1 	
+Omgång 5
+2018-12-23 			
+	Golden Hitz FF - Blackpool FC 	3 - 2 	
+	Goodwon FC - Elora FC 	2 - 0 	
+	Empoli - SEM Tornet 	2 - 0 	
+	Kristnas AIK - jumbotronerna 	0 - 4 	
+Omgång 6
+2018-12-30 			
+	Elora FC - Golden Hitz FF 	4 - 2 	
+	Blackpool FC - Kristnas AIK 	7 - 0 	
+	SEM Tornet - Goodwon FC 	2 - 3 	
+	jumbotronerna - Empoli 	1 - 3 	
+Omgång 7
+2019-01-06 			
+	Golden Hitz FF - Kristnas AIK 	7 - 0 	
+	Empoli - Elora FC 	3 - 0 	
+	Goodwon FC - Blackpool FC 	4 - 2 	
+	SEM Tornet - jumbotronerna 	3 - 2 	
+Omgång 8
+2019-01-13 			
+	jumbotronerna - SEM Tornet 	2 - 0 	
+	Blackpool FC - Goodwon FC 	2 - 1 	
+	Elora FC - Empoli 	5 - 0 	
+	Kristnas AIK - Golden Hitz FF 	0 - 6 	
+Omgång 9
+2019-01-20 			
+	Empoli - jumbotronerna 	3 - 1 	
+	Goodwon FC - SEM Tornet 	4 - 0 	
+	Kristnas AIK - Blackpool FC 	0 - 8 	
+	Golden Hitz FF - Elora FC 	0 - 10 	
+Omgång 10
+2019-01-27 			
+	SEM Tornet - Empoli 	0 - 3 	
+	Elora FC - Goodwon FC 	2 - 4 	
+	jumbotronerna - Kristnas AIK 	8 - 0 	
+	Blackpool FC - Golden Hitz FF 	6 - 1 	
+Omgång 11
+2019-02-03 			
+	Goodwon FC - jumbotronerna 	6 - 1 	
+	Blackpool FC - Elora FC 	4 - 2 	
+	Kristnas AIK - Empoli 	0 - 5 	
+	Golden Hitz FF - SEM Tornet 	0 - 7 	
+Omgång 12
+2019-02-10 			
+	SEM Tornet - Blackpool FC 	2 - 4 	
+	Empoli - Goodwon FC 	4 - 0 	
+	jumbotronerna - Golden Hitz FF 	6 - 0 	
+	Elora FC - Kristnas AIK 	6 - 0 	
+Omgång 13
+2019-02-17 			
+	Elora FC - jumbotronerna 	7 - 0 	
+	Kristnas AIK - SEM Tornet 	0 - 6 	
+	Blackpool FC - Empoli 	1 - 2 	
+	Golden Hitz FF - Goodwon FC 	1 - 9 	
+Omgång 14
+2019-02-24 			
+	jumbotronerna - Blackpool FC 	0 - 2 	
+	SEM Tornet - Elora FC 	1 - 3 	
+	Goodwon FC - Kristnas AIK 	5 - 0 	
+	Empoli - Golden Hitz FF 	11 - 0

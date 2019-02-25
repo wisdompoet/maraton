@@ -1,0 +1,84 @@
+Omgång 1
+2018-11-25 			
+	Wans - Eneborg 	1 - 5 	
+	Kläppa Hills - Vi äger planen 	2 - 2 	
+	L-A United - Mefilis 	1 - 3 	
+	Sthlm-Fanatix - Tuffe Uffe United 	5 - 0 	
+Omgång 2
+2018-12-02 			
+	Vi äger planen - Wans 	4 - 0 	
+	Mefilis - Kläppa Hills 	1 - 4 	
+	Eneborg - Sthlm-Fanatix 	3 - 2 	
+	Tuffe Uffe United - L-A United 	3 - 0 	
+Omgång 3
+2018-12-09 			
+	Vi äger planen - Eneborg 	1 - 2 	
+	Wans - Tuffe Uffe United 	0 - 0 	
+	Kläppa Hills - L-A United 	4 - 1 	
+	Sthlm-Fanatix - Mefilis 	5 - 0 	
+Omgång 4
+2018-12-16 			
+	Mefilis - Wans 	6 - 1 	
+	Eneborg - Kläppa Hills 	5 - 1 	
+	L-A United - Sthlm-Fanatix 	1 - 4 	
+	Tuffe Uffe United - Vi äger planen 	1 - 0 	
+Omgång 5
+2018-12-23 			
+	Wans - Sthlm-Fanatix 	0 - 6 	
+	Vi äger planen - L-A United 	2 - 0 	
+	Kläppa Hills - Tuffe Uffe United 	1 - 1 	
+	Eneborg - Mefilis 	3 - 1 	
+Omgång 6
+2018-12-30 			
+	L-A United - Wans 	4 - 1 	
+	Sthlm-Fanatix - Kläppa Hills 	1 - 2 	
+	Mefilis - Vi äger planen 	2 - 1 	
+	Tuffe Uffe United - Eneborg 	2 - 0 	
+Omgång 7
+2019-01-06 			
+	Wans - Kläppa Hills 	0 - 3 	
+	Vi äger planen - Sthlm-Fanatix 	1 - 5 	
+	Eneborg - L-A United 	3 - 1 	
+	Mefilis - Tuffe Uffe United 	1 - 2 	
+Omgång 8
+2019-01-13 			
+	Tuffe Uffe United - Mefilis 	1 - 4 	
+	Sthlm-Fanatix - Vi äger planen 	5 - 0 	
+	Kläppa Hills - Wans 	3 - 0 	
+	L-A United - Eneborg 	2 - 5 	
+Omgång 9
+2019-01-20 			
+	Eneborg - Tuffe Uffe United 	1 - 1 	
+	Vi äger planen - Mefilis 	1 - 1 	
+	Kläppa Hills - Sthlm-Fanatix 	1 - 1 	
+	Wans - L-A United 	0 - 3 	
+Omgång 10
+2019-01-27 			
+	Mefilis - Eneborg 	1 - 3 	
+	L-A United - Vi äger planen 	1 - 1 	
+	Tuffe Uffe United - Kläppa Hills 	1 - 1 	
+	Sthlm-Fanatix - Wans 	3 - 0 	
+Omgång 11
+2019-02-03 			
+	Vi äger planen - Tuffe Uffe United 	0 - 2 	
+	Sthlm-Fanatix - L-A United 	9 - 2 	
+	Kläppa Hills - Eneborg 	1 - 1 	
+	Wans - Mefilis 	0 - 1 	
+Omgång 12
+2019-02-10 			
+	Mefilis - Sthlm-Fanatix 	1 - 1 	
+	Eneborg - Vi äger planen 	8 - 0 	
+	L-A United - Kläppa Hills 	0 - 7 	
+	Tuffe Uffe United - Wans 	0 - 0 	
+Omgång 13
+2019-02-17 			
+	Kläppa Hills - Mefilis 	2 - 1 	
+	Sthlm-Fanatix - Eneborg 	4 - 2 	
+	Wans - Vi äger planen 	0 - 0 	
+	L-A United - Tuffe Uffe United 	0 - 4 	
+Omgång 14
+2019-02-24 			
+	Tuffe Uffe United - Sthlm-Fanatix 	1 - 3 	
+	Mefilis - L-A United 	9 - 0 	
+	Vi äger planen - Kläppa Hills 	1 - 4 	
+	Eneborg - Wans 	2 - 2

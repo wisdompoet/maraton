@@ -2,7 +2,7 @@
 #include "Statistics.h"
 
 int main() {
-	Statistics s( 69 );
+	Statistics s( 70 );
 //	s.longestStreak( 1 );
 //	s.mostWinners( 0 );
 	s.marathon( 0 );
@@ -22,7 +22,7 @@ int main() {
 //	s.sequencemedals( 0 );
 //	s.longestStreak( 2 );
 //	s.series[0].tableprint( cout );
-//	s.medalCount( 0 );
+	s.medalCount( 0 );
 
 //	s.appearances( 0 );
 //	s.appearances( 5 );

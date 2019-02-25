@@ -1,0 +1,84 @@
+Omgång 1
+2018-11-25 			
+	Bergnäsets AIK - Hansa Rostbröd 	0 - 4 	
+	Massive Attack - Manufactured Superstars 	4 - 4 	
+	Södra Malmens IF - FC Punta Delgadita 	2 - 1 	
+	Konstanz Spring FC - BK 130 Kineser 	4 - 2 	
+Omgång 2
+2018-12-02 			
+	FC Punta Delgadita - Bergnäsets AIK 	3 - 0 	
+	Hansa Rostbröd - Konstanz Spring FC 	3 - 1 	
+	Manufactured Superstars - Södra Malmens IF 	3 - 2 	
+	BK 130 Kineser - Massive Attack 	2 - 2 	
+Omgång 3
+2018-12-09 			
+	Bergnäsets AIK - BK 130 Kineser 	0 - 6 	
+	Södra Malmens IF - Massive Attack 	3 - 2 	
+	FC Punta Delgadita - Hansa Rostbröd 	3 - 0 	
+	Konstanz Spring FC - Manufactured Superstars 	1 - 5 	
+Omgång 4
+2018-12-16 			
+	Manufactured Superstars - Bergnäsets AIK 	4 - 0 	
+	Hansa Rostbröd - Södra Malmens IF 	6 - 0 	
+	Massive Attack - Konstanz Spring FC 	5 - 1 	
+	BK 130 Kineser - FC Punta Delgadita 	0 - 1 	
+Omgång 5
+2018-12-23 			
+	Bergnäsets AIK - Konstanz Spring FC 	0 - 6 	
+	FC Punta Delgadita - Massive Attack 	2 - 0 	
+	Södra Malmens IF - BK 130 Kineser 	2 - 2 	
+	Hansa Rostbröd - Manufactured Superstars 	2 - 0 	
+Omgång 6
+2018-12-30 			
+	Massive Attack - Bergnäsets AIK 	5 - 0 	
+	Konstanz Spring FC - Södra Malmens IF 	4 - 1 	
+	Manufactured Superstars - FC Punta Delgadita 	2 - 3 	
+	BK 130 Kineser - Hansa Rostbröd 	1 - 5 	
+Omgång 7
+2019-01-06 			
+	Bergnäsets AIK - Södra Malmens IF 	1 - 4 	
+	Hansa Rostbröd - Massive Attack 	4 - 2 	
+	FC Punta Delgadita - Konstanz Spring FC 	2 - 0 	
+	Manufactured Superstars - BK 130 Kineser 	2 - 1 	
+Omgång 8
+2019-01-13 			
+	BK 130 Kineser - Manufactured Superstars 	0 - 3 	
+	Konstanz Spring FC - FC Punta Delgadita 	2 - 2 	
+	Södra Malmens IF - Bergnäsets AIK 	5 - 1 	
+	Massive Attack - Hansa Rostbröd 	0 - 12 	
+Omgång 9
+2019-01-20 			
+	Hansa Rostbröd - BK 130 Kineser 	6 - 0 	
+	FC Punta Delgadita - Manufactured Superstars 	1 - 1 	
+	Södra Malmens IF - Konstanz Spring FC 	1 - 5 	
+	Bergnäsets AIK - Massive Attack 	6 - 0 	
+Omgång 10
+2019-01-27 			
+	Manufactured Superstars - Hansa Rostbröd 	1 - 1 	
+	BK 130 Kineser - Södra Malmens IF 	1 - 3 	
+	Massive Attack - FC Punta Delgadita 	0 - 11 	
+	Konstanz Spring FC - Bergnäsets AIK 	6 - 0 	
+Omgång 11
+2019-02-03 			
+	Bergnäsets AIK - Manufactured Superstars 	0 - 5 	
+	Konstanz Spring FC - Massive Attack 	9 - 0 	
+	FC Punta Delgadita - BK 130 Kineser 	5 - 0 	
+	Södra Malmens IF - Hansa Rostbröd 	0 - 0 	
+Omgång 12
+2019-02-10 			
+	Manufactured Superstars - Konstanz Spring FC 	7 - 3 	
+	Hansa Rostbröd - FC Punta Delgadita 	1 - 0 	
+	Massive Attack - Södra Malmens IF 	0 - 10 	
+	BK 130 Kineser - Bergnäsets AIK 	2 - 1 	
+Omgång 13
+2019-02-17 			
+	Massive Attack - BK 130 Kineser 	0 - 9 	
+	Södra Malmens IF - Manufactured Superstars 	0 - 0 	
+	Konstanz Spring FC - Hansa Rostbröd 	2 - 3 	
+	Bergnäsets AIK - FC Punta Delgadita 	1 - 6 	
+Omgång 14
+2019-02-24 			
+	BK 130 Kineser - Konstanz Spring FC 	0 - 6 	
+	Manufactured Superstars - Massive Attack 	7 - 0 	
+	FC Punta Delgadita - Södra Malmens IF 	0 - 0 	
+	Hansa Rostbröd - Bergnäsets AIK 	8 - 0

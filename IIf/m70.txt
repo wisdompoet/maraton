@@ -1,0 +1,84 @@
+Omgång 1
+2018-11-25 			
+	Värtans IK - The Stonebeatles 	2 - 3 	
+	Hambys Ltd - Skelögd FC 	10 - 0 	
+	Notso Athletic FC - Rullbo BK 	2 - 2 	
+	Tuna FK - BK Bulldog 	2 - 3 	
+Omgång 2
+2018-12-02 			
+	BK Bulldog - Notso Athletic FC 	4 - 2 	
+	Skelögd FC - Tuna FK 	0 - 9 	
+	Rullbo BK - Värtans IK 	3 - 0 	
+	The Stonebeatles - Hambys Ltd 	4 - 1 	
+Omgång 3
+2018-12-09 			
+	Tuna FK - Rullbo BK 	0 - 6 	
+	Hambys Ltd - Värtans IK 	4 - 3 	
+	Skelögd FC - BK Bulldog 	0 - 9 	
+	Notso Athletic FC - The Stonebeatles 	3 - 1 	
+Omgång 4
+2018-12-16 			
+	The Stonebeatles - Tuna FK 	7 - 0 	
+	BK Bulldog - Hambys Ltd 	5 - 1 	
+	Värtans IK - Notso Athletic FC 	1 - 1 	
+	Rullbo BK - Skelögd FC 	9 - 0 	
+Omgång 5
+2018-12-23 			
+	Tuna FK - Notso Athletic FC 	0 - 7 	
+	Skelögd FC - Värtans IK 	0 - 9 	
+	Hambys Ltd - Rullbo BK 	5 - 2 	
+	BK Bulldog - The Stonebeatles 	2 - 1 	
+Omgång 6
+2018-12-30 			
+	Värtans IK - Tuna FK 	8 - 0 	
+	Notso Athletic FC - Hambys Ltd 	1 - 3 	
+	The Stonebeatles - Skelögd FC 	9 - 0 	
+	Rullbo BK - BK Bulldog 	3 - 3 	
+Omgång 7
+2019-01-06 			
+	Tuna FK - Hambys Ltd 	0 - 5 	
+	BK Bulldog - Värtans IK 	1 - 1 	
+	Skelögd FC - Notso Athletic FC 	0 - 6 	
+	The Stonebeatles - Rullbo BK 	2 - 0 	
+Omgång 8
+2019-01-13 			
+	Rullbo BK - The Stonebeatles 	0 - 1 	
+	Notso Athletic FC - Skelögd FC 	8 - 0 	
+	Värtans IK - BK Bulldog 	4 - 3 	
+	Hambys Ltd - Tuna FK 	4 - 0 	
+Omgång 9
+2019-01-20 			
+	BK Bulldog - Rullbo BK 	4 - 0 	
+	Skelögd FC - The Stonebeatles 	0 - 10 	
+	Hambys Ltd - Notso Athletic FC 	3 - 3 	
+	Tuna FK - Värtans IK 	0 - 6 	
+Omgång 10
+2019-01-27 			
+	The Stonebeatles - BK Bulldog 	4 - 0 	
+	Rullbo BK - Hambys Ltd 	3 - 2 	
+	Notso Athletic FC - Tuna FK 	5 - 0 	
+	Värtans IK - Skelögd FC 	8 - 0 	
+Omgång 11
+2019-02-03 			
+	Skelögd FC - Rullbo BK 	0 - 8 	
+	Hambys Ltd - BK Bulldog 	4 - 3 	
+	Tuna FK - The Stonebeatles 	0 - 5 	
+	Notso Athletic FC - Värtans IK 	3 - 1 	
+Omgång 12
+2019-02-10 			
+	Värtans IK - Hambys Ltd 	3 - 3 	
+	BK Bulldog - Skelögd FC 	9 - 0 	
+	Rullbo BK - Tuna FK 	7 - 0 	
+	The Stonebeatles - Notso Athletic FC 	6 - 0 	
+Omgång 13
+2019-02-17 			
+	Värtans IK - Rullbo BK 	3 - 2 	
+	Hambys Ltd - The Stonebeatles 	2 - 2 	
+	Notso Athletic FC - BK Bulldog 	1 - 2 	
+	Tuna FK - Skelögd FC 	5 - 0 	
+Omgång 14
+2019-02-24 			
+	Rullbo BK - Notso Athletic FC 	4 - 5 	
+	The Stonebeatles - Värtans IK 	2 - 1 	
+	Skelögd FC - Hambys Ltd 	0 - 9 	
+	BK Bulldog - Tuna FK 	8 - 1

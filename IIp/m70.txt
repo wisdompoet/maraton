@@ -1,0 +1,84 @@
+Omgång 1
+2018-11-25 			
+	fc rimoraj - Cebbes pigga gäng 	0 - 10 	
+	Sveas Änglar - Fc Misery 	6 - 0 	
+	Stockholm Vandals - Real BT Kemi 	5 - 1 	
+	BK Söder - Vikhagen IF 	6 - 1 	
+Omgång 2
+2018-12-02 			
+	Fc Misery - fc rimoraj 	4 - 2 	
+	Cebbes pigga gäng - BK Söder 	5 - 1 	
+	Real BT Kemi - Sveas Änglar 	0 - 6 	
+	Vikhagen IF - Stockholm Vandals 	3 - 1 	
+Omgång 3
+2018-12-09 			
+	BK Söder - Real BT Kemi 	7 - 0 	
+	fc rimoraj - Vikhagen IF 	1 - 8 	
+	Sveas Änglar - Stockholm Vandals 	3 - 2 	
+	Fc Misery - Cebbes pigga gäng 	0 - 6 	
+Omgång 4
+2018-12-16 			
+	Real BT Kemi - fc rimoraj 	0 - 5 	
+	Stockholm Vandals - BK Söder 	2 - 4 	
+	Cebbes pigga gäng - Sveas Änglar 	4 - 1 	
+	Vikhagen IF - Fc Misery 	3 - 1 	
+Omgång 5
+2018-12-23 			
+	fc rimoraj - BK Söder 	1 - 9 	
+	Sveas Änglar - Vikhagen IF 	6 - 1 	
+	Cebbes pigga gäng - Real BT Kemi 	6 - 1 	
+	Fc Misery - Stockholm Vandals 	0 - 5 	
+Omgång 6
+2018-12-30 			
+	Stockholm Vandals - fc rimoraj 	9 - 0 	
+	BK Söder - Sveas Änglar 	3 - 2 	
+	Real BT Kemi - Fc Misery 	0 - 0 	
+	Vikhagen IF - Cebbes pigga gäng 	0 - 7 	
+Omgång 7
+2019-01-06 			
+	Cebbes pigga gäng - Stockholm Vandals 	6 - 1 	
+	fc rimoraj - Sveas Änglar 	0 - 9 	
+	Fc Misery - BK Söder 	0 - 4 	
+	Real BT Kemi - Vikhagen IF 	0 - 5 	
+Omgång 8
+2019-01-13 			
+	Vikhagen IF - Real BT Kemi 	2 - 0 	
+	BK Söder - Fc Misery 	7 - 0 	
+	Stockholm Vandals - Cebbes pigga gäng 	3 - 4 	
+	Sveas Änglar - fc rimoraj 	8 - 0 	
+Omgång 9
+2019-01-20 			
+	Cebbes pigga gäng - Vikhagen IF 	7 - 0 	
+	Fc Misery - Real BT Kemi 	0 - 1 	
+	Sveas Änglar - BK Söder 	1 - 6 	
+	fc rimoraj - Stockholm Vandals 	0 - 8 	
+Omgång 10
+2019-01-27 			
+	Vikhagen IF - Sveas Änglar 	0 - 4 	
+	Real BT Kemi - Cebbes pigga gäng 	0 - 6 	
+	Stockholm Vandals - Fc Misery 	7 - 0 	
+	BK Söder - fc rimoraj 	9 - 0 	
+Omgång 11
+2019-02-03 			
+	Fc Misery - Vikhagen IF 	0 - 4 	
+	BK Söder - Stockholm Vandals 	4 - 0 	
+	Sveas Änglar - Cebbes pigga gäng 	1 - 4 	
+	fc rimoraj - Real BT Kemi 	1 - 0 	
+Omgång 12
+2019-02-10 			
+	Real BT Kemi - BK Söder 	0 - 6 	
+	Cebbes pigga gäng - Fc Misery 	8 - 0 	
+	Stockholm Vandals - Sveas Änglar 	2 - 3 	
+	Vikhagen IF - fc rimoraj 	8 - 0 	
+Omgång 13
+2019-02-17 			
+	Stockholm Vandals - Vikhagen IF 	1 - 3 	
+	Sveas Änglar - Real BT Kemi 	4 - 0 	
+	BK Söder - Cebbes pigga gäng 	2 - 2 	
+	fc rimoraj - Fc Misery 	0 - 1 	
+Omgång 14
+2019-02-24 			
+	Vikhagen IF - BK Söder 	4 - 4 	
+	Real BT Kemi - Stockholm Vandals 	0 - 5 	
+	Fc Misery - Sveas Änglar 	0 - 8 	
+	Cebbes pigga gäng - fc rimoraj 	7 - 0

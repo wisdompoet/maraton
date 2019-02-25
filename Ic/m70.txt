@@ -1,0 +1,84 @@
+Omgång 1
+2018-11-25 			
+	Kistbärarna - Bosse & Krister United 	0 - 1 	
+	Wombats FC - FC Volrat 	10 - 1 	
+	Ystads IF - Team Superior 	1 - 0 	
+	Yeah Baby - Vanadislunden 	3 - 1 	
+Omgång 2
+2018-12-02 			
+	FC Volrat - Kistbärarna 	0 - 0 	
+	Bosse & Krister United - Yeah Baby 	0 - 2 	
+	Vanadislunden - Ystads IF 	4 - 1 	
+	Team Superior - Wombats FC 	2 - 3 	
+Omgång 3
+2018-12-09 			
+	Kistbärarna - Vanadislunden 	0 - 3 	
+	Wombats FC - Ystads IF 	5 - 0 	
+	Yeah Baby - Team Superior 	1 - 1 	
+	FC Volrat - Bosse & Krister United 	1 - 4 	
+Omgång 4
+2018-12-16 			
+	Bosse & Krister United - Wombats FC 	0 - 8 	
+	Team Superior - Kistbärarna 	2 - 0 	
+	Ystads IF - Yeah Baby 	2 - 2 	
+	Vanadislunden - FC Volrat 	9 - 0 	
+Omgång 5
+2018-12-23 			
+	Kistbärarna - Yeah Baby 	0 - 2 	
+	FC Volrat - Ystads IF 	0 - 8 	
+	Wombats FC - Vanadislunden 	4 - 1 	
+	Bosse & Krister United - Team Superior 	0 - 8 	
+Omgång 6
+2018-12-30 			
+	Ystads IF - Kistbärarna 	8 - 0 	
+	Yeah Baby - Wombats FC 	2 - 3 	
+	Team Superior - FC Volrat 	8 - 0 	
+	Vanadislunden - Bosse & Krister United 	4 - 0 	
+Omgång 7
+2019-01-06 			
+	Kistbärarna - Wombats FC 	0 - 8 	
+	Bosse & Krister United - Ystads IF 	0 - 7 	
+	FC Volrat - Yeah Baby 	0 - 3 	
+	Team Superior - Vanadislunden 	0 - 3 	
+Omgång 8
+2019-01-13 			
+	Vanadislunden - Team Superior 	4 - 0 	
+	Yeah Baby - FC Volrat 	5 - 0 	
+	Ystads IF - Bosse & Krister United 	9 - 2 	
+	Wombats FC - Kistbärarna 	8 - 0 	
+Omgång 9
+2019-01-20 			
+	Bosse & Krister United - Vanadislunden 	0 - 7 	
+	FC Volrat - Team Superior 	0 - 5 	
+	Wombats FC - Yeah Baby 	4 - 2 	
+	Kistbärarna - Ystads IF 	1 - 6 	
+Omgång 10
+2019-01-27 			
+	Team Superior - Bosse & Krister United 	1 - 5 	
+	Vanadislunden - Wombats FC 	3 - 4 	
+	Yeah Baby - Kistbärarna 	2 - 0 	
+	Ystads IF - FC Volrat 	10 - 0 	
+Omgång 11
+2019-02-03 			
+	FC Volrat - Vanadislunden 	0 - 9 	
+	Yeah Baby - Ystads IF 	1 - 0 	
+	Wombats FC - Bosse & Krister United 	5 - 0 	
+	Kistbärarna - Team Superior 	3 - 0 	
+Omgång 12
+2019-02-10 			
+	Team Superior - Yeah Baby 	0 - 5 	
+	Bosse & Krister United - FC Volrat 	2 - 0 	
+	Ystads IF - Wombats FC 	0 - 1 	
+	Vanadislunden - Kistbärarna 	6 - 0 	
+Omgång 13
+2019-02-17 			
+	Ystads IF - Vanadislunden 	4 - 0 	
+	Wombats FC - Team Superior 	9 - 0 	
+	Yeah Baby - Bosse & Krister United 	4 - 0 	
+	Kistbärarna - FC Volrat 	2 - 1 	
+Omgång 14
+2019-02-24 			
+	Vanadislunden - Yeah Baby 	1 - 0 	
+	Team Superior - Ystads IF 	0 - 10 	
+	FC Volrat - Wombats FC 	0 - 6 	
+	Bosse & Krister United - Kistbärarna 	5 - 1

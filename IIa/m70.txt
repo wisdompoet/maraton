@@ -1,0 +1,84 @@
+Omgång 1
+2018-11-25 			
+	Mörphy FC - Jediriddarna 	6 - 2 	
+	Angels of Gothenburg - Brunnarps IF 	2 - 1 	
+	Riot Fc - BK52 	4 - 1 	
+	De Riktigt Ruttna - BK Rapp 	1 - 0 	
+Omgång 2
+2018-12-02 			
+	Brunnarps IF - Mörphy FC 	2 - 5 	
+	Jediriddarna - De Riktigt Ruttna 	4 - 3 	
+	BK52 - Angels of Gothenburg 	0 - 0 	
+	BK Rapp - Riot Fc 	4 - 0 	
+Omgång 3
+2018-12-09 			
+	Mörphy FC - BK Rapp 	2 - 0 	
+	Brunnarps IF - Jediriddarna 	1 - 2 	
+	Angels of Gothenburg - Riot Fc 	2 - 0 	
+	De Riktigt Ruttna - BK52 	2 - 4 	
+Omgång 4
+2018-12-16 			
+	Jediriddarna - Angels of Gothenburg 	3 - 1 	
+	BK52 - Mörphy FC 	3 - 4 	
+	Riot Fc - De Riktigt Ruttna 	2 - 1 	
+	BK Rapp - Brunnarps IF 	2 - 1 	
+Omgång 5
+2018-12-23 			
+	Angels of Gothenburg - BK Rapp 	4 - 1 	
+	Brunnarps IF - Riot Fc 	1 - 1 	
+	Jediriddarna - BK52 	2 - 1 	
+	Mörphy FC - De Riktigt Ruttna 	3 - 0 	
+Omgång 6
+2018-12-30 			
+	Riot Fc - Mörphy FC 	2 - 1 	
+	De Riktigt Ruttna - Angels of Gothenburg 	3 - 2 	
+	BK Rapp - Jediriddarna 	3 - 0 	
+	BK52 - Brunnarps IF 	4 - 3 	
+Omgång 7
+2019-01-06 			
+	Mörphy FC - Angels of Gothenburg 	4 - 1 	
+	Brunnarps IF - De Riktigt Ruttna 	3 - 2 	
+	Jediriddarna - Riot Fc 	4 - 0 	
+	BK52 - BK Rapp 	2 - 3 	
+Omgång 8
+2019-01-13 			
+	BK Rapp - BK52 	3 - 0 	
+	De Riktigt Ruttna - Brunnarps IF 	4 - 2 	
+	Riot Fc - Jediriddarna 	2 - 4 	
+	Angels of Gothenburg - Mörphy FC 	1 - 0 	
+Omgång 9
+2019-01-20 			
+	Jediriddarna - BK Rapp 	2 - 1 	
+	Brunnarps IF - BK52 	0 - 9 	
+	Angels of Gothenburg - De Riktigt Ruttna 	0 - 1 	
+	Mörphy FC - Riot Fc 	5 - 1 	
+Omgång 10
+2019-01-27 			
+	BK52 - Jediriddarna 	4 - 3 	
+	BK Rapp - Angels of Gothenburg 	1 - 1 	
+	Riot Fc - Brunnarps IF 	7 - 2 	
+	De Riktigt Ruttna - Mörphy FC 	3 - 1 	
+Omgång 11
+2019-02-03 			
+	Brunnarps IF - BK Rapp 	0 - 7 	
+	Angels of Gothenburg - Jediriddarna 	3 - 1 	
+	De Riktigt Ruttna - Riot Fc 	3 - 3 	
+	Mörphy FC - BK52 	4 - 1 	
+Omgång 12
+2019-02-10 			
+	BK52 - De Riktigt Ruttna 	1 - 1 	
+	Jediriddarna - Brunnarps IF 	7 - 0 	
+	Riot Fc - Angels of Gothenburg 	1 - 2 	
+	BK Rapp - Mörphy FC 	2 - 2 	
+Omgång 13
+2019-02-17 			
+	Angels of Gothenburg - BK52 	4 - 0 	
+	De Riktigt Ruttna - Jediriddarna 	4 - 1 	
+	Riot Fc - BK Rapp 	0 - 2 	
+	Mörphy FC - Brunnarps IF 	9 - 0 	
+Omgång 14
+2019-02-24 			
+	BK Rapp - De Riktigt Ruttna 	1 - 0 	
+	Jediriddarna - Mörphy FC 	0 - 0 	
+	BK52 - Riot Fc 	5 - 3 	
+	Brunnarps IF - Angels of Gothenburg 	0 - 8
