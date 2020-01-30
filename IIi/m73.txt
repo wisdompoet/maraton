@@ -1,0 +1,84 @@
+Omgång 1
+2019-10-27 			
+	Yeah Baby - Mellangård United 	1 - 3 	
+	BK Matlaget - IFK Fotbollslaget 	3 - 2 	
+	FC yeniköy - Walderama boys 	2 - 0 	
+	FC jugster - Ironcasters FC 	1 - 1 	
+Omgång 2
+2019-11-03 			
+	Walderama boys - Yeah Baby 	3 - 2 	
+	Mellangård United - FC jugster 	5 - 0 	
+	IFK Fotbollslaget - FC yeniköy 	6 - 0 	
+	Ironcasters FC - BK Matlaget 	5 - 0 	
+Omgång 3
+2019-11-10 			
+	Yeah Baby - Ironcasters FC 	1 - 2 	
+	FC yeniköy - BK Matlaget 	0 - 1 	
+	Walderama boys - Mellangård United 	1 - 4 	
+	FC jugster - IFK Fotbollslaget 	2 - 2 	
+Omgång 4
+2019-11-17 			
+	IFK Fotbollslaget - Yeah Baby 	2 - 2 	
+	Mellangård United - FC yeniköy 	6 - 1 	
+	BK Matlaget - FC jugster 	1 - 3 	
+	Ironcasters FC - Walderama boys 	3 - 1 	
+Omgång 5
+2019-11-24 			
+	Walderama boys - BK Matlaget 	2 - 0 	
+	Yeah Baby - FC jugster 	0 - 3 	
+	FC yeniköy - Ironcasters FC 	0 - 6 	
+	Mellangård United - IFK Fotbollslaget 	3 - 0 	
+Omgång 6
+2019-12-01 			
+	BK Matlaget - Yeah Baby 	0 - 2 	
+	FC jugster - FC yeniköy 	5 - 0 	
+	IFK Fotbollslaget - Walderama boys 	3 - 0 	
+	Ironcasters FC - Mellangård United 	5 - 2 	
+Omgång 7
+2019-12-08 			
+	Yeah Baby - FC yeniköy 	2 - 1 	
+	Mellangård United - BK Matlaget 	5 - 0 	
+	Walderama boys - FC jugster 	0 - 2 	
+	IFK Fotbollslaget - Ironcasters FC 	1 - 2 	
+Omgång 8
+2019-12-15 			
+	Ironcasters FC - IFK Fotbollslaget 	3 - 1 	
+	FC jugster - Walderama boys 	3 - 1 	
+	FC yeniköy - Yeah Baby 	10 - 0 	
+	BK Matlaget - Mellangård United 	0 - 2 	
+Omgång 9
+2019-12-22 			
+	Mellangård United - Ironcasters FC 	3 - 0 	
+	Walderama boys - IFK Fotbollslaget 	0 - 2 	
+	FC yeniköy - FC jugster 	1 - 4 	
+	Yeah Baby - BK Matlaget 	0 - 9 	
+Omgång 10
+2019-12-29 			
+	IFK Fotbollslaget - Mellangård United 	2 - 1 	
+	Ironcasters FC - FC yeniköy 	7 - 0 	
+	BK Matlaget - Walderama boys 	4 - 2 	
+	FC jugster - Yeah Baby 	10 - 0 	
+Omgång 11
+2020-01-05 			
+	FC jugster - BK Matlaget 	4 - 3 	
+	FC yeniköy - Mellangård United 	3 - 3 	
+	Yeah Baby - IFK Fotbollslaget 	0 - 10 	
+	Walderama boys - Ironcasters FC 	2 - 2 	
+Omgång 12
+2020-01-12 			
+	IFK Fotbollslaget - FC jugster 	2 - 2 	
+	Mellangård United - Walderama boys 	4 - 0 	
+	BK Matlaget - FC yeniköy 	4 - 1 	
+	Ironcasters FC - Yeah Baby 	10 - 0 	
+Omgång 13
+2020-01-19 			
+	BK Matlaget - Ironcasters FC 	1 - 4 	
+	FC yeniköy - IFK Fotbollslaget 	3 - 3 	
+	FC jugster - Mellangård United 	2 - 0 	
+	Yeah Baby - Walderama boys 	0 - 10 	
+Omgång 14
+2020-01-26 			
+	Ironcasters FC - FC jugster 	0 - 1 	
+	IFK Fotbollslaget - BK Matlaget 	3 - 0 	
+	Walderama boys - FC yeniköy 	4 - 3 	
+	Mellangård United - Yeah Baby 	8 - 0

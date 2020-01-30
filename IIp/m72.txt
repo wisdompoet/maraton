@@ -1,0 +1,84 @@
+Omgång 1
+2019-07-07 			
+	Cebbes pigga gäng - BK Söder 	0 - 10 	
+	Odens FC - Flash BK 	4 - 0 	
+	Vikhagen IF - Auroville FC 	3 - 2 	
+	Rivercastle FC - Dicanio 	3 - 2 	
+Omgång 2
+2019-07-14 			
+	Flash BK - Cebbes pigga gäng 	10 - 1 	
+	BK Söder - Rivercastle FC 	6 - 1 	
+	Auroville FC - Odens FC 	1 - 1 	
+	Dicanio - Vikhagen IF 	6 - 1 	
+Omgång 3
+2019-07-21 			
+	Cebbes pigga gäng - Dicanio 	0 - 7 	
+	Flash BK - BK Söder 	0 - 6 	
+	Odens FC - Vikhagen IF 	6 - 1 	
+	Rivercastle FC - Auroville FC 	2 - 1 	
+Omgång 4
+2019-07-28 			
+	BK Söder - Odens FC 	4 - 1 	
+	Auroville FC - Cebbes pigga gäng 	7 - 1 	
+	Vikhagen IF - Rivercastle FC 	6 - 4 	
+	Dicanio - Flash BK 	4 - 0 	
+Omgång 5
+2019-08-04 			
+	Cebbes pigga gäng - Rivercastle FC 	0 - 8 	
+	Odens FC - Dicanio 	1 - 3 	
+	Flash BK - Vikhagen IF 	4 - 2 	
+	BK Söder - Auroville FC 	5 - 1 	
+Omgång 6
+2019-08-11 			
+	Rivercastle FC - Odens FC 	3 - 3 	
+	Auroville FC - Flash BK 	2 - 1 	
+	Dicanio - BK Söder 	3 - 1 	
+	Vikhagen IF - Cebbes pigga gäng 	5 - 0 	
+Omgång 7
+2019-08-18 			
+	Cebbes pigga gäng - Odens FC 	0 - 5 	
+	BK Söder - Vikhagen IF 	8 - 1 	
+	Flash BK - Rivercastle FC 	5 - 3 	
+	Auroville FC - Dicanio 	0 - 0 	
+Omgång 8
+2019-08-25 			
+	Rivercastle FC - Flash BK 	2 - 4 	
+	Vikhagen IF - BK Söder 	0 - 5 	
+	Odens FC - Cebbes pigga gäng 	5 - 0 	
+	Dicanio - Auroville FC 	0 - 0 	
+Omgång 9
+2019-09-01 			
+	BK Söder - Dicanio 	1 - 1 	
+	Flash BK - Auroville FC 	2 - 0 	
+	Odens FC - Rivercastle FC 	0 - 0 	
+	Cebbes pigga gäng - Vikhagen IF 	0 - 8 	
+Omgång 10
+2019-09-08 			
+	Auroville FC - BK Söder 	3 - 4 	
+	Dicanio - Odens FC 	0 - 1 	
+	Vikhagen IF - Flash BK 	3 - 4 	
+	Rivercastle FC - Cebbes pigga gäng 	8 - 0 	
+Omgång 11
+2019-09-15 			
+	Rivercastle FC - Vikhagen IF 	1 - 1 	
+	Cebbes pigga gäng - Auroville FC 	0 - 6 	
+	Odens FC - BK Söder 	6 - 1 	
+	Flash BK - Dicanio 	1 - 1 	
+Omgång 12
+2019-09-22 			
+	Auroville FC - Rivercastle FC 	1 - 1 	
+	BK Söder - Flash BK 	3 - 0 	
+	Vikhagen IF - Odens FC 	4 - 4 	
+	Dicanio - Cebbes pigga gäng 	8 - 0 	
+Omgång 13
+2019-09-29 			
+	Vikhagen IF - Dicanio 	0 - 4 	
+	Odens FC - Auroville FC 	1 - 0 	
+	Rivercastle FC - BK Söder 	1 - 2 	
+	Cebbes pigga gäng - Flash BK 	0 - 7 	
+Omgång 14
+2019-10-06 			
+	Dicanio - Rivercastle FC 	1 - 0 	
+	Auroville FC - Vikhagen IF 	1 - 2 	
+	Flash BK - Odens FC 	3 - 2 	
+	BK Söder - Cebbes pigga gäng 	10 - 0 	

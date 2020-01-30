@@ -1,0 +1,84 @@
+Omgång 1
+2019-03-17 			
+	Leffan - IFK Snedträff 	0 - 7 	
+	BK Granit - Keffs Tigers 	2 - 0 	
+	Starfighter - Värmeljus United 	5 - 4 	
+	Nordpolen FF - AC Ecconaton 	2 - 0 	
+Omgång 2
+2019-03-24 			
+	Keffs Tigers - Leffan 	9 - 0 	
+	IFK Snedträff - Nordpolen FF 	2 - 3 	
+	Värmeljus United - BK Granit 	3 - 1 	
+	AC Ecconaton - Starfighter 	1 - 0 	
+Omgång 3
+2019-03-31 			
+	Leffan - AC Ecconaton 	0 - 6 	
+	BK Granit - Starfighter 	3 - 4 	
+	Keffs Tigers - IFK Snedträff 	2 - 0 	
+	Nordpolen FF - Värmeljus United 	4 - 1 	
+Omgång 4
+2019-04-07 			
+	Värmeljus United - Leffan 	8 - 0 	
+	IFK Snedträff - BK Granit 	2 - 2 	
+	Starfighter - Nordpolen FF 	3 - 1 	
+	AC Ecconaton - Keffs Tigers 	1 - 1 	
+Omgång 5
+2019-04-14 			
+	Leffan - Nordpolen FF 	1 - 4 	
+	Keffs Tigers - Starfighter 	4 - 3 	
+	BK Granit - AC Ecconaton 	2 - 0 	
+	IFK Snedträff - Värmeljus United 	5 - 3 	
+Omgång 6
+2019-04-21 			
+	Starfighter - Leffan 	9 - 0 	
+	Nordpolen FF - BK Granit 	3 - 4 	
+	Värmeljus United - Keffs Tigers 	2 - 0 	
+	AC Ecconaton - IFK Snedträff 	0 - 0 	
+Omgång 7
+2019-04-28 			
+	Leffan - BK Granit 	2 - 4 	
+	IFK Snedträff - Starfighter 	2 - 1 	
+	Keffs Tigers - Nordpolen FF 	1 - 4 	
+	Värmeljus United - AC Ecconaton 	3 - 1 	
+Omgång 8
+2019-05-05 			
+	AC Ecconaton - Värmeljus United 	3 - 0 	
+	Starfighter - IFK Snedträff 	2 - 1 	
+	Nordpolen FF - Keffs Tigers 	1 - 4 	
+	BK Granit - Leffan 	10 - 0 	
+Omgång 9
+2019-05-12 			
+	IFK Snedträff - AC Ecconaton 	1 - 2 	
+	Keffs Tigers - Värmeljus United 	1 - 2 	
+	BK Granit - Nordpolen FF 	1 - 0 	
+	Leffan - Starfighter 	0 - 7 	
+Omgång 10
+2019-05-19 			
+	Värmeljus United - IFK Snedträff 	1 - 1 	
+	AC Ecconaton - BK Granit 	0 - 0 	
+	Starfighter - Keffs Tigers 	0 - 2 	
+	Nordpolen FF - Leffan 	9 - 0 	
+Omgång 11
+2019-05-26 			
+	Keffs Tigers - AC Ecconaton 	0 - 2 	
+	Nordpolen FF - Starfighter 	3 - 0 	
+	BK Granit - IFK Snedträff 	1 - 1 	
+	Leffan - Värmeljus United 	0 - 7 	
+Omgång 12
+2019-06-02 			
+	Värmeljus United - Nordpolen FF 	2 - 4 	
+	IFK Snedträff - Keffs Tigers 	0 - 0 	
+	Starfighter - BK Granit 	2 - 3 	
+	AC Ecconaton - Leffan 	8 - 0 	
+Omgång 13
+2019-06-09 			
+	Starfighter - AC Ecconaton 	1 - 3 	
+	BK Granit - Värmeljus United 	2 - 2 	
+	Nordpolen FF - IFK Snedträff 	4 - 0 	
+	Leffan - Keffs Tigers 	1 - 8 	
+Omgång 14
+2019-06-16 			
+	AC Ecconaton - Nordpolen FF 	1 - 2 	
+	Värmeljus United - Starfighter 	5 - 0 	
+	Keffs Tigers - BK Granit 	2 - 1 	
+	IFK Snedträff - Leffan 	7 - 0

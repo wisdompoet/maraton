@@ -1,0 +1,84 @@
+Omgång 1
+2019-10-27 			
+	Värtans IK - BK Bulldog 	5 - 0 	
+	Brainbollarna - Högaborg BK 	3 - 7 	
+	Daddy Boastin BK - Hambys Ltd 	5 - 0 	
+	FC Invandrarverket - Reinos Rödhättor 	1 - 0 	
+Omgång 2
+2019-11-03 			
+	Hambys Ltd - Värtans IK 	1 - 3 	
+	Reinos Rödhättor - Brainbollarna 	1 - 1 	
+	Högaborg BK - Daddy Boastin BK 	5 - 0 	
+	BK Bulldog - FC Invandrarverket 	0 - 7 	
+Omgång 3
+2019-11-10 			
+	Värtans IK - Daddy Boastin BK 	1 - 1 	
+	FC Invandrarverket - Högaborg BK 	2 - 0 	
+	BK Bulldog - Reinos Rödhättor 	0 - 6 	
+	Brainbollarna - Hambys Ltd 	6 - 1 	
+Omgång 4
+2019-11-17 			
+	Reinos Rödhättor - Värtans IK 	2 - 1 	
+	Hambys Ltd - FC Invandrarverket 	1 - 3 	
+	Daddy Boastin BK - Brainbollarna 	6 - 1 	
+	Högaborg BK - BK Bulldog 	9 - 0 	
+Omgång 5
+2019-11-24 			
+	FC Invandrarverket - Brainbollarna 	5 - 0 	
+	Värtans IK - Högaborg BK 	1 - 1 	
+	BK Bulldog - Daddy Boastin BK 	0 - 7 	
+	Reinos Rödhättor - Hambys Ltd 	4 - 0 	
+Omgång 6
+2019-12-01 			
+	Daddy Boastin BK - FC Invandrarverket 	4 - 1 	
+	Brainbollarna - Värtans IK 	3 - 2 	
+	Hambys Ltd - BK Bulldog 	6 - 0 	
+	Högaborg BK - Reinos Rödhättor 	2 - 1 	
+Omgång 7
+2019-12-08 			
+	FC Invandrarverket - Värtans IK 	1 - 0 	
+	Reinos Rödhättor - Daddy Boastin BK 	4 - 2 	
+	BK Bulldog - Brainbollarna 	2 - 4 	
+	Hambys Ltd - Högaborg BK 	1 - 5 	
+Omgång 8
+2019-12-15 			
+	Högaborg BK - Hambys Ltd 	2 - 2 	
+	Brainbollarna - BK Bulldog 	5 - 0 	
+	Daddy Boastin BK - Reinos Rödhättor 	2 - 2 	
+	Värtans IK - FC Invandrarverket 	3 - 3 	
+Omgång 9
+2019-12-22 			
+	Reinos Rödhättor - Högaborg BK 	1 - 2 	
+	BK Bulldog - Hambys Ltd 	0 - 2 	
+	Värtans IK - Brainbollarna 	2 - 2 	
+	FC Invandrarverket - Daddy Boastin BK 	4 - 0 	
+Omgång 10
+2019-12-29 			
+	Hambys Ltd - Reinos Rödhättor 	0 - 3 	
+	Högaborg BK - Värtans IK 	2 - 3 	
+	Daddy Boastin BK - BK Bulldog 	6 - 0 	
+	Brainbollarna - FC Invandrarverket 	2 - 4 	
+Omgång 11
+2020-01-05 			
+	BK Bulldog - Högaborg BK 	0 - 5 	
+	Brainbollarna - Daddy Boastin BK 	6 - 0 	
+	Värtans IK - Reinos Rödhättor 	2 - 1 	
+	FC Invandrarverket - Hambys Ltd 	6 - 2 	
+Omgång 12
+2020-01-12 			
+	Hambys Ltd - Brainbollarna 	1 - 5 	
+	Reinos Rödhättor - BK Bulldog 	4 - 0 	
+	Daddy Boastin BK - Värtans IK 	4 - 1 	
+	Högaborg BK - FC Invandrarverket 	2 - 2 	
+Omgång 13
+2020-01-19 			
+	Daddy Boastin BK - Högaborg BK 	2 - 3 	
+	Värtans IK - Hambys Ltd 	2 - 0 	
+	Brainbollarna - Reinos Rödhättor 	5 - 4 	
+	FC Invandrarverket - BK Bulldog 	3 - 0 	
+Omgång 14
+2020-01-26 			
+	Högaborg BK - Brainbollarna 	1 - 2 	
+	Hambys Ltd - Daddy Boastin BK 	2 - 4 	
+	BK Bulldog - Värtans IK 	0 - 5 	
+	Reinos Rödhättor - FC Invandrarverket 	4 - 3

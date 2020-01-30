@@ -1,0 +1,84 @@
+Omgång 1
+2019-10-27 			
+	Claret & Blue - McAcademy 	7 - 0 	
+	RWD Malmö - Assassins BK 	0 - 0 	
+	Kärlek FF - FC TRELLEBORG 04 	3 - 2 	
+	Djurgården 71s Götecastleuleå HF - IFK Kentharna 	1 - 1 	
+Omgång 2
+2019-11-03 			
+	Assassins BK - Claret & Blue 	3 - 2 	
+	McAcademy - Djurgården 71s Götecastleuleå HF 	0 - 8 	
+	FC TRELLEBORG 04 - RWD Malmö 	3 - 0 	
+	IFK Kentharna - Kärlek FF 	2 - 0 	
+Omgång 3
+2019-11-10 			
+	Claret & Blue - IFK Kentharna 	3 - 3 	
+	Djurgården 71s Götecastleuleå HF - FC TRELLEBORG 04 	4 - 0 	
+	Assassins BK - McAcademy 	8 - 0 	
+	RWD Malmö - Kärlek FF 	2 - 1 	
+Omgång 4
+2019-11-17 			
+	FC TRELLEBORG 04 - Claret & Blue 	1 - 3 	
+	McAcademy - RWD Malmö 	0 - 6 	
+	Kärlek FF - Djurgården 71s Götecastleuleå HF 	2 - 4 	
+	IFK Kentharna - Assassins BK 	2 - 2 	
+Omgång 5
+2019-11-24 			
+	Claret & Blue - Djurgården 71s Götecastleuleå HF 	1 - 3 	
+	Assassins BK - Kärlek FF 	5 - 1 	
+	RWD Malmö - IFK Kentharna 	1 - 3 	
+	McAcademy - FC TRELLEBORG 04 	0 - 6 	
+Omgång 6
+2019-12-01 			
+	Kärlek FF - Claret & Blue 	2 - 3 	
+	Djurgården 71s Götecastleuleå HF - RWD Malmö 	3 - 1 	
+	FC TRELLEBORG 04 - Assassins BK 	1 - 3 	
+	IFK Kentharna - McAcademy 	7 - 0 	
+Omgång 7
+2019-12-08 			
+	Claret & Blue - RWD Malmö 	0 - 4 	
+	McAcademy - Kärlek FF 	1 - 5 	
+	Assassins BK - Djurgården 71s Götecastleuleå HF 	2 - 1 	
+	FC TRELLEBORG 04 - IFK Kentharna 	2 - 0 	
+Omgång 8
+2019-12-15 			
+	IFK Kentharna - FC TRELLEBORG 04 	3 - 1 	
+	Djurgården 71s Götecastleuleå HF - Assassins BK 	2 - 3 	
+	Kärlek FF - McAcademy 	8 - 0 	
+	RWD Malmö - Claret & Blue 	6 - 0 	
+Omgång 9
+2019-12-22 			
+	McAcademy - IFK Kentharna 	0 - 7 	
+	Assassins BK - FC TRELLEBORG 04 	5 - 1 	
+	RWD Malmö - Djurgården 71s Götecastleuleå HF 	0 - 2 	
+	Claret & Blue - Kärlek FF 	0 - 9 	
+Omgång 10
+2019-12-29 			
+	FC TRELLEBORG 04 - McAcademy 	6 - 0 	
+	IFK Kentharna - RWD Malmö 	3 - 2 	
+	Kärlek FF - Assassins BK 	4 - 3 	
+	Djurgården 71s Götecastleuleå HF - Claret & Blue 	10 - 1 	
+Omgång 11
+2020-01-05 			
+	Assassins BK - IFK Kentharna 	1 - 0 	
+	Djurgården 71s Götecastleuleå HF - Kärlek FF 	4 - 1 	
+	RWD Malmö - McAcademy 	5 - 0 	
+	Claret & Blue - FC TRELLEBORG 04 	0 - 10 	
+Omgång 12
+2020-01-12 			
+	McAcademy - Assassins BK 	0 - 8 	
+	FC TRELLEBORG 04 - Djurgården 71s Götecastleuleå HF 	0 - 5 	
+	Kärlek FF - RWD Malmö 	1 - 1 	
+	IFK Kentharna - Claret & Blue 	7 - 0 	
+Omgång 13
+2020-01-19 			
+	Kärlek FF - IFK Kentharna 	3 - 2 	
+	RWD Malmö - FC TRELLEBORG 04 	3 - 2 	
+	Djurgården 71s Götecastleuleå HF - McAcademy 	8 - 0 	
+	Claret & Blue - Assassins BK 	0 - 7 	
+Omgång 14
+2020-01-26 			
+	IFK Kentharna - Djurgården 71s Götecastleuleå HF 	2 - 2 	
+	FC TRELLEBORG 04 - Kärlek FF 	2 - 5 	
+	Assassins BK - RWD Malmö 	2 - 0 	
+	McAcademy - Claret & Blue 	1 - 4 

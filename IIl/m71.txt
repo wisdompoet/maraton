@@ -1,0 +1,84 @@
+Omgång 1
+2019-03-17 			
+	Lilltroll FC - Eneborg 	4 - 2 	
+	Kläppa Hills - Tuffe Uffe United 	2 - 1 	
+	Mefilis - Vi äger planen 	4 - 0 	
+	Dirigentens FC - Weekend Warriors 	3 - 1 	
+Omgång 2
+2019-03-24 			
+	Tuffe Uffe United - Lilltroll FC 	3 - 1 	
+	Eneborg - Dirigentens FC 	3 - 1 	
+	Weekend Warriors - Mefilis 	3 - 1 	
+	Vi äger planen - Kläppa Hills 	0 - 2 	
+Omgång 3
+2019-03-31 			
+	Kläppa Hills - Mefilis 	2 - 1 	
+	Tuffe Uffe United - Eneborg 	1 - 3 	
+	Dirigentens FC - Vi äger planen 	1 - 0 	
+	Lilltroll FC - Weekend Warriors 	3 - 0 	
+Omgång 4
+2019-04-07 			
+	Vi äger planen - Lilltroll FC 	0 - 4 	
+	Eneborg - Kläppa Hills 	3 - 3 	
+	Mefilis - Dirigentens FC 	2 - 2 	
+	Weekend Warriors - Tuffe Uffe United 	1 - 0 	
+Omgång 5
+2019-04-14 			
+	Lilltroll FC - Dirigentens FC 	2 - 2 	
+	Tuffe Uffe United - Mefilis 	0 - 1 	
+	Kläppa Hills - Weekend Warriors 	1 - 1 	
+	Eneborg - Vi äger planen 	3 - 0 	
+Omgång 6
+2019-04-21 			
+	Mefilis - Lilltroll FC 	1 - 7 	
+	Dirigentens FC - Kläppa Hills 	0 - 0 	
+	Weekend Warriors - Eneborg 	0 - 0 	
+	Vi äger planen - Tuffe Uffe United 	0 - 3 	
+Omgång 7
+2019-04-28 			
+	Lilltroll FC - Kläppa Hills 	3 - 0 	
+	Eneborg - Mefilis 	6 - 1 	
+	Tuffe Uffe United - Dirigentens FC 	2 - 0 	
+	Vi äger planen - Weekend Warriors 	0 - 6 	
+Omgång 8
+2019-05-05 			
+	Weekend Warriors - Vi äger planen 	10 - 0 	
+	Dirigentens FC - Tuffe Uffe United 	0 - 0 	
+	Mefilis - Eneborg 	1 - 3 	
+	Kläppa Hills - Lilltroll FC 	0 - 6 	
+Omgång 9
+2019-05-12 			
+	Eneborg - Weekend Warriors 	2 - 0 	
+	Tuffe Uffe United - Vi äger planen 	3 - 0 	
+	Kläppa Hills - Dirigentens FC 	3 - 0 	
+	Lilltroll FC - Mefilis 	5 - 0 	
+Omgång 10
+2019-05-19 			
+	Weekend Warriors - Kläppa Hills 	1 - 5 	
+	Vi äger planen - Eneborg 	0 - 0 	
+	Mefilis - Tuffe Uffe United 	1 - 0 	
+	Dirigentens FC - Lilltroll FC 	1 - 3 	
+Omgång 11
+2019-05-26 			
+	Dirigentens FC - Mefilis 	1 - 2 	
+	Kläppa Hills - Eneborg 	1 - 1 	
+	Lilltroll FC - Vi äger planen 	2 - 0 	
+	Tuffe Uffe United - Weekend Warriors 	1 - 1 	
+Omgång 12
+2019-06-02 			
+	Vi äger planen - Dirigentens FC 	2 - 2 	
+	Eneborg - Tuffe Uffe United 	2 - 0 	
+	Mefilis - Kläppa Hills 	3 - 1 	
+	Weekend Warriors - Lilltroll FC 	0 - 2 	
+Omgång 13
+2019-06-09 			
+	Mefilis - Weekend Warriors 	3 - 2 	
+	Kläppa Hills - Vi äger planen 	4 - 0 	
+	Dirigentens FC - Eneborg 	0 - 3 	
+	Lilltroll FC - Tuffe Uffe United 	2 - 0 	
+Omgång 14
+2019-06-16 			
+	Weekend Warriors - Dirigentens FC 	8 - 0 	
+	Vi äger planen - Mefilis 	2 - 5 	
+	Tuffe Uffe United - Kläppa Hills 	0 - 2 	
+	Eneborg - Lilltroll FC 	0 - 2

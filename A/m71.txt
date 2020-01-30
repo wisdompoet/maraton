@@ -1,0 +1,84 @@
+Omgång 1
+2019-03-17 			
+	Wombats FC - Brattforce 	1 - 0 	
+	Prinskorv FC - Gäddträsket 	1 - 4 	
+	FBKkrossen - Playboys Us 	4 - 1 	
+	Grullenben FK - Reac Arándano 	2 - 0 	
+Omgång 2
+2019-03-24 			
+	Gäddträsket - FBKkrossen 	6 - 0 	
+	Playboys Us - Wombats FC 	0 - 8 	
+	Reac Arándano - Prinskorv FC 	1 - 1 	
+	Brattforce - Grullenben FK 	4 - 4 	
+Omgång 3
+2019-03-31 			
+	FBKkrossen - Brattforce 	0 - 6 	
+	Prinskorv FC - Grullenben FK 	0 - 2 	
+	Gäddträsket - Playboys Us 	4 - 0 	
+	Wombats FC - Reac Arándano 	3 - 2 	
+Omgång 4
+2019-04-07 			
+	Reac Arándano - FBKkrossen 	8 - 0 	
+	Playboys Us - Prinskorv FC 	1 - 4 	
+	Grullenben FK - Wombats FC 	1 - 1 	
+	Brattforce - Gäddträsket 	3 - 0 	
+Omgång 5
+2019-04-14 			
+	FBKkrossen - Wombats FC 	0 - 6 	
+	Gäddträsket - Grullenben FK 	3 - 4 	
+	Prinskorv FC - Brattforce 	0 - 3 	
+	Playboys Us - Reac Arándano 	0 - 7 	
+Omgång 6
+2019-04-21 			
+	Grullenben FK - FBKkrossen 	5 - 0 	
+	Wombats FC - Prinskorv FC 	3 - 3 	
+	Reac Arándano - Gäddträsket 	3 - 0 	
+	Brattforce - Playboys Us 	7 - 0 	
+Omgång 7
+2019-04-28 			
+	FBKkrossen - Prinskorv FC 	0 - 3 	
+	Playboys Us - Grullenben FK 	1 - 6 	
+	Gäddträsket - Wombats FC 	0 - 3 	
+	Reac Arándano - Brattforce 	2 - 2 	
+Omgång 8
+2019-05-05 			
+	Brattforce - Reac Arándano 	1 - 1 	
+	Wombats FC - Gäddträsket 	1 - 1 	
+	Grullenben FK - Playboys Us 	3 - 0 	
+	Prinskorv FC - FBKkrossen 	3 - 0 	
+Omgång 9
+2019-05-12 			
+	Gäddträsket - Reac Arándano 	1 - 2 	
+	Prinskorv FC - Wombats FC 	4 - 3 	
+	FBKkrossen - Grullenben FK 	2 - 4 	
+	Playboys Us - Brattforce 	2 - 4 	
+Omgång 10
+2019-05-19 			
+	Grullenben FK - Gäddträsket 	3 - 0 	
+	Wombats FC - FBKkrossen 	8 - 0 	
+	Reac Arándano - Playboys Us 	6 - 1 	
+	Brattforce - Prinskorv FC 	4 - 2 	
+Omgång 11
+2019-05-26 			
+	Gäddträsket - Brattforce 	0 - 1 	
+	Wombats FC - Grullenben FK 	0 - 2 	
+	Prinskorv FC - Playboys Us 	6 - 1 	
+	FBKkrossen - Reac Arándano 	0 - 6 	
+Omgång 12
+2019-06-02 			
+	Reac Arándano - Wombats FC 	1 - 1 	
+	Playboys Us - Gäddträsket 	1 - 5 	
+	Grullenben FK - Prinskorv FC 	2 - 3 	
+	Brattforce - FBKkrossen 	6 - 0 	
+Omgång 13
+2019-06-09 			
+	Grullenben FK - Brattforce 	1 - 2 	
+	Prinskorv FC - Reac Arándano 	3 - 0 	
+	Wombats FC - Playboys Us 	6 - 0 	
+	FBKkrossen - Gäddträsket 	0 - 1 	
+Omgång 14
+2019-06-16 			
+	Brattforce - Wombats FC 	1 - 0 	
+	Gäddträsket - Prinskorv FC 	2 - 1 	
+	Reac Arándano - Grullenben FK 	0 - 0 	
+	Playboys Us - FBKkrossen 	4 - 0

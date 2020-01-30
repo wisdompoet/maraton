@@ -1,0 +1,84 @@
+Omgång 1
+2019-10-27 			
+	Nobike - Norrtelje Wanderers 	2 - 0 	
+	BK Torpet - Drakbloden 	3 - 2 	
+	Lokomotiv Huskvarna - Hököpinge FF 	4 - 3 	
+	Emperors SK - Söder Glöder BK 	1 - 2 	
+Omgång 2
+2019-11-03 			
+	Drakbloden - Nobike 	0 - 1 	
+	Norrtelje Wanderers - Emperors SK 	0 - 0 	
+	Hököpinge FF - BK Torpet 	2 - 4 	
+	Söder Glöder BK - Lokomotiv Huskvarna 	3 - 1 	
+Omgång 3
+2019-11-10 			
+	Nobike - Söder Glöder BK 	2 - 2 	
+	BK Torpet - Lokomotiv Huskvarna 	4 - 2 	
+	Drakbloden - Norrtelje Wanderers 	3 - 3 	
+	Emperors SK - Hököpinge FF 	1 - 2 	
+Omgång 4
+2019-11-17 			
+	Hököpinge FF - Nobike 	1 - 4 	
+	Norrtelje Wanderers - BK Torpet 	4 - 2 	
+	Lokomotiv Huskvarna - Emperors SK 	2 - 2 	
+	Söder Glöder BK - Drakbloden 	1 - 2 	
+Omgång 5
+2019-11-24 			
+	Nobike - Emperors SK 	2 - 0 	
+	Drakbloden - Lokomotiv Huskvarna 	3 - 1 	
+	BK Torpet - Söder Glöder BK 	3 - 4 	
+	Norrtelje Wanderers - Hököpinge FF 	2 - 3 	
+Omgång 6
+2019-12-01 			
+	Emperors SK - BK Torpet 	2 - 3 	
+	Hököpinge FF - Drakbloden 	3 - 1 	
+	Lokomotiv Huskvarna - Nobike 	0 - 1 	
+	Söder Glöder BK - Norrtelje Wanderers 	0 - 4 	
+Omgång 7
+2019-12-08 			
+	Nobike - BK Torpet 	5 - 0 	
+	Norrtelje Wanderers - Lokomotiv Huskvarna 	2 - 1 	
+	Drakbloden - Emperors SK 	2 - 2 	
+	Hököpinge FF - Söder Glöder BK 	3 - 1 	
+Omgång 8
+2019-12-15 			
+	Söder Glöder BK - Hököpinge FF 	4 - 2 	
+	Emperors SK - Drakbloden 	1 - 1 	
+	Lokomotiv Huskvarna - Norrtelje Wanderers 	0 - 4 	
+	BK Torpet - Nobike 	2 - 3 	
+Omgång 9
+2019-12-22 			
+	Norrtelje Wanderers - Söder Glöder BK 	1 - 1 	
+	Drakbloden - Hököpinge FF 	2 - 0 	
+	BK Torpet - Emperors SK 	0 - 1 	
+	Nobike - Lokomotiv Huskvarna 	4 - 1 	
+Omgång 10
+2019-12-29 			
+	Hököpinge FF - Norrtelje Wanderers 	2 - 2 	
+	Söder Glöder BK - BK Torpet 	5 - 1 	
+	Lokomotiv Huskvarna - Drakbloden 	0 - 1 	
+	Emperors SK - Nobike 	0 - 2 	
+Omgång 11
+2020-01-05 			
+	Drakbloden - Söder Glöder BK 	0 - 2 	
+	Emperors SK - Lokomotiv Huskvarna 	2 - 1 	
+	Nobike - Hököpinge FF 	3 - 0 	
+	BK Torpet - Norrtelje Wanderers 	1 - 1 	
+Omgång 12
+2020-01-12 			
+	Lokomotiv Huskvarna - BK Torpet 	2 - 2 	
+	Norrtelje Wanderers - Drakbloden 	2 - 2 	
+	Söder Glöder BK - Nobike 	3 - 3 	
+	Hököpinge FF - Emperors SK 	1 - 1 	
+Omgång 13
+2020-01-19 			
+	Lokomotiv Huskvarna - Söder Glöder BK 	4 - 3 	
+	BK Torpet - Hököpinge FF 	3 - 0 	
+	Emperors SK - Norrtelje Wanderers 	3 - 0 	
+	Nobike - Drakbloden 	4 - 0 	
+Omgång 14
+2020-01-26 			
+	Söder Glöder BK - Emperors SK 	0 - 1 	
+	Hököpinge FF - Lokomotiv Huskvarna 	1 - 5 	
+	Drakbloden - BK Torpet 	3 - 0 	
+	Norrtelje Wanderers - Nobike 	2 - 1

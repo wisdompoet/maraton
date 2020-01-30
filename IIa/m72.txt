@@ -1,0 +1,84 @@
+Omgång 1
+2019-07-07 			
+	De Riktigt Ruttna - Jediriddarna 	5 - 0 	
+	BK Rapp - Mörphy FC 	9 - 0 	
+	BK52 - Angels of Gothenburg 	0 - 1 	
+	Dånö FC - Karbunkel BK 	3 - 1 	
+Omgång 2
+2019-07-14 			
+	Mörphy FC - De Riktigt Ruttna 	0 - 7 	
+	Jediriddarna - Dånö FC 	3 - 1 	
+	Angels of Gothenburg - BK Rapp 	2 - 0 	
+	Karbunkel BK - BK52 	4 - 1 	
+Omgång 3
+2019-07-21 			
+	De Riktigt Ruttna - Karbunkel BK 	5 - 1 	
+	BK Rapp - BK52 	5 - 2 	
+	Mörphy FC - Jediriddarna 	0 - 7 	
+	Dånö FC - Angels of Gothenburg 	2 - 3 	
+Omgång 4
+2019-07-28 			
+	Angels of Gothenburg - De Riktigt Ruttna 	2 - 6 	
+	Jediriddarna - BK Rapp 	4 - 1 	
+	BK52 - Dånö FC 	5 - 0 	
+	Karbunkel BK - Mörphy FC 	9 - 0 	
+Omgång 5
+2019-08-04 			
+	De Riktigt Ruttna - Dånö FC 	5 - 0 	
+	Mörphy FC - BK52 	0 - 8 	
+	BK Rapp - Karbunkel BK 	1 - 1 	
+	Jediriddarna - Angels of Gothenburg 	2 - 1 	
+Omgång 6
+2019-08-11 			
+	Dånö FC - BK Rapp 	1 - 5 	
+	BK52 - De Riktigt Ruttna 	0 - 4 	
+	Angels of Gothenburg - Mörphy FC 	7 - 0 	
+	Karbunkel BK - Jediriddarna 	6 - 2 	
+Omgång 7
+2019-08-18 			
+	De Riktigt Ruttna - BK Rapp 	4 - 1 	
+	Jediriddarna - BK52 	3 - 1 	
+	Mörphy FC - Dånö FC 	0 - 5 	
+	Angels of Gothenburg - Karbunkel BK 	2 - 0 	
+Omgång 8
+2019-08-25 			
+	Karbunkel BK - Angels of Gothenburg 	2 - 1 	
+	Dånö FC - Mörphy FC 	7 - 0 	
+	BK52 - Jediriddarna 	5 - 0 	
+	BK Rapp - De Riktigt Ruttna 	2 - 1 	
+Omgång 9
+2019-09-01 			
+	Jediriddarna - Karbunkel BK 	2 - 1 	
+	Mörphy FC - Angels of Gothenburg 	0 - 8 	
+	BK Rapp - Dånö FC 	5 - 0 	
+	De Riktigt Ruttna - BK52 	2 - 2 	
+Omgång 10
+2019-09-08 			
+	Angels of Gothenburg - Jediriddarna 	6 - 1 	
+	Karbunkel BK - BK Rapp 	3 - 0 	
+	BK52 - Mörphy FC 	8 - 0 	
+	Dånö FC - De Riktigt Ruttna 	0 - 3 	
+Omgång 11
+2019-09-15 			
+	Mörphy FC - Karbunkel BK 	0 - 8 	
+	Dånö FC - BK52 	3 - 3 	
+	BK Rapp - Jediriddarna 	2 - 0 	
+	De Riktigt Ruttna - Angels of Gothenburg 	3 - 2 	
+Omgång 12
+2019-09-22 			
+	Angels of Gothenburg - Dånö FC 	1 - 5 	
+	Jediriddarna - Mörphy FC 	9 - 0 	
+	BK52 - BK Rapp 	4 - 2 	
+	Karbunkel BK - De Riktigt Ruttna 	0 - 3 	
+Omgång 13
+2019-09-29 			
+	BK52 - Karbunkel BK 	2 - 2 	
+	BK Rapp - Angels of Gothenburg 	2 - 0 	
+	De Riktigt Ruttna - Mörphy FC 	10 - 0 	
+	Dånö FC - Jediriddarna 	2 - 3 	
+Omgång 14
+2019-10-06 			
+	Angels of Gothenburg - BK52 	4 - 4 	
+	Mörphy FC - BK Rapp 	0 - 9 	
+	Karbunkel BK - Dånö FC 	4 - 1 	
+	Jediriddarna - De Riktigt Ruttna 	2 - 6

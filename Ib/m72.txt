@@ -1,0 +1,84 @@
+Omgång 1
+2019-07-07 			
+	Los Pebbos - Sthlm-Fanatix 	3 - 1 	
+	Picos Verdes - Nobike 	2 - 0 	
+	IFK Ninweborg - The Stonebeatles 	1 - 2 	
+	AC Weah - Lilltroll FC 	2 - 1 	
+Omgång 2
+2019-07-14 			
+	The Stonebeatles - Los Pebbos 	0 - 1 	
+	Sthlm-Fanatix - AC Weah 	2 - 2 	
+	Nobike - IFK Ninweborg 	2 - 2 	
+	Lilltroll FC - Picos Verdes 	3 - 5 	
+Omgång 3
+2019-07-21 			
+	Los Pebbos - Lilltroll FC 	2 - 0 	
+	IFK Ninweborg - Picos Verdes 	2 - 1 	
+	The Stonebeatles - Sthlm-Fanatix 	1 - 5 	
+	AC Weah - Nobike 	2 - 1 	
+Omgång 4
+2019-07-28 			
+	Nobike - Los Pebbos 	1 - 2 	
+	Picos Verdes - AC Weah 	2 - 2 	
+	Sthlm-Fanatix - IFK Ninweborg 	1 - 2 	
+	Lilltroll FC - The Stonebeatles 	0 - 2 	
+Omgång 5
+2019-08-04 			
+	Los Pebbos - AC Weah 	4 - 2 	
+	The Stonebeatles - Picos Verdes 	4 - 1 	
+	Sthlm-Fanatix - Nobike 	0 - 0 	
+	IFK Ninweborg - Lilltroll FC 	4 - 2 	
+Omgång 6
+2019-08-11 			
+	Picos Verdes - Los Pebbos 	3 - 1 	
+	AC Weah - IFK Ninweborg 	1 - 0 	
+	Nobike - The Stonebeatles 	2 - 2 	
+	Lilltroll FC - Sthlm-Fanatix 	1 - 6 	
+Omgång 7
+2019-08-18 			
+	Sthlm-Fanatix - Picos Verdes 	2 - 1 	
+	The Stonebeatles - AC Weah 	1 - 1 	
+	Los Pebbos - IFK Ninweborg 	0 - 4 	
+	Nobike - Lilltroll FC 	3 - 2 	
+Omgång 8
+2019-08-25 			
+	Lilltroll FC - Nobike 	0 - 0 	
+	AC Weah - The Stonebeatles 	0 - 0 	
+	Picos Verdes - Sthlm-Fanatix 	1 - 0 	
+	IFK Ninweborg - Los Pebbos 	2 - 3 	
+Omgång 9
+2019-09-01 			
+	The Stonebeatles - Nobike 	3 - 3 	
+	Sthlm-Fanatix - Lilltroll FC 	5 - 0 	
+	IFK Ninweborg - AC Weah 	0 - 3 	
+	Los Pebbos - Picos Verdes 	4 - 3 	
+Omgång 10
+2019-09-08 			
+	Nobike - Sthlm-Fanatix 	2 - 2 	
+	Lilltroll FC - IFK Ninweborg 	0 - 1 	
+	Picos Verdes - The Stonebeatles 	1 - 0 	
+	AC Weah - Los Pebbos 	4 - 0 	
+Omgång 11
+2019-09-15 			
+	The Stonebeatles - Lilltroll FC 	7 - 0 	
+	AC Weah - Picos Verdes 	3 - 1 	
+	IFK Ninweborg - Sthlm-Fanatix 	0 - 4 	
+	Los Pebbos - Nobike 	2 - 1 	
+Omgång 12
+2019-09-22 			
+	Nobike - AC Weah 	0 - 2 	
+	Sthlm-Fanatix - The Stonebeatles 	0 - 0 	
+	Picos Verdes - IFK Ninweborg 	2 - 0 	
+	Lilltroll FC - Los Pebbos 	3 - 6 	
+Omgång 13
+2019-09-29 			
+	Picos Verdes - Lilltroll FC 	2 - 0 	
+	IFK Ninweborg - Nobike 	3 - 2 	
+	AC Weah - Sthlm-Fanatix 	4 - 0 	
+	Los Pebbos - The Stonebeatles 	3 - 0 	
+Omgång 14
+2019-10-06 			
+	Lilltroll FC - AC Weah 	3 - 3 	
+	Nobike - Picos Verdes 	3 - 1 	
+	The Stonebeatles - IFK Ninweborg 	1 - 1 	
+	Sthlm-Fanatix - Los Pebbos 	4 - 2

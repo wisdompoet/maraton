@@ -1,0 +1,84 @@
+Omgång 1
+2019-10-27 			
+	Durinhue Boars - Elora FC 	4 - 0 	
+	Goodwon FC - Ritorp Rovers 	2 - 3 	
+	Blackpool FC - Falköpings BK 	3 - 1 	
+	Perilainen United - Los Pollos Locos 	3 - 0 	
+Omgång 2
+2019-11-03 			
+	Falköpings BK - Goodwon FC 	2 - 3 	
+	Ritorp Rovers - Durinhue Boars 	3 - 4 	
+	Elora FC - Perilainen United 	2 - 0 	
+	Los Pollos Locos - Blackpool FC 	1 - 3 	
+Omgång 3
+2019-11-10 			
+	Durinhue Boars - Los Pollos Locos 	3 - 1 	
+	Goodwon FC - Blackpool FC 	4 - 0 	
+	Ritorp Rovers - Elora FC 	6 - 0 	
+	Perilainen United - Falköpings BK 	4 - 4 	
+Omgång 4
+2019-11-17 			
+	Falköpings BK - Durinhue Boars 	1 - 3 	
+	Elora FC - Goodwon FC 	0 - 7 	
+	Blackpool FC - Perilainen United 	1 - 2 	
+	Los Pollos Locos - Ritorp Rovers 	2 - 2 	
+Omgång 5
+2019-11-24 			
+	Durinhue Boars - Perilainen United 	3 - 1 	
+	Goodwon FC - Los Pollos Locos 	1 - 0 	
+	Ritorp Rovers - Blackpool FC 	3 - 3 	
+	Elora FC - Falköpings BK 	1 - 9 	
+Omgång 6
+2019-12-01 			
+	Blackpool FC - Durinhue Boars 	1 - 1 	
+	Falköpings BK - Ritorp Rovers 	3 - 1 	
+	Perilainen United - Goodwon FC 	2 - 2 	
+	Los Pollos Locos - Elora FC 	7 - 0 	
+Omgång 7
+2019-12-08 			
+	Durinhue Boars - Goodwon FC 	2 - 0 	
+	Elora FC - Blackpool FC 	0 - 9 	
+	Ritorp Rovers - Perilainen United 	0 - 3 	
+	Falköpings BK - Los Pollos Locos 	3 - 1 	
+Omgång 8
+2019-12-15 			
+	Los Pollos Locos - Falköpings BK 	1 - 1 	
+	Goodwon FC - Durinhue Boars 	1 - 3 	
+	Blackpool FC - Elora FC 	10 - 0 	
+	Perilainen United - Ritorp Rovers 	2 - 1 	
+Omgång 9
+2019-12-22 			
+	Elora FC - Los Pollos Locos 	0 - 7 	
+	Ritorp Rovers - Falköpings BK 	2 - 2 	
+	Goodwon FC - Perilainen United 	1 - 3 	
+	Durinhue Boars - Blackpool FC 	4 - 0 	
+Omgång 10
+2019-12-29 			
+	Falköpings BK - Elora FC 	7 - 0 	
+	Los Pollos Locos - Goodwon FC 	2 - 2 	
+	Blackpool FC - Ritorp Rovers 	3 - 0 	
+	Perilainen United - Durinhue Boars 	0 - 6 	
+Omgång 11
+2020-01-05 			
+	Ritorp Rovers - Los Pollos Locos 	1 - 1 	
+	Perilainen United - Blackpool FC 	3 - 3 	
+	Goodwon FC - Elora FC 	8 - 0 	
+	Durinhue Boars - Falköpings BK 	3 - 0 	
+Omgång 12
+2020-01-12 			
+	Falköpings BK - Perilainen United 	2 - 2 	
+	Elora FC - Ritorp Rovers 	0 - 7 	
+	Blackpool FC - Goodwon FC 	0 - 3 	
+	Los Pollos Locos - Durinhue Boars 	1 - 1 	
+Omgång 13
+2020-01-19 			
+	Blackpool FC - Los Pollos Locos 	3 - 3 	
+	Goodwon FC - Falköpings BK 	3 - 3 	
+	Perilainen United - Elora FC 	6 - 0 	
+	Durinhue Boars - Ritorp Rovers 	3 - 0 	
+Omgång 14
+2020-01-26 			
+	Los Pollos Locos - Perilainen United 	4 - 4 	
+	Falköpings BK - Blackpool FC 	6 - 1 	
+	Ritorp Rovers - Goodwon FC 	4 - 2 	
+	Elora FC - Durinhue Boars 	0 - 9

@@ -1,0 +1,84 @@
+Omgång 1
+2019-07-07 			
+	Zorro Dribblers - McAcademy 	0 - 9 	
+	United Bears - RWD Malmö 	4 - 0 	
+	IFK Barca FC - Lucifer's Svartänglar 	3 - 1 	
+	FFC Södermalm - Assassins BK 	3 - 0 	
+Omgång 2
+2019-07-14 			
+	RWD Malmö - Zorro Dribblers 	7 - 0 	
+	McAcademy - FFC Södermalm 	3 - 3 	
+	Lucifer's Svartänglar - United Bears 	2 - 5 	
+	Assassins BK - IFK Barca FC 	5 - 3 	
+Omgång 3
+2019-07-21 			
+	Zorro Dribblers - Assassins BK 	0 - 7 	
+	United Bears - IFK Barca FC 	4 - 1 	
+	RWD Malmö - McAcademy 	1 - 3 	
+	FFC Södermalm - Lucifer's Svartänglar 	5 - 2 	
+Omgång 4
+2019-07-28 			
+	Assassins BK - RWD Malmö 	1 - 2 	
+	Lucifer's Svartänglar - Zorro Dribblers 	5 - 2 	
+	McAcademy - United Bears 	3 - 2 	
+	IFK Barca FC - FFC Södermalm 	6 - 3 	
+Omgång 5
+2019-08-04 			
+	RWD Malmö - IFK Barca FC 	2 - 0 	
+	United Bears - Assassins BK 	5 - 2 	
+	McAcademy - Lucifer's Svartänglar 	6 - 0 	
+	Zorro Dribblers - FFC Södermalm 	0 - 7 	
+Omgång 6
+2019-08-11 			
+	IFK Barca FC - Zorro Dribblers 	7 - 0 	
+	FFC Södermalm - United Bears 	3 - 2 	
+	Lucifer's Svartänglar - RWD Malmö 	1 - 4 	
+	Assassins BK - McAcademy 	1 - 3 	
+Omgång 7
+2019-08-18 			
+	McAcademy - IFK Barca FC 	4 - 0 	
+	Zorro Dribblers - United Bears 	0 - 8 	
+	RWD Malmö - FFC Södermalm 	1 - 0 	
+	Lucifer's Svartänglar - Assassins BK 	1 - 6 	
+Omgång 8
+2019-08-25 			
+	Assassins BK - Lucifer's Svartänglar 	5 - 1 	
+	FFC Södermalm - RWD Malmö 	3 - 0 	
+	IFK Barca FC - McAcademy 	2 - 4 	
+	United Bears - Zorro Dribblers 	5 - 0 	
+Omgång 9
+2019-09-01 			
+	McAcademy - Assassins BK 	2 - 3 	
+	RWD Malmö - Lucifer's Svartänglar 	2 - 1 	
+	United Bears - FFC Södermalm 	0 - 8 	
+	Zorro Dribblers - IFK Barca FC 	0 - 6 	
+Omgång 10
+2019-09-08 			
+	Lucifer's Svartänglar - McAcademy 	2 - 1 	
+	Assassins BK - United Bears 	7 - 0 	
+	IFK Barca FC - RWD Malmö 	5 - 3 	
+	FFC Södermalm - Zorro Dribblers 	8 - 1 	
+Omgång 11
+2019-09-15 			
+	RWD Malmö - Assassins BK 	3 - 1 	
+	FFC Södermalm - IFK Barca FC 	6 - 2 	
+	United Bears - McAcademy 	0 - 7 	
+	Zorro Dribblers - Lucifer's Svartänglar 	2 - 4 	
+Omgång 12
+2019-09-22 			
+	Lucifer's Svartänglar - FFC Södermalm 	1 - 5 	
+	McAcademy - RWD Malmö 	3 - 2 	
+	IFK Barca FC - United Bears 	5 - 0 	
+	Assassins BK - Zorro Dribblers 	8 - 0 	
+Omgång 13
+2019-09-29 			
+	IFK Barca FC - Assassins BK 	1 - 3 	
+	United Bears - Lucifer's Svartänglar 	1 - 5 	
+	FFC Södermalm - McAcademy 	3 - 2 	
+	Zorro Dribblers - RWD Malmö 	0 - 7 	
+Omgång 14
+2019-10-06 			
+	Assassins BK - FFC Södermalm 	3 - 3 	
+	Lucifer's Svartänglar - IFK Barca FC 	1 - 8 	
+	RWD Malmö - United Bears 	10 - 0 	
+	McAcademy - Zorro Dribblers 	6 - 0 

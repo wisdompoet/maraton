@@ -1,0 +1,84 @@
+Omgång 1
+2019-03-17 			
+	Zwitter - Sepps FF 	5 - 0 	
+	Dayrider FC - Ekängen IF 	2 - 0 	
+	Vilse i pannkakan - Staffanstorps BK 	0 - 2 	
+	IFK Rödupp - Claret & Blue 	1 - 4 	
+Omgång 2
+2019-03-24 			
+	Claret & Blue - Vilse i pannkakan 	6 - 0 	
+	Staffanstorps BK - Dayrider FC 	1 - 3 	
+	Sepps FF - IFK Rödupp 	0 - 3 	
+	Ekängen IF - Zwitter 	1 - 1 	
+Omgång 3
+2019-03-31 			
+	Vilse i pannkakan - Ekängen IF 	0 - 7 	
+	IFK Rödupp - Zwitter 	2 - 2 	
+	Claret & Blue - Staffanstorps BK 	0 - 1 	
+	Dayrider FC - Sepps FF 	5 - 1 	
+Omgång 4
+2019-04-07 			
+	Sepps FF - Vilse i pannkakan 	6 - 0 	
+	Staffanstorps BK - IFK Rödupp 	3 - 2 	
+	Zwitter - Dayrider FC 	5 - 2 	
+	Ekängen IF - Claret & Blue 	0 - 3 	
+Omgång 5
+2019-04-14 			
+	Vilse i pannkakan - Dayrider FC 	1 - 7 	
+	Claret & Blue - Zwitter 	5 - 2 	
+	IFK Rödupp - Ekängen IF 	1 - 1 	
+	Staffanstorps BK - Sepps FF 	2 - 0 	
+Omgång 6
+2019-04-21 			
+	Zwitter - Vilse i pannkakan 	3 - 0 	
+	Dayrider FC - IFK Rödupp 	3 - 2 	
+	Sepps FF - Claret & Blue 	0 - 6 	
+	Ekängen IF - Staffanstorps BK 	1 - 1 	
+Omgång 7
+2019-04-28 			
+	Staffanstorps BK - Zwitter 	3 - 0 	
+	Claret & Blue - Dayrider FC 	3 - 1 	
+	Sepps FF - Ekängen IF 	1 - 3 	
+	Vilse i pannkakan - IFK Rödupp 	0 - 6 	
+Omgång 8
+2019-05-05 			
+	Dayrider FC - Claret & Blue 	0 - 9 	
+	Zwitter - Staffanstorps BK 	0 - 4 	
+	IFK Rödupp - Vilse i pannkakan 	7 - 0 	
+	Ekängen IF - Sepps FF 	3 - 2 	
+Omgång 9
+2019-05-12 			
+	Staffanstorps BK - Ekängen IF 	2 - 0 	
+	Claret & Blue - Sepps FF 	6 - 0 	
+	IFK Rödupp - Dayrider FC 	8 - 0 	
+	Vilse i pannkakan - Zwitter 	1 - 4 	
+Omgång 10
+2019-05-19 			
+	Sepps FF - Staffanstorps BK 	0 - 2 	
+	Ekängen IF - IFK Rödupp 	4 - 2 	
+	Zwitter - Claret & Blue 	0 - 3 	
+	Dayrider FC - Vilse i pannkakan 	0 - 5 	
+Omgång 11
+2019-05-26 			
+	Claret & Blue - Ekängen IF 	5 - 1 	
+	IFK Rödupp - Staffanstorps BK 	0 - 1 	
+	Dayrider FC - Zwitter 	0 - 8 	
+	Vilse i pannkakan - Sepps FF 	0 - 5 	
+Omgång 12
+2019-06-02 			
+	Sepps FF - Dayrider FC 	9 - 0 	
+	Staffanstorps BK - Claret & Blue 	1 - 1 	
+	Zwitter - IFK Rödupp 	3 - 1 	
+	Ekängen IF - Vilse i pannkakan 	5 - 1 	
+Omgång 13
+2019-06-09 			
+	Zwitter - Ekängen IF 	3 - 0 	
+	IFK Rödupp - Sepps FF 	3 - 1 	
+	Dayrider FC - Staffanstorps BK 	0 - 9 	
+	Vilse i pannkakan - Claret & Blue 	0 - 8 	
+Omgång 14
+2019-06-16 			
+	Ekängen IF - Dayrider FC 	12 - 0 	
+	Sepps FF - Zwitter 	3 - 3 	
+	Claret & Blue - IFK Rödupp 	8 - 2 	
+	Staffanstorps BK - Vilse i pannkakan 	4 - 0

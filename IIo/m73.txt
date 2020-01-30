@@ -1,0 +1,84 @@
+Omgång 1
+2019-10-27 			
+	Spirit of L-A - Sunday Service 	4 - 0 	
+	Team Siverbo - Tokyo FF 	0 - 3 	
+	Tampes United - Smörsoppens BK 	0 - 0 	
+	South Wanderers FC - Riotsquad 	2 - 1 	
+Omgång 2
+2019-11-03 			
+	Smörsoppens BK - South Wanderers FC 	1 - 3 	
+	Sunday Service - Tampes United 	1 - 2 	
+	Tokyo FF - Spirit of L-A 	3 - 5 	
+	Riotsquad - Team Siverbo 	1 - 3 	
+Omgång 3
+2019-11-10 			
+	Tampes United - Riotsquad 	5 - 0 	
+	Spirit of L-A - Team Siverbo 	5 - 1 	
+	South Wanderers FC - Tokyo FF 	5 - 2 	
+	Sunday Service - Smörsoppens BK 	2 - 1 	
+Omgång 4
+2019-11-17 			
+	Tokyo FF - Tampes United 	1 - 4 	
+	Smörsoppens BK - Spirit of L-A 	2 - 1 	
+	Team Siverbo - South Wanderers FC 	0 - 3 	
+	Riotsquad - Sunday Service 	1 - 0 	
+Omgång 5
+2019-11-24 			
+	Tampes United - South Wanderers FC 	3 - 2 	
+	Sunday Service - Team Siverbo 	3 - 3 	
+	Spirit of L-A - Riotsquad 	5 - 0 	
+	Smörsoppens BK - Tokyo FF 	3 - 0 	
+Omgång 6
+2019-12-01 			
+	Team Siverbo - Tampes United 	0 - 5 	
+	South Wanderers FC - Spirit of L-A 	4 - 1 	
+	Tokyo FF - Sunday Service 	0 - 3 	
+	Riotsquad - Smörsoppens BK 	1 - 3 	
+Omgång 7
+2019-12-08 			
+	Tampes United - Spirit of L-A 	4 - 0 	
+	Smörsoppens BK - Team Siverbo 	3 - 1 	
+	Sunday Service - South Wanderers FC 	4 - 0 	
+	Tokyo FF - Riotsquad 	1 - 3 	
+Omgång 8
+2019-12-15 			
+	Riotsquad - Tokyo FF 	2 - 0 	
+	South Wanderers FC - Sunday Service 	4 - 3 	
+	Team Siverbo - Smörsoppens BK 	1 - 3 	
+	Spirit of L-A - Tampes United 	3 - 4 	
+Omgång 9
+2019-12-22 			
+	Smörsoppens BK - Riotsquad 	2 - 0 	
+	Sunday Service - Tokyo FF 	2 - 1 	
+	Spirit of L-A - South Wanderers FC 	5 - 1 	
+	Tampes United - Team Siverbo 	4 - 3 	
+Omgång 10
+2019-12-29 			
+	Tokyo FF - Smörsoppens BK 	3 - 3 	
+	Riotsquad - Spirit of L-A 	2 - 4 	
+	Team Siverbo - Sunday Service 	0 - 5 	
+	South Wanderers FC - Tampes United 	0 - 3 	
+Omgång 11
+2020-01-05 			
+	Sunday Service - Riotsquad 	5 - 0 	
+	South Wanderers FC - Team Siverbo 	2 - 0 	
+	Spirit of L-A - Smörsoppens BK 	5 - 2 	
+	Tampes United - Tokyo FF 	2 - 1 	
+Omgång 12
+2020-01-12 			
+	Tokyo FF - South Wanderers FC 	0 - 1 	
+	Smörsoppens BK - Sunday Service 	1 - 4 	
+	Team Siverbo - Spirit of L-A 	0 - 8 	
+	Riotsquad - Tampes United 	0 - 6 	
+Omgång 13
+2020-01-19 			
+	Team Siverbo - Riotsquad 	1 - 0 	
+	Spirit of L-A - Tokyo FF 	6 - 1 	
+	South Wanderers FC - Smörsoppens BK 	2 - 4 	
+	Tampes United - Sunday Service 	3 - 0 	
+Omgång 14
+2020-01-26 			
+	Riotsquad - South Wanderers FC 	7 - 0 	
+	Tokyo FF - Team Siverbo 	0 - 5 	
+	Sunday Service - Spirit of L-A 	1 - 2 	
+	Smörsoppens BK - Tampes United 	0 - 4 

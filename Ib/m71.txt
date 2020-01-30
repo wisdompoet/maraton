@@ -1,0 +1,84 @@
+Omgång 1
+2019-03-17 			
+	Rommeholen FC - Picos Verdes 	0 - 4 	
+	Los Pebbos - Nobike 	1 - 1 	
+	Sthlm-Fanatix - The Stonebeatles 	1 - 0 	
+	Scoring Xtreme - IFK Ninweborg 	1 - 4 	
+Omgång 2
+2019-03-24 			
+	Nobike - Rommeholen FC 	4 - 0 	
+	Picos Verdes - Scoring Xtreme 	1 - 1 	
+	The Stonebeatles - Los Pebbos 	0 - 2 	
+	IFK Ninweborg - Sthlm-Fanatix 	2 - 0 	
+Omgång 3
+2019-03-31 			
+	Rommeholen FC - IFK Ninweborg 	0 - 8 	
+	Los Pebbos - Sthlm-Fanatix 	4 - 0 	
+	Nobike - Picos Verdes 	1 - 1 	
+	Scoring Xtreme - The Stonebeatles 	1 - 1 	
+Omgång 4
+2019-04-07 			
+	The Stonebeatles - Rommeholen FC 	4 - 0 	
+	Picos Verdes - Los Pebbos 	1 - 3 	
+	Sthlm-Fanatix - Scoring Xtreme 	1 - 1 	
+	IFK Ninweborg - Nobike 	1 - 0 	
+Omgång 5
+2019-04-14 			
+	Rommeholen FC - Scoring Xtreme 	0 - 6 	
+	Nobike - Sthlm-Fanatix 	4 - 0 	
+	Los Pebbos - IFK Ninweborg 	2 - 1 	
+	Picos Verdes - The Stonebeatles 	1 - 2 	
+Omgång 6
+2019-04-21 			
+	Sthlm-Fanatix - Rommeholen FC 	6 - 0 	
+	Scoring Xtreme - Los Pebbos 	2 - 4 	
+	The Stonebeatles - Nobike 	2 - 1 	
+	IFK Ninweborg - Picos Verdes 	1 - 3 	
+Omgång 7
+2019-04-28 			
+	Rommeholen FC - Los Pebbos 	0 - 8 	
+	Picos Verdes - Sthlm-Fanatix 	2 - 2 	
+	Nobike - Scoring Xtreme 	1 - 1 	
+	The Stonebeatles - IFK Ninweborg 	1 - 1 	
+Omgång 8
+2019-05-05 			
+	IFK Ninweborg - The Stonebeatles 	1 - 0 	
+	Scoring Xtreme - Nobike 	2 - 0 	
+	Sthlm-Fanatix - Picos Verdes 	5 - 0 	
+	Los Pebbos - Rommeholen FC 	2 - 0 	
+Omgång 9
+2019-05-12 			
+	Los Pebbos - Scoring Xtreme 	1 - 1 	
+	Picos Verdes - IFK Ninweborg 	3 - 1 	
+	Rommeholen FC - Sthlm-Fanatix 	0 - 6 	
+	Nobike - The Stonebeatles 	1 - 1 	
+Omgång 10
+2019-05-19 			
+	The Stonebeatles - Picos Verdes 	0 - 2 	
+	IFK Ninweborg - Los Pebbos 	1 - 0 	
+	Sthlm-Fanatix - Nobike 	5 - 0 	
+	Scoring Xtreme - Rommeholen FC 	5 - 0 	
+Omgång 11
+2019-05-26 			
+	Nobike - IFK Ninweborg 	2 - 0 	
+	Scoring Xtreme - Sthlm-Fanatix 	1 - 4 	
+	Los Pebbos - Picos Verdes 	5 - 1 	
+	Rommeholen FC - The Stonebeatles 	0 - 4 	
+Omgång 12
+2019-06-02 			
+	The Stonebeatles - Scoring Xtreme 	7 - 3 	
+	Picos Verdes - Nobike 	2 - 3 	
+	Sthlm-Fanatix - Los Pebbos 	5 - 0 	
+	IFK Ninweborg - Rommeholen FC 	8 - 0 	
+Omgång 13
+2019-06-09 			
+	Sthlm-Fanatix - IFK Ninweborg 	2 - 1 	
+	Los Pebbos - The Stonebeatles 	0 - 1 	
+	Scoring Xtreme - Picos Verdes 	0 - 6 	
+	Rommeholen FC - Nobike 	0 - 3 	
+Omgång 14
+2019-06-16 			
+	IFK Ninweborg - Scoring Xtreme 	5 - 1 	
+	Picos Verdes - Rommeholen FC 	6 - 0 	
+	The Stonebeatles - Sthlm-Fanatix 	1 - 1 	
+	Nobike - Los Pebbos 	2 - 3

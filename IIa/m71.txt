@@ -1,0 +1,84 @@
+Omgång 1
+2019-03-17 			
+	BK Rapp - Jediriddarna 	3 - 1 	
+	De Riktigt Ruttna - BK52 	2 - 1 	
+	IFK Tiger Blå - Real FC De Madrid 	5 - 1 	
+	Mörphy FC - Angels of Gothenburg 	5 - 1 	
+Omgång 2
+2019-03-24 			
+	Jediriddarna - Mörphy FC 	4 - 2 	
+	Angels of Gothenburg - IFK Tiger Blå 	3 - 2 	
+	BK52 - BK Rapp 	1 - 0 	
+	Real FC De Madrid - De Riktigt Ruttna 	5 - 2 	
+Omgång 3
+2019-03-31 			
+	BK Rapp - De Riktigt Ruttna 	1 - 1 	
+	Mörphy FC - Real FC De Madrid 	3 - 2 	
+	IFK Tiger Blå - BK52 	3 - 5 	
+	Jediriddarna - Angels of Gothenburg 	4 - 0 	
+Omgång 4
+2019-04-07 			
+	BK52 - Mörphy FC 	2 - 2 	
+	Angels of Gothenburg - BK Rapp 	0 - 1 	
+	De Riktigt Ruttna - IFK Tiger Blå 	4 - 0 	
+	Real FC De Madrid - Jediriddarna 	3 - 3 	
+Omgång 5
+2019-04-14 			
+	Mörphy FC - IFK Tiger Blå 	6 - 0 	
+	Jediriddarna - De Riktigt Ruttna 	4 - 1 	
+	BK Rapp - Real FC De Madrid 	3 - 0 	
+	Angels of Gothenburg - BK52 	3 - 4 	
+Omgång 6
+2019-04-21 			
+	De Riktigt Ruttna - Mörphy FC 	4 - 1 	
+	IFK Tiger Blå - BK Rapp 	1 - 5 	
+	BK52 - Jediriddarna 	1 - 2 	
+	Real FC De Madrid - Angels of Gothenburg 	3 - 2 	
+Omgång 7
+2019-04-28 			
+	Mörphy FC - BK Rapp 	4 - 2 	
+	Angels of Gothenburg - De Riktigt Ruttna 	1 - 2 	
+	Jediriddarna - IFK Tiger Blå 	6 - 0 	
+	BK52 - Real FC De Madrid 	2 - 1 	
+Omgång 8
+2019-05-05 			
+	Real FC De Madrid - BK52 	1 - 1 	
+	IFK Tiger Blå - Jediriddarna 	0 - 3 	
+	De Riktigt Ruttna - Angels of Gothenburg 	6 - 1 	
+	BK Rapp - Mörphy FC 	2 - 1 	
+Omgång 9
+2019-05-12 			
+	Angels of Gothenburg - Real FC De Madrid 	2 - 1 	
+	Jediriddarna - BK52 	1 - 2 	
+	BK Rapp - IFK Tiger Blå 	4 - 0 	
+	Mörphy FC - De Riktigt Ruttna 	3 - 2 	
+Omgång 10
+2019-05-19 			
+	BK52 - Angels of Gothenburg 	2 - 3 	
+	Real FC De Madrid - BK Rapp 	0 - 3 	
+	De Riktigt Ruttna - Jediriddarna 	4 - 2 	
+	IFK Tiger Blå - Mörphy FC 	1 - 0 	
+Omgång 11
+2019-05-26 			
+	Jediriddarna - Real FC De Madrid 	6 - 0 	
+	IFK Tiger Blå - De Riktigt Ruttna 	0 - 3 	
+	BK Rapp - Angels of Gothenburg 	3 - 1 	
+	Mörphy FC - BK52 	5 - 0 	
+Omgång 12
+2019-06-02 			
+	BK52 - IFK Tiger Blå 	3 - 0 	
+	Angels of Gothenburg - Jediriddarna 	2 - 1 	
+	De Riktigt Ruttna - BK Rapp 	3 - 0 	
+	Real FC De Madrid - Mörphy FC 	1 - 5 	
+Omgång 13
+2019-06-09 			
+	IFK Tiger Blå - Angels of Gothenburg 	0 - 1 	
+	Mörphy FC - Jediriddarna 	1 - 8 	
+	De Riktigt Ruttna - Real FC De Madrid 	9 - 0 	
+	BK Rapp - BK52 	0 - 0 	
+Omgång 14
+2019-06-16 			
+	Real FC De Madrid - IFK Tiger Blå 	0 - 6 	
+	BK52 - De Riktigt Ruttna 	1 - 4 	
+	Jediriddarna - BK Rapp 	4 - 1 	
+	Angels of Gothenburg - Mörphy FC 	7 - 0

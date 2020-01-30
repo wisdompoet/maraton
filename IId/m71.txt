@@ -1,0 +1,84 @@
+Omgång 1
+2019-03-17 			
+	Kistbärarna - Goodwon FC 	0 - 7 	
+	Elora FC - Blackpool FC 	6 - 2 	
+	jumbotronerna - Fräsalökaryd IF 	4 - 1 	
+	Ritorp Rovers - Pelkaso 	3 - 1 	
+Omgång 2
+2019-03-24 			
+	Blackpool FC - Kistbärarna 	9 - 1 	
+	Goodwon FC - Ritorp Rovers 	3 - 1 	
+	Fräsalökaryd IF - Elora FC 	0 - 2 	
+	Pelkaso - jumbotronerna 	2 - 2 	
+Omgång 3
+2019-03-31 			
+	Elora FC - jumbotronerna 	5 - 1 	
+	Kistbärarna - Pelkaso 	0 - 5 	
+	Blackpool FC - Goodwon FC 	1 - 3 	
+	Ritorp Rovers - Fräsalökaryd IF 	1 - 0 	
+Omgång 4
+2019-04-07 			
+	Fräsalökaryd IF - Kistbärarna 	2 - 0 	
+	Goodwon FC - Elora FC 	2 - 1 	
+	jumbotronerna - Ritorp Rovers 	2 - 3 	
+	Pelkaso - Blackpool FC 	2 - 3 	
+Omgång 5
+2019-04-14 			
+	Kistbärarna - Ritorp Rovers 	0 - 6 	
+	Elora FC - Pelkaso 	5 - 2 	
+	Blackpool FC - jumbotronerna 	4 - 1 	
+	Goodwon FC - Fräsalökaryd IF 	5 - 2 	
+Omgång 6
+2019-04-21 			
+	jumbotronerna - Kistbärarna 	4 - 0 	
+	Ritorp Rovers - Elora FC 	2 - 2 	
+	Pelkaso - Goodwon FC 	2 - 4 	
+	Fräsalökaryd IF - Blackpool FC 	0 - 3 	
+Omgång 7
+2019-04-28 			
+	Kistbärarna - Elora FC 	0 - 8 	
+	Goodwon FC - jumbotronerna 	5 - 1 	
+	Blackpool FC - Ritorp Rovers 	2 - 2 	
+	Fräsalökaryd IF - Pelkaso 	2 - 2 	
+Omgång 8
+2019-05-05 			
+	Ritorp Rovers - Blackpool FC 	3 - 0 	
+	jumbotronerna - Goodwon FC 	3 - 4 	
+	Elora FC - Kistbärarna 	2 - 0 	
+	Pelkaso - Fräsalökaryd IF 	2 - 1 	
+Omgång 9
+2019-05-12 			
+	Goodwon FC - Pelkaso 	4 - 0 	
+	Elora FC - Ritorp Rovers 	1 - 0 	
+	Blackpool FC - Fräsalökaryd IF 	2 - 0 	
+	Kistbärarna - jumbotronerna 	0 - 3 	
+Omgång 10
+2019-05-19 			
+	Fräsalökaryd IF - Goodwon FC 	0 - 3 	
+	Pelkaso - Elora FC 	2 - 2 	
+	jumbotronerna - Blackpool FC 	3 - 1 	
+	Ritorp Rovers - Kistbärarna 	4 - 0 	
+Omgång 11
+2019-05-26 			
+	Blackpool FC - Pelkaso 	3 - 1 	
+	Ritorp Rovers - jumbotronerna 	3 - 0 	
+	Elora FC - Goodwon FC 	5 - 1 	
+	Kistbärarna - Fräsalökaryd IF 	0 - 0 	
+Omgång 12
+2019-06-02 			
+	Fräsalökaryd IF - Ritorp Rovers 	0 - 1 	
+	Goodwon FC - Blackpool FC 	4 - 0 	
+	jumbotronerna - Elora FC 	5 - 4 	
+	Pelkaso - Kistbärarna 	4 - 0 	
+Omgång 13
+2019-06-09 			
+	Elora FC - Fräsalökaryd IF 	5 - 2 	
+	Ritorp Rovers - Goodwon FC 	1 - 0 	
+	Kistbärarna - Blackpool FC 	0 - 3 	
+	jumbotronerna - Pelkaso 	1 - 0 	
+Omgång 14
+2019-06-16 			
+	Pelkaso - Ritorp Rovers 	2 - 7 	
+	Fräsalökaryd IF - jumbotronerna 	1 - 2 	
+	Blackpool FC - Elora FC 	0 - 3 	
+	Goodwon FC - Kistbärarna 	2 - 0

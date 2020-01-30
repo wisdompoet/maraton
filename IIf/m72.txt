@@ -1,0 +1,84 @@
+Omgång 1
+2019-07-07 			
+	Daddy Boastin BK - Ragges boys 	2 - 0 	
+	Det lilla samlaget - BK Bulldog 	0 - 8 	
+	Hambys Ltd - Värtans IK 	0 - 3 	
+	FC Invandrarverket - Reinos Rödhättor 	4 - 0 	
+Omgång 2
+2019-07-14 			
+	Värtans IK - Det lilla samlaget 	6 - 2 	
+	BK Bulldog - FC Invandrarverket 	1 - 3 	
+	Ragges boys - Hambys Ltd 	2 - 3 	
+	Reinos Rödhättor - Daddy Boastin BK 	3 - 1 	
+Omgång 3
+2019-07-21 			
+	Hambys Ltd - Daddy Boastin BK 	3 - 0 	
+	Det lilla samlaget - Reinos Rödhättor 	0 - 6 	
+	Värtans IK - BK Bulldog 	0 - 2 	
+	FC Invandrarverket - Ragges boys 	3 - 0 	
+Omgång 4
+2019-07-28 			
+	Ragges boys - Det lilla samlaget 	7 - 0 	
+	BK Bulldog - Hambys Ltd 	7 - 1 	
+	Daddy Boastin BK - FC Invandrarverket 	0 - 2 	
+	Reinos Rödhättor - Värtans IK 	2 - 1 	
+Omgång 5
+2019-08-04 			
+	Värtans IK - Daddy Boastin BK 	4 - 0 	
+	Hambys Ltd - Reinos Rödhättor 	2 - 4 	
+	BK Bulldog - Ragges boys 	3 - 0 	
+	Det lilla samlaget - FC Invandrarverket 	0 - 8 	
+Omgång 6
+2019-08-11 			
+	Daddy Boastin BK - Det lilla samlaget 	7 - 0 	
+	FC Invandrarverket - Hambys Ltd 	2 - 1 	
+	Ragges boys - Värtans IK 	1 - 3 	
+	Reinos Rödhättor - BK Bulldog 	0 - 4 	
+Omgång 7
+2019-08-18 			
+	Det lilla samlaget - Hambys Ltd 	0 - 7 	
+	BK Bulldog - Daddy Boastin BK 	2 - 2 	
+	Värtans IK - FC Invandrarverket 	0 - 2 	
+	Ragges boys - Reinos Rödhättor 	0 - 2 	
+Omgång 8
+2019-08-25 			
+	Reinos Rödhättor - Ragges boys 	2 - 0 	
+	FC Invandrarverket - Värtans IK 	0 - 1 	
+	Daddy Boastin BK - BK Bulldog 	2 - 2 	
+	Hambys Ltd - Det lilla samlaget 	9 - 0 	
+Omgång 9
+2019-09-01 			
+	BK Bulldog - Reinos Rödhättor 	1 - 2 	
+	Värtans IK - Ragges boys 	2 - 2 	
+	Hambys Ltd - FC Invandrarverket 	2 - 1 	
+	Det lilla samlaget - Daddy Boastin BK 	0 - 6 	
+Omgång 10
+2019-09-08 			
+	Ragges boys - BK Bulldog 	4 - 1 	
+	Reinos Rödhättor - Hambys Ltd 	5 - 0 	
+	Daddy Boastin BK - Värtans IK 	0 - 1 	
+	FC Invandrarverket - Det lilla samlaget 	9 - 0 	
+Omgång 11
+2019-09-15 			
+	FC Invandrarverket - Daddy Boastin BK 	3 - 0 	
+	Hambys Ltd - BK Bulldog 	3 - 3 	
+	Det lilla samlaget - Ragges boys 	0 - 8 	
+	Värtans IK - Reinos Rödhättor 	0 - 0 	
+Omgång 12
+2019-09-22 			
+	Ragges boys - FC Invandrarverket 	1 - 1 	
+	BK Bulldog - Värtans IK 	1 - 1 	
+	Daddy Boastin BK - Hambys Ltd 	3 - 0 	
+	Reinos Rödhättor - Det lilla samlaget 	9 - 0 	
+Omgång 13
+2019-09-29 			
+	Daddy Boastin BK - Reinos Rödhättor 	1 - 3 	
+	Hambys Ltd - Ragges boys 	0 - 6 	
+	FC Invandrarverket - BK Bulldog 	3 - 0 	
+	Det lilla samlaget - Värtans IK 	0 - 6 	
+Omgång 14
+2019-10-06 			
+	Reinos Rödhättor - FC Invandrarverket 	3 - 3 	
+	Ragges boys - Daddy Boastin BK 	2 - 3 	
+	Värtans IK - Hambys Ltd 	1 - 0 	
+	BK Bulldog - Det lilla samlaget 	8 - 0

@@ -1,0 +1,84 @@
+Omgång 1
+2019-03-17 			
+	Fruängens BK - BK Torpet 	1 - 3 	
+	Bonk IS - Ik Blåbär 	3 - 0 	
+	Smokinglirarna - Happy Team 	1 - 0 	
+	Norrtelje Wanderers - Dr.Gugges Klienter 	4 - 0 	
+Omgång 2
+2019-03-24 			
+	Ik Blåbär - Fruängens BK 	2 - 3 	
+	BK Torpet - Norrtelje Wanderers 	1 - 0 	
+	Happy Team - Bonk IS 	2 - 1 	
+	Dr.Gugges Klienter - Smokinglirarna 	1 - 2 	
+Omgång 3
+2019-03-31 			
+	Fruängens BK - Dr.Gugges Klienter 	3 - 0 	
+	Bonk IS - Smokinglirarna 	1 - 4 	
+	Ik Blåbär - BK Torpet 	2 - 0 	
+	Norrtelje Wanderers - Happy Team 	3 - 2 	
+Omgång 4
+2019-04-07 			
+	Happy Team - Fruängens BK 	3 - 2 	
+	BK Torpet - Bonk IS 	4 - 1 	
+	Smokinglirarna - Norrtelje Wanderers 	4 - 0 	
+	Dr.Gugges Klienter - Ik Blåbär 	3 - 3 	
+Omgång 5
+2019-04-14 			
+	Fruängens BK - Norrtelje Wanderers 	2 - 3 	
+	Ik Blåbär - Smokinglirarna 	0 - 3 	
+	Bonk IS - Dr.Gugges Klienter 	2 - 0 	
+	BK Torpet - Happy Team 	2 - 2 	
+Omgång 6
+2019-04-21 			
+	Norrtelje Wanderers - Bonk IS 	2 - 2 	
+	Smokinglirarna - Fruängens BK 	1 - 1 	
+	Happy Team - Ik Blåbär 	3 - 2 	
+	Dr.Gugges Klienter - BK Torpet 	0 - 5 	
+Omgång 7
+2019-04-28 			
+	Fruängens BK - Bonk IS 	1 - 0 	
+	BK Torpet - Smokinglirarna 	2 - 2 	
+	Ik Blåbär - Norrtelje Wanderers 	2 - 0 	
+	Happy Team - Dr.Gugges Klienter 	1 - 0 	
+Omgång 8
+2019-05-05 			
+	Norrtelje Wanderers - Ik Blåbär 	3 - 2 	
+	Dr.Gugges Klienter - Happy Team 	0 - 2 	
+	Smokinglirarna - BK Torpet 	2 - 2 	
+	Bonk IS - Fruängens BK 	0 - 2 	
+Omgång 9
+2019-05-12 			
+	BK Torpet - Dr.Gugges Klienter 	6 - 1 	
+	Ik Blåbär - Happy Team 	0 - 3 	
+	Bonk IS - Norrtelje Wanderers 	1 - 3 	
+	Fruängens BK - Smokinglirarna 	1 - 2 	
+Omgång 10
+2019-05-19 			
+	Happy Team - BK Torpet 	3 - 0 	
+	Dr.Gugges Klienter - Bonk IS 	0 - 3 	
+	Smokinglirarna - Ik Blåbär 	5 - 1 	
+	Norrtelje Wanderers - Fruängens BK 	3 - 0 	
+Omgång 11
+2019-05-26 			
+	Ik Blåbär - Dr.Gugges Klienter 	4 - 0 	
+	Norrtelje Wanderers - Smokinglirarna 	2 - 0 	
+	Bonk IS - BK Torpet 	2 - 3 	
+	Fruängens BK - Happy Team 	0 - 3 	
+Omgång 12
+2019-06-02 			
+	Happy Team - Norrtelje Wanderers 	0 - 1 	
+	BK Torpet - Ik Blåbär 	3 - 1 	
+	Smokinglirarna - Bonk IS 	4 - 0 	
+	Dr.Gugges Klienter - Fruängens BK 	4 - 2 	
+Omgång 13
+2019-06-09 			
+	Smokinglirarna - Dr.Gugges Klienter 	5 - 0 	
+	Bonk IS - Happy Team 	3 - 2 	
+	Norrtelje Wanderers - BK Torpet 	2 - 0 	
+	Fruängens BK - Ik Blåbär 	5 - 4 	
+Omgång 14
+2019-06-16 			
+	Dr.Gugges Klienter - Norrtelje Wanderers 	1 - 3 	
+	Happy Team - Smokinglirarna 	0 - 0 	
+	Ik Blåbär - Bonk IS 	2 - 3 	
+	BK Torpet - Fruängens BK 	2 - 1

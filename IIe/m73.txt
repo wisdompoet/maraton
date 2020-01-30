@@ -1,0 +1,84 @@
+Omgång 1
+2019-10-27 			
+	Addis Abeba YEKM - Segmon BK 	3 - 2 	
+	Lilltroll FC - watbois 	0 - 9 	
+	Maleus FF - Källstorps FF 	1 - 1 	
+	FC Hattifnatt - Hestrafors IF 	2 - 2 	
+Omgång 2
+2019-11-03 			
+	Segmon BK - FC Hattifnatt 	1 - 0 	
+	Källstorps FF - Addis Abeba YEKM 	2 - 1 	
+	Hestrafors IF - Lilltroll FC 	7 - 0 	
+	watbois - Maleus FF 	2 - 4 	
+Omgång 3
+2019-11-10 			
+	Lilltroll FC - Källstorps FF 	0 - 6 	
+	FC Hattifnatt - Addis Abeba YEKM 	2 - 0 	
+	Hestrafors IF - watbois 	4 - 0 	
+	Maleus FF - Segmon BK 	2 - 3 	
+Omgång 4
+2019-11-17 			
+	watbois - FC Hattifnatt 	0 - 1 	
+	Segmon BK - Lilltroll FC 	7 - 0 	
+	Addis Abeba YEKM - Maleus FF 	1 - 1 	
+	Källstorps FF - Hestrafors IF 	0 - 2 	
+Omgång 5
+2019-11-24 			
+	Lilltroll FC - Maleus FF 	0 - 5 	
+	Hestrafors IF - Addis Abeba YEKM 	2 - 3 	
+	watbois - Segmon BK 	3 - 1 	
+	FC Hattifnatt - Källstorps FF 	0 - 0 	
+Omgång 6
+2019-12-01 			
+	Addis Abeba YEKM - Lilltroll FC 	3 - 0 	
+	Maleus FF - FC Hattifnatt 	0 - 1 	
+	Segmon BK - Hestrafors IF 	0 - 2 	
+	Källstorps FF - watbois 	3 - 0 	
+Omgång 7
+2019-12-08 			
+	Lilltroll FC - FC Hattifnatt 	1 - 3 	
+	watbois - Addis Abeba YEKM 	3 - 0 	
+	Hestrafors IF - Maleus FF 	7 - 0 	
+	Segmon BK - Källstorps FF 	3 - 1 	
+Omgång 8
+2019-12-15 			
+	Källstorps FF - Segmon BK 	3 - 3 	
+	Maleus FF - Hestrafors IF 	0 - 4 	
+	Addis Abeba YEKM - watbois 	2 - 0 	
+	FC Hattifnatt - Lilltroll FC 	3 - 0 	
+Omgång 9
+2019-12-22 			
+	Hestrafors IF - Segmon BK 	7 - 2 	
+	watbois - Källstorps FF 	4 - 0 	
+	FC Hattifnatt - Maleus FF 	2 - 0 	
+	Lilltroll FC - Addis Abeba YEKM 	0 - 6 	
+Omgång 10
+2019-12-29 			
+	Segmon BK - watbois 	2 - 4 	
+	Källstorps FF - FC Hattifnatt 	1 - 0 	
+	Addis Abeba YEKM - Hestrafors IF 	1 - 2 	
+	Maleus FF - Lilltroll FC 	6 - 0 	
+Omgång 11
+2020-01-05 			
+	Hestrafors IF - Källstorps FF 	4 - 2 	
+	Maleus FF - Addis Abeba YEKM 	0 - 1 	
+	FC Hattifnatt - watbois 	0 - 1 	
+	Lilltroll FC - Segmon BK 	0 - 8 	
+Omgång 12
+2020-01-12 			
+	Segmon BK - Maleus FF 	2 - 0 	
+	watbois - Hestrafors IF 	2 - 2 	
+	Addis Abeba YEKM - FC Hattifnatt 	1 - 2 	
+	Källstorps FF - Lilltroll FC 	6 - 0 	
+Omgång 13
+2020-01-19 			
+	Addis Abeba YEKM - Källstorps FF 	3 - 0 	
+	FC Hattifnatt - Segmon BK 	1 - 2 	
+	Maleus FF - watbois 	3 - 2 	
+	Lilltroll FC - Hestrafors IF 	0 - 8 	
+Omgång 14
+2020-01-26 			
+	Källstorps FF - Maleus FF 	2 - 1 	
+	Segmon BK - Addis Abeba YEKM 	1 - 0 	
+	Hestrafors IF - FC Hattifnatt 	3 - 0 	
+	watbois - Lilltroll FC 	11 - 0

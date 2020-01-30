@@ -1,0 +1,84 @@
+Omgång 1
+2019-10-27 			
+	Backa Losers FF - Myra IK 	1 - 1 	
+	Gamla Tyresö FC - Tjugosjö IF 	7 - 0 	
+	Sälens IF - Murco 	3 - 2 	
+	FC Sjögården - Olofsi 	5 - 2 	
+Omgång 2
+2019-11-03 			
+	Tjugosjö IF - Backa Losers FF 	0 - 8 	
+	Myra IK - Sälens IF 	1 - 1 	
+	Murco - FC Sjögården 	2 - 4 	
+	Olofsi - Gamla Tyresö FC 	4 - 3 	
+Omgång 3
+2019-11-10 			
+	Gamla Tyresö FC - FC Sjögården 	2 - 5 	
+	Backa Losers FF - Murco 	5 - 2 	
+	Sälens IF - Olofsi 	4 - 2 	
+	Tjugosjö IF - Myra IK 	0 - 4 	
+Omgång 4
+2019-11-17 			
+	Olofsi - Backa Losers FF 	0 - 4 	
+	FC Sjögården - Sälens IF 	3 - 4 	
+	Myra IK - Gamla Tyresö FC 	3 - 2 	
+	Murco - Tjugosjö IF 	7 - 0 	
+Omgång 5
+2019-11-24 			
+	Backa Losers FF - Sälens IF 	3 - 1 	
+	Tjugosjö IF - FC Sjögården 	0 - 8 	
+	Gamla Tyresö FC - Murco 	3 - 1 	
+	Myra IK - Olofsi 	5 - 0 	
+Omgång 6
+2019-12-01 			
+	FC Sjögården - Backa Losers FF 	1 - 2 	
+	Sälens IF - Gamla Tyresö FC 	3 - 2 	
+	Olofsi - Tjugosjö IF 	7 - 1 	
+	Murco - Myra IK 	2 - 0 	
+Omgång 7
+2019-12-08 			
+	Backa Losers FF - Gamla Tyresö FC 	1 - 1 	
+	Myra IK - FC Sjögården 	5 - 4 	
+	Tjugosjö IF - Sälens IF 	0 - 8 	
+	Olofsi - Murco 	0 - 3 	
+Omgång 8
+2019-12-15 			
+	Murco - Olofsi 	1 - 2 	
+	FC Sjögården - Myra IK 	3 - 2 	
+	Sälens IF - Tjugosjö IF 	10 - 0 	
+	Gamla Tyresö FC - Backa Losers FF 	3 - 1 	
+Omgång 9
+2019-12-22 			
+	Myra IK - Murco 	0 - 3 	
+	Tjugosjö IF - Olofsi 	1 - 4 	
+	Gamla Tyresö FC - Sälens IF 	6 - 2 	
+	Backa Losers FF - FC Sjögården 	2 - 1 	
+Omgång 10
+2019-12-29 			
+	Olofsi - Myra IK 	3 - 2 	
+	Murco - Gamla Tyresö FC 	2 - 3 	
+	FC Sjögården - Tjugosjö IF 	9 - 1 	
+	Sälens IF - Backa Losers FF 	2 - 2 	
+Omgång 11
+2020-01-05 			
+	Tjugosjö IF - Murco 	1 - 5 	
+	Sälens IF - FC Sjögården 	1 - 3 	
+	Gamla Tyresö FC - Myra IK 	1 - 2 	
+	Backa Losers FF - Olofsi 	0 - 0 	
+Omgång 12
+2020-01-12 			
+	Olofsi - Sälens IF 	4 - 1 	
+	Myra IK - Tjugosjö IF 	6 - 0 	
+	FC Sjögården - Gamla Tyresö FC 	3 - 1 	
+	Murco - Backa Losers FF 	1 - 3 	
+Omgång 13
+2020-01-19 			
+	FC Sjögården - Murco 	1 - 3 	
+	Gamla Tyresö FC - Olofsi 	3 - 2 	
+	Sälens IF - Myra IK 	0 - 3 	
+	Backa Losers FF - Tjugosjö IF 	7 - 0 	
+Omgång 14
+2020-01-26 			
+	Murco - Sälens IF 	4 - 2 	
+	Olofsi - FC Sjögården 	2 - 0 	
+	Tjugosjö IF - Gamla Tyresö FC 	0 - 4 	
+	Myra IK - Backa Losers FF 	4 - 0

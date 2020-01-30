@@ -1,0 +1,84 @@
+Omgång 1
+2019-10-27 			
+	Prinskorv FC - Peach ES 	2 - 0 	
+	De Riktigt Ruttna - Bjärnums HK 	3 - 1 	
+	Smokinglirarna - FFC Södermalm 	2 - 0 	
+	Fredrikshovsgatan Oilers - Norsgatan Klickers 	4 - 0 	
+Omgång 2
+2019-11-03 			
+	Norsgatan Klickers - Prinskorv FC 	0 - 9 	
+	Peach ES - De Riktigt Ruttna 	2 - 0 	
+	Bjärnums HK - Smokinglirarna 	0 - 1 	
+	FFC Södermalm - Fredrikshovsgatan Oilers 	2 - 2 	
+Omgång 3
+2019-11-10 			
+	Prinskorv FC - Bjärnums HK 	3 - 2 	
+	Fredrikshovsgatan Oilers - Smokinglirarna 	1 - 3 	
+	Norsgatan Klickers - Peach ES 	0 - 6 	
+	De Riktigt Ruttna - FFC Södermalm 	3 - 2 	
+Omgång 4
+2019-11-17 			
+	FFC Södermalm - Prinskorv FC 	0 - 2 	
+	Peach ES - Fredrikshovsgatan Oilers 	4 - 0 	
+	Bjärnums HK - Norsgatan Klickers 	3 - 0 	
+	Smokinglirarna - De Riktigt Ruttna 	1 - 1 	
+Omgång 5
+2019-11-24 			
+	Prinskorv FC - De Riktigt Ruttna 	3 - 0 	
+	Fredrikshovsgatan Oilers - Bjärnums HK 	3 - 2 	
+	Peach ES - FFC Södermalm 	1 - 1 	
+	Norsgatan Klickers - Smokinglirarna 	0 - 1 	
+Omgång 6
+2019-12-01 			
+	Smokinglirarna - Prinskorv FC 	4 - 0 	
+	De Riktigt Ruttna - Fredrikshovsgatan Oilers 	2 - 1 	
+	FFC Södermalm - Norsgatan Klickers 	7 - 0 	
+	Bjärnums HK - Peach ES 	1 - 1 	
+Omgång 7
+2019-12-08 			
+	Prinskorv FC - Fredrikshovsgatan Oilers 	1 - 1 	
+	Peach ES - Smokinglirarna 	1 - 2 	
+	Norsgatan Klickers - De Riktigt Ruttna 	0 - 5 	
+	FFC Södermalm - Bjärnums HK 	1 - 0 	
+Omgång 8
+2019-12-15 			
+	Bjärnums HK - FFC Södermalm 	3 - 0 	
+	De Riktigt Ruttna - Norsgatan Klickers 	5 - 0 	
+	Smokinglirarna - Peach ES 	1 - 1 	
+	Fredrikshovsgatan Oilers - Prinskorv FC 	1 - 1 	
+Omgång 9
+2019-12-22 			
+	Peach ES - Bjärnums HK 	3 - 1 	
+	Norsgatan Klickers - FFC Södermalm 	0 - 7 	
+	Fredrikshovsgatan Oilers - De Riktigt Ruttna 	3 - 0 	
+	Prinskorv FC - Smokinglirarna 	1 - 1 	
+Omgång 10
+2019-12-29 			
+	FFC Södermalm - Peach ES 	2 - 1 	
+	Bjärnums HK - Fredrikshovsgatan Oilers 	3 - 0 	
+	De Riktigt Ruttna - Prinskorv FC 	4 - 3 	
+	Smokinglirarna - Norsgatan Klickers 	4 - 0 	
+Omgång 11
+2020-01-05 			
+	Norsgatan Klickers - Bjärnums HK 	0 - 4 	
+	De Riktigt Ruttna - Smokinglirarna 	1 - 2 	
+	Fredrikshovsgatan Oilers - Peach ES 	4 - 0 	
+	Prinskorv FC - FFC Södermalm 	3 - 2 	
+Omgång 12
+2020-01-12 			
+	FFC Södermalm - De Riktigt Ruttna 	0 - 0 	
+	Peach ES - Norsgatan Klickers 	6 - 0 	
+	Smokinglirarna - Fredrikshovsgatan Oilers 	3 - 0 	
+	Bjärnums HK - Prinskorv FC 	2 - 2 	
+Omgång 13
+2020-01-19 			
+	Fredrikshovsgatan Oilers - FFC Södermalm 	0 - 4 	
+	Smokinglirarna - Bjärnums HK 	5 - 1 	
+	De Riktigt Ruttna - Peach ES 	6 - 0 	
+	Prinskorv FC - Norsgatan Klickers 	7 - 0 	
+Omgång 14
+2020-01-26 			
+	Bjärnums HK - De Riktigt Ruttna 	2 - 1 	
+	FFC Södermalm - Smokinglirarna 	1 - 4 	
+	Norsgatan Klickers - Fredrikshovsgatan Oilers 	0 - 7 	
+	Peach ES - Prinskorv FC 	2 - 9

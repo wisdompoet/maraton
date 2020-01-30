@@ -1,0 +1,84 @@
+Omgång 1
+2019-03-17 			
+	Mbuko IF - AC Weah 	0 - 3 	
+	Olofsi - Benke Beavers 	1 - 0 	
+	Tjugosjö IF - Myra IK 	4 - 0 	
+	FC Sjögården - William Tigers 	2 - 2 	
+Omgång 2
+2019-03-24 			
+	Benke Beavers - Mbuko IF 	3 - 1 	
+	AC Weah - FC Sjögården 	1 - 0 	
+	Myra IK - Olofsi 	0 - 3 	
+	William Tigers - Tjugosjö IF 	1 - 4 	
+Omgång 3
+2019-03-31 			
+	Benke Beavers - AC Weah 	0 - 5 	
+	Mbuko IF - William Tigers 	1 - 4 	
+	Olofsi - Tjugosjö IF 	1 - 0 	
+	FC Sjögården - Myra IK 	2 - 0 	
+Omgång 4
+2019-04-07 			
+	Myra IK - Mbuko IF 	2 - 0 	
+	AC Weah - Olofsi 	6 - 0 	
+	Tjugosjö IF - FC Sjögården 	3 - 0 	
+	William Tigers - Benke Beavers 	0 - 0 	
+Omgång 5
+2019-04-14 			
+	Benke Beavers - Tjugosjö IF 	2 - 3 	
+	Olofsi - William Tigers 	2 - 0 	
+	AC Weah - Myra IK 	2 - 1 	
+	Mbuko IF - FC Sjögården 	0 - 3 	
+Omgång 6
+2019-04-21 			
+	Tjugosjö IF - Mbuko IF 	6 - 0 	
+	FC Sjögården - Olofsi 	2 - 1 	
+	Myra IK - Benke Beavers 	4 - 1 	
+	William Tigers - AC Weah 	0 - 3 	
+Omgång 7
+2019-04-28 			
+	Mbuko IF - Olofsi 	1 - 3 	
+	AC Weah - Tjugosjö IF 	2 - 1 	
+	Benke Beavers - FC Sjögården 	1 - 1 	
+	Myra IK - William Tigers 	0 - 2 	
+Omgång 8
+2019-05-05 			
+	William Tigers - Myra IK 	1 - 1 	
+	Tjugosjö IF - AC Weah 	1 - 4 	
+	Olofsi - Mbuko IF 	4 - 0 	
+	FC Sjögården - Benke Beavers 	6 - 0 	
+Omgång 9
+2019-05-12 			
+	AC Weah - William Tigers 	5 - 0 	
+	Benke Beavers - Myra IK 	1 - 2 	
+	Olofsi - FC Sjögården 	4 - 1 	
+	Mbuko IF - Tjugosjö IF 	1 - 4 	
+Omgång 10
+2019-05-19 			
+	Myra IK - AC Weah 	1 - 2 	
+	William Tigers - Olofsi 	1 - 1 	
+	FC Sjögården - Mbuko IF 	6 - 0 	
+	Tjugosjö IF - Benke Beavers 	1 - 1 	
+Omgång 11
+2019-05-26 			
+	Benke Beavers - William Tigers 	1 - 0 	
+	FC Sjögården - Tjugosjö IF 	5 - 1 	
+	Olofsi - AC Weah 	1 - 5 	
+	Mbuko IF - Myra IK 	0 - 3 	
+Omgång 12
+2019-06-02 			
+	Myra IK - FC Sjögården 	4 - 3 	
+	AC Weah - Benke Beavers 	4 - 0 	
+	Tjugosjö IF - Olofsi 	3 - 5 	
+	William Tigers - Mbuko IF 	4 - 0 	
+Omgång 13
+2019-06-09 			
+	Tjugosjö IF - William Tigers 	2 - 1 	
+	Olofsi - Myra IK 	1 - 3 	
+	FC Sjögården - AC Weah 	0 - 2 	
+	Mbuko IF - Benke Beavers 	0 - 3 	
+Omgång 14
+2019-06-16 			
+	William Tigers - FC Sjögården 	0 - 2 	
+	Myra IK - Tjugosjö IF 	4 - 0 	
+	Benke Beavers - Olofsi 	0 - 2 	
+	AC Weah - Mbuko IF 	7 - 0

@@ -1,0 +1,84 @@
+Omgång 1
+2019-10-27 			
+	Keffs Tigers - BK Granit 	2 - 4 	
+	Gäddträsket - Troja IF 	0 - 5 	
+	Värmeljus United - Q-West 	1 - 2 	
+	Tyrfingh - AC Sätra Äng 	2 - 2 	
+Omgång 2
+2019-11-03 			
+	BK Granit - Gäddträsket 	5 - 0 	
+	Troja IF - Tyrfingh 	3 - 1 	
+	Q-West - Keffs Tigers 	4 - 0 	
+	AC Sätra Äng - Värmeljus United 	4 - 1 	
+Omgång 3
+2019-11-10 			
+	Gäddträsket - AC Sätra Äng 	0 - 7 	
+	BK Granit - Troja IF 	1 - 4 	
+	Keffs Tigers - Värmeljus United 	3 - 1 	
+	Tyrfingh - Q-West 	3 - 3 	
+Omgång 4
+2019-11-17 			
+	Q-West - Gäddträsket 	7 - 0 	
+	Troja IF - Keffs Tigers 	1 - 0 	
+	Värmeljus United - Tyrfingh 	4 - 0 	
+	AC Sätra Äng - BK Granit 	4 - 2 	
+Omgång 5
+2019-11-24 			
+	Gäddträsket - Tyrfingh 	0 - 7 	
+	BK Granit - Värmeljus United 	1 - 2 	
+	Keffs Tigers - AC Sätra Äng 	4 - 1 	
+	Troja IF - Q-West 	2 - 0 	
+Omgång 6
+2019-12-01 			
+	Tyrfingh - Keffs Tigers 	5 - 0 	
+	Värmeljus United - Gäddträsket 	6 - 0 	
+	Q-West - BK Granit 	0 - 1 	
+	AC Sätra Äng - Troja IF 	0 - 1 	
+Omgång 7
+2019-12-08 			
+	Gäddträsket - Keffs Tigers 	0 - 7 	
+	Troja IF - Värmeljus United 	5 - 2 	
+	BK Granit - Tyrfingh 	4 - 3 	
+	Q-West - AC Sätra Äng 	5 - 2 	
+Omgång 8
+2019-12-15 			
+	Tyrfingh - BK Granit 	5 - 0 	
+	AC Sätra Äng - Q-West 	5 - 0 	
+	Värmeljus United - Troja IF 	0 - 3 	
+	Keffs Tigers - Gäddträsket 	9 - 0 	
+Omgång 9
+2019-12-22 			
+	Troja IF - AC Sätra Äng 	2 - 2 	
+	Keffs Tigers - Tyrfingh 	7 - 0 	
+	Gäddträsket - Värmeljus United 	0 - 8 	
+	BK Granit - Q-West 	2 - 2 	
+Omgång 10
+2019-12-29 			
+	Q-West - Troja IF 	0 - 1 	
+	AC Sätra Äng - Keffs Tigers 	3 - 1 	
+	Värmeljus United - BK Granit 	2 - 2 	
+	Tyrfingh - Gäddträsket 	7 - 0 	
+Omgång 11
+2020-01-05 			
+	BK Granit - AC Sätra Äng 	3 - 3 	
+	Keffs Tigers - Troja IF 	1 - 5 	
+	Tyrfingh - Värmeljus United 	2 - 4 	
+	Gäddträsket - Q-West 	0 - 8 	
+Omgång 12
+2020-01-12 			
+	Q-West - Tyrfingh 	6 - 0 	
+	Troja IF - BK Granit 	1 - 0 	
+	Värmeljus United - Keffs Tigers 	1 - 4 	
+	AC Sätra Äng - Gäddträsket 	7 - 0 	
+Omgång 13
+2020-01-19 			
+	Värmeljus United - AC Sätra Äng 	2 - 6 	
+	Keffs Tigers - Q-West 	2 - 0 	
+	Tyrfingh - Troja IF 	0 - 2 	
+	Gäddträsket - BK Granit 	0 - 8 	
+Omgång 14
+2020-01-26 			
+	AC Sätra Äng - Tyrfingh 	5 - 2 	
+	Q-West - Värmeljus United 	1 - 1 	
+	BK Granit - Keffs Tigers 	2 - 4 	
+	Troja IF - Gäddträsket 	7 - 0

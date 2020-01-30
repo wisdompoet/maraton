@@ -1,0 +1,84 @@
+Omgång 1
+2019-10-27 			
+	FC Phazz - BK Rapp 	0 - 5 	
+	Jediriddarna - Karbunkel BK 	0 - 4 	
+	Andarna BK - Örgryte United 	1 - 2 	
+	Angels of Gothenburg - BK52 	6 - 1 	
+Omgång 2
+2019-11-03 			
+	BK52 - Jediriddarna 	4 - 0 	
+	BK Rapp - Andarna BK 	3 - 1 	
+	Karbunkel BK - FC Phazz 	7 - 0 	
+	Örgryte United - Angels of Gothenburg 	2 - 2 	
+Omgång 3
+2019-11-10 			
+	FC Phazz - Örgryte United 	0 - 5 	
+	Karbunkel BK - BK Rapp 	2 - 4 	
+	Jediriddarna - Angels of Gothenburg 	1 - 3 	
+	Andarna BK - BK52 	2 - 0 	
+Omgång 4
+2019-11-17 			
+	BK52 - FC Phazz 	8 - 1 	
+	BK Rapp - Jediriddarna 	3 - 1 	
+	Angels of Gothenburg - Andarna BK 	2 - 2 	
+	Örgryte United - Karbunkel BK 	0 - 3 	
+Omgång 5
+2019-11-24 			
+	FC Phazz - Andarna BK 	0 - 0 	
+	Karbunkel BK - Angels of Gothenburg 	5 - 1 	
+	Jediriddarna - Örgryte United 	3 - 1 	
+	BK Rapp - BK52 	4 - 1 	
+Omgång 6
+2019-12-01 			
+	Angels of Gothenburg - FC Phazz 	4 - 0 	
+	Andarna BK - Jediriddarna 	3 - 0 	
+	Örgryte United - BK Rapp 	4 - 3 	
+	BK52 - Karbunkel BK 	1 - 4 	
+Omgång 7
+2019-12-08 			
+	FC Phazz - Jediriddarna 	0 - 3 	
+	BK Rapp - Angels of Gothenburg 	1 - 0 	
+	Karbunkel BK - Andarna BK 	0 - 1 	
+	BK52 - Örgryte United 	2 - 1 	
+Omgång 8
+2019-12-15 			
+	Örgryte United - BK52 	4 - 2 	
+	Andarna BK - Karbunkel BK 	2 - 0 	
+	Angels of Gothenburg - BK Rapp 	2 - 0 	
+	Jediriddarna - FC Phazz 	5 - 0 	
+Omgång 9
+2019-12-22 			
+	BK Rapp - Örgryte United 	4 - 0 	
+	Karbunkel BK - BK52 	4 - 3 	
+	Jediriddarna - Andarna BK 	2 - 3 	
+	FC Phazz - Angels of Gothenburg 	0 - 4 	
+Omgång 10
+2019-12-29 			
+	Örgryte United - Jediriddarna 	3 - 1 	
+	BK52 - BK Rapp 	3 - 1 	
+	Angels of Gothenburg - Karbunkel BK 	2 - 0 	
+	Andarna BK - FC Phazz 	3 - 0 	
+Omgång 11
+2020-01-05 			
+	Andarna BK - Angels of Gothenburg 	2 - 0 	
+	Jediriddarna - BK Rapp 	2 - 5 	
+	Karbunkel BK - Örgryte United 	3 - 0 	
+	FC Phazz - BK52 	0 - 5 	
+Omgång 12
+2020-01-12 			
+	BK52 - Andarna BK 	2 - 0 	
+	BK Rapp - Karbunkel BK 	1 - 1 	
+	Angels of Gothenburg - Jediriddarna 	1 - 0 	
+	Örgryte United - FC Phazz 	5 - 1 	
+Omgång 13
+2020-01-19 			
+	Angels of Gothenburg - Örgryte United 	3 - 0 	
+	Jediriddarna - BK52 	3 - 0 	
+	Andarna BK - BK Rapp 	0 - 1 	
+	FC Phazz - Karbunkel BK 	0 - 6 	
+Omgång 14
+2020-01-26 			
+	Örgryte United - Andarna BK 	2 - 1 	
+	BK52 - Angels of Gothenburg 	2 - 2 	
+	Karbunkel BK - Jediriddarna 	4 - 0 	
+	BK Rapp - FC Phazz 	10 - 0

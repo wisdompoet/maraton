@@ -1,0 +1,84 @@
+Omgång 1
+2019-03-17 			
+	Zorro Dribblers - Countrycrown 	1 - 7 	
+	Långskottlag - Sävast AIF 	0 - 0 	
+	Maråker Flyers - Liam F.C 	2 - 1 	
+	CAJ Maccers - Bjärnums HK 	4 - 1 	
+Omgång 2
+2019-03-24 			
+	Sävast AIF - Zorro Dribblers 	10 - 0 	
+	Countrycrown - CAJ Maccers 	1 - 4 	
+	Bjärnums HK - Maråker Flyers 	1 - 1 	
+	Liam F.C - Långskottlag 	2 - 0 	
+Omgång 3
+2019-03-31 			
+	Zorro Dribblers - Bjärnums HK 	0 - 8 	
+	Långskottlag - Maråker Flyers 	0 - 1 	
+	CAJ Maccers - Liam F.C 	1 - 1 	
+	Sävast AIF - Countrycrown 	0 - 2 	
+Omgång 4
+2019-04-07 			
+	Liam F.C - Zorro Dribblers 	6 - 0 	
+	Countrycrown - Långskottlag 	2 - 1 	
+	Maråker Flyers - CAJ Maccers 	1 - 3 	
+	Bjärnums HK - Sävast AIF 	1 - 3 	
+Omgång 5
+2019-04-14 			
+	Zorro Dribblers - CAJ Maccers 	0 - 7 	
+	Sävast AIF - Maråker Flyers 	3 - 2 	
+	Långskottlag - Bjärnums HK 	2 - 1 	
+	Countrycrown - Liam F.C 	2 - 0 	
+Omgång 6
+2019-04-21 			
+	Maråker Flyers - Zorro Dribblers 	9 - 0 	
+	CAJ Maccers - Långskottlag 	2 - 3 	
+	Liam F.C - Sävast AIF 	1 - 3 	
+	Bjärnums HK - Countrycrown 	2 - 1 	
+Omgång 7
+2019-04-28 			
+	Zorro Dribblers - Långskottlag 	0 - 9 	
+	Countrycrown - Maråker Flyers 	1 - 3 	
+	Sävast AIF - CAJ Maccers 	5 - 0 	
+	Liam F.C - Bjärnums HK 	3 - 0 	
+Omgång 8
+2019-05-05 			
+	Bjärnums HK - Liam F.C 	1 - 3 	
+	CAJ Maccers - Sävast AIF 	4 - 0 	
+	Maråker Flyers - Countrycrown 	2 - 0 	
+	Långskottlag - Zorro Dribblers 	8 - 0 	
+Omgång 9
+2019-05-12 			
+	Countrycrown - Bjärnums HK 	3 - 0 	
+	Sävast AIF - Liam F.C 	3 - 0 	
+	Långskottlag - CAJ Maccers 	2 - 1 	
+	Zorro Dribblers - Maråker Flyers 	0 - 9 	
+Omgång 10
+2019-05-19 			
+	Maråker Flyers - Sävast AIF 	1 - 1 	
+	CAJ Maccers - Zorro Dribblers 	11 - 0 	
+	Liam F.C - Countrycrown 	2 - 2 	
+	Bjärnums HK - Långskottlag 	0 - 1 	
+Omgång 11
+2019-05-26 			
+	Långskottlag - Countrycrown 	0 - 3 	
+	Zorro Dribblers - Liam F.C 	2 - 10 	
+	Sävast AIF - Bjärnums HK 	3 - 0 	
+	CAJ Maccers - Maråker Flyers 	3 - 1 	
+Omgång 12
+2019-06-02 			
+	Liam F.C - CAJ Maccers 	3 - 3 	
+	Countrycrown - Sävast AIF 	1 - 6 	
+	Maråker Flyers - Långskottlag 	4 - 0 	
+	Bjärnums HK - Zorro Dribblers 	4 - 0 	
+Omgång 13
+2019-06-09 			
+	Långskottlag - Liam F.C 	1 - 0 	
+	CAJ Maccers - Countrycrown 	2 - 1 	
+	Zorro Dribblers - Sävast AIF 	0 - 9 	
+	Maråker Flyers - Bjärnums HK 	6 - 0 	
+Omgång 14
+2019-06-16 			
+	Bjärnums HK - CAJ Maccers 	0 - 9 	
+	Liam F.C - Maråker Flyers 	4 - 2 	
+	Sävast AIF - Långskottlag 	1 - 3 	
+	Countrycrown - Zorro Dribblers 	7 - 0

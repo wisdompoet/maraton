@@ -1,0 +1,84 @@
+Omgång 1
+2019-03-17 			
+	Steso FC - Grossbol Gringos 	0 - 7 	
+	A.C. Bananas - BK Stutsons 	1 - 3 	
+	Kv_Kickers - Sockerknarkarna 	3 - 1 	
+	The Stocks - BK Lallarn 	4 - 2 	
+Omgång 2
+2019-03-24 			
+	BK Stutsons - Steso FC 	9 - 0 	
+	Grossbol Gringos - The Stocks 	0 - 8 	
+	Sockerknarkarna - A.C. Bananas 	1 - 2 	
+	BK Lallarn - Kv_Kickers 	4 - 0 	
+Omgång 3
+2019-03-31 			
+	Steso FC - BK Lallarn 	0 - 8 	
+	A.C. Bananas - Kv_Kickers 	4 - 0 	
+	BK Stutsons - Grossbol Gringos 	7 - 0 	
+	The Stocks - Sockerknarkarna 	8 - 0 	
+Omgång 4
+2019-04-07 			
+	Sockerknarkarna - Steso FC 	10 - 0 	
+	Grossbol Gringos - A.C. Bananas 	2 - 7 	
+	Kv_Kickers - The Stocks 	0 - 4 	
+	BK Lallarn - BK Stutsons 	0 - 2 	
+Omgång 5
+2019-04-14 			
+	BK Stutsons - Kv_Kickers 	3 - 2 	
+	A.C. Bananas - BK Lallarn 	4 - 1 	
+	Grossbol Gringos - Sockerknarkarna 	1 - 4 	
+	Steso FC - The Stocks 	0 - 7 	
+Omgång 6
+2019-04-21 			
+	Kv_Kickers - Steso FC 	8 - 0 	
+	The Stocks - A.C. Bananas 	1 - 5 	
+	Sockerknarkarna - BK Stutsons 	6 - 0 	
+	BK Lallarn - Grossbol Gringos 	10 - 0 	
+Omgång 7
+2019-04-28 			
+	Steso FC - A.C. Bananas 	0 - 8 	
+	Grossbol Gringos - Kv_Kickers 	0 - 8 	
+	BK Stutsons - The Stocks 	1 - 2 	
+	Sockerknarkarna - BK Lallarn 	2 - 2 	
+Omgång 8
+2019-05-05 			
+	BK Lallarn - Sockerknarkarna 	2 - 1 	
+	The Stocks - BK Stutsons 	6 - 1 	
+	Kv_Kickers - Grossbol Gringos 	6 - 0 	
+	A.C. Bananas - Steso FC 	9 - 2 	
+Omgång 9
+2019-05-12 			
+	Grossbol Gringos - BK Lallarn 	0 - 9 	
+	BK Stutsons - Sockerknarkarna 	3 - 3 	
+	A.C. Bananas - The Stocks 	1 - 3 	
+	Steso FC - Kv_Kickers 	0 - 7 	
+Omgång 10
+2019-05-19 			
+	Sockerknarkarna - Grossbol Gringos 	8 - 0 	
+	BK Lallarn - A.C. Bananas 	5 - 0 	
+	Kv_Kickers - BK Stutsons 	1 - 3 	
+	The Stocks - Steso FC 	12 - 0 	
+Omgång 11
+2019-05-26 			
+	BK Stutsons - BK Lallarn 	2 - 1 	
+	The Stocks - Kv_Kickers 	3 - 0 	
+	A.C. Bananas - Grossbol Gringos 	3 - 1 	
+	Steso FC - Sockerknarkarna 	0 - 10 	
+Omgång 12
+2019-06-02 			
+	Sockerknarkarna - The Stocks 	2 - 3 	
+	Grossbol Gringos - BK Stutsons 	0 - 10 	
+	Kv_Kickers - A.C. Bananas 	6 - 0 	
+	BK Lallarn - Steso FC 	9 - 0 	
+Omgång 13
+2019-06-09 			
+	Kv_Kickers - BK Lallarn 	0 - 1 	
+	A.C. Bananas - Sockerknarkarna 	0 - 3 	
+	The Stocks - Grossbol Gringos 	9 - 0 	
+	Steso FC - BK Stutsons 	0 - 10 	
+Omgång 14
+2019-06-16 			
+	Sockerknarkarna - Kv_Kickers 	3 - 2 	
+	BK Stutsons - A.C. Bananas 	6 - 0 	
+	Grossbol Gringos - Steso FC 	8 - 0 	
+	BK Lallarn - The Stocks 	1 - 4

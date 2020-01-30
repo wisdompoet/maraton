@@ -1,0 +1,84 @@
+Omgång 1
+2019-10-27 			
+	Krilles Kometer - Brattforce 	2 - 3 	
+	CAJ Maccers - Reac Arándano 	2 - 2 	
+	Grullenben FK - Los Pebbos 	2 - 2 	
+	Sävast AIF - Porkham United 	4 - 2 	
+Omgång 2
+2019-11-03 			
+	Reac Arándano - Krilles Kometer 	5 - 0 	
+	Brattforce - Sävast AIF 	1 - 0 	
+	Los Pebbos - CAJ Maccers 	1 - 3 	
+	Porkham United - Grullenben FK 	4 - 1 	
+Omgång 3
+2019-11-10 			
+	Krilles Kometer - Porkham United 	5 - 0 	
+	CAJ Maccers - Grullenben FK 	5 - 0 	
+	Reac Arándano - Brattforce 	0 - 3 	
+	Sävast AIF - Los Pebbos 	3 - 0 	
+Omgång 4
+2019-11-17 			
+	Los Pebbos - Krilles Kometer 	3 - 2 	
+	Brattforce - CAJ Maccers 	4 - 3 	
+	Grullenben FK - Sävast AIF 	3 - 1 	
+	Porkham United - Reac Arándano 	3 - 0 	
+Omgång 5
+2019-11-24 			
+	Krilles Kometer - Sävast AIF 	2 - 0 	
+	Reac Arándano - Grullenben FK 	2 - 1 	
+	CAJ Maccers - Porkham United 	2 - 0 	
+	Brattforce - Los Pebbos 	0 - 4 	
+Omgång 6
+2019-12-01 			
+	Grullenben FK - Krilles Kometer 	5 - 1 	
+	Sävast AIF - CAJ Maccers 	2 - 0 	
+	Los Pebbos - Reac Arándano 	3 - 2 	
+	Porkham United - Brattforce 	2 - 5 	
+Omgång 7
+2019-12-08 			
+	Krilles Kometer - CAJ Maccers 	2 - 0 	
+	Brattforce - Grullenben FK 	2 - 1 	
+	Reac Arándano - Sävast AIF 	1 - 4 	
+	Los Pebbos - Porkham United 	6 - 1 	
+Omgång 8
+2019-12-15 			
+	Porkham United - Los Pebbos 	7 - 2 	
+	Sävast AIF - Reac Arándano 	1 - 1 	
+	Grullenben FK - Brattforce 	4 - 2 	
+	CAJ Maccers - Krilles Kometer 	3 - 2 	
+Omgång 9
+2019-12-22 			
+	Brattforce - Porkham United 	2 - 1 	
+	Krilles Kometer - Grullenben FK 	4 - 2 	
+	Reac Arándano - Los Pebbos 	3 - 3 	
+	CAJ Maccers - Sävast AIF 	3 - 7 	
+Omgång 10
+2019-12-29 			
+	Los Pebbos - Brattforce 	0 - 3 	
+	Grullenben FK - Reac Arándano 	2 - 0 	
+	Porkham United - CAJ Maccers 	1 - 2 	
+	Sävast AIF - Krilles Kometer 	1 - 1 	
+Omgång 11
+2020-01-05 			
+	Reac Arándano - Porkham United 	3 - 1 	
+	Sävast AIF - Grullenben FK 	2 - 0 	
+	CAJ Maccers - Brattforce 	1 - 3 	
+	Krilles Kometer - Los Pebbos 	5 - 2 	
+Omgång 12
+2020-01-12 			
+	Los Pebbos - Sävast AIF 	2 - 2 	
+	Brattforce - Reac Arándano 	3 - 2 	
+	Porkham United - Krilles Kometer 	5 - 0 	
+	Grullenben FK - CAJ Maccers 	4 - 3 	
+Omgång 13
+2020-01-19 			
+	Grullenben FK - Porkham United 	4 - 0 	
+	CAJ Maccers - Los Pebbos 	3 - 1 	
+	Sävast AIF - Brattforce 	5 - 0 	
+	Krilles Kometer - Reac Arándano 	0 - 2 	
+Omgång 14
+2020-01-26 			
+	Porkham United - Sävast AIF 	3 - 2 	
+	Los Pebbos - Grullenben FK 	7 - 1 	
+	Reac Arándano - CAJ Maccers 	3 - 1 	
+	Brattforce - Krilles Kometer 	3 - 1

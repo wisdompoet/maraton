@@ -1,0 +1,84 @@
+Omgång 1
+2019-07-07 			
+	BK Nevisborg - Spartak 	1 - 3 	
+	Villa Hammarstrand - Starcraft United 	3 - 0 	
+	Addis Abeba YEKM - FC Hattifnatt 	2 - 1 	
+	watbois - Hestrafors IF 	2 - 0 	
+Omgång 2
+2019-07-14 			
+	Starcraft United - BK Nevisborg 	0 - 1 	
+	Spartak - watbois 	5 - 0 	
+	FC Hattifnatt - Villa Hammarstrand 	2 - 1 	
+	Hestrafors IF - Addis Abeba YEKM 	4 - 2 	
+Omgång 3
+2019-07-21 			
+	BK Nevisborg - Hestrafors IF 	1 - 3 	
+	Villa Hammarstrand - Addis Abeba YEKM 	0 - 4 	
+	watbois - FC Hattifnatt 	3 - 1 	
+	Starcraft United - Spartak 	1 - 2 	
+Omgång 4
+2019-07-28 			
+	FC Hattifnatt - BK Nevisborg 	2 - 1 	
+	Spartak - Villa Hammarstrand 	5 - 0 	
+	Addis Abeba YEKM - watbois 	4 - 0 	
+	Hestrafors IF - Starcraft United 	0 - 1 	
+Omgång 5
+2019-08-04 			
+	BK Nevisborg - watbois 	1 - 0 	
+	Starcraft United - Addis Abeba YEKM 	1 - 0 	
+	Villa Hammarstrand - Hestrafors IF 	1 - 2 	
+	Spartak - FC Hattifnatt 	2 - 0 	
+Omgång 6
+2019-08-11 			
+	watbois - Villa Hammarstrand 	5 - 4 	
+	Addis Abeba YEKM - BK Nevisborg 	0 - 3 	
+	FC Hattifnatt - Starcraft United 	2 - 0 	
+	Hestrafors IF - Spartak 	0 - 2 	
+Omgång 7
+2019-08-18 			
+	BK Nevisborg - Villa Hammarstrand 	4 - 0 	
+	Spartak - Addis Abeba YEKM 	2 - 1 	
+	Starcraft United - watbois 	1 - 3 	
+	FC Hattifnatt - Hestrafors IF 	2 - 1 	
+Omgång 8
+2019-08-25 			
+	Addis Abeba YEKM - Spartak 	1 - 1 	
+	Villa Hammarstrand - BK Nevisborg 	2 - 1 	
+	Hestrafors IF - FC Hattifnatt 	2 - 0 	
+	watbois - Starcraft United 	3 - 0 	
+Omgång 9
+2019-09-01 			
+	Spartak - Hestrafors IF 	4 - 0 	
+	Starcraft United - FC Hattifnatt 	1 - 2 	
+	Villa Hammarstrand - watbois 	1 - 2 	
+	BK Nevisborg - Addis Abeba YEKM 	0 - 0 	
+Omgång 10
+2019-09-08 			
+	Hestrafors IF - Villa Hammarstrand 	2 - 2 	
+	FC Hattifnatt - Spartak 	2 - 0 	
+	Addis Abeba YEKM - Starcraft United 	6 - 0 	
+	watbois - BK Nevisborg 	1 - 0 	
+Omgång 11
+2019-09-15 			
+	Starcraft United - Hestrafors IF 	0 - 6 	
+	watbois - Addis Abeba YEKM 	3 - 1 	
+	Villa Hammarstrand - Spartak 	1 - 5 	
+	BK Nevisborg - FC Hattifnatt 	0 - 0 	
+Omgång 12
+2019-09-22 			
+	FC Hattifnatt - watbois 	1 - 3 	
+	Spartak - Starcraft United 	9 - 0 	
+	Addis Abeba YEKM - Villa Hammarstrand 	0 - 2 	
+	Hestrafors IF - BK Nevisborg 	2 - 0 	
+Omgång 13
+2019-09-29 			
+	Addis Abeba YEKM - Hestrafors IF 	4 - 1 	
+	Villa Hammarstrand - FC Hattifnatt 	1 - 3 	
+	watbois - Spartak 	1 - 3 	
+	BK Nevisborg - Starcraft United 	4 - 0 	
+Omgång 14
+2019-10-06 			
+	Hestrafors IF - watbois 	1 - 1 	
+	FC Hattifnatt - Addis Abeba YEKM 	2 - 0 	
+	Starcraft United - Villa Hammarstrand 	0 - 6 	
+	Spartak - BK Nevisborg 	4 - 0

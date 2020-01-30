@@ -1,0 +1,84 @@
+Omgång 1
+2019-03-17 			
+	Mellangård United - Walderama boys 	3 - 1 	
+	FC Volrat - IFK Kostigen 	1 - 6 	
+	Hallands Nation - Bockarna 	1 - 2 	
+	Tingvalla BK - LIV1 	3 - 0 	
+Omgång 2
+2019-03-24 			
+	IFK Kostigen - Mellangård United 	3 - 2 	
+	LIV1 - Hallands Nation 	3 - 1 	
+	Bockarna - FC Volrat 	7 - 0 	
+	Walderama boys - Tingvalla BK 	1 - 2 	
+Omgång 3
+2019-03-31 			
+	FC Volrat - Walderama boys 	0 - 4 	
+	Hallands Nation - Tingvalla BK 	0 - 2 	
+	Bockarna - IFK Kostigen 	2 - 0 	
+	Mellangård United - LIV1 	3 - 2 	
+Omgång 4
+2019-04-07 			
+	LIV1 - FC Volrat 	6 - 0 	
+	IFK Kostigen - Hallands Nation 	5 - 0 	
+	Tingvalla BK - Mellangård United 	4 - 1 	
+	Walderama boys - Bockarna 	3 - 2 	
+Omgång 5
+2019-04-14 			
+	FC Volrat - Mellangård United 	0 - 7 	
+	Bockarna - Tingvalla BK 	3 - 2 	
+	IFK Kostigen - LIV1 	5 - 1 	
+	Hallands Nation - Walderama boys 	0 - 4 	
+Omgång 6
+2019-04-21 			
+	Tingvalla BK - FC Volrat 	5 - 0 	
+	Mellangård United - Hallands Nation 	4 - 0 	
+	LIV1 - Bockarna 	1 - 2 	
+	Walderama boys - IFK Kostigen 	0 - 3 	
+Omgång 7
+2019-04-28 			
+	FC Volrat - Hallands Nation 	0 - 1 	
+	IFK Kostigen - Tingvalla BK 	4 - 0 	
+	Bockarna - Mellangård United 	5 - 1 	
+	LIV1 - Walderama boys 	0 - 6 	
+Omgång 8
+2019-05-05 			
+	Walderama boys - LIV1 	3 - 0 	
+	Mellangård United - Bockarna 	3 - 4 	
+	Tingvalla BK - IFK Kostigen 	0 - 2 	
+	Hallands Nation - FC Volrat 	0 - 0 	
+Omgång 9
+2019-05-12 			
+	IFK Kostigen - Walderama boys 	4 - 1 	
+	Bockarna - LIV1 	5 - 0 	
+	Hallands Nation - Mellangård United 	0 - 5 	
+	FC Volrat - Tingvalla BK 	0 - 7 	
+Omgång 10
+2019-05-19 			
+	Walderama boys - Hallands Nation 	4 - 0 	
+	LIV1 - IFK Kostigen 	0 - 3 	
+	Mellangård United - FC Volrat 	8 - 0 	
+	Tingvalla BK - Bockarna 	0 - 2 	
+Omgång 11
+2019-05-26 			
+	Bockarna - Walderama boys 	3 - 1 	
+	Mellangård United - Tingvalla BK 	6 - 0 	
+	Hallands Nation - IFK Kostigen 	1 - 5 	
+	FC Volrat - LIV1 	0 - 7 	
+Omgång 12
+2019-06-02 			
+	LIV1 - Mellangård United 	1 - 6 	
+	IFK Kostigen - Bockarna 	2 - 2 	
+	Tingvalla BK - Hallands Nation 	3 - 0 	
+	Walderama boys - FC Volrat 	8 - 0 	
+Omgång 13
+2019-06-09 			
+	Tingvalla BK - Walderama boys 	4 - 3 	
+	Hallands Nation - LIV1 	0 - 4 	
+	Mellangård United - IFK Kostigen 	1 - 3 	
+	FC Volrat - Bockarna 	0 - 8 	
+Omgång 14
+2019-06-16 			
+	Walderama boys - Mellangård United 	3 - 3 	
+	LIV1 - Tingvalla BK 	3 - 3 	
+	Bockarna - Hallands Nation 	11 - 0 	
+	IFK Kostigen - FC Volrat 	11 - 0

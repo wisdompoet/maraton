@@ -1,0 +1,84 @@
+Omgång 1
+2019-10-27 			
+	The Stocks - Titans of Hammarberget 	1 - 6 	
+	Aplared FC - NK Hajduk 	5 - 3 	
+	Örebro_SK - Andys BoIS 	3 - 1 	
+	Team Carlstad  - FC Hedgehogs 	1 - 0 	
+Omgång 2
+2019-11-03 			
+	NK Hajduk - The Stocks 	6 - 1 	
+	Titans of Hammarberget - Team Carlstad 	5 - 0 	
+	Andys BoIS - Aplared FC 	3 - 1 	
+	FC Hedgehogs - Örebro_SK 	1 - 1 	
+Omgång 3
+2019-11-10 			
+	The Stocks - FC Hedgehogs 	0 - 3 	
+	Aplared FC - Örebro_SK 	6 - 1 	
+	NK Hajduk - Titans of Hammarberget 	5 - 1 	
+	Team Carlstad  - Andys BoIS 	3 - 1 	
+Omgång 4
+2019-11-17 			
+	Andys BoIS - The Stocks 	5 - 0 	
+	Titans of Hammarberget - Aplared FC 	3 - 1 	
+	Örebro_SK - Team Carlstad 	1 - 0 	
+	FC Hedgehogs - NK Hajduk 	1 - 4 	
+Omgång 5
+2019-11-24 			
+	The Stocks - Team Carlstad 	0 - 4 	
+	NK Hajduk - Örebro_SK 	3 - 0 	
+	Aplared FC - FC Hedgehogs 	7 - 1 	
+	Titans of Hammarberget - Andys BoIS 	0 - 1 	
+Omgång 6
+2019-12-01 			
+	Örebro_SK - The Stocks 	3 - 1 	
+	Team Carlstad  - Aplared FC 	2 - 0 	
+	Andys BoIS - NK Hajduk 	2 - 3 	
+	FC Hedgehogs - Titans of Hammarberget 	0 - 7 	
+Omgång 7
+2019-12-08 			
+	The Stocks - Aplared FC 	0 - 5 	
+	NK Hajduk - Team Carlstad 	3 - 0 	
+	Titans of Hammarberget - Örebro_SK 	3 - 0 	
+	Andys BoIS - FC Hedgehogs 	5 - 0 	
+Omgång 8
+2019-12-15 			
+	FC Hedgehogs - Andys BoIS 	1 - 6 	
+	Team Carlstad  - NK Hajduk 	2 - 3 	
+	Örebro_SK - Titans of Hammarberget 	1 - 3 	
+	Aplared FC - The Stocks 	7 - 0 	
+Omgång 9
+2019-12-22 			
+	Titans of Hammarberget - FC Hedgehogs 	6 - 0 	
+	NK Hajduk - Andys BoIS 	5 - 0 	
+	Aplared FC - Team Carlstad 	3 - 0 	
+	The Stocks - Örebro_SK 	0 - 4 	
+Omgång 10
+2019-12-29 			
+	Andys BoIS - Titans of Hammarberget 	0 - 3 	
+	FC Hedgehogs - Aplared FC 	0 - 3 	
+	Örebro_SK - NK Hajduk 	1 - 3 	
+	Team Carlstad  - The Stocks 	3 - 0 	
+Omgång 11
+2020-01-05 			
+	NK Hajduk - FC Hedgehogs 	5 - 1 	
+	Team Carlstad  - Örebro_SK 	4 - 0 	
+	Aplared FC - Titans of Hammarberget 	2 - 5 	
+	The Stocks - Andys BoIS 	0 - 3 	
+Omgång 12
+2020-01-12 			
+	Andys BoIS - Team Carlstad 	1 - 0 	
+	Titans of Hammarberget - NK Hajduk 	2 - 0 	
+	Örebro_SK - Aplared FC 	1 - 4 	
+	FC Hedgehogs - The Stocks 	1 - 2 	
+Omgång 13
+2020-01-19 			
+	Örebro_SK - FC Hedgehogs 	7 - 0 	
+	Aplared FC - Andys BoIS 	4 - 2 	
+	Team Carlstad  - Titans of Hammarberget 	1 - 2 	
+	The Stocks - NK Hajduk 	1 - 9 	
+Omgång 14
+2020-01-26 			
+	FC Hedgehogs - Team Carlstad 	0 - 8 	
+	Andys BoIS - Örebro_SK 	3 - 0 	
+	NK Hajduk - Aplared FC 	3 - 3 	
+	Titans of Hammarberget - The Stocks 	7 - 0 

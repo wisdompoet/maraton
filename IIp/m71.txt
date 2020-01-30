@@ -1,0 +1,84 @@
+Omgång 1
+2019-03-17 			
+	Gargamelle - BK Söder 	0 - 8 	
+	Sveas Änglar - Vikhagen IF 	3 - 0 	
+	Odens FC - Porkham United 	0 - 5 	
+	Peking IF - Flash BK 	1 - 0 	
+Omgång 2
+2019-03-24 			
+	Vikhagen IF - Gargamelle 	5 - 0 	
+	BK Söder - Peking IF 	5 - 2 	
+	Flash BK - Odens FC 	4 - 4 	
+	Porkham United - Sveas Änglar 	4 - 1 	
+Omgång 3
+2019-03-31 			
+	Gargamelle - Flash BK 	0 - 8 	
+	Sveas Änglar - Odens FC 	4 - 1 	
+	Peking IF - Porkham United 	1 - 2 	
+	Vikhagen IF - BK Söder 	2 - 3 	
+Omgång 4
+2019-04-07 			
+	BK Söder - Sveas Änglar 	6 - 1 	
+	Odens FC - Peking IF 	3 - 3 	
+	Flash BK - Vikhagen IF 	4 - 0 	
+	Porkham United - Gargamelle 	6 - 0 	
+Omgång 5
+2019-04-14 			
+	Gargamelle - Peking IF 	0 - 3 	
+	Vikhagen IF - Odens FC 	1 - 4 	
+	Sveas Änglar - Flash BK 	0 - 3 	
+	BK Söder - Porkham United 	4 - 2 	
+Omgång 6
+2019-04-21 			
+	Odens FC - Gargamelle 	5 - 0 	
+	Peking IF - Sveas Änglar 	1 - 2 	
+	Porkham United - Vikhagen IF 	5 - 0 	
+	Flash BK - BK Söder 	0 - 2 	
+Omgång 7
+2019-04-28 			
+	Gargamelle - Sveas Änglar 	0 - 0 	
+	BK Söder - Odens FC 	3 - 0 	
+	Vikhagen IF - Peking IF 	4 - 0 	
+	Porkham United - Flash BK 	1 - 0 	
+Omgång 8
+2019-05-05 			
+	Flash BK - Porkham United 	1 - 0 	
+	Peking IF - Vikhagen IF 	1 - 3 	
+	Odens FC - BK Söder 	6 - 5 	
+	Sveas Änglar - Gargamelle 	3 - 0 	
+Omgång 9
+2019-05-12 			
+	Vikhagen IF - Porkham United 	0 - 4 	
+	Sveas Änglar - Peking IF 	0 - 3 	
+	Gargamelle - Odens FC 	0 - 5 	
+	BK Söder - Flash BK 	2 - 0 	
+Omgång 10
+2019-05-19 			
+	Porkham United - BK Söder 	4 - 1 	
+	Flash BK - Sveas Änglar 	5 - 0 	
+	Odens FC - Vikhagen IF 	6 - 0 	
+	Peking IF - Gargamelle 	3 - 0 	
+Omgång 11
+2019-05-26 			
+	Vikhagen IF - Flash BK 	2 - 1 	
+	Peking IF - Odens FC 	2 - 1 	
+	Sveas Änglar - BK Söder 	0 - 9 	
+	Gargamelle - Porkham United 	0 - 5 	
+Omgång 12
+2019-06-02 			
+	Porkham United - Peking IF 	6 - 1 	
+	BK Söder - Vikhagen IF 	4 - 2 	
+	Odens FC - Sveas Änglar 	5 - 0 	
+	Flash BK - Gargamelle 	6 - 1 	
+Omgång 13
+2019-06-09 			
+	Odens FC - Flash BK 	4 - 2 	
+	Sveas Änglar - Porkham United 	0 - 9 	
+	Peking IF - BK Söder 	0 - 8 	
+	Gargamelle - Vikhagen IF 	0 - 5 	
+Omgång 14
+2019-06-16 			
+	Flash BK - Peking IF 	1 - 0 	
+	Porkham United - Odens FC 	3 - 0 	
+	Vikhagen IF - Sveas Änglar 	11 - 0 	
+	BK Söder - Gargamelle 	4 - 0

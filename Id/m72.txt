@@ -1,0 +1,84 @@
+Omgång 1
+2019-07-07 			
+	Gäddträsket - Sävast AIF 	0 - 5 	
+	Countrycrown - Liam F.C 	4 - 0 	
+	The Stocks - Kaenienaernae hoeppaer fient ie vaessaen 	2 - 3 	
+	Maråker Flyers - Långskottlag 	0 - 1 	
+Omgång 2
+2019-07-14 			
+	Långskottlag - Gäddträsket 	5 - 1 	
+	Liam F.C - Maråker Flyers 	4 - 1 	
+	Sävast AIF - The Stocks 	4 - 1 	
+	Kaenienaernae hoeppaer fient ie vaessaen - Countrycrown 	0 - 0 	
+Omgång 3
+2019-07-21 			
+	Gäddträsket - Kaenienaernae hoeppaer fient ie vaessaen 	1 - 6 	
+	Maråker Flyers - Countrycrown 	1 - 0 	
+	Långskottlag - Sävast AIF 	4 - 4 	
+	The Stocks - Liam F.C 	5 - 5 	
+Omgång 4
+2019-07-28 			
+	Liam F.C - Gäddträsket 	7 - 1 	
+	Sävast AIF - Maråker Flyers 	3 - 0 	
+	Countrycrown - The Stocks 	1 - 1 	
+	Kaenienaernae hoeppaer fient ie vaessaen - Långskottlag 	4 - 3 	
+Omgång 5
+2019-08-04 			
+	Gäddträsket - The Stocks 	1 - 4 	
+	Långskottlag - Countrycrown 	4 - 2 	
+	Maråker Flyers - Kaenienaernae hoeppaer fient ie vaessaen 	1 - 4 	
+	Sävast AIF - Liam F.C 	2 - 2 	
+Omgång 6
+2019-08-11 			
+	Liam F.C - Långskottlag 	2 - 1 	
+	Countrycrown - Gäddträsket 	5 - 1 	
+	The Stocks - Maråker Flyers 	4 - 1 	
+	Kaenienaernae hoeppaer fient ie vaessaen - Sävast AIF 	0 - 2 	
+Omgång 7
+2019-08-18 			
+	Sävast AIF - Countrycrown 	4 - 0 	
+	Gäddträsket - Maråker Flyers 	0 - 8 	
+	Långskottlag - The Stocks 	1 - 3 	
+	Liam F.C - Kaenienaernae hoeppaer fient ie vaessaen 	3 - 2 	
+Omgång 8
+2019-08-25 			
+	Kaenienaernae hoeppaer fient ie vaessaen - Liam F.C 	2 - 1 	
+	The Stocks - Långskottlag 	0 - 6 	
+	Countrycrown - Sävast AIF 	3 - 5 	
+	Maråker Flyers - Gäddträsket 	9 - 0 	
+Omgång 9
+2019-09-01 			
+	Sävast AIF - Kaenienaernae hoeppaer fient ie vaessaen 	4 - 2 	
+	Maråker Flyers - The Stocks 	7 - 0 	
+	Långskottlag - Liam F.C 	2 - 0 	
+	Gäddträsket - Countrycrown 	0 - 10 	
+Omgång 10
+2019-09-08 			
+	Liam F.C - Sävast AIF 	1 - 5 	
+	Kaenienaernae hoeppaer fient ie vaessaen - Maråker Flyers 	2 - 4 	
+	Countrycrown - Långskottlag 	1 - 0 	
+	The Stocks - Gäddträsket 	1 - 0 	
+Omgång 11
+2019-09-15 			
+	Långskottlag - Kaenienaernae hoeppaer fient ie vaessaen 	2 - 2 	
+	The Stocks - Countrycrown 	1 - 8 	
+	Maråker Flyers - Sävast AIF 	2 - 4 	
+	Gäddträsket - Liam F.C 	0 - 8 	
+Omgång 12
+2019-09-22 			
+	Liam F.C - The Stocks 	8 - 0 	
+	Sävast AIF - Långskottlag 	1 - 3 	
+	Countrycrown - Maråker Flyers 	0 - 5 	
+	Kaenienaernae hoeppaer fient ie vaessaen - Gäddträsket 	8 - 0 	
+Omgång 13
+2019-09-29 			
+	Countrycrown - Kaenienaernae hoeppaer fient ie vaessaen 	0 - 8 	
+	Maråker Flyers - Liam F.C 	4 - 0 	
+	The Stocks - Sävast AIF 	0 - 7 	
+	Gäddträsket - Långskottlag 	0 - 5 	
+Omgång 14
+2019-10-06 			
+	Liam F.C - Countrycrown 	7 - 0 	
+	Långskottlag - Maråker Flyers 	0 - 1 	
+	Kaenienaernae hoeppaer fient ie vaessaen - The Stocks 	7 - 0 	
+	Sävast AIF - Gäddträsket 	8 - 0

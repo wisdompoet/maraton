@@ -1,0 +1,84 @@
+Omgång 1
+2019-03-17 			
+	Maximus FF - NK Hajduk 	2 - 4 	
+	Nakorn Ratchasima FC - Titans of Hammarberget 	3 - 0 	
+	Gmanc FC - Andys BoIS 	0 - 3 	
+	Durboll - Svarta ryttarna 	1 - 0 	
+Omgång 2
+2019-03-24 			
+	Titans of Hammarberget - Maximus FF 	4 - 0 	
+	NK Hajduk - Durboll 	2 - 1 	
+	Andys BoIS - Nakorn Ratchasima FC 	2 - 5 	
+	Svarta ryttarna - Gmanc FC 	3 - 0 	
+Omgång 3
+2019-03-31 			
+	Maximus FF - Svarta ryttarna 	1 - 3 	
+	Nakorn Ratchasima FC - Gmanc FC 	8 - 0 	
+	Titans of Hammarberget - NK Hajduk 	4 - 0 	
+	Durboll - Andys BoIS 	4 - 2 	
+Omgång 4
+2019-04-07 			
+	Andys BoIS - Maximus FF 	3 - 1 	
+	NK Hajduk - Nakorn Ratchasima FC 	2 - 5 	
+	Gmanc FC - Durboll 	0 - 5 	
+	Svarta ryttarna - Titans of Hammarberget 	2 - 2 	
+Omgång 5
+2019-04-14 			
+	Maximus FF - Durboll 	2 - 3 	
+	Titans of Hammarberget - Gmanc FC 	10 - 0 	
+	Nakorn Ratchasima FC - Svarta ryttarna 	0 - 0 	
+	NK Hajduk - Andys BoIS 	4 - 0 	
+Omgång 6
+2019-04-21 			
+	Gmanc FC - Maximus FF 	0 - 1 	
+	Durboll - Nakorn Ratchasima FC 	1 - 1 	
+	Andys BoIS - Titans of Hammarberget 	1 - 3 	
+	Svarta ryttarna - NK Hajduk 	0 - 0 	
+Omgång 7
+2019-04-28 			
+	Titans of Hammarberget - Durboll 	3 - 1 	
+	NK Hajduk - Gmanc FC 	6 - 0 	
+	Maximus FF - Nakorn Ratchasima FC 	1 - 3 	
+	Andys BoIS - Svarta ryttarna 	0 - 2 	
+Omgång 8
+2019-05-05 			
+	Svarta ryttarna - Andys BoIS 	0 - 1 	
+	Gmanc FC - NK Hajduk 	1 - 5 	
+	Durboll - Titans of Hammarberget 	6 - 3 	
+	Nakorn Ratchasima FC - Maximus FF 	2 - 3 	
+Omgång 9
+2019-05-12 			
+	NK Hajduk - Svarta ryttarna 	1 - 0 	
+	Titans of Hammarberget - Andys BoIS 	3 - 0 	
+	Nakorn Ratchasima FC - Durboll 	4 - 0 	
+	Maximus FF - Gmanc FC 	1 - 1 	
+Omgång 10
+2019-05-19 			
+	Andys BoIS - NK Hajduk 	2 - 1 	
+	Gmanc FC - Titans of Hammarberget 	0 - 5 	
+	Svarta ryttarna - Nakorn Ratchasima FC 	0 - 4 	
+	Durboll - Maximus FF 	5 - 0 	
+Omgång 11
+2019-05-26 			
+	Titans of Hammarberget - Svarta ryttarna 	0 - 0 	
+	Durboll - Gmanc FC 	6 - 0 	
+	Nakorn Ratchasima FC - NK Hajduk 	2 - 2 	
+	Maximus FF - Andys BoIS 	1 - 3 	
+Omgång 12
+2019-06-02 			
+	Andys BoIS - Durboll 	2 - 0 	
+	Gmanc FC - Nakorn Ratchasima FC 	0 - 3 	
+	NK Hajduk - Titans of Hammarberget 	4 - 2 	
+	Svarta ryttarna - Maximus FF 	3 - 0 	
+Omgång 13
+2019-06-09 			
+	Gmanc FC - Svarta ryttarna 	0 - 2 	
+	Nakorn Ratchasima FC - Andys BoIS 	4 - 1 	
+	Durboll - NK Hajduk 	4 - 2 	
+	Maximus FF - Titans of Hammarberget 	1 - 2 	
+Omgång 14
+2019-06-16 			
+	Andys BoIS - Gmanc FC 	2 - 0 	
+	Svarta ryttarna - Durboll 	0 - 2 	
+	Titans of Hammarberget - Nakorn Ratchasima FC 	3 - 1 	
+	NK Hajduk - Maximus FF 	6 - 3

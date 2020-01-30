@@ -1,0 +1,84 @@
+ Omgång 1
+2019-07-07 			
+	Hagfors FC - Staffanstorps BK 	0 - 8 	
+	IFK Rödupp - FC Alvaro 	5 - 1 	
+	Zwitter - Ekängen IF 	1 - 2 	
+	FC Mackan - Moheda Maniacs 	2 - 0 	
+Omgång 2
+2019-07-14 			
+	Ekängen IF - Hagfors FC 	8 - 0 	
+	Staffanstorps BK - FC Mackan 	1 - 0 	
+	FC Alvaro - Zwitter 	1 - 1 	
+	Moheda Maniacs - IFK Rödupp 	2 - 1 	
+Omgång 3
+2019-07-21 			
+	Hagfors FC - Moheda Maniacs 	0 - 6 	
+	Zwitter - IFK Rödupp 	4 - 3 	
+	Ekängen IF - Staffanstorps BK 	0 - 1 	
+	FC Mackan - FC Alvaro 	4 - 1 	
+Omgång 4
+2019-07-28 			
+	FC Alvaro - Hagfors FC 	8 - 0 	
+	Staffanstorps BK - Zwitter 	2 - 0 	
+	Moheda Maniacs - Ekängen IF 	5 - 0 	
+	IFK Rödupp - FC Mackan 	1 - 5 	
+Omgång 5
+2019-08-04 			
+	Hagfors FC - FC Mackan 	0 - 6 	
+	Ekängen IF - IFK Rödupp 	4 - 1 	
+	Zwitter - Moheda Maniacs 	0 - 1 	
+	Staffanstorps BK - FC Alvaro 	2 - 1 	
+Omgång 6
+2019-08-11 			
+	IFK Rödupp - Hagfors FC 	7 - 0 	
+	FC Mackan - Zwitter 	3 - 0 	
+	FC Alvaro - Ekängen IF 	1 - 0 	
+	Moheda Maniacs - Staffanstorps BK 	1 - 1 	
+Omgång 7
+2019-08-18 			
+	Hagfors FC - Zwitter 	0 - 7 	
+	Staffanstorps BK - IFK Rödupp 	1 - 0 	
+	Ekängen IF - FC Mackan 	1 - 4 	
+	FC Alvaro - Moheda Maniacs 	1 - 3 	
+Omgång 8
+2019-08-25 			
+	Moheda Maniacs - FC Alvaro 	9 - 0 	
+	FC Mackan - Ekängen IF 	4 - 0 	
+	IFK Rödupp - Staffanstorps BK 	0 - 0 	
+	Zwitter - Hagfors FC 	5 - 0 	
+Omgång 9
+2019-09-01 			
+	Staffanstorps BK - Moheda Maniacs 	4 - 0 	
+	Ekängen IF - FC Alvaro 	3 - 0 	
+	Zwitter - FC Mackan 	0 - 4 	
+	Hagfors FC - IFK Rödupp 	0 - 5 	
+Omgång 10
+2019-09-08 			
+	FC Alvaro - Staffanstorps BK 	0 - 2 	
+	Moheda Maniacs - Zwitter 	7 - 1 	
+	IFK Rödupp - Ekängen IF 	4 - 2 	
+	FC Mackan - Hagfors FC 	7 - 0 	
+Omgång 11
+2019-09-15 			
+	Ekängen IF - Moheda Maniacs 	2 - 1 	
+	FC Mackan - IFK Rödupp 	5 - 1 	
+	Zwitter - Staffanstorps BK 	0 - 0 	
+	Hagfors FC - FC Alvaro 	0 - 5 	
+Omgång 12
+2019-09-22 			
+	FC Alvaro - FC Mackan 	0 - 4 	
+	Staffanstorps BK - Ekängen IF 	3 - 0 	
+	IFK Rödupp - Zwitter 	1 - 0 	
+	Moheda Maniacs - Hagfors FC 	6 - 3 	
+Omgång 13
+2019-09-29 			
+	Zwitter - FC Alvaro 	2 - 0 	
+	IFK Rödupp - Moheda Maniacs 	0 - 4 	
+	Hagfors FC - Ekängen IF 	0 - 6 	
+	FC Mackan - Staffanstorps BK 	1 - 0 	
+Omgång 14
+2019-10-06 			
+	Moheda Maniacs - FC Mackan 	5 - 2 	
+	FC Alvaro - IFK Rödupp 	5 - 4 	
+	Ekängen IF - Zwitter 	0 - 0 	
+	Staffanstorps BK - Hagfors FC 	2 - 0 

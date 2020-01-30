@@ -1,0 +1,84 @@
+Omgång 1
+2019-10-27 			
+	Schenströmska BK - Empoli 	3 - 3 	
+	Ursvikingarnas BK - IFK Kostigen 	1 - 2 	
+	Filé-Boys - Max FF 	3 - 0 	
+	Spottkoppen - FC Mackan 	1 - 3 	
+Omgång 2
+2019-11-03 			
+	IFK Kostigen - Schenströmska BK 	2 - 2 	
+	Empoli - Spottkoppen 	2 - 3 	
+	Max FF - Ursvikingarnas BK 	4 - 1 	
+	FC Mackan - Filé-Boys 	3 - 1 	
+Omgång 3
+2019-11-10 			
+	Schenströmska BK - FC Mackan 	2 - 3 	
+	IFK Kostigen - Empoli 	5 - 1 	
+	Ursvikingarnas BK - Filé-Boys 	2 - 0 	
+	Spottkoppen - Max FF 	3 - 5 	
+Omgång 4
+2019-11-17 			
+	Empoli - Ursvikingarnas BK 	3 - 1 	
+	Max FF - Schenströmska BK 	4 - 2 	
+	Filé-Boys - Spottkoppen 	0 - 0 	
+	FC Mackan - IFK Kostigen 	1 - 2 	
+Omgång 5
+2019-11-24 			
+	Schenströmska BK - Spottkoppen 	4 - 1 	
+	Ursvikingarnas BK - FC Mackan 	4 - 0 	
+	IFK Kostigen - Filé-Boys 	2 - 2 	
+	Empoli - Max FF 	0 - 3 	
+Omgång 6
+2019-12-01 			
+	Filé-Boys - Schenströmska BK 	2 - 0 	
+	Spottkoppen - Ursvikingarnas BK 	5 - 1 	
+	Max FF - IFK Kostigen 	1 - 1 	
+	FC Mackan - Empoli 	3 - 0 	
+Omgång 7
+2019-12-08 			
+	Schenströmska BK - Ursvikingarnas BK 	2 - 1 	
+	Empoli - Filé-Boys 	0 - 2 	
+	IFK Kostigen - Spottkoppen 	5 - 0 	
+	Max FF - FC Mackan 	5 - 1 	
+Omgång 8
+2019-12-15 			
+	FC Mackan - Max FF 	1 - 1 	
+	Spottkoppen - IFK Kostigen 	3 - 0 	
+	Filé-Boys - Empoli 	3 - 0 	
+	Ursvikingarnas BK - Schenströmska BK 	4 - 0 	
+Omgång 9
+2019-12-22 			
+	Empoli - FC Mackan 	2 - 1 	
+	IFK Kostigen - Max FF 	0 - 2 	
+	Ursvikingarnas BK - Spottkoppen 	2 - 0 	
+	Schenströmska BK - Filé-Boys 	3 - 1 	
+Omgång 10
+2019-12-29 			
+	FC Mackan - Ursvikingarnas BK 	5 - 0 	
+	Max FF - Empoli 	6 - 2 	
+	Filé-Boys - IFK Kostigen 	2 - 0 	
+	Spottkoppen - Schenströmska BK 	2 - 1 	
+Omgång 11
+2020-01-05 			
+	IFK Kostigen - FC Mackan 	1 - 3 	
+	Spottkoppen - Filé-Boys 	0 - 4 	
+	Ursvikingarnas BK - Empoli 	2 - 0 	
+	Schenströmska BK - Max FF 	1 - 2 	
+Omgång 12
+2020-01-12 			
+	Max FF - Spottkoppen 	4 - 0 	
+	Empoli - IFK Kostigen 	1 - 1 	
+	Filé-Boys - Ursvikingarnas BK 	4 - 2 	
+	FC Mackan - Schenströmska BK 	4 - 0 	
+Omgång 13
+2020-01-19 			
+	Filé-Boys - FC Mackan 	3 - 1 	
+	Ursvikingarnas BK - Max FF 	0 - 2 	
+	Spottkoppen - Empoli 	5 - 0 	
+	Schenströmska BK - IFK Kostigen 	2 - 1 	
+Omgång 14
+2020-01-26 			
+	FC Mackan - Spottkoppen 	3 - 2 	
+	Max FF - Filé-Boys 	4 - 1 	
+	IFK Kostigen - Ursvikingarnas BK 	0 - 0 	
+	Empoli - Schenströmska BK 	2 - 6

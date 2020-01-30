@@ -1,0 +1,84 @@
+Omgång 1
+2019-03-17 			
+	Manufactured Superstars - Konstanz Spring FC 	4 - 1 	
+	Clintan Stars - ARRUG BK 	0 - 1 	
+	Manana - Furies FC 	3 - 0 	
+	Shadwell Town Dogs - FC Punta Delgadita 	1 - 4 	
+Omgång 2
+2019-03-24 			
+	Konstanz Spring FC - Shadwell Town Dogs 	6 - 0 	
+	FC Punta Delgadita - Manana 	0 - 3 	
+	ARRUG BK - Manufactured Superstars 	1 - 2 	
+	Furies FC - Clintan Stars 	1 - 0 	
+Omgång 3
+2019-03-31 			
+	Shadwell Town Dogs - Furies FC 	0 - 4 	
+	Manufactured Superstars - Clintan Stars 	4 - 5 	
+	Konstanz Spring FC - FC Punta Delgadita 	0 - 3 	
+	Manana - ARRUG BK 	2 - 0 	
+Omgång 4
+2019-04-07 			
+	ARRUG BK - Shadwell Town Dogs 	8 - 0 	
+	Clintan Stars - Manana 	2 - 0 	
+	Furies FC - Konstanz Spring FC 	2 - 1 	
+	FC Punta Delgadita - Manufactured Superstars 	0 - 1 	
+Omgång 5
+2019-04-14 			
+	Shadwell Town Dogs - Manana 	0 - 9 	
+	Konstanz Spring FC - Clintan Stars 	1 - 0 	
+	Manufactured Superstars - Furies FC 	2 - 1 	
+	FC Punta Delgadita - ARRUG BK 	0 - 1 	
+Omgång 6
+2019-04-21 			
+	Manana - Manufactured Superstars 	2 - 0 	
+	Clintan Stars - Shadwell Town Dogs 	7 - 0 	
+	ARRUG BK - Konstanz Spring FC 	1 - 1 	
+	Furies FC - FC Punta Delgadita 	4 - 0 	
+Omgång 7
+2019-04-28 			
+	Shadwell Town Dogs - Manufactured Superstars 	1 - 5 	
+	Konstanz Spring FC - Manana 	1 - 3 	
+	FC Punta Delgadita - Clintan Stars 	1 - 2 	
+	ARRUG BK - Furies FC 	0 - 0 	
+Omgång 8
+2019-05-05 			
+	Furies FC - ARRUG BK 	0 - 0 	
+	Clintan Stars - FC Punta Delgadita 	0 - 2 	
+	Manana - Konstanz Spring FC 	2 - 0 	
+	Manufactured Superstars - Shadwell Town Dogs 	7 - 0 	
+Omgång 9
+2019-05-12 			
+	Manufactured Superstars - Manana 	1 - 2 	
+	Konstanz Spring FC - ARRUG BK 	3 - 1 	
+	FC Punta Delgadita - Furies FC 	0 - 3 	
+	Shadwell Town Dogs - Clintan Stars 	0 - 7 	
+Omgång 10
+2019-05-19 			
+	Furies FC - Manufactured Superstars 	8 - 3 	
+	ARRUG BK - FC Punta Delgadita 	1 - 1 	
+	Clintan Stars - Konstanz Spring FC 	4 - 0 	
+	Manana - Shadwell Town Dogs 	8 - 0 	
+Omgång 11
+2019-05-26 			
+	Konstanz Spring FC - Furies FC 	0 - 9 	
+	Manana - Clintan Stars 	2 - 2 	
+	Manufactured Superstars - FC Punta Delgadita 	0 - 5 	
+	Shadwell Town Dogs - ARRUG BK 	0 - 7 	
+Omgång 12
+2019-06-02 			
+	ARRUG BK - Manana 	1 - 0 	
+	Clintan Stars - Manufactured Superstars 	6 - 0 	
+	FC Punta Delgadita - Konstanz Spring FC 	7 - 0 	
+	Furies FC - Shadwell Town Dogs 	8 - 0 	
+Omgång 13
+2019-06-09 			
+	Manufactured Superstars - ARRUG BK 	0 - 5 	
+	Clintan Stars - Furies FC 	3 - 4 	
+	Manana - FC Punta Delgadita 	3 - 1 	
+	Shadwell Town Dogs - Konstanz Spring FC 	2 - 4 	
+Omgång 14
+2019-06-16 			
+	Furies FC - Manana 	2 - 4 	
+	ARRUG BK - Clintan Stars 	2 - 0 	
+	Konstanz Spring FC - Manufactured Superstars 	5 - 2 	
+	FC Punta Delgadita - Shadwell Town Dogs 	6 - 0

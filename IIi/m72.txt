@@ -1,0 +1,84 @@
+Omgång 1
+2019-07-07 			
+	Ystads IF - Bockarna 	1 - 7 	
+	Mellangård United - Tingvalla BK 	5 - 0 	
+	Walderama boys - LIV1 	3 - 1 	
+	Spottkoppen - FC yeniköy 	5 - 0 	
+Omgång 2
+2019-07-14 			
+	Tingvalla BK - Ystads IF 	8 - 1 	
+	Bockarna - Spottkoppen 	1 - 4 	
+	LIV1 - Mellangård United 	0 - 5 	
+	FC yeniköy - Walderama boys 	2 - 2 	
+Omgång 3
+2019-07-21 			
+	Ystads IF - FC yeniköy 	1 - 8 	
+	Mellangård United - Walderama boys 	5 - 2 	
+	Tingvalla BK - Bockarna 	5 - 0 	
+	Spottkoppen - LIV1 	5 - 1 	
+Omgång 4
+2019-07-28 			
+	Bockarna - Mellangård United 	2 - 4 	
+	LIV1 - Ystads IF 	6 - 0 	
+	Walderama boys - Spottkoppen 	1 - 4 	
+	FC yeniköy - Tingvalla BK 	4 - 1 	
+Omgång 5
+2019-08-04 			
+	Ystads IF - Spottkoppen 	0 - 8 	
+	Tingvalla BK - Walderama boys 	2 - 1 	
+	Mellangård United - FC yeniköy 	5 - 0 	
+	Bockarna - LIV1 	2 - 3 	
+Omgång 6
+2019-08-11 			
+	Walderama boys - Ystads IF 	6 - 0 	
+	FC yeniköy - Bockarna 	2 - 1 	
+	Spottkoppen - Mellangård United 	2 - 1 	
+	LIV1 - Tingvalla BK 	2 - 3 	
+Omgång 7
+2019-08-18 			
+	Ystads IF - Mellangård United 	0 - 9 	
+	Bockarna - Walderama boys 	2 - 1 	
+	Tingvalla BK - Spottkoppen 	2 - 4 	
+	LIV1 - FC yeniköy 	1 - 7 	
+Omgång 8
+2019-08-25 			
+	FC yeniköy - LIV1 	4 - 1 	
+	Spottkoppen - Tingvalla BK 	3 - 1 	
+	Walderama boys - Bockarna 	5 - 0 	
+	Mellangård United - Ystads IF 	8 - 0 	
+Omgång 9
+2019-09-01 			
+	Mellangård United - Spottkoppen 	4 - 2 	
+	Ystads IF - Walderama boys 	2 - 2 	
+	Tingvalla BK - LIV1 	1 - 0 	
+	Bockarna - FC yeniköy 	2 - 5 	
+Omgång 10
+2019-09-08 			
+	FC yeniköy - Mellangård United 	2 - 3 	
+	Walderama boys - Tingvalla BK 	3 - 2 	
+	Spottkoppen - Ystads IF 	7 - 0 	
+	LIV1 - Bockarna 	4 - 1 	
+Omgång 11
+2019-09-15 			
+	Tingvalla BK - FC yeniköy 	2 - 3 	
+	Spottkoppen - Walderama boys 	1 - 0 	
+	Mellangård United - Bockarna 	6 - 0 	
+	Ystads IF - LIV1 	3 - 6 	
+Omgång 12
+2019-09-22 			
+	Bockarna - Tingvalla BK 	0 - 4 	
+	LIV1 - Spottkoppen 	2 - 3 	
+	FC yeniköy - Ystads IF 	8 - 0 	
+	Walderama boys - Mellangård United 	2 - 2 	
+Omgång 13
+2019-09-29 			
+	Walderama boys - FC yeniköy 	3 - 0 	
+	Mellangård United - LIV1 	6 - 1 	
+	Spottkoppen - Bockarna 	5 - 0 	
+	Ystads IF - Tingvalla BK 	0 - 6 	
+Omgång 14
+2019-10-06 			
+	Tingvalla BK - Mellangård United 	0 - 1 	
+	Bockarna - Ystads IF 	5 - 0 	
+	FC yeniköy - Spottkoppen 	0 - 4 	
+	LIV1 - Walderama boys 	0 - 3 

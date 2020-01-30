@@ -1,0 +1,84 @@
+Omgång 1
+2019-03-17 			
+	Bosse & Krister United - United Bears 	0 - 6 	
+	McAcademy - Kaenienaernae hoeppaer fient ie vaessaen 	4 - 2 	
+	IFK Barca FC - RWD Malmö 	4 - 1 	
+	Lucifer's Svartänglar - FC Dahlis 	2 - 3 	
+Omgång 2
+2019-03-24 			
+	Kaenienaernae hoeppaer fient ie vaessaen - Bosse & Krister United 	8 - 0 	
+	United Bears - Lucifer's Svartänglar 	3 - 1 	
+	RWD Malmö - McAcademy 	4 - 1 	
+	FC Dahlis - IFK Barca FC 	1 - 5 	
+Omgång 3
+2019-03-31 			
+	Bosse & Krister United - FC Dahlis 	0 - 6 	
+	McAcademy - IFK Barca FC 	4 - 2 	
+	Kaenienaernae hoeppaer fient ie vaessaen - United Bears 	4 - 1 	
+	Lucifer's Svartänglar - RWD Malmö 	4 - 2 	
+Omgång 4
+2019-04-07 			
+	RWD Malmö - Bosse & Krister United 	8 - 0 	
+	United Bears - McAcademy 	1 - 0 	
+	IFK Barca FC - Lucifer's Svartänglar 	6 - 2 	
+	FC Dahlis - Kaenienaernae hoeppaer fient ie vaessaen 	1 - 4 	
+Omgång 5
+2019-04-14 			
+	Kaenienaernae hoeppaer fient ie vaessaen - IFK Barca FC 	5 - 2 	
+	McAcademy - FC Dahlis 	4 - 0 	
+	United Bears - RWD Malmö 	2 - 1 	
+	Bosse & Krister United - Lucifer's Svartänglar 	1 - 7 	
+Omgång 6
+2019-04-21 			
+	IFK Barca FC - Bosse & Krister United 	6 - 0 	
+	Lucifer's Svartänglar - McAcademy 	4 - 4 	
+	RWD Malmö - Kaenienaernae hoeppaer fient ie vaessaen 	3 - 1 	
+	FC Dahlis - United Bears 	4 - 5 	
+Omgång 7
+2019-04-28 			
+	Bosse & Krister United - McAcademy 	0 - 6 	
+	United Bears - IFK Barca FC 	4 - 1 	
+	Kaenienaernae hoeppaer fient ie vaessaen - Lucifer's Svartänglar 	6 - 1 	
+	RWD Malmö - FC Dahlis 	5 - 2 	
+Omgång 8
+2019-05-05 			
+	FC Dahlis - RWD Malmö 	1 - 5 	
+	Lucifer's Svartänglar - Kaenienaernae hoeppaer fient ie vaessaen 	0 - 4 	
+	IFK Barca FC - United Bears 	5 - 2 	
+	McAcademy - Bosse & Krister United 	4 - 0 	
+Omgång 9
+2019-05-12 			
+	United Bears - FC Dahlis 	5 - 0 	
+	Kaenienaernae hoeppaer fient ie vaessaen - RWD Malmö 	3 - 0 	
+	McAcademy - Lucifer's Svartänglar 	2 - 2 	
+	Bosse & Krister United - IFK Barca FC 	1 - 7 	
+Omgång 10
+2019-05-19 			
+	RWD Malmö - United Bears 	1 - 6 	
+	FC Dahlis - McAcademy 	0 - 4 	
+	IFK Barca FC - Kaenienaernae hoeppaer fient ie vaessaen 	0 - 3 	
+	Lucifer's Svartänglar - Bosse & Krister United 	5 - 0 	
+Omgång 11
+2019-05-26 			
+	Lucifer's Svartänglar - IFK Barca FC 	2 - 0 	
+	McAcademy - United Bears 	4 - 1 	
+	Kaenienaernae hoeppaer fient ie vaessaen - FC Dahlis 	4 - 2 	
+	Bosse & Krister United - RWD Malmö 	0 - 7 	
+Omgång 12
+2019-06-02 			
+	IFK Barca FC - McAcademy 	2 - 4 	
+	United Bears - Kaenienaernae hoeppaer fient ie vaessaen 	0 - 5 	
+	RWD Malmö - Lucifer's Svartänglar 	2 - 0 	
+	FC Dahlis - Bosse & Krister United 	9 - 0 	
+Omgång 13
+2019-06-09 			
+	IFK Barca FC - FC Dahlis 	4 - 1 	
+	McAcademy - RWD Malmö 	3 - 1 	
+	Lucifer's Svartänglar - United Bears 	4 - 2 	
+	Bosse & Krister United - Kaenienaernae hoeppaer fient ie vaessaen 	0 - 7 	
+Omgång 14
+2019-06-16 			
+	FC Dahlis - Lucifer's Svartänglar 	8 - 0 	
+	RWD Malmö - IFK Barca FC 	4 - 1 	
+	Kaenienaernae hoeppaer fient ie vaessaen - McAcademy 	8 - 0 	
+	United Bears - Bosse & Krister United 	11 - 0

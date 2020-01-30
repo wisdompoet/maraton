@@ -1,0 +1,84 @@
+Omgång 1
+2019-03-17 			
+	Rospiggarna FK - Smörsoppens BK 	4 - 2 	
+	Team Superior - Filé-Boys 	0 - 4 	
+	FC Forrest - Fastnet 	1 - 2 	
+	Muddricken - Sunday Service 	1 - 1 	
+Omgång 2
+2019-03-24 			
+	Smörsoppens BK - Team Superior 	9 - 0 	
+	Filé-Boys - Muddricken 	5 - 0 	
+	Sunday Service - FC Forrest 	2 - 3 	
+	Fastnet - Rospiggarna FK 	2 - 1 	
+Omgång 3
+2019-03-31 			
+	Team Superior - Sunday Service 	0 - 8 	
+	Rospiggarna FK - FC Forrest 	3 - 0 	
+	Muddricken - Fastnet 	1 - 1 	
+	Smörsoppens BK - Filé-Boys 	2 - 2 	
+Omgång 4
+2019-04-07 			
+	Fastnet - Team Superior 	7 - 0 	
+	Filé-Boys - Rospiggarna FK 	4 - 1 	
+	Sunday Service - Smörsoppens BK 	2 - 2 	
+	FC Forrest - Muddricken 	1 - 5 	
+Omgång 5
+2019-04-14 			
+	Team Superior - Muddricken 	0 - 4 	
+	Smörsoppens BK - FC Forrest 	2 - 0 	
+	Rospiggarna FK - Sunday Service 	1 - 1 	
+	Filé-Boys - Fastnet 	3 - 0 	
+Omgång 6
+2019-04-21 			
+	FC Forrest - Team Superior 	7 - 0 	
+	Muddricken - Rospiggarna FK 	0 - 0 	
+	Fastnet - Smörsoppens BK 	0 - 1 	
+	Sunday Service - Filé-Boys 	3 - 4 	
+Omgång 7
+2019-04-28 			
+	Team Superior - Rospiggarna FK 	0 - 8 	
+	Filé-Boys - FC Forrest 	3 - 0 	
+	Smörsoppens BK - Muddricken 	2 - 0 	
+	Fastnet - Sunday Service 	3 - 2 	
+Omgång 8
+2019-05-05 			
+	Sunday Service - Fastnet 	4 - 0 	
+	Muddricken - Smörsoppens BK 	1 - 0 	
+	FC Forrest - Filé-Boys 	0 - 2 	
+	Rospiggarna FK - Team Superior 	8 - 1 	
+Omgång 9
+2019-05-12 			
+	Filé-Boys - Sunday Service 	3 - 0 	
+	Smörsoppens BK - Fastnet 	3 - 0 	
+	Rospiggarna FK - Muddricken 	2 - 1 	
+	Team Superior - FC Forrest 	1 - 6 	
+Omgång 10
+2019-05-19 			
+	Fastnet - Filé-Boys 	0 - 4 	
+	Sunday Service - Rospiggarna FK 	2 - 0 	
+	FC Forrest - Smörsoppens BK 	0 - 0 	
+	Muddricken - Team Superior 	5 - 0 	
+Omgång 11
+2019-05-26 			
+	Muddricken - FC Forrest 	0 - 0 	
+	Smörsoppens BK - Sunday Service 	3 - 1 	
+	Team Superior - Fastnet 	0 - 2 	
+	Rospiggarna FK - Filé-Boys 	0 - 0 	
+Omgång 12
+2019-06-02 			
+	Filé-Boys - Smörsoppens BK 	3 - 0 	
+	FC Forrest - Rospiggarna FK 	0 - 2 	
+	Sunday Service - Team Superior 	4 - 0 	
+	Fastnet - Muddricken 	0 - 1 	
+Omgång 13
+2019-06-09 			
+	FC Forrest - Sunday Service 	1 - 2 	
+	Rospiggarna FK - Fastnet 	4 - 0 	
+	Muddricken - Filé-Boys 	0 - 4 	
+	Team Superior - Smörsoppens BK 	0 - 6 	
+Omgång 14
+2019-06-16 			
+	Fastnet - FC Forrest 	0 - 0 	
+	Sunday Service - Muddricken 	1 - 2 	
+	Smörsoppens BK - Rospiggarna FK 	3 - 2 	
+	Filé-Boys - Team Superior 	6 - 0

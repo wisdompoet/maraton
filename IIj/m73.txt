@@ -1,0 +1,84 @@
+ Omgång 1
+2019-10-27 			
+	Manana - FC Punta Delgadita 	2 - 0 	
+	Juventus.F.C. - ARRUG BK 	2 - 2 	
+	Svedala Gunners - Kvarnåsen SK 	6 - 0 	
+	SweFin FF - IFK Aspudden-Tellus 	2 - 1 	
+Omgång 2
+2019-11-03 			
+	ARRUG BK - Manana 	1 - 0 	
+	FC Punta Delgadita - SweFin FF 	4 - 0 	
+	Kvarnåsen SK - Juventus.F.C. 	0 - 7 	
+	IFK Aspudden-Tellus - Svedala Gunners 	3 - 2 	
+Omgång 3
+2019-11-10 			
+	Manana - IFK Aspudden-Tellus 	3 - 0 	
+	ARRUG BK - FC Punta Delgadita 	1 - 2 	
+	SweFin FF - Kvarnåsen SK 	6 - 1 	
+	Juventus.F.C. - Svedala Gunners 	3 - 1 	
+Omgång 4
+2019-11-17 			
+	Kvarnåsen SK - Manana 	0 - 4 	
+	Svedala Gunners - SweFin FF 	1 - 2 	
+	FC Punta Delgadita - Juventus.F.C. 	3 - 1 	
+	IFK Aspudden-Tellus - ARRUG BK 	1 - 3 	
+Omgång 5
+2019-11-24 			
+	Manana - SweFin FF 	3 - 0 	
+	ARRUG BK - Svedala Gunners 	0 - 0 	
+	FC Punta Delgadita - Kvarnåsen SK 	5 - 0 	
+	Juventus.F.C. - IFK Aspudden-Tellus 	4 - 2 	
+Omgång 6
+2019-12-01 			
+	Svedala Gunners - Manana 	3 - 3 	
+	Kvarnåsen SK - ARRUG BK 	0 - 3 	
+	IFK Aspudden-Tellus - FC Punta Delgadita 	3 - 2 	
+	SweFin FF - Juventus.F.C. 	3 - 1 	
+Omgång 7
+2019-12-08 			
+	Manana - Juventus.F.C. 	3 - 0 	
+	FC Punta Delgadita - Svedala Gunners 	3 - 1 	
+	ARRUG BK - SweFin FF 	2 - 3 	
+	Kvarnåsen SK - IFK Aspudden-Tellus 	0 - 6 	
+Omgång 8
+2019-12-15 			
+	IFK Aspudden-Tellus - Kvarnåsen SK 	4 - 0 	
+	SweFin FF - ARRUG BK 	3 - 0 	
+	Svedala Gunners - FC Punta Delgadita 	2 - 2 	
+	Juventus.F.C. - Manana 	0 - 2 	
+Omgång 9
+2019-12-22 			
+	FC Punta Delgadita - IFK Aspudden-Tellus 	5 - 1 	
+	ARRUG BK - Kvarnåsen SK 	2 - 0 	
+	Juventus.F.C. - SweFin FF 	6 - 5 	
+	Manana - Svedala Gunners 	2 - 0 	
+Omgång 10
+2019-12-29 			
+	Kvarnåsen SK - FC Punta Delgadita 	1 - 4 	
+	IFK Aspudden-Tellus - Juventus.F.C. 	1 - 3 	
+	Svedala Gunners - ARRUG BK 	1 - 0 	
+	SweFin FF - Manana 	0 - 5 	
+Omgång 11
+2020-01-05 			
+	ARRUG BK - IFK Aspudden-Tellus 	2 - 1 	
+	SweFin FF - Svedala Gunners 	3 - 1 	
+	Juventus.F.C. - FC Punta Delgadita 	0 - 2 	
+	Manana - Kvarnåsen SK 	7 - 0 	
+Omgång 12
+2020-01-12 			
+	Kvarnåsen SK - SweFin FF 	0 - 1 	
+	FC Punta Delgadita - ARRUG BK 	1 - 0 	
+	Svedala Gunners - Juventus.F.C. 	3 - 1 	
+	IFK Aspudden-Tellus - Manana 	1 - 2 	
+Omgång 13
+2020-01-19 			
+	Svedala Gunners - IFK Aspudden-Tellus 	3 - 1 	
+	Juventus.F.C. - Kvarnåsen SK 	2 - 0 	
+	SweFin FF - FC Punta Delgadita 	4 - 2 	
+	Manana - ARRUG BK 	2 - 1 	
+Omgång 14
+2020-01-26 			
+	IFK Aspudden-Tellus - SweFin FF 	2 - 4 	
+	Kvarnåsen SK - Svedala Gunners 	0 - 5 	
+	ARRUG BK - Juventus.F.C. 	1 - 1 	
+	FC Punta Delgadita - Manana 	3 - 4

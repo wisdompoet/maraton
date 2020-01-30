@@ -1,0 +1,84 @@
+Omgång 1
+2019-07-07 			
+	Hansa Rostbröd - Norrtelje Wanderers 	1 - 3 	
+	BK Torpet - Happy Team 	3 - 1 	
+	Fruängens BK - Bonk IS 	6 - 0 	
+	Drakbloden - Lokomotiv Huskvarna 	4 - 0 	
+Omgång 2
+2019-07-14 			
+	Happy Team - Hansa Rostbröd 	1 - 0 	
+	Norrtelje Wanderers - Drakbloden 	3 - 0 	
+	Bonk IS - BK Torpet 	0 - 5 	
+	Lokomotiv Huskvarna - Fruängens BK 	0 - 8 	
+Omgång 3
+2019-07-21 			
+	Hansa Rostbröd - Lokomotiv Huskvarna 	0 - 1 	
+	BK Torpet - Fruängens BK 	0 - 4 	
+	Happy Team - Norrtelje Wanderers 	0 - 3 	
+	Drakbloden - Bonk IS 	3 - 0 	
+Omgång 4
+2019-07-28 			
+	Bonk IS - Hansa Rostbröd 	1 - 1 	
+	Norrtelje Wanderers - BK Torpet 	2 - 0 	
+	Fruängens BK - Drakbloden 	5 - 1 	
+	Lokomotiv Huskvarna - Happy Team 	2 - 0 	
+Omgång 5
+2019-08-04 			
+	Hansa Rostbröd - Drakbloden 	0 - 7 	
+	Happy Team - Fruängens BK 	0 - 7 	
+	BK Torpet - Lokomotiv Huskvarna 	4 - 4 	
+	Norrtelje Wanderers - Bonk IS 	6 - 0 	
+Omgång 6
+2019-08-11 			
+	Fruängens BK - Hansa Rostbröd 	2 - 0 	
+	Bonk IS - Happy Team 	0 - 5 	
+	Drakbloden - BK Torpet 	0 - 2 	
+	Lokomotiv Huskvarna - Norrtelje Wanderers 	1 - 2 	
+Omgång 7
+2019-08-18 			
+	Happy Team - Drakbloden 	0 - 6 	
+	Norrtelje Wanderers - Fruängens BK 	3 - 1 	
+	Hansa Rostbröd - BK Torpet 	0 - 2 	
+	Bonk IS - Lokomotiv Huskvarna 	0 - 7 	
+Omgång 8
+2019-08-25 			
+	Lokomotiv Huskvarna - Bonk IS 	7 - 0 	
+	Drakbloden - Happy Team 	5 - 0 	
+	Fruängens BK - Norrtelje Wanderers 	2 - 1 	
+	BK Torpet - Hansa Rostbröd 	5 - 3 	
+Omgång 9
+2019-09-01 			
+	Norrtelje Wanderers - Lokomotiv Huskvarna 	4 - 0 	
+	Happy Team - Bonk IS 	0 - 3 	
+	BK Torpet - Drakbloden 	1 - 2 	
+	Hansa Rostbröd - Fruängens BK 	0 - 4 	
+Omgång 10
+2019-09-08 			
+	Bonk IS - Norrtelje Wanderers 	0 - 6 	
+	Lokomotiv Huskvarna - BK Torpet 	0 - 3 	
+	Fruängens BK - Happy Team 	7 - 0 	
+	Drakbloden - Hansa Rostbröd 	0 - 0 	
+Omgång 11
+2019-09-15 			
+	Hansa Rostbröd - Bonk IS 	3 - 1 	
+	BK Torpet - Norrtelje Wanderers 	3 - 4 	
+	Happy Team - Lokomotiv Huskvarna 	0 - 5 	
+	Drakbloden - Fruängens BK 	3 - 4 	
+Omgång 12
+2019-09-22 			
+	Bonk IS - Drakbloden 	0 - 4 	
+	Norrtelje Wanderers - Happy Team 	8 - 0 	
+	Fruängens BK - BK Torpet 	2 - 1 	
+	Lokomotiv Huskvarna - Hansa Rostbröd 	4 - 2 	
+Omgång 13
+2019-09-29 			
+	Fruängens BK - Lokomotiv Huskvarna 	4 - 1 	
+	BK Torpet - Bonk IS 	7 - 0 	
+	Drakbloden - Norrtelje Wanderers 	1 - 3 	
+	Hansa Rostbröd - Happy Team 	0 - 0 	
+Omgång 14
+2019-10-06 			
+	Lokomotiv Huskvarna - Drakbloden 	1 - 1 	
+	Norrtelje Wanderers - Hansa Rostbröd 	1 - 1 	
+	Bonk IS - Fruängens BK 	0 - 6 	
+	Happy Team - BK Torpet 	1 - 6

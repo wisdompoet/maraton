@@ -1,0 +1,84 @@
+Omgång 1
+2019-10-27 			
+	FBKkrossen - Staffanstorps BK 	0 - 3 	
+	Moheda Maniacs - Ekängen IF 	2 - 1 	
+	AYREON FC - Zwitter 	3 - 0 	
+	Ik Blåbär - Romelanda Tanks 	0 - 2 	
+Omgång 2
+2019-11-03 			
+	Ekängen IF - FBKkrossen 	0 - 1 	
+	Staffanstorps BK - Ik Blåbär 	2 - 1 	
+	Zwitter - Moheda Maniacs 	2 - 1 	
+	Romelanda Tanks - AYREON FC 	0 - 1 	
+Omgång 3
+2019-11-10 			
+	Moheda Maniacs - AYREON FC 	1 - 1 	
+	FBKkrossen - Romelanda Tanks 	0 - 1 	
+	Ekängen IF - Staffanstorps BK 	0 - 3 	
+	Ik Blåbär - Zwitter 	0 - 2 	
+Omgång 4
+2019-11-17 			
+	Zwitter - FBKkrossen 	1 - 0 	
+	Staffanstorps BK - Moheda Maniacs 	3 - 1 	
+	AYREON FC - Ik Blåbär 	2 - 1 	
+	Romelanda Tanks - Ekängen IF 	5 - 0 	
+Omgång 5
+2019-11-24 			
+	FBKkrossen - Ik Blåbär 	1 - 4 	
+	Ekängen IF - AYREON FC 	1 - 0 	
+	Moheda Maniacs - Romelanda Tanks 	3 - 0 	
+	Staffanstorps BK - Zwitter 	4 - 1 	
+Omgång 6
+2019-12-01 			
+	AYREON FC - FBKkrossen 	2 - 0 	
+	Zwitter - Ekängen IF 	3 - 1 	
+	Ik Blåbär - Moheda Maniacs 	4 - 2 	
+	Romelanda Tanks - Staffanstorps BK 	0 - 1 	
+Omgång 7
+2019-12-08 			
+	FBKkrossen - Moheda Maniacs 	0 - 0 	
+	Staffanstorps BK - AYREON FC 	4 - 2 	
+	Ekängen IF - Ik Blåbär 	4 - 0 	
+	Zwitter - Romelanda Tanks 	3 - 0 	
+Omgång 8
+2019-12-15 			
+	Romelanda Tanks - Zwitter 	2 - 1 	
+	Ik Blåbär - Ekängen IF 	1 - 4 	
+	AYREON FC - Staffanstorps BK 	1 - 0 	
+	Moheda Maniacs - FBKkrossen 	3 - 0 	
+Omgång 9
+2019-12-22 			
+	Staffanstorps BK - Romelanda Tanks 	3 - 0 	
+	Ekängen IF - Zwitter 	0 - 0 	
+	Moheda Maniacs - Ik Blåbär 	6 - 0 	
+	FBKkrossen - AYREON FC 	0 - 0 	
+Omgång 10
+2019-12-29 			
+	Zwitter - Staffanstorps BK 	2 - 1 	
+	Romelanda Tanks - Moheda Maniacs 	2 - 2 	
+	AYREON FC - Ekängen IF 	4 - 1 	
+	Ik Blåbär - FBKkrossen 	2 - 0 	
+Omgång 11
+2020-01-05 			
+	Ekängen IF - Romelanda Tanks 	3 - 0 	
+	Ik Blåbär - AYREON FC 	1 - 3 	
+	Moheda Maniacs - Staffanstorps BK 	1 - 1 	
+	FBKkrossen - Zwitter 	0 - 0 	
+Omgång 12
+2020-01-12 			
+	Zwitter - Ik Blåbär 	2 - 1 	
+	Staffanstorps BK - Ekängen IF 	3 - 0 	
+	AYREON FC - Moheda Maniacs 	1 - 1 	
+	Romelanda Tanks - FBKkrossen 	2 - 0 	
+Omgång 13
+2020-01-19 			
+	AYREON FC - Romelanda Tanks 	2 - 0 	
+	Moheda Maniacs - Zwitter 	3 - 1 	
+	Ik Blåbär - Staffanstorps BK 	2 - 6 	
+	FBKkrossen - Ekängen IF 	1 - 0 	
+Omgång 14
+2020-01-26 			
+	Zwitter - AYREON FC 	1 - 0 	
+	Romelanda Tanks - Ik Blåbär 	5 - 1 	
+	Ekängen IF - Moheda Maniacs 	3 - 5 	
+	Staffanstorps BK - FBKkrossen 	2 - 0 

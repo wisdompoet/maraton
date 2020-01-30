@@ -1,0 +1,84 @@
+ Omgång 1
+2019-10-27 			
+	Playboys Us - BK Stutsons 	0 - 8 	
+	BK Lallarn - IFK Wella 	2 - 0 	
+	BK Spoven - Bonds brudar 	0 - 2 	
+	Kronorna - FC Gusdanieis 	3 - 0 	
+Omgång 2
+2019-11-03 			
+	IFK Wella - Playboys Us 	6 - 0 	
+	BK Stutsons - Kronorna 	3 - 1 	
+	FC Gusdanieis - BK Spoven 	0 - 4 	
+	Bonds brudar - BK Lallarn 	4 - 2 	
+Omgång 3
+2019-11-10 			
+	IFK Wella - BK Stutsons 	2 - 3 	
+	Playboys Us - FC Gusdanieis 	0 - 1 	
+	BK Lallarn - BK Spoven 	0 - 2 	
+	Kronorna - Bonds brudar 	1 - 2 	
+Omgång 4
+2019-11-17 			
+	Bonds brudar - Playboys Us 	3 - 0 	
+	BK Stutsons - BK Lallarn 	1 - 0 	
+	BK Spoven - Kronorna 	0 - 2 	
+	FC Gusdanieis - IFK Wella 	2 - 2 	
+Omgång 5
+2019-11-24 			
+	Playboys Us - Kronorna 	0 - 2 	
+	BK Lallarn - FC Gusdanieis 	1 - 1 	
+	IFK Wella - BK Spoven 	2 - 0 	
+	BK Stutsons - Bonds brudar 	6 - 2 	
+Omgång 6
+2019-12-01 			
+	Kronorna - BK Lallarn 	2 - 1 	
+	BK Spoven - Playboys Us 	4 - 0 	
+	Bonds brudar - IFK Wella 	2 - 2 	
+	FC Gusdanieis - BK Stutsons 	5 - 0 	
+Omgång 7
+2019-12-08 			
+	Playboys Us - BK Lallarn 	0 - 1 	
+	BK Stutsons - BK Spoven 	1 - 2 	
+	IFK Wella - Kronorna 	2 - 1 	
+	Bonds brudar - FC Gusdanieis 	6 - 1 	
+Omgång 8
+2019-12-15 			
+	FC Gusdanieis - Bonds brudar 	4 - 5 	
+	Kronorna - IFK Wella 	3 - 2 	
+	BK Spoven - BK Stutsons 	2 - 0 	
+	BK Lallarn - Playboys Us 	3 - 0 	
+Omgång 9
+2019-12-22 			
+	BK Stutsons - FC Gusdanieis 	4 - 3 	
+	IFK Wella - Bonds brudar 	5 - 1 	
+	BK Lallarn - Kronorna 	0 - 3 	
+	Playboys Us - BK Spoven 	0 - 0 	
+Omgång 10
+2019-12-29 			
+	Bonds brudar - BK Stutsons 	5 - 3 	
+	FC Gusdanieis - BK Lallarn 	0 - 0 	
+	BK Spoven - IFK Wella 	0 - 1 	
+	Kronorna - Playboys Us 	3 - 0 	
+Omgång 11
+2020-01-05 			
+	IFK Wella - FC Gusdanieis 	3 - 1 	
+	Kronorna - BK Spoven 	1 - 1 	
+	BK Lallarn - BK Stutsons 	3 - 3 	
+	Playboys Us - Bonds brudar 	0 - 3 	
+Omgång 12
+2020-01-12 			
+	Bonds brudar - Kronorna 	2 - 5 	
+	BK Stutsons - IFK Wella 	2 - 6 	
+	BK Spoven - BK Lallarn 	0 - 0 	
+	FC Gusdanieis - Playboys Us 	2 - 1 	
+Omgång 13
+2020-01-19 			
+	BK Spoven - FC Gusdanieis 	2 - 0 	
+	BK Lallarn - Bonds brudar 	0 - 3 	
+	Kronorna - BK Stutsons 	3 - 1 	
+	Playboys Us - IFK Wella 	1 - 1 	
+Omgång 14
+2020-01-26 			
+	FC Gusdanieis - Kronorna 	0 - 4 	
+	Bonds brudar - BK Spoven 	1 - 2 	
+	IFK Wella - BK Lallarn 	3 - 1 	
+	BK Stutsons - Playboys Us 	3 - 0

@@ -1,0 +1,84 @@
+Omgång 1
+2019-03-17 			
+	BK Nevisborg - Lokomotiv Ralbo 	3 - 2 	
+	Sumpans Finest - Villa Hammarstrand 	2 - 5 	
+	Starcraft United - Spartak 	1 - 3 	
+	Brahe United - FC Hattifnatt 	1 - 3 	
+Omgång 2
+2019-03-24 			
+	Villa Hammarstrand - Brahe United 	4 - 0 	
+	FC Hattifnatt - BK Nevisborg 	0 - 1 	
+	Spartak - Sumpans Finest 	3 - 1 	
+	Lokomotiv Ralbo - Starcraft United 	0 - 2 	
+Omgång 3
+2019-03-31 			
+	Brahe United - Lokomotiv Ralbo 	0 - 5 	
+	Sumpans Finest - Starcraft United 	0 - 2 	
+	Villa Hammarstrand - FC Hattifnatt 	1 - 0 	
+	BK Nevisborg - Spartak 	4 - 2 	
+Omgång 4
+2019-04-07 			
+	Spartak - Brahe United 	6 - 0 	
+	FC Hattifnatt - Sumpans Finest 	3 - 0 	
+	Starcraft United - BK Nevisborg 	0 - 1 	
+	Lokomotiv Ralbo - Villa Hammarstrand 	2 - 6 	
+Omgång 5
+2019-04-14 			
+	Brahe United - BK Nevisborg 	0 - 0 	
+	Villa Hammarstrand - Starcraft United 	3 - 0 	
+	Sumpans Finest - Lokomotiv Ralbo 	2 - 2 	
+	FC Hattifnatt - Spartak 	3 - 0 	
+Omgång 6
+2019-04-21 			
+	Starcraft United - Brahe United 	5 - 0 	
+	BK Nevisborg - Sumpans Finest 	1 - 1 	
+	Spartak - Villa Hammarstrand 	1 - 1 	
+	Lokomotiv Ralbo - FC Hattifnatt 	2 - 0 	
+Omgång 7
+2019-04-28 			
+	FC Hattifnatt - Starcraft United 	1 - 2 	
+	Brahe United - Sumpans Finest 	0 - 5 	
+	Spartak - Lokomotiv Ralbo 	3 - 3 	
+	Villa Hammarstrand - BK Nevisborg 	1 - 2 	
+Omgång 8
+2019-05-05 			
+	Lokomotiv Ralbo - Spartak 	2 - 4 	
+	BK Nevisborg - Villa Hammarstrand 	3 - 1 	
+	Starcraft United - FC Hattifnatt 	0 - 1 	
+	Sumpans Finest - Brahe United 	2 - 0 	
+Omgång 9
+2019-05-12 			
+	FC Hattifnatt - Lokomotiv Ralbo 	1 - 3 	
+	Villa Hammarstrand - Spartak 	1 - 2 	
+	Sumpans Finest - BK Nevisborg 	2 - 0 	
+	Brahe United - Starcraft United 	0 - 4 	
+Omgång 10
+2019-05-19 			
+	Spartak - FC Hattifnatt 	1 - 0 	
+	Lokomotiv Ralbo - Sumpans Finest 	3 - 3 	
+	Starcraft United - Villa Hammarstrand 	0 - 2 	
+	BK Nevisborg - Brahe United 	1 - 0 	
+Omgång 11
+2019-05-26 			
+	Villa Hammarstrand - Lokomotiv Ralbo 	5 - 1 	
+	BK Nevisborg - Starcraft United 	0 - 0 	
+	Sumpans Finest - FC Hattifnatt 	4 - 0 	
+	Brahe United - Spartak 	0 - 6 	
+Omgång 12
+2019-06-02 			
+	Spartak - BK Nevisborg 	2 - 1 	
+	FC Hattifnatt - Villa Hammarstrand 	2 - 1 	
+	Starcraft United - Sumpans Finest 	3 - 0 	
+	Lokomotiv Ralbo - Brahe United 	4 - 0 	
+Omgång 13
+2019-06-09 			
+	Starcraft United - Lokomotiv Ralbo 	3 - 1 	
+	Sumpans Finest - Spartak 	2 - 0 	
+	BK Nevisborg - FC Hattifnatt 	1 - 0 	
+	Brahe United - Villa Hammarstrand 	0 - 4 	
+Omgång 14
+2019-06-16 			
+	Lokomotiv Ralbo - BK Nevisborg 	0 - 5 	
+	Spartak - Starcraft United 	2 - 1 	
+	Villa Hammarstrand - Sumpans Finest 	5 - 3 	
+	FC Hattifnatt - Brahe United 	3 - 0

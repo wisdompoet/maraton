@@ -1,0 +1,84 @@
+Omgång 1
+2019-10-27 			
+	Syltburk IF - Kaenienaernae hoeppaer fient ie vaessaen 	0 - 1 	
+	Maråker Flyers - Liam F.C 	0 - 6 	
+	Långskottlag - BK Söder 	2 - 0 	
+	Nakorn Ratchasima FC - Nordpolen FF 	2 - 1 	
+Omgång 2
+2019-11-03 			
+	Liam F.C - Syltburk IF 	1 - 3 	
+	Kaenienaernae hoeppaer fient ie vaessaen - Nakorn Ratchasima FC 	2 - 1 	
+	BK Söder - Maråker Flyers 	8 - 0 	
+	Nordpolen FF - Långskottlag 	3 - 1 	
+Omgång 3
+2019-11-10 			
+	Syltburk IF - Nordpolen FF 	4 - 1 	
+	Maråker Flyers - Långskottlag 	0 - 5 	
+	Liam F.C - Kaenienaernae hoeppaer fient ie vaessaen 	3 - 1 	
+	Nakorn Ratchasima FC - BK Söder 	4 - 1 	
+Omgång 4
+2019-11-17 			
+	BK Söder - Syltburk IF 	3 - 1 	
+	Kaenienaernae hoeppaer fient ie vaessaen - Maråker Flyers 	7 - 0 	
+	Långskottlag - Nakorn Ratchasima FC 	1 - 0 	
+	Nordpolen FF - Liam F.C 	1 - 0 	
+Omgång 5
+2019-11-24 			
+	Syltburk IF - Nakorn Ratchasima FC 	2 - 0 	
+	Liam F.C - Långskottlag 	2 - 0 	
+	Maråker Flyers - Nordpolen FF 	0 - 6 	
+	Kaenienaernae hoeppaer fient ie vaessaen - BK Söder 	1 - 0 	
+Omgång 6
+2019-12-01 			
+	Långskottlag - Syltburk IF 	0 - 1 	
+	Nakorn Ratchasima FC - Maråker Flyers 	7 - 0 	
+	BK Söder - Liam F.C 	2 - 5 	
+	Nordpolen FF - Kaenienaernae hoeppaer fient ie vaessaen 	3 - 4 	
+Omgång 7
+2019-12-08 			
+	Syltburk IF - Maråker Flyers 	8 - 0 	
+	Kaenienaernae hoeppaer fient ie vaessaen - Långskottlag 	1 - 1 	
+	Liam F.C - Nakorn Ratchasima FC 	3 - 1 	
+	BK Söder - Nordpolen FF 	1 - 1 	
+Omgång 8
+2019-12-15 			
+	Nordpolen FF - BK Söder 	2 - 1 	
+	Nakorn Ratchasima FC - Liam F.C 	3 - 0 	
+	Långskottlag - Kaenienaernae hoeppaer fient ie vaessaen 	2 - 0 	
+	Maråker Flyers - Syltburk IF 	0 - 9 	
+Omgång 9
+2019-12-22 			
+	Kaenienaernae hoeppaer fient ie vaessaen - Nordpolen FF 	0 - 2 	
+	Liam F.C - BK Söder 	1 - 3 	
+	Maråker Flyers - Nakorn Ratchasima FC 	0 - 8 	
+	Syltburk IF - Långskottlag 	1 - 0 	
+Omgång 10
+2019-12-29 			
+	Nordpolen FF - Maråker Flyers 	9 - 0 	
+	BK Söder - Kaenienaernae hoeppaer fient ie vaessaen 	0 - 4 	
+	Långskottlag - Liam F.C 	1 - 1 	
+	Nakorn Ratchasima FC - Syltburk IF 	1 - 2 	
+Omgång 11
+2020-01-05 			
+	Liam F.C - Nordpolen FF 	4 - 6 	
+	Nakorn Ratchasima FC - Långskottlag 	2 - 1 	
+	Maråker Flyers - Kaenienaernae hoeppaer fient ie vaessaen 	0 - 8 	
+	Syltburk IF - BK Söder 	3 - 2 	
+Omgång 12
+2020-01-12 			
+	BK Söder - Nakorn Ratchasima FC 	4 - 2 	
+	Kaenienaernae hoeppaer fient ie vaessaen - Liam F.C 	4 - 0 	
+	Långskottlag - Maråker Flyers 	8 - 0 	
+	Nordpolen FF - Syltburk IF 	3 - 0 	
+Omgång 13
+2020-01-19 			
+	Långskottlag - Nordpolen FF 	3 - 1 	
+	Maråker Flyers - BK Söder 	0 - 5 	
+	Nakorn Ratchasima FC - Kaenienaernae hoeppaer fient ie vaessaen 	1 - 2 	
+	Syltburk IF - Liam F.C 	2 - 0 	
+Omgång 14
+2020-01-26 			
+	Nordpolen FF - Nakorn Ratchasima FC 	7 - 0 	
+	BK Söder - Långskottlag 	2 - 0 	
+	Liam F.C - Maråker Flyers 	7 - 0 	
+	Kaenienaernae hoeppaer fient ie vaessaen - Syltburk IF 	1 - 2

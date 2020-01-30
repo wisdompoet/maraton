@@ -1,0 +1,84 @@
+Omgång 1
+2019-03-17 			
+	Taco AS - BK Bulldog 	0 - 6 	
+	Hambys Ltd - Notso Athletic FC 	3 - 1 	
+	Värtans IK - Ragges boys 	2 - 3 	
+	Daddy Boastin BK - Fredrikshovsgatan Oilers 	2 - 2 	
+Omgång 2
+2019-03-24 			
+	Notso Athletic FC - Taco AS 	1 - 0 	
+	BK Bulldog - Daddy Boastin BK 	4 - 2 	
+	Ragges boys - Hambys Ltd 	3 - 4 	
+	Fredrikshovsgatan Oilers - Värtans IK 	2 - 0 	
+Omgång 3
+2019-03-31 			
+	Taco AS - Fredrikshovsgatan Oilers 	0 - 5 	
+	Hambys Ltd - Värtans IK 	6 - 1 	
+	Notso Athletic FC - BK Bulldog 	2 - 1 	
+	Daddy Boastin BK - Ragges boys 	5 - 0 	
+Omgång 4
+2019-04-07 			
+	Ragges boys - Taco AS 	4 - 0 	
+	BK Bulldog - Hambys Ltd 	6 - 2 	
+	Värtans IK - Daddy Boastin BK 	3 - 1 	
+	Fredrikshovsgatan Oilers - Notso Athletic FC 	6 - 1 	
+Omgång 5
+2019-04-14 			
+	Taco AS - Daddy Boastin BK 	0 - 6 	
+	Notso Athletic FC - Värtans IK 	0 - 9 	
+	Hambys Ltd - Fredrikshovsgatan Oilers 	1 - 4 	
+	BK Bulldog - Ragges boys 	3 - 0 	
+Omgång 6
+2019-04-21 			
+	Värtans IK - Taco AS 	3 - 0 	
+	Daddy Boastin BK - Hambys Ltd 	3 - 0 	
+	Ragges boys - Notso Athletic FC 	2 - 0 	
+	Fredrikshovsgatan Oilers - BK Bulldog 	4 - 1 	
+Omgång 7
+2019-04-28 			
+	Taco AS - Hambys Ltd 	0 - 0 	
+	Notso Athletic FC - Daddy Boastin BK 	1 - 6 	
+	BK Bulldog - Värtans IK 	4 - 2 	
+	Ragges boys - Fredrikshovsgatan Oilers 	1 - 2 	
+Omgång 8
+2019-05-05 			
+	Daddy Boastin BK - Notso Athletic FC 	7 - 1 	
+	Värtans IK - BK Bulldog 	1 - 4 	
+	Hambys Ltd - Taco AS 	1 - 0 	
+	Fredrikshovsgatan Oilers - Ragges boys 	3 - 0 	
+Omgång 9
+2019-05-12 			
+	BK Bulldog - Fredrikshovsgatan Oilers 	4 - 4 	
+	Notso Athletic FC - Ragges boys 	0 - 5 	
+	Hambys Ltd - Daddy Boastin BK 	3 - 2 	
+	Taco AS - Värtans IK 	0 - 4 	
+Omgång 10
+2019-05-19 			
+	Ragges boys - BK Bulldog 	0 - 3 	
+	Fredrikshovsgatan Oilers - Hambys Ltd 	5 - 0 	
+	Värtans IK - Notso Athletic FC 	7 - 0 	
+	Daddy Boastin BK - Taco AS 	2 - 0 	
+Omgång 11
+2019-05-26 			
+	Notso Athletic FC - Fredrikshovsgatan Oilers 	0 - 8 	
+	Daddy Boastin BK - Värtans IK 	3 - 3 	
+	Hambys Ltd - BK Bulldog 	5 - 3 	
+	Taco AS - Ragges boys 	1 - 2 	
+Omgång 12
+2019-06-02 			
+	Ragges boys - Daddy Boastin BK 	4 - 3 	
+	BK Bulldog - Notso Athletic FC 	8 - 0 	
+	Värtans IK - Hambys Ltd 	3 - 0 	
+	Fredrikshovsgatan Oilers - Taco AS 	4 - 0 	
+Omgång 13
+2019-06-09 			
+	Värtans IK - Fredrikshovsgatan Oilers 	1 - 3 	
+	Hambys Ltd - Ragges boys 	5 - 2 	
+	Daddy Boastin BK - BK Bulldog 	5 - 5 	
+	Taco AS - Notso Athletic FC 	5 - 0 	
+Omgång 14
+2019-06-16 			
+	Fredrikshovsgatan Oilers - Daddy Boastin BK 	8 - 0 	
+	Ragges boys - Värtans IK 	0 - 1 	
+	BK Bulldog - Taco AS 	5 - 2 	
+	Notso Athletic FC - Hambys Ltd 	1 - 9
