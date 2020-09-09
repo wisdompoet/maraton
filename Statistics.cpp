@@ -2,8 +2,8 @@
 #include "Statistics.h"
 
 int main() {
-	Statistics s( 73 );
-//	s.longestStreak( 1 );
+	Statistics s( 75 );
+	s.longestStreak( 1 );
 //	s.mostWinners( 0 );
 	s.marathon( 0 );
 //	s.medals( 0 );
@@ -27,5 +27,6 @@ int main() {
 //	s.appearances( 0 );
 //	s.appearances( 5 );
 //	s.marathon( 6 );
-//	s.longestStreak( 2 );
+	s.longestStreak( 2 );
+	s.seriesStreak( 3 );
 }

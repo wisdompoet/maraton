@@ -1,0 +1,84 @@
+Omgång 1
+2020-02-16 				
+	Empoli - SweFin FF 	0 - 3 	HT Re-Live 	Lägg till i dina bokmärken
+	Red Sox - Helags FF 	0 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+	FC Punta Delgadita - Juventus.F.C. 	3 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	Pelkaso - Styltlöpare 	2 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 2
+2020-02-23 				
+	Juventus.F.C. - Empoli 	4 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+	SweFin FF - Pelkaso 	3 - 2 	HT Re-Live 	Lägg till i dina bokmärken
+	Helags FF - FC Punta Delgadita 	1 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+	Styltlöpare - Red Sox 	3 - 2 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 3
+2020-03-01 				
+	Empoli - Styltlöpare 	1 - 4 	HT Re-Live 	Lägg till i dina bokmärken
+	Pelkaso - Helags FF 	0 - 6 	HT Re-Live 	Lägg till i dina bokmärken
+	Juventus.F.C. - SweFin FF 	1 - 2 	HT Re-Live 	Lägg till i dina bokmärken
+	FC Punta Delgadita - Red Sox 	5 - 2 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 4
+2020-03-08 				
+	Helags FF - Empoli 	5 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+	Red Sox - Pelkaso 	1 - 3 	HT Re-Live 	Lägg till i dina bokmärken
+	SweFin FF - FC Punta Delgadita 	1 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+	Styltlöpare - Juventus.F.C. 	1 - 3 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 5
+2020-03-15 				
+	Empoli - Pelkaso 	0 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	Juventus.F.C. - Red Sox 	3 - 2 	HT Re-Live 	Lägg till i dina bokmärken
+	FC Punta Delgadita - Styltlöpare 	4 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	SweFin FF - Helags FF 	0 - 3 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 6
+2020-03-22 				
+	Red Sox - Empoli 	5 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	Pelkaso - FC Punta Delgadita 	0 - 4 	HT Re-Live 	Lägg till i dina bokmärken
+	Helags FF - Juventus.F.C. 	2 - 2 	HT Re-Live 	Lägg till i dina bokmärken
+	Styltlöpare - SweFin FF 	1 - 2 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 7
+2020-03-29 				
+	Empoli - FC Punta Delgadita 	0 - 5 	HT Re-Live 	Lägg till i dina bokmärken
+	SweFin FF - Red Sox 	2 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	Juventus.F.C. - Pelkaso 	3 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+	Helags FF - Styltlöpare 	3 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 8
+2020-04-05 				
+	Styltlöpare - Helags FF 	4 - 4 	HT Re-Live 	Lägg till i dina bokmärken
+	Red Sox - SweFin FF 	1 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+	Pelkaso - Juventus.F.C. 	0 - 2 	HT Re-Live 	Lägg till i dina bokmärken
+	FC Punta Delgadita - Empoli 	2 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 9
+2020-04-12 				
+	FC Punta Delgadita - Pelkaso 	3 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	SweFin FF - Styltlöpare 	2 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+	Juventus.F.C. - Helags FF 	1 - 2 	HT Re-Live 	Lägg till i dina bokmärken
+	Empoli - Red Sox 	2 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 10
+2020-04-19 				
+	Helags FF - SweFin FF 	3 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+	Styltlöpare - FC Punta Delgadita 	0 - 3 	HT Re-Live 	Lägg till i dina bokmärken
+	Red Sox - Juventus.F.C. 	1 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+	Pelkaso - Empoli 	4 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 11
+2020-04-26 				
+	Juventus.F.C. - Styltlöpare 	3 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	Pelkaso - Red Sox 	2 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+	FC Punta Delgadita - SweFin FF 	1 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+	Empoli - Helags FF 	2 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 12
+2020-05-03 				
+	Helags FF - Pelkaso 	2 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+	SweFin FF - Juventus.F.C. 	1 - 2 	HT Re-Live 	Lägg till i dina bokmärken
+	Red Sox - FC Punta Delgadita 	2 - 2 	HT Re-Live 	Lägg till i dina bokmärken
+	Styltlöpare - Empoli 	1 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 13
+2020-05-10 				
+	Red Sox - Styltlöpare 	1 - 3 	HT Re-Live 	Lägg till i dina bokmärken
+	FC Punta Delgadita - Helags FF 	0 - 4 	HT Re-Live 	Lägg till i dina bokmärken
+	Pelkaso - SweFin FF 	1 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+	Empoli - Juventus.F.C. 	1 - 2 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 14
+2020-05-17 				
+	Styltlöpare - Pelkaso 	0 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	Helags FF - Red Sox 	1 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+	Juventus.F.C. - FC Punta Delgadita 	2 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	SweFin FF - Empoli 	4 - 1 	HT Re-Live 	Lägg till i dina bokmärken

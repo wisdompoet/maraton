@@ -104,6 +104,36 @@ public:
 		std::cout << "[/table]\n";
 	}
 
+	void seriesStreak( unsigned series ) {
+		vector< pair< std::string, pair< unsigned, unsigned > > > streaks;
+		for ( unsigned i = 0; i < teams.size(); ++i ) {
+			pair< unsigned, unsigned > best( 0, 0 );
+			map< unsigned, unsigned >::iterator j = teams[i].series.begin();
+			while ( j != teams[i].series.end() ) {
+				if ( j->second == series ) {
+					unsigned streak = 0;
+					unsigned old = j->first;
+					Team t( teams[i].names );
+					while ( j != teams[i].series.end() && j->first <= old + 1 && j->second == series ) {
+						old = j->first;
+						++j;
+						++streak;
+					}
+					if ( best.first < streak )
+						best = make_pair( streak, old );
+				}
+				else ++j;
+			}
+			streaks.push_back( make_pair( *teams[i].names.begin(), best ) );
+		}
+		sort( streaks.begin(), streaks.end(), streaksort );
+		std::cout << "[table]\n";
+		for ( unsigned i = 0; i < TOPLIST; ++i ) {
+			std::cout << "[tr][td]" << i + 1 << ".[/td][td]" << streaks[i].first << "[/td][td]" << streaks[i].second.first << "[/td][td]" << ( streaks[i].second.second - streaks[i].second.first + 1 ) << "-" << streaks[i].second.second << "[/td][/tr]\n";
+		}
+		std::cout << "[/table]\n";
+	}
+
 	void mostWinners( unsigned ser ) {
 		map< string, vector< unsigned > > winMap;
 		for ( unsigned i = 0; i < series[ser].seasons.size(); ++i )
