@@ -1,0 +1,84 @@
+Omgång 1
+2020-09-27 10:00 				
+	FC Torflonäs - Stafsinge Strand FC 	3 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+	Hölö IF - NK Hajduk 	3 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	FK Joker - Apstaden BK 	5 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	Kouivasto - Angleton United 	1 - 3 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 2
+2020-10-04 10:00 				
+	NK Hajduk - FC Torflonäs 	5 - 4 	HT Re-Live 	Lägg till i dina bokmärken
+	Stafsinge Strand FC - FK Joker 	2 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	Angleton United - Hölö IF 	1 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+	Apstaden BK - Kouivasto 	0 - 5 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 3
+2020-10-11 10:00 				
+	FC Torflonäs - Apstaden BK 	5 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	NK Hajduk - Stafsinge Strand FC 	3 - 4 	HT Re-Live 	Lägg till i dina bokmärken
+	Hölö IF - Kouivasto 	1 - 3 	HT Re-Live 	Lägg till i dina bokmärken
+	FK Joker - Angleton United 	5 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 4
+2020-10-18 10:00 				
+	Angleton United - FC Torflonäs 	2 - 4 	HT Re-Live 	Lägg till i dina bokmärken
+	Stafsinge Strand FC - Hölö IF 	1 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+	Kouivasto - FK Joker 	2 - 4 	HT Re-Live 	Lägg till i dina bokmärken
+	Apstaden BK - NK Hajduk 	0 - 5 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 5
+2020-10-25 10:00 				
+	FC Torflonäs - FK Joker 	4 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	NK Hajduk - Kouivasto 	4 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+	Hölö IF - Apstaden BK 	5 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	Stafsinge Strand FC - Angleton United 	4 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 6
+2020-11-01 10:00 				
+	Kouivasto - FC Torflonäs 	3 - 2 	HT Re-Live 	Lägg till i dina bokmärken
+	Angleton United - NK Hajduk 	3 - 5 	HT Re-Live 	Lägg till i dina bokmärken
+	FK Joker - Hölö IF 	0 - 4 	HT Re-Live 	Lägg till i dina bokmärken
+	Apstaden BK - Stafsinge Strand FC 	0 - 5 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 7
+2020-11-08 10:00 				
+	Stafsinge Strand FC - Kouivasto 	3 - 2 	HT Re-Live 	Lägg till i dina bokmärken
+	FC Torflonäs - Hölö IF 	2 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+	NK Hajduk - FK Joker 	4 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	Angleton United - Apstaden BK 	5 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 8
+2020-11-15 10:00 				
+	Apstaden BK - Angleton United 	0 - 5 	HT Re-Live 	Lägg till i dina bokmärken
+	Kouivasto - Stafsinge Strand FC 	4 - 4 	HT Re-Live 	Lägg till i dina bokmärken
+	FK Joker - NK Hajduk 	4 - 4 	HT Re-Live 	Lägg till i dina bokmärken
+	Hölö IF - FC Torflonäs 	2 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 9
+2020-11-22 10:00 				
+	Stafsinge Strand FC - Apstaden BK 	5 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	NK Hajduk - Angleton United 	5 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+	Hölö IF - FK Joker 	2 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	FC Torflonäs - Kouivasto 	3 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 10
+2020-11-29 10:00 				
+	Angleton United - Stafsinge Strand FC 	2 - 2 	HT Re-Live 	Lägg till i dina bokmärken
+	Apstaden BK - Hölö IF 	0 - 5 	HT Re-Live 	Lägg till i dina bokmärken
+	Kouivasto - NK Hajduk 	1 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	FK Joker - FC Torflonäs 	3 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 11
+2020-12-06 10:00 				
+	NK Hajduk - Apstaden BK 	5 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	Hölö IF - Stafsinge Strand FC 	4 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	FC Torflonäs - Angleton United 	5 - 2 	HT Re-Live 	Lägg till i dina bokmärken
+	FK Joker - Kouivasto 	2 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 12
+2020-12-13 10:00 				
+	Angleton United - FK Joker 	0 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+	Stafsinge Strand FC - NK Hajduk 	1 - 3 	HT Re-Live 	Lägg till i dina bokmärken
+	Kouivasto - Hölö IF 	1 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+	Apstaden BK - FC Torflonäs 	0 - 5 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 13
+2020-12-20 10:00 				
+	Kouivasto - Apstaden BK 	5 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	Hölö IF - Angleton United 	1 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	FC Torflonäs - NK Hajduk 	2 - 2 	HT Re-Live 	Lägg till i dina bokmärken
+	FK Joker - Stafsinge Strand FC 	2 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 14
+2020-12-27 10:00 				
+	Apstaden BK - FK Joker 	0 - 5 	HT Re-Live 	Lägg till i dina bokmärken
+	Angleton United - Kouivasto 	9 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	Stafsinge Strand FC - FC Torflonäs 	2 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+	NK Hajduk - Hölö IF 	1 - 2 	HT Re-Live 	Lägg till i dina bokmärken

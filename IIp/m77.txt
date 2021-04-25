@@ -1,0 +1,84 @@
+Omgång 1
+2021-01-17 10:00 				
+	East village - Kaminerna IF 	0 - 4 	HT Re-Live 	Lägg till i dina bokmärken
+	Nordpolen FF - Scanian Dragons 	0 - 4 	HT Re-Live 	Lägg till i dina bokmärken
+	Överfälle SK - Tokyo FF 	7 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	Muddricken - Legs of concrete 	5 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 2
+2021-01-24 10:00 				
+	Kaminerna IF - Nordpolen FF 	2 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	Scanian Dragons - Muddricken 	3 - 2 	HT Re-Live 	Lägg till i dina bokmärken
+	Tokyo FF - East village 	8 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	Legs of concrete - Överfälle SK 	1 - 6 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 3
+2021-01-31 10:00 				
+	Nordpolen FF - Legs of concrete 	0 - 5 	HT Re-Live 	Lägg till i dina bokmärken
+	East village - Överfälle SK 	0 - 8 	HT Re-Live 	Lägg till i dina bokmärken
+	Kaminerna IF - Scanian Dragons 	3 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	Muddricken - Tokyo FF 	7 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 4
+2021-02-07 10:00 				
+	Tokyo FF - Nordpolen FF 	7 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	Scanian Dragons - East village 	6 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	Överfälle SK - Muddricken 	2 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	Legs of concrete - Kaminerna IF 	0 - 5 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 5
+2021-02-14 10:00 				
+	Nordpolen FF - Muddricken 	0 - 3 	HT Re-Live 	Lägg till i dina bokmärken
+	Kaminerna IF - Överfälle SK 	2 - 3 	HT Re-Live 	Lägg till i dina bokmärken
+	East village - Legs of concrete 	2 - 5 	HT Re-Live 	Lägg till i dina bokmärken
+	Scanian Dragons - Tokyo FF 	8 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 6
+2021-02-21 10:00 				
+	Muddricken - East village 	5 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+	Överfälle SK - Nordpolen FF 	7 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	Tokyo FF - Kaminerna IF 	1 - 3 	HT Re-Live 	Lägg till i dina bokmärken
+	Legs of concrete - Scanian Dragons 	0 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 7
+2021-02-28 10:00 				
+	Nordpolen FF - East village 	3 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	Scanian Dragons - Överfälle SK 	0 - 5 	HT Re-Live 	Lägg till i dina bokmärken
+	Kaminerna IF - Muddricken 	2 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	Tokyo FF - Legs of concrete 	6 - 2 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 8
+2021-03-07 10:00 				
+	Legs of concrete - Tokyo FF 	4 - 3 	HT Re-Live 	Lägg till i dina bokmärken
+	Muddricken - Kaminerna IF 	2 - 2 	HT Re-Live 	Lägg till i dina bokmärken
+	Överfälle SK - Scanian Dragons 	6 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+	East village - Nordpolen FF 	1 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 9
+2021-03-14 10:00 				
+	Scanian Dragons - Legs of concrete 	2 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	Kaminerna IF - Tokyo FF 	3 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+	East village - Muddricken 	0 - 4 	HT Re-Live 	Lägg till i dina bokmärken
+	Nordpolen FF - Överfälle SK 	0 - 5 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 10
+2021-03-21 10:00 				
+	Tokyo FF - Scanian Dragons 	0 - 8 	HT Re-Live 	Lägg till i dina bokmärken
+	Legs of concrete - East village 	5 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+	Överfälle SK - Kaminerna IF 	4 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	Muddricken - Nordpolen FF 	6 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 11
+2021-03-28 10:00 				
+	Kaminerna IF - Legs of concrete 	1 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+	Muddricken - Överfälle SK 	3 - 3 	HT Re-Live 	Lägg till i dina bokmärken
+	East village - Scanian Dragons 	0 - 6 	HT Re-Live 	Lägg till i dina bokmärken
+	Nordpolen FF - Tokyo FF 	0 - 6 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 12
+2021-04-04 10:00 				
+	Tokyo FF - Muddricken 	1 - 8 	HT Re-Live 	Lägg till i dina bokmärken
+	Scanian Dragons - Kaminerna IF 	1 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+	Överfälle SK - East village 	5 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	Legs of concrete - Nordpolen FF 	5 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 13
+2021-04-11 10:00 				
+	Överfälle SK - Legs of concrete 	2 - 2 	HT Re-Live 	Lägg till i dina bokmärken
+	East village - Tokyo FF 	1 - 6 	HT Re-Live 	Lägg till i dina bokmärken
+	Muddricken - Scanian Dragons 	2 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	Nordpolen FF - Kaminerna IF 	0 - 4 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 14
+2021-04-18 10:00 				
+	Legs of concrete - Muddricken 	0 - 5 	HT Re-Live 	Lägg till i dina bokmärken
+	Tokyo FF - Överfälle SK 	0 - 9 	HT Re-Live 	Lägg till i dina bokmärken
+	Kaminerna IF - East village 	3 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	Scanian Dragons - Nordpolen FF 	6 - 2 	HT Re-Live 	Lägg till i dina bokmärken

@@ -1,0 +1,84 @@
+Omgång 1
+2020-09-27 10:00 				
+	Schenströmska BK - Laser Robot Clones 	0 - 2 	HT Re-Live 	Lägg till i dina bokmärken
+	Tofsö FF - Frufällans IK 	3 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+	Torskar på Tallin - mysingens bk 	0 - 3 	HT Re-Live 	Lägg till i dina bokmärken
+	REAL mln - Crvena Zvezda Malmö 	3 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 2
+2020-10-04 10:00 				
+	mysingens bk - Schenströmska BK 	8 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	Laser Robot Clones - REAL mln 	0 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+	Frufällans IK - Torskar på Tallin 	2 - 5 	HT Re-Live 	Lägg till i dina bokmärken
+	Crvena Zvezda Malmö - Tofsö FF 	0 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 3
+2020-10-11 10:00 				
+	Torskar på Tallin - Tofsö FF 	1 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	Schenströmska BK - Crvena Zvezda Malmö 	0 - 5 	HT Re-Live 	Lägg till i dina bokmärken
+	mysingens bk - Laser Robot Clones 	1 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+	REAL mln - Frufällans IK 	4 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 4
+2020-10-18 10:00 				
+	Frufällans IK - Schenströmska BK 	5 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	Laser Robot Clones - Torskar på Tallin 	4 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	Tofsö FF - REAL mln 	0 - 3 	HT Re-Live 	Lägg till i dina bokmärken
+	Crvena Zvezda Malmö - mysingens bk 	2 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 5
+2020-10-25 10:00 				
+	Schenströmska BK - REAL mln 	0 - 5 	HT Re-Live 	Lägg till i dina bokmärken
+	mysingens bk - Tofsö FF 	1 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	Torskar på Tallin - Crvena Zvezda Malmö 	3 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+	Laser Robot Clones - Frufällans IK 	2 - 2 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 6
+2020-11-01 10:00 				
+	Tofsö FF - Schenströmska BK 	6 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	REAL mln - Torskar på Tallin 	3 - 2 	HT Re-Live 	Lägg till i dina bokmärken
+	Frufällans IK - mysingens bk 	3 - 3 	HT Re-Live 	Lägg till i dina bokmärken
+	Crvena Zvezda Malmö - Laser Robot Clones 	0 - 2 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 7
+2020-11-08 10:00 				
+	Schenströmska BK - Torskar på Tallin 	0 - 4 	HT Re-Live 	Lägg till i dina bokmärken
+	mysingens bk - REAL mln 	4 - 2 	HT Re-Live 	Lägg till i dina bokmärken
+	Laser Robot Clones - Tofsö FF 	2 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+	Frufällans IK - Crvena Zvezda Malmö 	6 - 4 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 8
+2020-11-15 10:00 				
+	Crvena Zvezda Malmö - Frufällans IK 	2 - 4 	HT Re-Live 	Lägg till i dina bokmärken
+	REAL mln - mysingens bk 	1 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	Tofsö FF - Laser Robot Clones 	2 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+	Torskar på Tallin - Schenströmska BK 	5 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 9
+2020-11-22 10:00 				
+	Laser Robot Clones - Crvena Zvezda Malmö 	4 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	mysingens bk - Frufällans IK 	3 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+	Torskar på Tallin - REAL mln 	1 - 4 	HT Re-Live 	Lägg till i dina bokmärken
+	Schenströmska BK - Tofsö FF 	0 - 2 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 10
+2020-11-29 10:00 				
+	Frufällans IK - Laser Robot Clones 	3 - 2 	HT Re-Live 	Lägg till i dina bokmärken
+	Crvena Zvezda Malmö - Torskar på Tallin 	1 - 2 	HT Re-Live 	Lägg till i dina bokmärken
+	REAL mln - Schenströmska BK 	6 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	Tofsö FF - mysingens bk 	0 - 2 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 11
+2020-12-06 10:00 				
+	mysingens bk - Crvena Zvezda Malmö 	4 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+	REAL mln - Tofsö FF 	4 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+	Torskar på Tallin - Laser Robot Clones 	1 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+	Schenströmska BK - Frufällans IK 	0 - 4 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 12
+2020-12-13 10:00 				
+	Frufällans IK - REAL mln 	1 - 4 	HT Re-Live 	Lägg till i dina bokmärken
+	Laser Robot Clones - mysingens bk 	3 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	Tofsö FF - Torskar på Tallin 	2 - 2 	HT Re-Live 	Lägg till i dina bokmärken
+	Crvena Zvezda Malmö - Schenströmska BK 	6 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 13
+2020-12-20 10:00 				
+	Tofsö FF - Crvena Zvezda Malmö 	5 - 2 	HT Re-Live 	Lägg till i dina bokmärken
+	Torskar på Tallin - Frufällans IK 	2 - 2 	HT Re-Live 	Lägg till i dina bokmärken
+	REAL mln - Laser Robot Clones 	2 - 2 	HT Re-Live 	Lägg till i dina bokmärken
+	Schenströmska BK - mysingens bk 	0 - 2 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 14
+2020-12-27 10:00 				
+	Crvena Zvezda Malmö - REAL mln 	1 - 8 	HT Re-Live 	Lägg till i dina bokmärken
+	Frufällans IK - Tofsö FF 	3 - 3 	HT Re-Live 	Lägg till i dina bokmärken
+	mysingens bk - Torskar på Tallin 	4 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+	Laser Robot Clones - Schenströmska BK 	5 - 0 	HT Re-Live 	Lägg till i dina bokmärken

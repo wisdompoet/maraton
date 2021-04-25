@@ -1,0 +1,84 @@
+Omgång 1
+2020-09-27 10:00 				
+	Överfälle SK - Kaminerna IF 	2 - 2 	HT Re-Live 	Lägg till i dina bokmärken
+	BK Nippon - Flash BK 	8 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+	Drillos IL - East village 	0 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+	Scanian Dragons - Tokyo FF 	2 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 2
+2020-10-04 10:00 				
+	Kaminerna IF - Drillos IL 	2 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+	East village - Scanian Dragons 	3 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	Tokyo FF - BK Nippon 	4 - 6 	HT Re-Live 	Lägg till i dina bokmärken
+	Flash BK - Överfälle SK 	0 - 7 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 3
+2020-10-11 10:00 				
+	Överfälle SK - East village 	3 - 3 	HT Re-Live 	Lägg till i dina bokmärken
+	BK Nippon - Scanian Dragons 	3 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+	Flash BK - Kaminerna IF 	0 - 5 	HT Re-Live 	Lägg till i dina bokmärken
+	Drillos IL - Tokyo FF 	3 - 6 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 4
+2020-10-18 10:00 				
+	Tokyo FF - Överfälle SK 	0 - 3 	HT Re-Live 	Lägg till i dina bokmärken
+	Kaminerna IF - BK Nippon 	1 - 2 	HT Re-Live 	Lägg till i dina bokmärken
+	Scanian Dragons - Drillos IL 	5 - 3 	HT Re-Live 	Lägg till i dina bokmärken
+	East village - Flash BK 	7 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 5
+2020-10-25 10:00 				
+	Överfälle SK - Drillos IL 	3 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	BK Nippon - East village 	5 - 3 	HT Re-Live 	Lägg till i dina bokmärken
+	Flash BK - Scanian Dragons 	0 - 7 	HT Re-Live 	Lägg till i dina bokmärken
+	Kaminerna IF - Tokyo FF 	0 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 6
+2020-11-01 10:00 				
+	Scanian Dragons - Överfälle SK 	5 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+	Drillos IL - BK Nippon 	0 - 5 	HT Re-Live 	Lägg till i dina bokmärken
+	Tokyo FF - Flash BK 	6 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	East village - Kaminerna IF 	1 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 7
+2020-11-08 10:00 				
+	Överfälle SK - BK Nippon 	3 - 2 	HT Re-Live 	Lägg till i dina bokmärken
+	Kaminerna IF - Scanian Dragons 	4 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	Flash BK - Drillos IL 	1 - 7 	HT Re-Live 	Lägg till i dina bokmärken
+	Tokyo FF - East village 	2 - 5 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 8
+2020-11-15 10:00 				
+	East village - Tokyo FF 	5 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	Scanian Dragons - Kaminerna IF 	2 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+	Drillos IL - Flash BK 	7 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	BK Nippon - Överfälle SK 	7 - 2 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 9
+2020-11-22 10:00 				
+	Kaminerna IF - East village 	3 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	Flash BK - Tokyo FF 	0 - 4 	HT Re-Live 	Lägg till i dina bokmärken
+	BK Nippon - Drillos IL 	8 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	Överfälle SK - Scanian Dragons 	1 - 3 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 10
+2020-11-29 10:00 				
+	Scanian Dragons - Flash BK 	4 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	Tokyo FF - Kaminerna IF 	0 - 3 	HT Re-Live 	Lägg till i dina bokmärken
+	Drillos IL - Överfälle SK 	2 - 2 	HT Re-Live 	Lägg till i dina bokmärken
+	East village - BK Nippon 	2 - 5 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 11
+2020-12-06 10:00 				
+	Flash BK - East village 	0 - 8 	HT Re-Live 	Lägg till i dina bokmärken
+	Drillos IL - Scanian Dragons 	2 - 5 	HT Re-Live 	Lägg till i dina bokmärken
+	BK Nippon - Kaminerna IF 	4 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+	Överfälle SK - Tokyo FF 	7 - 2 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 12
+2020-12-13 10:00 				
+	Tokyo FF - Drillos IL 	6 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	Kaminerna IF - Flash BK 	2 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+	Scanian Dragons - BK Nippon 	1 - 5 	HT Re-Live 	Lägg till i dina bokmärken
+	East village - Överfälle SK 	5 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 13
+2020-12-20 10:00 				
+	Scanian Dragons - East village 	4 - 2 	HT Re-Live 	Lägg till i dina bokmärken
+	BK Nippon - Tokyo FF 	6 - 1 	HT Re-Live 	Lägg till i dina bokmärken
+	Drillos IL - Kaminerna IF 	2 - 3 	HT Re-Live 	Lägg till i dina bokmärken
+	Överfälle SK - Flash BK 	9 - 0 	HT Re-Live 	Lägg till i dina bokmärken
+Omgång 14
+2020-12-27 10:00 				
+	East village - Drillos IL 	1 - 3 	HT Re-Live 	Lägg till i dina bokmärken
+	Tokyo FF - Scanian Dragons 	1 - 9 	HT Re-Live 	Lägg till i dina bokmärken
+	Flash BK - BK Nippon 	0 - 13 	HT Re-Live 	Lägg till i dina bokmärken
+	Kaminerna IF - Överfälle SK 	2 - 2 	HT Re-Live 	Lägg till i dina bokmärken
